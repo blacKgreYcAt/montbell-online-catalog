@@ -1,7 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { loadProducts } from '@/lib/products';
 import { searchProducts, filterByCategory } from '@/lib/searchUtils';
 import { ApiResponse } from '@/types';
+import { Product } from '@/types';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 /**
  * 搜尋 API 路由
@@ -13,8 +15,16 @@ export async function GET(request: NextRequest) {
     const query = searchParams.get('q') || '';
     const category = searchParams.get('category') || '';
 
-    // 載入商品數據
-    const products = await loadProducts();
+    // 直接讀取 public/products.json 文件
+    let products: Product[] = [];
+    try {
+      const filePath = join(process.cwd(), 'public', 'products.json');
+      const fileContent = readFileSync(filePath, 'utf-8');
+      const data = JSON.parse(fileContent);
+      products = Array.isArray(data) ? data : data.products || [];
+    } catch (error) {
+      console.error('讀取商品數據失敗:', error);
+    }
 
     if (!products || products.length === 0) {
       return NextResponse.json<ApiResponse<null>>(
