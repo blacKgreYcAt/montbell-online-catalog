@@ -1,13 +1,18 @@
 @import "tailwindcss";
 
+/* 蒙貝爾品牌色彩 */
 :root {
   --background: #ffffff;
   --foreground: #1f2937;
-  --primary: #4f46e5;
-  --primary-dark: #4338ca;
-  --secondary: #6366f1;
-  --accent: #ec4899;
+  --primary: #004c6f;        /* 深青色 - 蒙貝爾主色 */
+  --primary-dark: #003d56;   /* 更深的青色 */
+  --primary-light: #1a6fa0;  /* 淺青色 */
+  --secondary: #7697B8;      /* 柔和藍 */
+  --accent-gold: #c39d6f;    /* 金色強調 */
+  --accent-red: #C00;        /* 紅色強調 */
   --border: #e5e7eb;
+  --montbell-navy: #004c6f;
+  --montbell-teal: #7697B8;
 }
 
 body {
@@ -16,7 +21,7 @@ body {
 
 /* 自訂樣式 */
 .btn-primary {
-  @apply px-4 py-2 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition-colors;
+  @apply px-4 py-2 bg-[#004c6f] text-white rounded-lg font-semibold hover:bg-[#003d56] transition-colors;
 }
 
 .btn-secondary {
@@ -28,7 +33,7 @@ body {
 }
 
 .input {
-  @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500;
+  @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#004c6f];
 }
 
 /* 平滑滾動 */
@@ -38,5 +43,5 @@ html {
 
 /* 選擇文本顏色 */
 ::selection {
-  @apply bg-indigo-600 text-white;
+  @apply bg-[#004c6f] text-white;
 }

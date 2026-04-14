@@ -21,38 +21,38 @@ export default function BrandHero({
 }: BrandHeroProps) {
   return (
     <section
-      className="relative py-16 md:py-24 overflow-hidden rounded-lg"
+      className="relative py-16 md:py-24 overflow-hidden rounded-2xl"
       style={{
         backgroundImage: backgroundImage
           ? `url('${backgroundImage}')`
-          : 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+          : 'linear-gradient(135deg, #004c6f 0%, #1a6fa0 100%)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
     >
       {/* 深色遮罩 */}
-      <div className="absolute inset-0 bg-black/40" />
+      <div className="absolute inset-0 bg-black/30" />
 
       {/* 內容 */}
       <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
         {/* 小標題 */}
         {subtitle && (
           <div className="mb-4 flex items-center gap-2">
-            <div className="h-1 w-8 bg-white" />
-            <p className="text-sm md:text-base font-semibold uppercase tracking-widest opacity-90">
+            <div className="h-1 w-8 bg-[#c39d6f]" />
+            <p className="text-sm md:text-base font-bold uppercase tracking-widest opacity-95">
               {subtitle}
             </p>
           </div>
         )}
 
         {/* 主標題 */}
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight text-white">
           {title}
         </h1>
 
         {/* 描述 */}
         {description && (
-          <p className="text-lg md:text-xl opacity-90 mb-8 max-w-2xl">
+          <p className="text-lg md:text-xl opacity-95 mb-8 max-w-2xl">
             {description}
           </p>
         )}
@@ -61,13 +61,13 @@ export default function BrandHero({
         <div className="flex flex-wrap gap-4">
           <Link
             href={ctaHref}
-            className="inline-flex px-8 py-3 bg-white text-indigo-600 font-bold rounded-lg hover:bg-gray-100 transition-colors"
+            className="inline-flex px-8 py-3 bg-[#c39d6f] text-[#004c6f] font-bold rounded-lg hover:bg-white transition-colors shadow-lg"
           >
             {ctaText}
           </Link>
           <Link
             href="/"
-            className="inline-flex px-8 py-3 border-2 border-white text-white font-bold rounded-lg hover:bg-white/10 transition-colors"
+            className="inline-flex px-8 py-3 border-2 border-white text-white font-bold rounded-lg hover:bg-white/20 transition-colors"
           >
             了解更多
           </Link>

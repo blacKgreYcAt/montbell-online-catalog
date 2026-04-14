@@ -33,15 +33,15 @@ export default function FilterPanel({
   const totalProducts = products.length;
 
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-6">
-      <h2 className="text-lg font-semibold text-gray-900 mb-4">分類篩選</h2>
+    <div className="bg-white rounded-2xl border-2 border-[#004c6f] p-6 shadow-md">
+      <h2 className="text-lg font-bold text-[#004c6f] mb-4">分類篩選</h2>
 
       {/* 全部分類 */}
       <button
         onClick={() => handleCategoryClick('')}
         className={`w-full text-left px-4 py-3 rounded-lg mb-2 font-semibold transition-colors ${
           selectedCategory === ''
-            ? 'bg-indigo-600 text-white'
+            ? 'bg-[#004c6f] text-white'
             : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
         }`}
       >
@@ -59,8 +59,8 @@ export default function FilterPanel({
             onClick={() => handleCategoryClick(category)}
             className={`w-full text-left px-4 py-3 rounded-lg transition-colors ${
               selectedCategory === category
-                ? 'bg-indigo-600 text-white'
-                : 'bg-gray-50 text-gray-900 hover:bg-gray-100'
+                ? 'bg-[#7697B8] text-white'
+                : 'bg-gray-50 text-gray-900 hover:bg-[#f0f5ff] border border-[#e0e8f0]'
             }`}
           >
             <div className="flex justify-between items-center">

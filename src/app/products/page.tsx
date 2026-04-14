@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { loadProducts } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
@@ -8,7 +8,7 @@ import { filterByCategory } from '@/lib/searchUtils';
 import { ProductGrid, FilterPanel, CategoryNav, SearchBar } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
-export default function ProductsPage() {
+function ProductsPageContent() {
   const searchParams = useSearchParams();
   const category = searchParams.get('category') || '';
 
@@ -99,18 +99,26 @@ export default function ProductsPage() {
 
       {/* 統計信息 */}
       {!loading && filteredProducts.length > 0 && (
-        <div className="bg-indigo-50 rounded-lg p-6 text-center">
+        <div className="bg-[#f0f5ff] rounded-lg p-6 text-center border-2 border-[#7697B8]">
           <p className="text-gray-700">
-            顯示 <span className="font-bold text-indigo-600">{filteredProducts.length}</span> 件商品
+            顯示 <span className="font-bold text-[#004c6f]">{filteredProducts.length}</span> 件商品
             {selectedCategory && (
               <>
                 {' '}
-                / <span className="font-bold">{selectedCategory}</span>
+                / <span className="font-bold text-[#7697B8]">{selectedCategory}</span>
               </>
             )}
           </p>
         </div>
       )}
     </div>
+  );
+}
+
+export default function ProductsPage() {
+  return (
+    <Suspense fallback={<div className="text-center py-12">正在載入商品...</div>}>
+      <ProductsPageContent />
+    </Suspense>
   );
 }

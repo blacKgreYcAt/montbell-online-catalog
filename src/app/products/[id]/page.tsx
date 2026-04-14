@@ -57,7 +57,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
     return (
       <div className="text-center py-12">
         <div className="inline-block">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600" />
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#004c6f]" />
         </div>
         <p className="text-gray-600 mt-4">載入商品詳情中...</p>
       </div>
@@ -70,7 +70,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
         <p className="text-red-600 text-lg font-semibold">❌ {error || '找不到該商品'}</p>
         <Link
           href="/products"
-          className="inline-block mt-4 px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors"
+          className="inline-block mt-4 px-6 py-2 bg-[#004c6f] text-white rounded-lg hover:bg-[#003d56] transition-colors"
         >
           返回商品目錄
         </Link>
@@ -90,7 +90,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
       {/* 返回鏈接 */}
       <Link
         href="/products"
-        className="inline-flex items-center gap-2 text-indigo-600 hover:text-indigo-700 font-semibold"
+        className="inline-flex items-center gap-2 text-[#004c6f] hover:text-[#003d56] font-semibold"
       >
         ← 返回商品目錄
       </Link>
@@ -119,8 +119,8 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
                     onClick={() => setSelectedColor(color)}
                     className={`px-4 py-2 rounded-lg border-2 font-medium transition-colors ${
                       selectedColor === color
-                        ? 'border-indigo-600 bg-indigo-50 text-indigo-600'
-                        : 'border-gray-300 bg-white text-gray-900 hover:border-indigo-600'
+                        ? 'border-[#004c6f] bg-[#f0f5ff] text-[#004c6f]'
+                        : 'border-gray-300 bg-white text-gray-900 hover:border-[#7697B8]'
                     }`}
                   >
                     {color}
@@ -146,7 +146,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
 
           {/* 分類 */}
           <div>
-            <span className="inline-block px-3 py-1 bg-indigo-100 text-indigo-700 rounded-full text-sm font-semibold">
+            <span className="inline-block px-3 py-1 bg-[#7697B8] text-white rounded-full text-sm font-semibold">
               {product.category}
             </span>
           </div>
@@ -164,7 +164,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
           {product.price && (
             <div className="border-t border-b border-gray-200 py-4">
               <p className="text-sm text-gray-500 mb-2">價格</p>
-              <p className="text-4xl font-bold text-indigo-600">
+              <p className="text-4xl font-bold text-[#C00]">
                 NT${product.price.toLocaleString()}
               </p>
             </div>
@@ -186,7 +186,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
           )}
 
           {/* 購買按鈕 */}
-          <button className="w-full px-6 py-3 bg-indigo-600 text-white font-bold rounded-lg hover:bg-indigo-700 transition-colors text-lg">
+          <button className="w-full px-6 py-3 bg-[#004c6f] text-white font-bold rounded-lg hover:bg-[#003d56] transition-colors text-lg">
             🛒 加入購物車
           </button>
 

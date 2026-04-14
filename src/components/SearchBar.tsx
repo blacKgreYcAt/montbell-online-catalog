@@ -67,7 +67,7 @@ export default function SearchBar({
         {/* 提交按鈕 */}
         <button
           type="submit"
-          className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition-colors font-semibold"
+          className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-[#004c6f] text-white px-4 py-2 rounded hover:bg-[#003d56] transition-colors font-semibold"
           aria-label="搜尋"
         >
           🔍

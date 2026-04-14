@@ -18,20 +18,20 @@ export default function Header({
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 bg-white border-b border-gray-200 z-40">
+    <header className="sticky top-0 bg-white border-b-4 border-[#004c6f] z-40 shadow-sm">
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* 主導航欄 */}
-        <div className="flex justify-between items-center py-4">
+        <div className="flex justify-between items-center py-3">
           {/* Logo 和站名 */}
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <img
               src={logoUrl}
               alt="Logo"
-              width={32}
-              height={32}
-              className="w-8 h-8"
+              width={40}
+              height={40}
+              className="w-10 h-10"
             />
-            <span className="text-xl font-bold text-gray-900 hidden sm:inline">
+            <span className="text-lg font-bold text-[#004c6f] hidden sm:inline">
               {siteName}
             </span>
           </Link>
@@ -40,19 +40,19 @@ export default function Header({
           <div className="hidden md:flex items-center gap-8">
             <Link
               href="/products"
-              className="text-gray-700 hover:text-indigo-600 transition-colors font-medium"
+              className="text-[#004c6f] hover:text-[#7697B8] font-semibold transition-colors border-b-2 border-transparent hover:border-[#004c6f]"
             >
               商品目錄
             </Link>
             <Link
               href="/search"
-              className="text-gray-700 hover:text-indigo-600 transition-colors font-medium"
+              className="text-[#004c6f] hover:text-[#7697B8] font-semibold transition-colors border-b-2 border-transparent hover:border-[#004c6f]"
             >
               搜尋
             </Link>
             <Link
               href="/"
-              className="text-gray-700 hover:text-indigo-600 transition-colors font-medium"
+              className="text-[#004c6f] hover:text-[#7697B8] font-semibold transition-colors border-b-2 border-transparent hover:border-[#004c6f]"
             >
               關於
             </Link>
@@ -89,24 +89,24 @@ export default function Header({
 
         {/* 手機菜單 */}
         {mobileMenuOpen && (
-          <div className="md:hidden border-t border-gray-200 py-4 space-y-3">
+          <div className="md:hidden border-t-2 border-[#004c6f] py-4 space-y-3 bg-gray-50">
             <Link
               href="/products"
-              className="block text-gray-700 hover:text-indigo-600 transition-colors py-2"
+              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-2 pl-2 border-l-4 border-transparent hover:border-[#004c6f]"
               onClick={() => setMobileMenuOpen(false)}
             >
               商品目錄
             </Link>
             <Link
               href="/search"
-              className="block text-gray-700 hover:text-indigo-600 transition-colors py-2"
+              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-2 pl-2 border-l-4 border-transparent hover:border-[#004c6f]"
               onClick={() => setMobileMenuOpen(false)}
             >
               搜尋
             </Link>
             <Link
               href="/"
-              className="block text-gray-700 hover:text-indigo-600 transition-colors py-2"
+              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-2 pl-2 border-l-4 border-transparent hover:border-[#004c6f]"
               onClick={() => setMobileMenuOpen(false)}
             >
               關於

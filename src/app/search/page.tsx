@@ -1,12 +1,12 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { ProductGrid, SearchBar } from '@/components';
 import type { Product, ImageMapping, SearchResult } from '@/types';
 
-export default function SearchPage() {
+function SearchPageContent() {
   const searchParams = useSearchParams();
   const query = searchParams.get('q') || '';
 
@@ -75,7 +75,7 @@ export default function SearchPage() {
         <h1 className="text-4xl font-bold text-gray-900 mb-2">搜尋結果</h1>
         {query && (
           <p className="text-lg text-gray-600">
-            關鍵字：<span className="font-semibold text-indigo-600">"{query}"</span>
+            關鍵字：<span className="font-semibold text-[#004c6f]">"{query}"</span>
           </p>
         )}
       </div>
@@ -102,16 +102,16 @@ export default function SearchPage() {
       ) : loading ? (
         <div className="text-center py-12">
           <div className="inline-block">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600" />
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#004c6f]" />
           </div>
           <p className="text-gray-600 mt-4">正在搜尋...</p>
         </div>
       ) : results ? (
         <>
           {/* 搜尋統計 */}
-          <div className="bg-indigo-50 rounded-lg p-6">
+          <div className="bg-[#f0f5ff] rounded-lg p-6 border-2 border-[#7697B8]">
             <p className="text-center text-gray-700">
-              找到 <span className="font-bold text-indigo-600">{results.total}</span> 件相符的商品
+              找到 <span className="font-bold text-[#004c6f]">{results.total}</span> 件相符的商品
             </p>
           </div>
 
@@ -135,5 +135,13 @@ export default function SearchPage() {
         </>
       ) : null}
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div className="text-center py-12">正在載入搜尋頁面...</div>}>
+      <SearchPageContent />
+    </Suspense>
   );
 }

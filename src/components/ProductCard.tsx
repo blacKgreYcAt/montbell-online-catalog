@@ -17,47 +17,47 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
 
   return (
     <Link href={`/products/${product.id}`}>
-      <div className="card cursor-pointer overflow-hidden">
+      <div className="cursor-pointer overflow-hidden border border-gray-200 rounded-[15px] hover:shadow-lg transition-shadow duration-300 bg-white">
         {/* 圖片區域 */}
-        <div className="relative w-full bg-gray-100 overflow-hidden rounded-lg mb-4" style={{ aspectRatio: '1' }}>
+        <div className="relative w-full bg-gray-100 overflow-hidden" style={{ aspectRatio: '1', borderRadius: '15px 15px 0 0' }}>
           <img
             src={imageUrl}
             alt={product.name}
             className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
           />
           {product.discontinued && (
-            <div className="absolute top-2 right-2 bg-red-600 text-white px-2 py-1 rounded text-xs font-semibold">
+            <div className="absolute top-3 right-3 bg-[#C00] text-white px-3 py-1 rounded-full text-xs font-bold">
               已停產
             </div>
           )}
         </div>
 
         {/* 商品信息 */}
-        <div className="space-y-2">
+        <div className="space-y-2 p-4">
           {/* 型號 */}
-          <p className="text-xs text-gray-500 uppercase tracking-wide">
-            型號: {product.modelNumber}
+          <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold">
+            {product.modelNumber}
           </p>
 
           {/* 名稱 */}
-          <h3 className="font-semibold text-gray-900 line-clamp-2 hover:text-indigo-600 transition-colors">
+          <h3 className="font-bold text-[#004c6f] line-clamp-2 hover:text-[#7697B8] transition-colors text-sm">
             {product.name}
           </h3>
 
           {/* 分類 */}
-          <p className="text-sm text-gray-600">
-            <span className="inline-block bg-gray-100 px-2 py-1 rounded text-xs">
+          <p className="text-xs">
+            <span className="inline-block bg-[#7697B8] text-white px-3 py-1 rounded-full text-xs font-semibold">
               {product.category}
             </span>
           </p>
 
           {/* 顏色選項 */}
           {product.colors && product.colors.length > 0 && (
-            <div className="flex gap-2 pt-2">
+            <div className="flex gap-2 pt-1">
               {product.colors.slice(0, 4).map((color) => (
                 <div
                   key={color}
-                  className="w-6 h-6 rounded-full border-2 border-gray-300 hover:border-indigo-600 transition-colors"
+                  className="w-5 h-5 rounded-full border-2 border-[#004c6f] hover:border-[#c39d6f] transition-colors"
                   title={color}
                   style={{
                     backgroundColor: getColorCode(color),
@@ -65,7 +65,7 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
                 />
               ))}
               {product.colors.length > 4 && (
-                <span className="text-xs text-gray-500 flex items-center">
+                <span className="text-xs text-gray-600 flex items-center font-semibold">
                   +{product.colors.length - 4}
                 </span>
               )}
@@ -74,9 +74,11 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
 
           {/* 價格 */}
           {product.price && (
-            <p className="text-lg font-bold text-gray-900 pt-2">
-              NT${product.price.toLocaleString()}
-            </p>
+            <div className="pt-3 border-t border-gray-200">
+              <p className="text-lg font-bold text-[#C00]">
+                NT${product.price.toLocaleString()}
+              </p>
+            </div>
           )}
         </div>
       </div>

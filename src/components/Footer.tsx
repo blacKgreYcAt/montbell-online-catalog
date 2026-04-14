@@ -22,14 +22,14 @@ export default function Footer({
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-gray-900 text-gray-300 mt-12">
+    <footer className="bg-[#004c6f] text-gray-200 mt-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* 品牌信息 */}
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">{companyName}</h3>
-            <p className="text-sm text-gray-400">
-              線上商品目錄提供完整的產品信息與搜尋功能。
+            <p className="text-sm text-gray-300">
+              線上商品目錄提供完整的產品信息與搜尋功能，探索蒙貝爾的優質戶外產品。
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export default function Footer({
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="text-gray-400 hover:text-white transition-colors"
+                    className="text-gray-300 hover:text-[#c39d6f] transition-colors font-medium"
                   >
                     {link.label}
                   </Link>

@@ -16,22 +16,22 @@ export default function Home() {
 
       {/* 功能介紹 */}
       <section className="grid md:grid-cols-3 gap-8">
-        <div className="border rounded-lg p-6">
-          <h2 className="text-lg font-semibold text-gray-900 mb-2">全球搜尋</h2>
+        <div className="border-2 border-[#7697B8] rounded-lg p-6 hover:shadow-lg transition-shadow">
+          <h2 className="text-lg font-semibold text-[#004c6f] mb-2">全球搜尋</h2>
           <p className="text-gray-600">
             快速搜尋型號、產品名稱和規格。實時搜尋結果。
           </p>
         </div>
-        <div className="border rounded-lg p-6">
-          <h2 className="text-lg font-semibold text-gray-900 mb-2">
+        <div className="border-2 border-[#7697B8] rounded-lg p-6 hover:shadow-lg transition-shadow">
+          <h2 className="text-lg font-semibold text-[#004c6f] mb-2">
             分類篩選
           </h2>
           <p className="text-gray-600">
             按產品分類瀏覽，輕鬆找到您需要的商品。
           </p>
         </div>
-        <div className="border rounded-lg p-6">
-          <h2 className="text-lg font-semibold text-gray-900 mb-2">
+        <div className="border-2 border-[#7697B8] rounded-lg p-6 hover:shadow-lg transition-shadow">
+          <h2 className="text-lg font-semibold text-[#004c6f] mb-2">
             完整詳情
           </h2>
           <p className="text-gray-600">
@@ -41,18 +41,18 @@ export default function Home() {
       </section>
 
       {/* 快速導航 */}
-      <section className="bg-gray-50 rounded-lg p-8">
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">快速導航</h2>
+      <section className="bg-[#f0f5ff] rounded-lg p-8 border-2 border-[#7697B8]">
+        <h2 className="text-2xl font-bold text-[#004c6f] mb-6">快速導航</h2>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
             href="/products"
-            className="p-4 border rounded-lg hover:bg-white transition-colors text-gray-900 font-semibold"
+            className="p-4 border-2 border-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors text-[#004c6f] font-semibold"
           >
             → 查看所有商品
           </Link>
           <Link
             href="/search"
-            className="p-4 border rounded-lg hover:bg-white transition-colors text-gray-900 font-semibold"
+            className="p-4 border-2 border-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors text-[#004c6f] font-semibold"
           >
             → 搜尋商品
           </Link>
