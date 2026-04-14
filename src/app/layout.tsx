@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { SITE_NAME, SITE_DESCRIPTION } from "@/lib/constants";
+import { Header, Footer } from "@/components";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
@@ -17,30 +18,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-TW">
-      <body className="antialiased">
-        <header className="border-b sticky top-0 bg-white z-50">
-          <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-gray-900">{SITE_NAME}</h1>
-            <div className="flex gap-6">
-              <a href="/" className="text-gray-600 hover:text-gray-900">
-                首頁
-              </a>
-              <a href="/products" className="text-gray-600 hover:text-gray-900">
-                商品
-              </a>
-            </div>
-          </nav>
-        </header>
+      <body className="antialiased flex flex-col min-h-screen">
+        <Header siteName={SITE_NAME} />
         <main className="flex-1">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {children}
           </div>
         </main>
-        <footer className="border-t bg-gray-50">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-gray-600 text-sm">
-            <p>&copy; 2026 {SITE_NAME}. All rights reserved.</p>
-          </div>
-        </footer>
+        <Footer />
       </body>
     </html>
   );

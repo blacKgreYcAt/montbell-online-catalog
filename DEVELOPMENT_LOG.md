@@ -1,0 +1,113 @@
+# 開發日誌 - 蒙貝爾線上商品目錄
+
+## 2026-04-14
+
+### v0.1.0 - 項目初始化 ✅
+- 初始化 Git 倉庫
+- 配置版本控制系統
+- 建立 .gitignore
+- 建立 VERSION_CONTROL.md 指南
+- 連接到 GitHub 倉庫
+- 提交初始化內容
+
+**時間**: 10:00 - 10:15  
+**提交**: 1caff28
+
+---
+
+### v0.2.0 - 核心項目結構 ✅
+- 初始化 Next.js 14 應用程序
+- 配置 TypeScript 與 Tailwind CSS
+- 建立完整的目錄結構：
+  - `src/app/` - Next.js App Router
+  - `src/components/` - React 元件 (準備就緒)
+  - `src/lib/` - 工具函數
+  - `src/styles/` - 全域樣式
+  - `src/types/` - TypeScript 類型定義
+  - `scripts/` - 自動化腳本
+  - `public/` - 靜態資源
+
+- 建立 TypeScript 類型定義:
+  - Product interface (商品數據結構)
+  - SearchResult interface (搜尋結果)
+  - ImageMapping interface (圖片映射)
+  - Category interface (分類)
+  - ApiResponse interface (API 回應)
+
+- 實現工具函數:
+  - **searchUtils.ts**: Fuse.js 搜尋引擎、分類篩選、分類統計
+  - **imageUtils.ts**: Google Drive 圖片 URL 生成、圖片映射載入
+  - **products.ts**: 商品數據載入、推薦商品、數據驗證
+  - **constants.ts**: 應用配置常數
+
+- 建立基本頁面:
+  - Root Layout (頂部導航、頁腳)
+  - Home Page (首頁展示、功能介紹)
+
+- 建立全域樣式:
+  - Tailwind CSS 配置
+  - 自訂 CSS 類別 (.btn-primary, .card, .input, etc)
+
+- 配置檔案:
+  - next.config.ts
+  - tsconfig.json
+  - postcss.config.mjs
+
+- 建立環境配置:
+  - .env.local (開發環境)
+  - .env.local.example (模版)
+
+- 建立示例數據:
+  - public/products.json (3個示例商品)
+
+- 安裝依賴:
+  - googleapis: Google Drive API 整合
+  - fuse.js: 全文搜尋引擎
+  - axios: HTTP 請求
+  - dotenv: 環境變數管理
+
+**時間**: 10:15 - 10:45  
+**提交**: 6d901b5  
+**標籤**: v0.2.0
+
+---
+
+## 統計
+
+- **總提交數**: 2
+- **文件新增**: 30+
+- **代碼行數**: ~2000 行
+- **版本標籤**: 2 (v0.1.0, v0.2.0)
+
+## 下一步計畫
+
+### v0.3.0 - React 元件與頁面
+- [ ] 建立 ProductCard 元件
+- [ ] 建立 ProductGrid 元件
+- [ ] 建立 SearchBar 元件
+- [ ] 建立 FilterPanel 元件
+- [ ] 建立 Header 元件 (可自訂)
+- [ ] 建立 Footer 元件
+
+### v0.4.0 - 功能頁面實現
+- [ ] 實現商品目錄頁面 (`/products`)
+- [ ] 實現搜尋結果頁面 (`/search`)
+- [ ] 實現商品詳情頁面 (`/products/[id]`)
+- [ ] 實現搜尋 API 路由 (`/api/search`)
+
+### v0.5.0 - Google Drive 整合
+- [ ] 實現圖片同步 API (`/api/sync-images`)
+- [ ] 建立 Vercel Cron Job 配置
+- [ ] 實現自動圖片映射生成
+
+### v1.0.0 - 生產環境版本
+- [ ] 完整的功能測試
+- [ ] 性能優化
+- [ ] 部署到 Vercel
+- [ ] SEO 優化
+
+---
+
+**最後更新**: 2026-04-14 10:45  
+**當前版本**: v0.2.0  
+**開發者**: Claude Developer

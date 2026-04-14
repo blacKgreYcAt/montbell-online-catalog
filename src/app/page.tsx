@@ -1,26 +1,18 @@
 import Link from "next/link";
 import { SITE_NAME } from "@/lib/constants";
+import { BrandHero } from "@/components";
 
 export default function Home() {
   return (
     <div className="space-y-12">
       {/* 品牌焦點區 */}
-      <section className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-12">
-        <div className="max-w-3xl">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            {SITE_NAME}
-          </h1>
-          <p className="text-xl text-gray-600 mb-8">
-            探索蒙貝爾的完整產品系列。超過 1000 件高品質戶外裝備與服裝。
-          </p>
-          <Link
-            href="/products"
-            className="inline-flex px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition-colors"
-          >
-            瀏覽商品目錄
-          </Link>
-        </div>
-      </section>
+      <BrandHero
+        title={SITE_NAME}
+        subtitle="探索戶外的世界"
+        description="超過 1000 件高品質戶外裝備與服裝，一站式購物體驗"
+        ctaText="瀏覽商品目錄"
+        ctaHref="/products"
+      />
 
       {/* 功能介紹 */}
       <section className="grid md:grid-cols-3 gap-8">
