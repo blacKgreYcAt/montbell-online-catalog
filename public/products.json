@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod-001",
+    "modelNumber": "1234567",
+    "name": "輕量登山背包 30L",
+    "category": "背包",
+    "description": "超輕量設計的登山背包，適合多日登山活動。",
+    "price": 8900,
+    "specifications": {
+      "容量": "30L",
+      "重量": "850g",
+      "材質": "210D Nylon",
+      "防水": "是"
+    },
+    "colors": ["黑色", "藍色", "紅色"],
+    "images": {
+      "黑色": "image_bk_001",
+      "藍色": "image_bl_001",
+      "紅色": "image_rd_001"
+    }
+  },
+  {
+    "id": "prod-002",
+    "modelNumber": "2345678",
+    "name": "防水登山靴",
+    "category": "鞋類",
+    "description": "防水透氣的專業登山靴。",
+    "price": 5900,
+    "specifications": {
+      "防水": "是",
+      "透氣": "是",
+      "鞋底": "Vibram"
+    },
+    "colors": ["棕色", "黑色"]
+  },
+  {
+    "id": "prod-003",
+    "modelNumber": "3456789",
+    "name": "羽絨登山外套",
+    "category": "衣服",
+    "description": "超輕量羽絨外套，保暖性能優異。",
+    "price": 12900,
+    "specifications": {
+      "填充物": "羽絨",
+      "重量": "350g",
+      "溫度範圍": "-5°C ~ 10°C"
+    },
+    "colors": ["藍色", "黑色", "紅色"]
+  }
+]

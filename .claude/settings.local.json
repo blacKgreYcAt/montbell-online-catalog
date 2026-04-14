@@ -2,7 +2,18 @@
   "permissions": {
     "allow": [
       "Bash(git init:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(cp online-catalog-temp/package.json \"montbell online catalog/\")",
+      "Bash(cp online-catalog-temp/next.config.ts \"montbell online catalog/\")",
+      "Bash(cp online-catalog-temp/tsconfig.json \"montbell online catalog/\")",
+      "Bash(cp online-catalog-temp/postcss.config.mjs \"montbell online catalog/\")",
+      "Bash(cp online-catalog-temp/eslint.config.mjs \"montbell online catalog/\")",
+      "Bash(cp -r online-catalog-temp/public \"montbell online catalog/\")",
+      "Bash(rm -rf online-catalog-temp)",
+      "Bash(mkdir -p src/components src/lib src/styles src/types scripts)",
+      "Bash(mkdir -p src/app/products/\\\\[id\\\\] src/app/search src/app/api/search src/app/api/sync-images)",
+      "Bash(npm install:*)",
+      "Bash(npm list:*)"
     ]
   }
 }

@@ -1,0 +1,33 @@
+{
+  "name": "montbell-online-catalog",
+  "version": "0.2.0",
+  "description": "線上商品目錄網站 - Next.js 14 + TypeScript + Tailwind CSS",
+  "author": "Claude Developer",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "sync-images": "node scripts/sync-images.js"
+  },
+  "dependencies": {
+    "next": "16.2.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "googleapis": "^140.0.0",
+    "fuse.js": "^7.0.0",
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
