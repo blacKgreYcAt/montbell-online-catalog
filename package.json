@@ -1,6 +1,6 @@
 {
   "name": "montbell-online-catalog",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "線上商品目錄網站 - Next.js 14 + TypeScript + Tailwind CSS",
   "author": "Claude Developer",
   "private": true,
