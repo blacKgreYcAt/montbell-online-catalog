@@ -5,7 +5,10 @@ import { Product } from "@/types";
  */
 export async function loadProducts(): Promise<Product[]> {
   try {
-    const response = await fetch("/products.json");
+    // 支持服务器端和客户端请求
+    const baseUrl = typeof window !== 'undefined' ? '' : process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
+    const url = `${baseUrl}/products.json`;
+    const response = await fetch(url);
     if (!response.ok) {
       console.error("無法載入商品數據");
       return [];
