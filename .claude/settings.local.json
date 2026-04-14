@@ -13,7 +13,29 @@
       "Bash(mkdir -p src/components src/lib src/styles src/types scripts)",
       "Bash(mkdir -p src/app/products/\\\\[id\\\\] src/app/search src/app/api/search src/app/api/sync-images)",
       "Bash(npm install:*)",
-      "Bash(npm list:*)"
+      "Bash(npm list:*)",
+      "WebFetch(domain:www.montbell.com.tw)",
+      "Bash(npm run:*)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(pkill -f \"npm run dev\")",
+      "Bash(xargs kill:*)",
+      "Bash(curl -s http://localhost:3000/products)",
+      "Bash(curl -s http://localhost:3000/search)",
+      "Bash(curl -s http://localhost:3000/api/search?q=backpack)",
+      "Bash(curl -s http://localhost:3000/api/search?q=背包)",
+      "Bash(pkill -f \"node.*next\")",
+      "Bash(sleep 4 curl -s http://localhost:3000/api/search?q=backpack)",
+      "Bash(curl -s \"http://localhost:3000/api/search?q=%E8%83%8C%E5%8C%85\")",
+      "Bash(curl -s http://localhost:3000/products/prod-001)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s -I https://montbell-online-catalog.vercel.app/)",
+      "Bash(vercel --version)",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?q=%E8%83%8C%E5%8C%85\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/products.json\")",
+      "Bash(vercel --prod)",
+      "Bash(curl -s \"https://zh.wikipedia.org/wiki/File:Mont-bell_company_logo.svg\")",
+      "Bash(curl -s \"https://upload.wikimedia.org/wikipedia/commons/2/24/Mont-bell_company_logo.svg\" -o \"/c/Users/imaus/SynologyDrive/TF Claude Code Project/montbell online catalog/public/montbell-logo.svg\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/\")"
     ]
   }
 }

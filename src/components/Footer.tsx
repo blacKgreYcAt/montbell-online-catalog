@@ -12,7 +12,7 @@ interface FooterProps {
 }
 
 export default function Footer({
-  companyName = 'Mont-Bell',
+  companyName = 'Montbell',
   links = [
     { label: '商品目錄', href: '/products' },
     { label: '搜尋', href: '/search' },

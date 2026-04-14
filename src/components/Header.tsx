@@ -12,7 +12,7 @@ interface HeaderProps {
 
 export default function Header({
   logoUrl = '/montbell-logo.svg',
-  siteName = 'Mont-Bell Online',
+  siteName = 'Montbell Online',
   showSearchBar = false,
 }: HeaderProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
