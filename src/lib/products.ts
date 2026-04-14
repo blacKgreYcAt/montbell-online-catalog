@@ -5,20 +5,27 @@ import { Product } from "@/types";
  */
 export async function loadProducts(): Promise<Product[]> {
   try {
-    // 支持服务器端和客户端请求
+    // 判斷環境並構建 URL
     let url = '/products.json';
 
     if (typeof window === 'undefined') {
-      // 服务器端: 使用完整 URL
-      const baseUrl = process.env.NEXT_PUBLIC_APP_URL ||
-                      process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` :
-                      'http://localhost:3000';
-      url = `${baseUrl}/products.json`;
+      // 服務器端: 使用完整 URL
+      const vercelUrl = process.env.VERCEL_URL;
+      const appUrl = process.env.NEXT_PUBLIC_APP_URL;
+
+      if (vercelUrl) {
+        // Vercel 部署環境
+        url = `https://${vercelUrl}/products.json`;
+      } else if (appUrl) {
+        // 本地部署或自訂 URL
+        url = `${appUrl}/products.json`;
+      }
+      // 否則使用相對路徑 /products.json (會失敗但有備用)
     }
 
     const response = await fetch(url);
     if (!response.ok) {
-      console.error("無法載入商品數據", response.status);
+      console.error(`無法載入商品數據: ${response.status} from ${url}`);
       return [];
     }
     const data = await response.json();
