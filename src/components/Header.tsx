@@ -11,7 +11,7 @@ interface HeaderProps {
 }
 
 export default function Header({
-  logoUrl = '/next.svg',
+  logoUrl = '/montbell-logo.svg',
   siteName = 'Mont-Bell Online',
   showSearchBar = false,
 }: HeaderProps) {
