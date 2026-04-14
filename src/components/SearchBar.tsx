@@ -48,7 +48,7 @@ export default function SearchBar({
           value={query}
           onChange={handleChange}
           placeholder={placeholder}
-          className="input pl-4 pr-12 py-3 text-base"
+          className="input pl-4 pr-24 py-3 text-base h-12"
           aria-label="搜尋商品"
         />
 
@@ -57,7 +57,7 @@ export default function SearchBar({
           <button
             type="button"
             onClick={handleClear}
-            className="absolute right-10 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 transition-colors"
+            className="absolute right-16 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 transition-colors p-2 rounded hover:bg-gray-100"
             aria-label="清除搜尋"
           >
             ✕
@@ -67,7 +67,7 @@ export default function SearchBar({
         {/* 提交按鈕 */}
         <button
           type="submit"
-          className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-[#004c6f] text-white px-4 py-2 rounded hover:bg-[#003d56] transition-colors font-semibold"
+          className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-[#004c6f] text-white px-4 py-2 rounded hover:bg-[#003d56] transition-colors font-semibold h-10 w-10 flex items-center justify-center"
           aria-label="搜尋"
         >
           🔍

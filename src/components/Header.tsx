@@ -61,7 +61,7 @@ export default function Header({
           {/* 手機菜單按鈕 */}
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors"
+            className="md:hidden p-3 rounded-lg hover:bg-gray-100 transition-colors"
             aria-label="切換菜單"
           >
             <svg
@@ -89,24 +89,24 @@ export default function Header({
 
         {/* 手機菜單 */}
         {mobileMenuOpen && (
-          <div className="md:hidden border-t-2 border-[#004c6f] py-4 space-y-3 bg-gray-50">
+          <div className="md:hidden border-t-2 border-[#004c6f] py-4 space-y-1 bg-gray-50">
             <Link
               href="/products"
-              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-2 pl-2 border-l-4 border-transparent hover:border-[#004c6f]"
+              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-3 px-4 border-l-4 border-transparent hover:border-[#004c6f] active:bg-gray-100"
               onClick={() => setMobileMenuOpen(false)}
             >
               商品目錄
             </Link>
             <Link
               href="/search"
-              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-2 pl-2 border-l-4 border-transparent hover:border-[#004c6f]"
+              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-3 px-4 border-l-4 border-transparent hover:border-[#004c6f] active:bg-gray-100"
               onClick={() => setMobileMenuOpen(false)}
             >
               搜尋
             </Link>
             <Link
               href="/"
-              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-2 pl-2 border-l-4 border-transparent hover:border-[#004c6f]"
+              className="block text-[#004c6f] hover:text-[#7697B8] font-semibold py-3 px-4 border-l-4 border-transparent hover:border-[#004c6f] active:bg-gray-100"
               onClick={() => setMobileMenuOpen(false)}
             >
               關於

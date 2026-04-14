@@ -57,8 +57,10 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
               {product.colors.slice(0, 4).map((color) => (
                 <div
                   key={color}
-                  className="w-5 h-5 rounded-full border-2 border-[#004c6f] hover:border-[#c39d6f] transition-colors"
+                  className="w-6 h-6 rounded-full border-2 border-[#004c6f] hover:border-[#c39d6f] transition-colors cursor-pointer"
                   title={color}
+                  role="button"
+                  tabIndex={0}
                   style={{
                     backgroundColor: getColorCode(color),
                   }}

@@ -39,7 +39,7 @@ export default function FilterPanel({
       {/* 全部分類 */}
       <button
         onClick={() => handleCategoryClick('')}
-        className={`w-full text-left px-4 py-3 rounded-lg mb-2 font-semibold transition-colors ${
+        className={`w-full text-left px-4 py-3 rounded-lg mb-2 font-semibold transition-colors active:opacity-75 min-h-[44px] flex items-center ${
           selectedCategory === ''
             ? 'bg-[#004c6f] text-white'
             : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
@@ -52,12 +52,12 @@ export default function FilterPanel({
       </button>
 
       {/* 分類列表 */}
-      <div className="space-y-2">
+      <div className="space-y-1">
         {categories.map(([category, count]) => (
           <button
             key={category}
             onClick={() => handleCategoryClick(category)}
-            className={`w-full text-left px-4 py-3 rounded-lg transition-colors ${
+            className={`w-full text-left px-4 py-3 rounded-lg transition-colors active:opacity-75 min-h-[44px] flex items-center ${
               selectedCategory === category
                 ? 'bg-[#7697B8] text-white'
                 : 'bg-gray-50 text-gray-900 hover:bg-[#f0f5ff] border border-[#e0e8f0]'

@@ -24,11 +24,11 @@ export default function CategoryNav({
   return (
     <nav className="bg-white border-b-2 border-[#004c6f] overflow-x-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex gap-1 py-3 whitespace-nowrap">
+        <div className="flex gap-1 py-2 whitespace-nowrap">
           {/* 全部 */}
           <Link
             href="/products"
-            className={`px-4 py-2 rounded-lg font-medium transition-colors ${
+            className={`px-4 py-2 rounded-lg font-medium transition-colors min-h-[44px] flex items-center active:opacity-75 ${
               !currentCategory
                 ? 'bg-[#7697B8] text-white'
                 : 'text-[#004c6f] hover:bg-gray-100'
@@ -42,7 +42,7 @@ export default function CategoryNav({
             <Link
               key={category}
               href={`/products?category=${encodeURIComponent(category)}`}
-              className={`px-4 py-2 rounded-lg font-medium transition-colors whitespace-nowrap ${
+              className={`px-4 py-2 rounded-lg font-medium transition-colors whitespace-nowrap min-h-[44px] flex items-center active:opacity-75 ${
                 currentCategory === category
                   ? 'bg-[#7697B8] text-white'
                   : 'text-[#004c6f] hover:bg-gray-50'
