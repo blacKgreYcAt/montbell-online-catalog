@@ -6,11 +6,19 @@ import { Product } from "@/types";
 export async function loadProducts(): Promise<Product[]> {
   try {
     // 支持服务器端和客户端请求
-    const baseUrl = typeof window !== 'undefined' ? '' : process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
-    const url = `${baseUrl}/products.json`;
+    let url = '/products.json';
+
+    if (typeof window === 'undefined') {
+      // 服务器端: 使用完整 URL
+      const baseUrl = process.env.NEXT_PUBLIC_APP_URL ||
+                      process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` :
+                      'http://localhost:3000';
+      url = `${baseUrl}/products.json`;
+    }
+
     const response = await fetch(url);
     if (!response.ok) {
-      console.error("無法載入商品數據");
+      console.error("無法載入商品數據", response.status);
       return [];
     }
     const data = await response.json();
