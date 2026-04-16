@@ -8,3 +8,4 @@ export { default as SearchBar } from './SearchBar';
 export { default as FilterPanel } from './FilterPanel';
 export { default as CategoryNav } from './CategoryNav';
 export { default as BrandHero } from './BrandHero';
+export { default as SeasonIndicator } from './SeasonIndicator';

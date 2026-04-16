@@ -2,10 +2,10 @@
 
 import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
-import { loadProducts } from '@/lib/products';
+import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory } from '@/lib/searchUtils';
-import { ProductGrid, FilterPanel, CategoryNav, SearchBar } from '@/components';
+import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
 function ProductsPageContent() {
@@ -23,7 +23,7 @@ function ProductsPageContent() {
       try {
         setLoading(true);
         const [productsData, imageData] = await Promise.all([
-          loadProducts(),
+          loadProductsBySeason(),
           loadImageMapping(),
         ]);
         setProducts(productsData);
@@ -51,6 +51,9 @@ function ProductsPageContent() {
 
   return (
     <div className="space-y-8">
+      {/* 季節指示器 */}
+      <SeasonIndicator />
+
       {/* 頁面標題 */}
       <div>
         <h1 className="text-4xl font-bold text-gray-900 mb-2">商品目錄</h1>

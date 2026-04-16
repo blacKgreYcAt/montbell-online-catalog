@@ -6,6 +6,7 @@ export interface Product {
   modelNumber: string;
   name: string;
   category: string;
+  season: "SS" | "FW";
   description?: string;
   price?: number;
   specifications?: Record<string, string>;
