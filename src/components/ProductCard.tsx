@@ -32,7 +32,7 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
             onError={(e) => {
               const img = e.target as HTMLImageElement;
               // 圖片加載失敗時顯示「暫無商品圖」
-              if (img.src.includes('montbell.com') || img.src.includes('drive.google.com')) {
+              if (!img.src.includes('no-image.svg')) {
                 img.src = '/no-image.svg';
               }
             }}
