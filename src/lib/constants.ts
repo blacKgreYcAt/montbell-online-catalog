@@ -4,7 +4,7 @@
 
 // 網站信息
 export const SITE_NAME = "Montbell Online Catalog";
-export const SITE_DESCRIPTION = "線上商品目錄 - 探索蒙貝爾的完整產品系列";
+export const SITE_DESCRIPTION = "線上商品目錄 - 經銷商限定";
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 
 // Google Drive API 配置
