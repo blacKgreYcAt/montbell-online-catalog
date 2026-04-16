@@ -7,9 +7,9 @@ export default function Home() {
     <div className="space-y-12">
       {/* 品牌焦點區 */}
       <BrandHero
-        title={SITE_NAME}
-        subtitle="探索戶外的世界"
-        description="超過 1000 件高品質戶外裝備與服裝，一站式購物體驗"
+        title="Montbell Online Catalog"
+        subtitle="經銷商限定展示會商品線上目錄"
+        description=""
         ctaText="瀏覽商品目錄"
         ctaHref="/products"
       />
