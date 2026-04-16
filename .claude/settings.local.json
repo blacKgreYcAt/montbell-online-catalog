@@ -56,7 +56,13 @@
       "Bash(ls -lh \"C:\\\\Users\\\\imaus\\\\SynologyDrive\\\\TF Claude Code Project\\\\montbell online catalog\"/*.md)",
       "WebFetch(domain:www.montbell.com)",
       "WebSearch",
-      "Bash(python3 test_montbell_cdn.py 1128573 rbl)"
+      "Bash(python3 test_montbell_cdn.py 1128573 rbl)",
+      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__deploy_to_vercel",
+      "Bash(vercel env:*)",
+      "Bash(vercel deploy:*)",
+      "Bash(tee deployment.log)",
+      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__list_teams",
+      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__list_projects"
     ]
   }
 }
