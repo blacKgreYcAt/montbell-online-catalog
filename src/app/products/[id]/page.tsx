@@ -162,7 +162,7 @@ export default function ProductDetailPage() {
           {/* 描述 */}
           {product.description && (
             <div>
-              <p className="text-gray-700 text-lg leading-relaxed">
+              <p className="text-gray-700 text-lg leading-relaxed whitespace-pre-wrap">
                 {product.description}
               </p>
             </div>
@@ -192,11 +192,6 @@ export default function ProductDetailPage() {
               </div>
             </div>
           )}
-
-          {/* 購買按鈕 */}
-          <button className="w-full px-6 py-3 bg-[#004c6f] text-white font-bold rounded-lg hover:bg-[#003d56] transition-colors text-lg">
-            🛒 加入購物車
-          </button>
 
           {/* 已停產標籤 */}
           {product.discontinued && (
