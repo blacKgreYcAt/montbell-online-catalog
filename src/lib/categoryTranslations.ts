@@ -18,8 +18,8 @@ export const categoryTranslations: Record<string, string> = {
   'VEST': '背心',
   'GLOVES': '手套',
   'SUPPORTER & WARMER': '護套與保暖用品',
-  'SCARF AND NECK GAITER': '圍巾與頸套',
-  'GAITER': '蓋套',
+  'SCARF AND NECK GAITER': '圍巾與綁腿',
+  'GAITER': '綁腿',
 
   // 鞋類
   'FOOTWEAR': '鞋類',
