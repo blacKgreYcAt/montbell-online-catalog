@@ -20,7 +20,7 @@ export const VALID_COLOR_CODES = ["bk", "wh", "rd", "bl", "gr", "ye", "pk", "br"
 
 // 搜尋配置
 export const SEARCH_KEYS = ["modelNumber", "name", "category"];
-export const SEARCH_THRESHOLD = 0.3; // Fuse.js 相似度閾值
+export const SEARCH_THRESHOLD = 0.1; // Fuse.js 相似度閾值 (更嚴格的匹配)
 
 // 分頁配置
 export const ITEMS_PER_PAGE = 12;

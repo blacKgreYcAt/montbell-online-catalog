@@ -28,12 +28,29 @@ export function searchProducts(
     };
   }
 
+  const trimmedQuery = query.trim();
+
+  // 首先嘗試精確匹配型號 (完全相符或前置匹配)
+  const exactMatches = products.filter((p) =>
+    p.modelNumber.startsWith(trimmedQuery) ||
+    p.modelNumber === trimmedQuery
+  );
+
+  if (exactMatches.length > 0) {
+    return {
+      products: exactMatches.slice(0, MAX_SEARCH_RESULTS),
+      total: exactMatches.length,
+      query,
+    };
+  }
+
+  // 如果沒有精確匹配，使用 Fuse.js 進行模糊搜尋
   const searchIndex = createSearchIndex(products);
-  const results = searchIndex.search(query).slice(0, MAX_SEARCH_RESULTS);
+  const fuzzyResults = searchIndex.search(trimmedQuery).slice(0, MAX_SEARCH_RESULTS);
 
   return {
-    products: results.map((result) => result.item),
-    total: results.length,
+    products: fuzzyResults.map((result) => result.item),
+    total: fuzzyResults.length,
     query,
   };
 }

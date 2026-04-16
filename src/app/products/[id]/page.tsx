@@ -187,6 +187,23 @@ export default function ProductDetailPage() {
             </div>
           )}
 
+          {/* 尺寸 */}
+          {product.sizes && product.sizes.length > 0 && (
+            <div>
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">尺寸</h3>
+              <div className="flex flex-wrap gap-2">
+                {product.sizes.map((size) => (
+                  <button
+                    key={size}
+                    className="px-4 py-2 border-2 border-[#004c6f] text-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors font-medium"
+                  >
+                    {size}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
           {/* 規格 */}
           {product.specifications && Object.keys(product.specifications).length > 0 && (
             <div>
