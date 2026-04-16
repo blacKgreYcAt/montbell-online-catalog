@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Product } from '@/types';
-import { getGoogleDriveImageUrl } from '@/lib/imageUtils';
+import { getGoogleDriveImageUrl, generateMonbellImageUrl } from '@/lib/imageUtils';
 
 interface ProductCardProps {
   product: Product;
@@ -11,9 +11,14 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product, imageId }: ProductCardProps) {
-  const imageUrl = imageId
-    ? getGoogleDriveImageUrl(imageId)
-    : '/next.svg'; // 預設佔位圖
+  // 優先使用 Montbell CDN (第一個顏色)，次選 Google Drive，最後用佔位圖
+  let imageUrl = '/next.svg';
+
+  if (product.colors && product.colors.length > 0) {
+    imageUrl = generateMonbellImageUrl(product.modelNumber, product.colors[0]);
+  } else if (imageId) {
+    imageUrl = getGoogleDriveImageUrl(imageId);
+  }
 
   return (
     <Link href={`/products/${product.id}`}>
@@ -24,6 +29,12 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
             src={imageUrl}
             alt={product.name}
             className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
+            onError={(e) => {
+              const img = e.target as HTMLImageElement;
+              if (img.src !== '/placeholder.svg') {
+                img.src = '/placeholder.svg';
+              }
+            }}
           />
           {/* Badge 標記 */}
           {product.badge && (

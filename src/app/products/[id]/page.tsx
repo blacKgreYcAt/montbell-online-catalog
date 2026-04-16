@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { getProductById, getRelatedProducts } from '@/lib/products';
-import { loadImageMapping, getGoogleDriveImageUrl } from '@/lib/imageUtils';
+import { loadImageMapping, getGoogleDriveImageUrl, generateMonbellImageUrl } from '@/lib/imageUtils';
 import { ProductGrid } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
@@ -86,12 +86,25 @@ export default function ProductDetailPage() {
     );
   }
 
-  // 獲取選中顏色的圖片
-  const imageKey = `k_${product.modelNumber}_${selectedColor.toLowerCase().substring(0, 2)}`;
-  const imageId = imageMapping[imageKey];
-  const imageUrl = imageId
-    ? getGoogleDriveImageUrl(imageId)
-    : '/next.svg';
+  // 獲取選中顏色的圖片 (優先 Montbell CDN，次選 Google Drive)
+  let imageUrl = '/next.svg';
+
+  if (selectedColor) {
+    // 優先使用 Montbell CDN
+    imageUrl = generateMonbellImageUrl(product.modelNumber, selectedColor);
+  } else if (product.colors && product.colors.length > 0) {
+    // 如果未選顏色，使用第一個顏色
+    imageUrl = generateMonbellImageUrl(product.modelNumber, product.colors[0]);
+  }
+
+  // 次選：Google Drive 備份
+  if (!selectedColor) {
+    const imageKey = `k_${product.modelNumber}_${(product.colors?.[0] || '').toLowerCase().substring(0, 2)}`;
+    const imageId = imageMapping[imageKey];
+    if (imageId) {
+      imageUrl = getGoogleDriveImageUrl(imageId);
+    }
+  }
 
   return (
     <div className="space-y-12">
@@ -113,6 +126,12 @@ export default function ProductDetailPage() {
               src={imageUrl}
               alt={product.name}
               className="w-full h-full object-cover"
+              onError={(e) => {
+                const img = e.target as HTMLImageElement;
+                if (img.src !== '/placeholder.svg') {
+                  img.src = '/placeholder.svg';
+                }
+              }}
             />
           </div>
 

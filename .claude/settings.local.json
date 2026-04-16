@@ -52,7 +52,10 @@
       "Read(//tmp/**)",
       "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?q=backpack\")",
       "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?category=BACKPACK\")",
-      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/products/prod-1128573\")"
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/products/prod-1128573\")",
+      "Bash(ls -lh \"C:\\\\Users\\\\imaus\\\\SynologyDrive\\\\TF Claude Code Project\\\\montbell online catalog\"/*.md)",
+      "WebFetch(domain:www.montbell.com)",
+      "WebSearch"
     ]
   }
 }

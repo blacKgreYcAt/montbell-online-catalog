@@ -18,6 +18,17 @@ export const CRON_SECRET = process.env.CRON_SECRET || "";
 export const IMAGE_EXTENSIONS = [".jpg", ".jpeg", ".png", ".webp", ".gif"];
 export const VALID_COLOR_CODES = ["bk", "wh", "rd", "bl", "gr", "ye", "pk", "br", "gy", "be"];
 
+// Montbell CDN 配置
+// 注意：需要從日本 Montbell 官網確認實際的 URL 模式
+export const MONTBELL_CDN_CONFIG = {
+  baseUrl: process.env.NEXT_PUBLIC_MONTBELL_CDN_URL || "https://image.montbell.com/product",
+  pattern: process.env.NEXT_PUBLIC_MONTBELL_URL_PATTERN || "{model}_{color}.jpg",
+  enabled: process.env.NEXT_PUBLIC_MONTBELL_CDN_ENABLED !== "false",
+};
+
+// 圖片來源優先順序: Montbell → Google Drive → 本地備份
+export const IMAGE_SOURCE_PRIORITY = ["montbell", "google_drive", "local"] as const;
+
 // 搜尋配置
 export const SEARCH_KEYS = ["modelNumber", "name", "category"];
 export const SEARCH_THRESHOLD = 0.1; // Fuse.js 相似度閾值 (更嚴格的匹配)
