@@ -1,19 +1,17 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { getProductById, getRelatedProducts } from '@/lib/products';
 import { loadImageMapping, getGoogleDriveImageUrl } from '@/lib/imageUtils';
 import { ProductGrid } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
-interface ProductDetailPageProps {
-  params: {
-    id: string;
-  };
-}
+export default function ProductDetailPage() {
+  const params = useParams();
+  const productId = params?.id as string;
 
-export default function ProductDetailPage({ params }: ProductDetailPageProps) {
   const [product, setProduct] = useState<Product | null>(null);
   const [relatedProducts, setRelatedProducts] = useState<Product[]>([]);
   const [imageMapping, setImageMapping] = useState<ImageMapping>({});
@@ -23,21 +21,27 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
 
   // 載入商品詳情和相關商品
   useEffect(() => {
+    if (!productId) {
+      setError('商品 ID 無效');
+      setLoading(false);
+      return;
+    }
+
     const loadData = async () => {
       try {
         setLoading(true);
-        console.log('正在載入商品詳情，ID:', params.id);
+        console.log('正在載入商品詳情，ID:', productId);
 
         const [productData, relatedData, imageData] = await Promise.all([
-          getProductById(params.id),
-          getRelatedProducts(params.id, 4),
+          getProductById(productId),
+          getRelatedProducts(productId, 4),
           loadImageMapping(),
         ]);
 
         console.log('載入結果 - 商品:', productData ? '找到' : '未找到', '相關商品:', relatedData.length);
 
         if (!productData) {
-          setError(`找不到型號 ${params.id} 的商品`);
+          setError(`找不到商品: ${productId}`);
           setProduct(null);
         } else {
           setProduct(productData);
@@ -55,7 +59,7 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
     };
 
     loadData();
-  }, [params.id]);
+  }, [productId]);
 
   if (loading) {
     return (
