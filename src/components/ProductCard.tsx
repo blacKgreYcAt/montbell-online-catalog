@@ -11,8 +11,8 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product, imageId }: ProductCardProps) {
-  // 優先使用 Montbell CDN (第一個顏色)，次選 Google Drive，最後用佔位圖
-  let imageUrl = '/next.svg';
+  // 優先使用 Montbell CDN (第一個顏色)，次選 Google Drive，最後用替代圖
+  let imageUrl = '/no-image.svg';
 
   if (product.colors && product.colors.length > 0) {
     imageUrl = generateMonbellImageUrl(product.modelNumber, product.colors[0]);

@@ -86,23 +86,22 @@ export default function ProductDetailPage() {
     );
   }
 
-  // 獲取選中顏色的圖片 (優先 Montbell CDN，次選 Google Drive)
+  // 獲取選中顏色的圖片 (優先 Montbell CDN，次選 Google Drive，最後用替代圖)
   const currentColor = selectedColor || product?.colors?.[0] || '';
-  let imageUrl = '/next.svg';
+  let imageUrl = '/no-image.svg';
 
   if (currentColor) {
     // 優先使用 Montbell CDN
     imageUrl = generateMonbellImageUrl(product.modelNumber, currentColor);
-  }
-
-  // 次選：Google Drive 備份
-  if (!imageUrl.includes('montbell.com') && !currentColor) {
-    const imageKey = `k_${product.modelNumber}_${(product.colors?.[0] || '').toLowerCase().substring(0, 2)}`;
+  } else if (product?.colors?.[0]) {
+    // 次選：Google Drive 備份
+    const imageKey = `k_${product.modelNumber}_${product.colors[0].toLowerCase().substring(0, 2)}`;
     const imageId = imageMapping[imageKey];
     if (imageId) {
       imageUrl = getGoogleDriveImageUrl(imageId);
     }
   }
+  // 如果沒有顏色，直接使用 no-image.svg
 
   return (
     <div className="space-y-12">
