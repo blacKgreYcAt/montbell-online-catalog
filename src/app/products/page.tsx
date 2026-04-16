@@ -17,6 +17,11 @@ function ProductsPageContent() {
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState(category);
 
+  // 同步搜尋參數到 selectedCategory 狀態
+  useEffect(() => {
+    setSelectedCategory(category);
+  }, [category]);
+
   // 載入數據
   useEffect(() => {
     const loadData = async () => {
