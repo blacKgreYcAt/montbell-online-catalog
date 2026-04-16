@@ -12,11 +12,11 @@ interface BrandHeroProps {
 }
 
 export default function BrandHero({
-  title = '蒙貝爾線上商品目錄',
-  subtitle = '探索戶外的世界',
-  description = '超過 1000 件高品質戶外裝備與服裝',
+  title = 'Montbell Online Catalog',
+  subtitle = '經銷商限定展示會商品線上目錄',
+  description = '',
   backgroundImage,
-  ctaText = '開始瀏覽',
+  ctaText = '瀏覽商品目錄',
   ctaHref = '/products',
 }: BrandHeroProps) {
   return (
@@ -65,29 +65,8 @@ export default function BrandHero({
           >
             {ctaText}
           </Link>
-          <Link
-            href="/"
-            className="inline-flex px-8 py-3 border-2 border-white text-white font-bold rounded-lg hover:bg-white/20 transition-colors"
-          >
-            了解更多
-          </Link>
         </div>
 
-        {/* 統計信息 */}
-        <div className="mt-12 pt-8 border-t border-white/20 grid grid-cols-3 gap-8">
-          <div>
-            <p className="text-3xl font-bold">1000+</p>
-            <p className="text-sm opacity-75">商品款式</p>
-          </div>
-          <div>
-            <p className="text-3xl font-bold">100%</p>
-            <p className="text-sm opacity-75">品質保證</p>
-          </div>
-          <div>
-            <p className="text-3xl font-bold">24h</p>
-            <p className="text-sm opacity-75">快速查詢</p>
-          </div>
-        </div>
       </div>
     </section>
   );
