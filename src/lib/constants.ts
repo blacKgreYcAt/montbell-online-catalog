@@ -24,7 +24,7 @@ export const SEARCH_THRESHOLD = 0.3; // Fuse.js 相似度閾值
 
 // 分頁配置
 export const ITEMS_PER_PAGE = 12;
-export const MAX_SEARCH_RESULTS = 100;
+export const MAX_SEARCH_RESULTS = 2000; // 支援大型目錄 (1,152 商品)
 
 // 導出路由
 export const ROUTES = {
