@@ -3,6 +3,7 @@
 import { useCallback, useMemo } from 'react';
 import { Product } from '@/types';
 import { getCategories } from '@/lib/searchUtils';
+import { getCategoryLabel } from '@/lib/categoryTranslations';
 
 interface FilterPanelProps {
   products: Product[];
@@ -63,8 +64,8 @@ export default function FilterPanel({
                 : 'bg-gray-50 text-gray-900 hover:bg-[#f0f5ff] border border-[#e0e8f0]'
             }`}
           >
-            <div className="flex justify-between items-center">
-              <span className="font-medium">{category}</span>
+            <div className="flex justify-between items-center w-full">
+              <span className="font-medium text-sm">{getCategoryLabel(category)}</span>
               <span className={`text-sm ${
                 selectedCategory === category
                   ? 'opacity-75'

@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { Product } from '@/types';
 import { getCategories } from '@/lib/searchUtils';
+import { getCategoryChineseOnly } from '@/lib/categoryTranslations';
 import { useMemo } from 'react';
 
 interface CategoryNavProps {
@@ -42,13 +43,15 @@ export default function CategoryNav({
             <Link
               key={category}
               href={`/products?category=${encodeURIComponent(category)}`}
+              title={category}
               className={`px-4 py-2 rounded-lg font-medium transition-colors whitespace-nowrap min-h-[44px] flex items-center active:opacity-75 ${
                 currentCategory === category
                   ? 'bg-[#7697B8] text-white'
                   : 'text-[#004c6f] hover:bg-gray-50'
               }`}
             >
-              {category} <span className="text-xs opacity-75">({count})</span>
+              <span className="text-sm">{getCategoryChineseOnly(category)}</span>
+              <span className="text-xs opacity-75 ml-1">({count})</span>
             </Link>
           ))}
         </div>
