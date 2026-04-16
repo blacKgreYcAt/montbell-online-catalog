@@ -8,6 +8,13 @@ import { loadImageMapping, getGoogleDriveImageUrl, generateMonbellImageUrl } fro
 import { ProductGrid } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
+interface EnrichedProduct {
+  modelNumber: string;
+  description_zh_tw?: string;
+  features_zh_tw?: string[];
+  specifications_zh_tw?: Record<string, string>;
+}
+
 export default function ProductDetailPage() {
   const params = useParams();
   const productId = params?.id as string;
@@ -15,6 +22,7 @@ export default function ProductDetailPage() {
   const [product, setProduct] = useState<Product | null>(null);
   const [relatedProducts, setRelatedProducts] = useState<Product[]>([]);
   const [imageMapping, setImageMapping] = useState<ImageMapping>({});
+  const [enrichedData, setEnrichedData] = useState<EnrichedProduct | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [selectedColor, setSelectedColor] = useState<string>('');
@@ -46,6 +54,21 @@ export default function ProductDetailPage() {
         } else {
           setProduct(productData);
           setSelectedColor(productData.colors?.[0] || '');
+
+          // 載入對應的官網資訊
+          try {
+            const enrichedRes = await fetch('/enrichedData.json', { cache: 'no-store' });
+            const enrichedList: EnrichedProduct[] = await enrichedRes.json();
+            const enrichedProduct = enrichedList.find(
+              (p) => p.modelNumber === productData.modelNumber
+            );
+            if (enrichedProduct) {
+              console.log('找到官網資訊:', productData.modelNumber);
+              setEnrichedData(enrichedProduct);
+            }
+          } catch (enrichErr) {
+            console.log('載入官網資訊失敗，但不影響商品顯示:', enrichErr);
+          }
         }
 
         setRelatedProducts(relatedData);
@@ -245,6 +268,65 @@ export default function ProductDetailPage() {
           )}
         </div>
       </div>
+
+      {/* 官網資訊區段 */}
+      {enrichedData && (
+        <div className="space-y-8 border-t border-gray-200 pt-8">
+          <div className="bg-gradient-to-r from-[#f0f5ff] to-[#e8f0ff] border-l-4 border-[#004c6f] p-6 rounded-lg">
+            <h2 className="text-2xl font-bold text-[#004c6f] mb-2">官網商品詳情</h2>
+            <p className="text-sm text-gray-600">來自 Montbell 官方網站的完整商品資訊</p>
+          </div>
+
+          {/* 官網描述 */}
+          {enrichedData.description_zh_tw && (
+            <div>
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">商品介紹</h3>
+              <p className="text-gray-700 leading-relaxed">
+                {enrichedData.description_zh_tw}
+              </p>
+            </div>
+          )}
+
+          {/* 官網特色/功能 */}
+          {enrichedData.features_zh_tw && enrichedData.features_zh_tw.length > 0 && (
+            <div>
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">主要特色</h3>
+              <ul className="space-y-3">
+                {enrichedData.features_zh_tw.map((feature, index) => (
+                  <li key={index} className="flex items-start gap-3">
+                    <span className="text-[#004c6f] font-bold mt-1 min-w-6">✓</span>
+                    <span className="text-gray-700">{feature}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {/* 官網規格 */}
+          {enrichedData.specifications_zh_tw && Object.keys(enrichedData.specifications_zh_tw).length > 0 && (
+            <div>
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">詳細規格</h3>
+              <div className="bg-white border border-gray-200 rounded-lg overflow-hidden">
+                <table className="w-full">
+                  <tbody>
+                    {Object.entries(enrichedData.specifications_zh_tw).map(([key, value], index) => (
+                      <tr
+                        key={key}
+                        className={`border-b last:border-b-0 ${
+                          index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
+                        }`}
+                      >
+                        <td className="px-6 py-4 font-semibold text-gray-900 w-1/3">{key}</td>
+                        <td className="px-6 py-4 text-gray-700">{value}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
 
       {/* 相關商品 */}
       {relatedProducts.length > 0 && (
