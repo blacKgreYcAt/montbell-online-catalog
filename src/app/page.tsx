@@ -14,31 +14,6 @@ export default function Home() {
         ctaHref="/products"
       />
 
-      {/* 功能介紹 */}
-      <section className="grid md:grid-cols-3 gap-8">
-        <div className="border-2 border-[#7697B8] rounded-lg p-6 hover:shadow-lg transition-shadow">
-          <h2 className="text-lg font-semibold text-[#004c6f] mb-2">全球搜尋</h2>
-          <p className="text-gray-600">
-            快速搜尋型號、產品名稱和規格。實時搜尋結果。
-          </p>
-        </div>
-        <div className="border-2 border-[#7697B8] rounded-lg p-6 hover:shadow-lg transition-shadow">
-          <h2 className="text-lg font-semibold text-[#004c6f] mb-2">
-            分類篩選
-          </h2>
-          <p className="text-gray-600">
-            按產品分類瀏覽，輕鬆找到您需要的商品。
-          </p>
-        </div>
-        <div className="border-2 border-[#7697B8] rounded-lg p-6 hover:shadow-lg transition-shadow">
-          <h2 className="text-lg font-semibold text-[#004c6f] mb-2">
-            完整詳情
-          </h2>
-          <p className="text-gray-600">
-            查看詳細的商品規格、顏色選項和圖片。
-          </p>
-        </div>
-      </section>
 
       {/* 快速導航 */}
       <section className="bg-[#f0f5ff] rounded-lg p-8 border-2 border-[#7697B8]">
