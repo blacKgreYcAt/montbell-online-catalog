@@ -31,8 +31,9 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
             className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
             onError={(e) => {
               const img = e.target as HTMLImageElement;
-              if (img.src !== '/placeholder.svg') {
-                img.src = '/placeholder.svg';
+              // 圖片加載失敗時顯示「暫無商品圖」
+              if (img.src.includes('montbell.com') || img.src.includes('drive.google.com')) {
+                img.src = '/no-image.svg';
               }
             }}
           />

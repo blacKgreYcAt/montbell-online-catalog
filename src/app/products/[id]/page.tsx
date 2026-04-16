@@ -127,8 +127,9 @@ export default function ProductDetailPage() {
               className="w-full h-full object-cover"
               onError={(e) => {
                 const img = e.target as HTMLImageElement;
-                if (img.src !== '/placeholder.svg') {
-                  img.src = '/placeholder.svg';
+                // 第一次失敗時嘗試占位符圖片，第二次失敗時顯示「暫無商品圖」
+                if (img.src.includes('montbell.com') || img.src.includes('drive.google.com')) {
+                  img.src = '/no-image.svg';
                 }
               }}
             />
