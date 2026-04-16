@@ -10,8 +10,8 @@ export async function loadProducts(): Promise<Product[]> {
     const url = '/products.json';
 
     const response = await fetch(url, {
-      cache: 'force-cache',
-      next: { revalidate: 3600 } // 1 小時快取
+      cache: 'no-store', // 禁用緩存，確保總是獲取最新數據
+      next: { revalidate: 0 }
     });
 
     if (!response.ok) {
