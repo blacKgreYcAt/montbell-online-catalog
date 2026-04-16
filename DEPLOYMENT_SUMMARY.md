@@ -1,7 +1,9 @@
-# 🎉 Montbell 線上目錄 - 部署完成
+# 🎉 Montbell 線上目錄 - 部署完成並持續優化
 
 **部署日期：** 2026-04-16  
-**狀態：** ✅ 生產環境上線
+**狀態：** ✅ 生產環境上線  
+**版本：** v0.11.0  
+**最後更新：** 2026-04-16 19:00
 
 ## 📊 商品資料統計
 
@@ -38,17 +40,46 @@
 
 ## 🔧 最近更新
 
-1. **v0.5.1** - 商品資料批量導入
-   - 從 Excel 轉換 1,152 件商品到 JSON
-   - 增加 MAX_SEARCH_RESULTS 至 2,000
-   - 支援全部商品搜尋
+### 系統功能優化（v0.7.0 - v0.11.0）
 
-2. **部署方式：** Vercel CLI (`vercel --prod`)
+1. **v0.7.0 - 季節管理系統**
+   - ✅ 實裝 SS/FW 季節切換
+   - ✅ 所有商品添加 season 字段
+   - ✅ SeasonIndicator 顯示組件
+
+2. **v0.8.0 - 分類翻譯系統**
+   - ✅ 30 個商品分類中文翻譯
+   - ✅ FilterPanel 支援「English 中文」格式
+   - ✅ CategoryNav 支援「中文」格式
+
+3. **v0.9.0 - 圖片與內容修復**
+   - ✅ 修復圖片加載失敗顯示 no-image.svg
+   - ✅ 網站敘述改為「經銷商限定」
+   - ✅ Fetch 快取策略優化（no-store）
+
+4. **v0.10.0 - 水平導航修復**
+   - ✅ 修復分類按鈕無法點擊問題
+   - ✅ Search params 與 state 同步
+
+5. **v0.11.0 - 官網資料爬取準備**
+   - ✅ 爬取前 10 個商品官網資訊
+   - ✅ Description、Features、Specifications 翻譯為台灣繁體中文
+   - ⏳ 準備全量 1000+ 商品處理（待同事確認）
+
+**部署方式：** Vercel Git 自動部署（每次提交自動構建）
 
 ## 📝 後續步驟
 
-待實現功能：
-- [ ] 上傳商品圖片 (命名格式: `[prefix]_[7digitModelNumber]_[colorcode].jpg`)
+### 即時待辦（需同事討論）
+- **[高優先級]** 批量爬取官網商品資訊並翻譯（1000+ 商品）
+  - Description、Features、Specifications → 台灣繁體中文
+  - 使用 Gemini API 翻譯
+  - 成本：1-2 USD，耗時：1-2 小時
+  - 文件已準備：`montbell_products_structured.json`（前 10 個示例）
+
+### 待實現功能
+- [ ] 前端集成官網商品資訊（待商品翻譯完成）
+- [ ] 上傳商品圖片到 Google Drive (命名格式: `[prefix]_[7digitModelNumber]_[colorcode].jpg`)
 - [ ] 設定 Google Drive 圖片同步
 - [ ] 更新頁尾聯絡資訊
 - [ ] 實裝顏色代碼完整對應表

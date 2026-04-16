@@ -62,7 +62,23 @@
       "Bash(vercel deploy:*)",
       "Bash(tee deployment.log)",
       "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__list_teams",
-      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__list_projects"
+      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__list_projects",
+      "Bash(python read_excel.py)",
+      "Bash(vercel ls:*)",
+      "Bash(vercel inspect:*)",
+      "Bash(curl -s https://montbell-online-catalog.vercel.app/products)",
+      "Bash(curl -s https://montbell-online-catalog.vercel.app/api/search)",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?q=1128573\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/products\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?limit=1\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?limit=1000\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?q=1122712\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/products/prod-1122712\")",
+      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__list_deployments",
+      "mcp__265c5217-5d53-48a6-86d8-346a5d4e501b__get_deployment",
+      "Bash(python3 -c ':*)",
+      "Bash(python3 -c \"import sys; sys.stdout.reconfigure\\(encoding='utf-8'\\)\")",
+      "Bash(ls -lh *.md)"
     ]
   }
 }
