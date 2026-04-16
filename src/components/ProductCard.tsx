@@ -25,8 +25,18 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
             alt={product.name}
             className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
           />
+          {/* Badge 標記 */}
+          {product.badge && (
+            <div className={`absolute top-3 right-3 px-3 py-1 rounded-full text-xs font-bold text-white ${
+              product.badge.includes('27SS')
+                ? 'bg-[#1a6fa0]'  // 27SS 新品用深藍
+                : 'bg-[#c39d6f]'  // 推薦用金色
+            }`}>
+              {product.badge}
+            </div>
+          )}
           {product.discontinued && (
-            <div className="absolute top-3 right-3 bg-[#C00] text-white px-3 py-1 rounded-full text-xs font-bold">
+            <div className="absolute bottom-3 right-3 bg-[#C00] text-white px-3 py-1 rounded-full text-xs font-bold">
               已停產
             </div>
           )}

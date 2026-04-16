@@ -10,11 +10,15 @@ export interface Product {
   price?: number;
   specifications?: Record<string, string>;
   colors?: string[];
+  sizes?: string[];
   images?: {
     [color: string]: string;
   };
   releaseDate?: string;
   discontinued?: boolean;
+  isNew?: boolean;
+  badge?: string;
+  pageNumber?: number;
 }
 
 /**

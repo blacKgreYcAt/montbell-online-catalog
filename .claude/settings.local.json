@@ -51,7 +51,8 @@
       "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search\")",
       "Read(//tmp/**)",
       "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?q=backpack\")",
-      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?category=BACKPACK\")"
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/api/search?category=BACKPACK\")",
+      "Bash(curl -s \"https://montbell-online-catalog.vercel.app/products/prod-1128573\")"
     ]
   }
 }

@@ -152,11 +152,20 @@ export default function ProductDetailPage() {
             <h1 className="text-4xl font-bold text-gray-900">{product.name}</h1>
           </div>
 
-          {/* 分類 */}
-          <div>
+          {/* 分類和標記 */}
+          <div className="flex gap-2 flex-wrap">
             <span className="inline-block px-3 py-1 bg-[#7697B8] text-white rounded-full text-sm font-semibold">
               {product.category}
             </span>
+            {product.badge && (
+              <span className={`inline-block px-3 py-1 rounded-full text-sm font-semibold text-white ${
+                product.badge.includes('27SS')
+                  ? 'bg-[#1a6fa0]'
+                  : 'bg-[#c39d6f]'
+              }`}>
+                {product.badge}
+              </span>
+            )}
           </div>
 
           {/* 描述 */}
