@@ -26,14 +26,18 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
     const loadData = async () => {
       try {
         setLoading(true);
+        console.log('正在載入商品詳情，ID:', params.id);
+
         const [productData, relatedData, imageData] = await Promise.all([
           getProductById(params.id),
           getRelatedProducts(params.id, 4),
           loadImageMapping(),
         ]);
 
+        console.log('載入結果 - 商品:', productData ? '找到' : '未找到', '相關商品:', relatedData.length);
+
         if (!productData) {
-          setError('找不到該商品');
+          setError(`找不到型號 ${params.id} 的商品`);
           setProduct(null);
         } else {
           setProduct(productData);
