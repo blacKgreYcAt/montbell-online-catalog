@@ -19,10 +19,12 @@ export const IMAGE_EXTENSIONS = [".jpg", ".jpeg", ".png", ".webp", ".gif"];
 export const VALID_COLOR_CODES = ["bk", "wh", "rd", "bl", "gr", "ye", "pk", "br", "gy", "be"];
 
 // Montbell CDN 配置
-// 注意：需要從日本 Montbell 官網確認實際的 URL 模式
+// ✅ 已確認：日本官網實際 URL 模式
+// 基礎 URL: https://www.montbell.com/storage/products/images/origin
+// 模式: {model}_{color}.webp (小寫色碼)
 export const MONTBELL_CDN_CONFIG = {
-  baseUrl: process.env.NEXT_PUBLIC_MONTBELL_CDN_URL || "https://image.montbell.com/product",
-  pattern: process.env.NEXT_PUBLIC_MONTBELL_URL_PATTERN || "{model}_{color}.jpg",
+  baseUrl: process.env.NEXT_PUBLIC_MONTBELL_CDN_URL || "https://www.montbell.com/storage/products/images/origin",
+  pattern: process.env.NEXT_PUBLIC_MONTBELL_URL_PATTERN || "{model}_{color}.webp",
   enabled: process.env.NEXT_PUBLIC_MONTBELL_CDN_ENABLED !== "false",
 };
 

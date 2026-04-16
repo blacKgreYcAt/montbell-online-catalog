@@ -3,6 +3,7 @@ import { MONTBELL_CDN_CONFIG } from "./constants";
 
 /**
  * 根據型號和顏色代碼生成 Montbell CDN 圖片 URL
+ * 注意：官網使用小寫色碼 (rbl, gm 等)
  */
 export function generateMonbellImageUrl(
   modelNumber: string,
@@ -11,7 +12,7 @@ export function generateMonbellImageUrl(
   const { baseUrl, pattern } = MONTBELL_CDN_CONFIG;
   const url = pattern
     .replace("{model}", modelNumber.toString().padStart(7, "0"))
-    .replace("{color}", colorCode.toUpperCase());
+    .replace("{color}", colorCode.toLowerCase());
   return `${baseUrl}/${url}`;
 }
 
