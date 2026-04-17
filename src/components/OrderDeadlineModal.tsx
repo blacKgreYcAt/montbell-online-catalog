@@ -132,7 +132,7 @@ export default function OrderDeadlineModal() {
                   </p>
                   <p className="text-gray-700 leading-relaxed">
                     結單日為 <span className="font-bold text-[#004c6f]">2026 年 5 月 1 日</span>。
-                    網站將在結單日後自動關閉，請準時提機訂單。
+                    網站將在結單日後自動關閉，請準時提交訂單。
                   </p>
                 </div>
               </div>
