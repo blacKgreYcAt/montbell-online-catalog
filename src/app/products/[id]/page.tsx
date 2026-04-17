@@ -5,6 +5,7 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { getProductById, getRelatedProducts } from '@/lib/products';
 import { loadImageMapping, getGoogleDriveImageUrl, generateMonbellImageUrl } from '@/lib/imageUtils';
+import { preloadProductImages, getImageUrlWithCache } from '@/lib/imagePreloader';
 import { ProductGrid } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
@@ -54,6 +55,13 @@ export default function ProductDetailPage() {
         } else {
           setProduct(productData);
           setSelectedColor(productData.colors?.[0] || '');
+
+          // 🚀 背景預加載所有顏色的圖片
+          if (productData.colors && productData.colors.length > 0) {
+            preloadProductImages(productData.modelNumber, productData.colors).catch(
+              (err) => console.warn('圖片預加載失敗:', err)
+            );
+          }
 
           // 載入對應的官網資訊
           try {
@@ -109,13 +117,13 @@ export default function ProductDetailPage() {
     );
   }
 
-  // 獲取選中顏色的圖片 (優先 Montbell CDN，次選 Google Drive，最後用替代圖)
+  // 獲取選中顏色的圖片 (優先使用快取，然後 Montbell CDN)
   const currentColor = selectedColor || product?.colors?.[0] || '';
   let imageUrl = '/no-image.svg';
 
   if (currentColor) {
-    // 優先使用 Montbell CDN
-    imageUrl = generateMonbellImageUrl(product.modelNumber, currentColor);
+    // 優先使用快取，提升響應速度
+    imageUrl = getImageUrlWithCache(product.modelNumber, currentColor);
   } else if (product?.colors?.[0]) {
     // 次選：Google Drive 備份
     const imageKey = `k_${product.modelNumber}_${product.colors[0].toLowerCase().substring(0, 2)}`;
