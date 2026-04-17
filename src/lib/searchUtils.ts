@@ -1,6 +1,11 @@
 import Fuse from "fuse.js";
 import { Product, SearchResult } from "@/types";
 import { SEARCH_KEYS, SEARCH_THRESHOLD, MAX_SEARCH_RESULTS } from "./constants";
+import {
+  getMainCategoryByProductCategory,
+  getSubcategoriesByMainId,
+  MAIN_CATEGORIES,
+} from "./categories";
 
 /**
  * 初始化 Fuse.js 搜尋引擎
@@ -109,4 +114,56 @@ export function getCategories(products: Product[]): Map<string, number> {
   });
 
   return categories;
+}
+
+/**
+ * 按主分類篩選（根據新的分類系統）
+ */
+export function filterByMainCategory(
+  products: Product[],
+  mainCategorySlug: string
+): Product[] {
+  if (!mainCategorySlug) return products;
+
+  const mainCategory = MAIN_CATEGORIES.find((cat) => cat.slug === mainCategorySlug);
+  if (!mainCategory) return products;
+
+  return products.filter((product) => {
+    const mainCat = getMainCategoryByProductCategory(product.category);
+    return mainCat?.id === mainCategory.id;
+  });
+}
+
+/**
+ * 按子分類篩選（根據新的分類系統）
+ */
+export function filterBySubCategory(
+  products: Product[],
+  subCategoryId: string
+): Product[] {
+  if (!subCategoryId) return products;
+
+  // 查找子分類所屬的主分類
+  let targetSubCategory = null;
+  for (const main of MAIN_CATEGORIES) {
+    const sub = main.subcategories.find((s) => s.id === subCategoryId);
+    if (sub) {
+      targetSubCategory = sub;
+      break;
+    }
+  }
+
+  if (!targetSubCategory) return products;
+
+  // 根據子分類的原始名稱過濾產品
+  const subCategoryNames = [
+    targetSubCategory.name,
+    targetSubCategory.id.toUpperCase().replace(/-/g, ' '),
+  ];
+
+  return products.filter((product) =>
+    subCategoryNames.some((name) =>
+      product.category.toUpperCase().includes(name.toUpperCase())
+    )
+  );
 }

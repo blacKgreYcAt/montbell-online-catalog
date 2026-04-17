@@ -4,23 +4,27 @@ import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
-import { filterByCategory } from '@/lib/searchUtils';
+import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
 import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator } from '@/components';
+import { getMainCategoryByProductCategory } from '@/lib/categories';
 import type { Product, ImageMapping } from '@/types';
 
 function ProductsPageContent() {
   const searchParams = useSearchParams();
   const category = searchParams.get('category') || '';
+  const mainCategory = searchParams.get('main') || '';
 
   const [products, setProducts] = useState<Product[]>([]);
   const [imageMapping, setImageMapping] = useState<ImageMapping>({});
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState(category);
+  const [selectedMainCategory, setSelectedMainCategory] = useState(mainCategory);
 
-  // 同步搜尋參數到 selectedCategory 狀態
+  // 同步搜尋參數到狀態
   useEffect(() => {
     setSelectedCategory(category);
-  }, [category]);
+    setSelectedMainCategory(mainCategory);
+  }, [category, mainCategory]);
 
   // 載入數據
   useEffect(() => {
@@ -45,9 +49,19 @@ function ProductsPageContent() {
 
   // 篩選商品
   const filteredProducts = useMemo(() => {
-    if (!selectedCategory) return products;
-    return filterByCategory(products, selectedCategory);
-  }, [products, selectedCategory]);
+    let results = products;
+
+    // 按主分類篩選
+    if (selectedMainCategory) {
+      results = filterByMainCategory(results, selectedMainCategory);
+    }
+    // 按子分類篩選
+    else if (selectedCategory) {
+      results = filterBySubCategory(results, selectedCategory);
+    }
+
+    return results;
+  }, [products, selectedCategory, selectedMainCategory]);
 
   // 處理分類變更
   const handleCategoryChange = (newCategory: string) => {
@@ -76,7 +90,7 @@ function ProductsPageContent() {
 
       {/* 分類導航 */}
       {products.length > 0 && (
-        <CategoryNav products={products} currentCategory={selectedCategory} />
+        <CategoryNav variant="horizontal" selectedCategory={selectedCategory} />
       )}
 
       {/* 主內容區 */}
