@@ -6,6 +6,7 @@ import {
   getSubcategoriesByMainId,
   MAIN_CATEGORIES,
 } from "./categories";
+import { getCategoryMapping } from "./categoryMapping";
 
 /**
  * 初始化 Fuse.js 搜尋引擎
@@ -129,8 +130,8 @@ export function filterByMainCategory(
   if (!mainCategory) return products;
 
   return products.filter((product) => {
-    const mainCat = getMainCategoryByProductCategory(product.category);
-    return mainCat?.id === mainCategory.id;
+    const mapping = getCategoryMapping(product.category);
+    return mapping?.mainId === mainCategory.id;
   });
 }
 
@@ -143,27 +144,8 @@ export function filterBySubCategory(
 ): Product[] {
   if (!subCategoryId) return products;
 
-  // 查找子分類所屬的主分類
-  let targetSubCategory = null;
-  for (const main of MAIN_CATEGORIES) {
-    const sub = main.subcategories.find((s) => s.id === subCategoryId);
-    if (sub) {
-      targetSubCategory = sub;
-      break;
-    }
-  }
-
-  if (!targetSubCategory) return products;
-
-  // 根據子分類的原始名稱過濾產品
-  const subCategoryNames = [
-    targetSubCategory.name,
-    targetSubCategory.id.toUpperCase().replace(/-/g, ' '),
-  ];
-
-  return products.filter((product) =>
-    subCategoryNames.some((name) =>
-      product.category.toUpperCase().includes(name.toUpperCase())
-    )
-  );
+  return products.filter((product) => {
+    const mapping = getCategoryMapping(product.category);
+    return mapping?.subId === subCategoryId;
+  });
 }
