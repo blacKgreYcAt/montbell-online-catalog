@@ -56,10 +56,17 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
 
         {/* 商品信息 */}
         <div className="space-y-2 p-4">
-          {/* 型號 */}
-          <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold">
-            {product.modelNumber}
-          </p>
+          {/* 型號 + 頁碼 */}
+          <div className="flex items-center justify-between gap-2">
+            <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold">
+              {product.modelNumber}
+            </p>
+            {product.pageNumber && (
+              <span className="inline-flex items-center gap-1 bg-[#c39d6f] text-white px-2 py-0.5 rounded text-xs font-bold shadow-sm">
+                📖 P.{product.pageNumber}
+              </span>
+            )}
+          </div>
 
           {/* 名稱 */}
           <h3 className="font-bold text-[#004c6f] line-clamp-2 hover:text-[#7697B8] transition-colors text-sm">

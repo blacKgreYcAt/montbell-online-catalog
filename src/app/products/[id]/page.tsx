@@ -182,6 +182,17 @@ export default function ProductDetailPage() {
 
         {/* 信息部分 */}
         <div className="space-y-6">
+          {/* 紙本目錄頁碼 - 顯眼標示 */}
+          {product.pageNumber && (
+            <div className="inline-flex items-center gap-3 bg-gradient-to-r from-[#c39d6f] to-[#b8905e] text-white px-5 py-3 rounded-lg shadow-md">
+              <span className="text-2xl">📖</span>
+              <div>
+                <p className="text-xs uppercase tracking-widest opacity-90">紙本目錄</p>
+                <p className="text-xl font-bold leading-tight">第 {product.pageNumber} 頁</p>
+              </div>
+            </div>
+          )}
+
           {/* 型號 */}
           <div>
             <p className="text-sm text-gray-500 uppercase tracking-widest">型號</p>
