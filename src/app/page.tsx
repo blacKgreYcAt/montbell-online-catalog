@@ -2,11 +2,16 @@ import Link from "next/link";
 import { SITE_NAME } from "@/lib/constants";
 import { BrandHero } from "@/components";
 import CategoryNav from "@/components/CategoryNav";
+import OrderDeadlineModal from "@/components/OrderDeadlineModal";
 import { MAIN_CATEGORIES } from "@/lib/categories";
 
 export default function Home() {
   return (
-    <div className="space-y-12">
+    <>
+      {/* 結單倒數提醒 */}
+      <OrderDeadlineModal />
+
+      <div className="space-y-12">
       {/* 品牌焦點區 */}
       <BrandHero
         title="Montbell Online Catalog"
@@ -60,6 +65,7 @@ export default function Home() {
           ))}
         </div>
       </section>
-    </div>
+      </div>
+    </>
   );
 }
