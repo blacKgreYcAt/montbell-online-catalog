@@ -10,12 +10,15 @@ interface SearchBarProps {
 }
 
 export default function SearchBar({
-  placeholder = '搜尋型號、名稱或規格...',
+  placeholder = '搜尋型號、名稱、規格或頁碼...',
   onSearch,
   initialValue = '',
 }: SearchBarProps) {
   const [query, setQuery] = useState(initialValue);
   const router = useRouter();
+
+  // 檢測是否為純數字（頁碼）
+  const isPageNumberQuery = /^\d+$/.test(query.trim());
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
@@ -76,7 +79,12 @@ export default function SearchBar({
 
       {/* 快速提示 */}
       <div className="mt-2 text-xs text-gray-500">
-        💡 提示：可搜尋型號、商品名稱或分類
+        💡 提示：可搜尋型號、商品名稱、分類或頁碼
+        {isPageNumberQuery && query.trim() && (
+          <span className="ml-2 text-blue-600 font-semibold">
+            📄 將搜尋頁碼 {query}
+          </span>
+        )}
       </div>
     </form>
   );

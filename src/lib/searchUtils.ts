@@ -14,6 +14,29 @@ export function createSearchIndex(products: Product[]): Fuse<Product> {
 }
 
 /**
+ * 檢測輸入是否為頁碼（純數字）
+ */
+function isPageNumberQuery(query: string): boolean {
+  return /^\d+$/.test(query.trim());
+}
+
+/**
+ * 按頁碼搜尋
+ */
+export function searchByPageNumber(
+  pageNumber: number,
+  products: Product[]
+): SearchResult {
+  const results = products.filter((p) => p.pageNumber === pageNumber);
+
+  return {
+    products: results.slice(0, MAX_SEARCH_RESULTS),
+    total: results.length,
+    query: pageNumber.toString(),
+  };
+}
+
+/**
  * 執行搜尋
  */
 export function searchProducts(
@@ -29,6 +52,12 @@ export function searchProducts(
   }
 
   const trimmedQuery = query.trim();
+
+  // 檢測是否為頁碼搜尋
+  if (isPageNumberQuery(trimmedQuery)) {
+    const pageNum = parseInt(trimmedQuery, 10);
+    return searchByPageNumber(pageNum, products);
+  }
 
   // 首先嘗試精確匹配型號 (完全相符或前置匹配)
   const exactMatches = products.filter((p) =>

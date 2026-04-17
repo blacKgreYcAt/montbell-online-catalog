@@ -75,7 +75,11 @@ function SearchPageContent() {
         <h1 className="text-4xl font-bold text-gray-900 mb-2">搜尋結果</h1>
         {query && (
           <p className="text-lg text-gray-600">
-            關鍵字：<span className="font-semibold text-[#004c6f]">"{query}"</span>
+            {/^\d+$/.test(query.trim()) ? (
+              <>第 <span className="font-semibold text-[#004c6f]">{query}</span> 頁的商品</>
+            ) : (
+              <>關鍵字：<span className="font-semibold text-[#004c6f]">"{query}"</span></>
+            )}
           </p>
         )}
       </div>
