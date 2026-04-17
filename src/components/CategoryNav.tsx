@@ -58,18 +58,18 @@ export default function CategoryNav({
     );
   }
 
-  // 侧边栏模式
+  // 側邊欄模式
   return (
     <div className="space-y-4">
-      {/* 标题 */}
+      {/* 標題 */}
       <div className="mb-6">
-        <h2 className="text-xl font-bold text-gray-900">浏览分类</h2>
+        <h2 className="text-xl font-bold text-gray-900">瀏覽分類</h2>
         <p className="text-sm text-gray-600 mt-1">
-          按分类浏览所有产品
+          按分類瀏覽所有商品
         </p>
       </div>
 
-      {/* 分类树 */}
+      {/* 分類樹 */}
       <div className="space-y-2">
         {/* 全部商品 */}
         <Link
@@ -84,10 +84,10 @@ export default function CategoryNav({
           <span className="font-semibold">全部商品</span>
         </Link>
 
-        {/* 主分类 */}
+        {/* 主分類 */}
         {MAIN_CATEGORIES.map((mainCategory) => (
           <div key={mainCategory.id}>
-            {/* 主分类按钮 */}
+            {/* 主分類按鈕 */}
             <button
               onClick={() =>
                 setExpandedMain(
@@ -109,7 +109,7 @@ export default function CategoryNav({
               </span>
             </button>
 
-            {/* 子分类 */}
+            {/* 子分類 */}
             {expandedMain === mainCategory.id && (
               <div className="ml-4 mt-2 space-y-1 border-l-2 border-[#004c6f] pl-4">
                 {mainCategory.subcategories.map((subCategory) => (
@@ -137,7 +137,7 @@ export default function CategoryNav({
           href="/products"
           className="w-full block text-center px-4 py-3 bg-white border-2 border-[#004c6f] text-[#004c6f] font-semibold rounded-lg hover:bg-[#f0f5ff] transition-colors"
         >
-          查看全部产品
+          查看全部商品
         </Link>
       </div>
     </div>

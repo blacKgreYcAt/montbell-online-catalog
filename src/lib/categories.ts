@@ -23,10 +23,10 @@ export interface MainCategory {
 export const MAIN_CATEGORIES: MainCategory[] = [
   {
     id: 'clothing',
-    name: '衣服',
+    name: '上衣',
     slug: 'clothing',
     icon: '👕',
-    description: '各类衣服、外套和内衣',
+    description: '各類衣服、外套和內衣',
     subcategories: [
       { id: 'base-layer', name: 'Base Layer', slug: 'base-layer' },
       { id: 'knit-shirts', name: 'Knit Shirts', slug: 'knit-shirts' },
@@ -40,20 +40,20 @@ export const MAIN_CATEGORIES: MainCategory[] = [
   },
   {
     id: 'bottoms',
-    name: '下装',
+    name: '褲子',
     slug: 'bottoms',
     icon: '👖',
-    description: '裤子和相关下装',
+    description: '褲子和相關下裝',
     subcategories: [
       { id: 'pants', name: 'Pants', slug: 'pants' },
     ],
   },
   {
     id: 'accessories',
-    name: '配饰',
+    name: '配件',
     slug: 'accessories',
     icon: '🧣',
-    description: '帽子、手套、围巾等配饰',
+    description: '帽子、手套、圍巾等配件',
     subcategories: [
       { id: 'cap-hat', name: 'Cap & Hat', slug: 'cap-hat' },
       { id: 'scarf', name: 'Scarf & Neck Gaiter', slug: 'scarf' },
@@ -66,10 +66,10 @@ export const MAIN_CATEGORIES: MainCategory[] = [
   },
   {
     id: 'footwear',
-    name: '鞋类',
+    name: '鞋類',
     slug: 'footwear',
     icon: '👟',
-    description: '登山鞋、户外鞋等',
+    description: '登山鞋、戶外鞋等',
     subcategories: [
       { id: 'footwear', name: 'Footwear', slug: 'footwear' },
     ],
@@ -87,10 +87,10 @@ export const MAIN_CATEGORIES: MainCategory[] = [
   },
   {
     id: 'camping',
-    name: '露营装备',
+    name: '露營裝備',
     slug: 'camping',
     icon: '⛺',
-    description: '睡袋、帐篷和露营用品',
+    description: '睡袋、帳篷和露營用品',
     subcategories: [
       { id: 'sleeping-bag', name: 'Sleeping Bag', slug: 'sleeping-bag' },
       { id: 'camping', name: 'Camping', slug: 'camping' },
@@ -98,10 +98,10 @@ export const MAIN_CATEGORIES: MainCategory[] = [
   },
   {
     id: 'sports',
-    name: '运动专项',
+    name: '運動專項',
     slug: 'sports',
     icon: '⛹️',
-    description: '水上运动、钓鱼等专项',
+    description: '水上運動、釣魚等專項',
     subcategories: [
       { id: 'aqua-sports', name: 'Aqua Sports', slug: 'aqua-sports' },
       { id: 'fishing', name: 'Fishing', slug: 'fishing' },
@@ -109,10 +109,10 @@ export const MAIN_CATEGORIES: MainCategory[] = [
   },
   {
     id: 'gear',
-    name: '装备',
+    name: '裝備',
     slug: 'gear',
     icon: '🔧',
-    description: '登山杖、炉具、照明等装备',
+    description: '登山杖、爐具、照明等裝備',
     subcategories: [
       { id: 'bottles', name: 'Bottles', slug: 'bottles' },
       { id: 'cookware', name: 'Cookware', slug: 'cookware' },
@@ -123,10 +123,10 @@ export const MAIN_CATEGORIES: MainCategory[] = [
   },
   {
     id: 'kids',
-    name: '儿童',
+    name: '兒童',
     slug: 'kids',
     icon: '👶',
-    description: '儿童和婴幼儿用品',
+    description: '兒童和嬰幼兒用品',
     subcategories: [
       { id: 'kids-baby', name: 'Kids & Baby', slug: 'kids-baby' },
     ],
