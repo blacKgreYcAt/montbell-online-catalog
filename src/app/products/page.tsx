@@ -7,6 +7,7 @@ import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
 import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
+import { getCategoryLabel } from '@/lib/categoryTranslations';
 import type { Product, ImageMapping } from '@/types';
 
 function ProductsPageContent() {
@@ -78,7 +79,7 @@ function ProductsPageContent() {
         <h1 className="text-4xl font-bold text-gray-900 mb-2">商品目錄</h1>
         <p className="text-lg text-gray-600">
           {selectedCategory
-            ? `${selectedCategory} - ${filteredProducts.length} 件商品`
+            ? `${getCategoryLabel(selectedCategory)} - ${filteredProducts.length} 件商品`
             : `全部商品 - ${products.length} 件`}
         </p>
       </div>
@@ -127,7 +128,7 @@ function ProductsPageContent() {
             {selectedCategory && (
               <>
                 {' '}
-                / <span className="font-bold text-[#7697B8]">{selectedCategory}</span>
+                / <span className="font-bold text-[#7697B8]">{getCategoryLabel(selectedCategory)}</span>
               </>
             )}
           </p>

@@ -118,12 +118,33 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
 }
 
 /**
- * 根據顏色名稱返回 CSS 顏色代碼
+ * 根據顏色代碼返回 CSS 顏色代碼
+ * 支援英文代碼（BK, NV, RBL 等）和全名
  */
 function getColorCode(color: string): string {
   const colorMap: Record<string, string> = {
+    // 英文代碼對應
+    'BK': '#000000',      // 黑
+    'WH': '#f5f5f5',      // 白
+    'RD': '#ef4444',      // 紅
+    'BL': '#3b82f6',      // 藍
+    'GR': '#10b981',      // 綠
+    'YE': '#fbbf24',      // 黃
+    'PK': '#ec4899',      // 粉紅
+    'BR': '#92400e',      // 棕
+    'GY': '#6b7280',      // 灰
+    'BE': '#d2b48c',      // 米色/杏色
+    'NV': '#001f3f',      // 海軍藍
+    'DGY': '#4b5563',     // 深灰
+    'RBL': '#1e40af',     // 皇家藍
+    'GN': '#059669',      // 深綠
+    'OR': '#ea580c',      // 橙色
+    'TN': '#b45309',      // 棕褐
+    'KH': '#c2b280',      // 卡其色
+
+    // 中文名稱對應（備用）
     '黑色': '#000000',
-    '白色': '#ffffff',
+    '白色': '#f5f5f5',
     '紅色': '#ef4444',
     '藍色': '#3b82f6',
     '綠色': '#10b981',
@@ -133,5 +154,7 @@ function getColorCode(color: string): string {
     '灰色': '#6b7280',
     '米色': '#d2b48c',
   };
-  return colorMap[color] || '#e5e7eb';
+
+  const upperColor = color.toUpperCase();
+  return colorMap[upperColor] || colorMap[color] || '#e5e7eb';
 }

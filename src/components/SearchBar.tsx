@@ -17,8 +17,13 @@ export default function SearchBar({
   const [query, setQuery] = useState(initialValue);
   const router = useRouter();
 
-  // 檢測是否為純數字（頁碼）
-  const isPageNumberQuery = /^\d+$/.test(query.trim());
+  // 檢測是否為有效頁碼（1-193）
+  const isPageNumberQuery = (() => {
+    const trimmed = query.trim();
+    if (!/^\d+$/.test(trimmed)) return false;
+    const pageNum = parseInt(trimmed, 10);
+    return pageNum >= 1 && pageNum <= 193;
+  })();
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
