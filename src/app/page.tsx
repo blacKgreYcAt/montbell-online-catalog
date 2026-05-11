@@ -51,10 +51,7 @@ export default function Home() {
               className="group relative p-6 bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg border-2 border-[#7697B8] hover:border-[#004c6f] hover:shadow-lg transition-all"
             >
               <div className="text-center">
-                <div className="text-4xl mb-3 group-hover:scale-110 transition-transform">
-                  {category.icon}
-                </div>
-                <h3 className="font-bold text-[#004c6f] group-hover:text-[#004c6f] transition-colors">
+                <h3 className="font-bold text-lg text-[#004c6f] group-hover:text-[#004c6f] transition-colors">
                   {category.name}
                 </h3>
                 <p className="text-xs text-gray-600 mt-2">
