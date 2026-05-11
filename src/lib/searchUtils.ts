@@ -20,10 +20,16 @@ export function createSearchIndex(products: Product[]): Fuse<Product> {
 }
 
 /**
- * 檢測輸入是否為頁碼（純數字）
+ * 檢測輸入是否為頁碼（純數字且在有效範圍內 1-193）
  */
 function isPageNumberQuery(query: string): boolean {
-  return /^\d+$/.test(query.trim());
+  const trimmed = query.trim();
+  if (!/^\d+$/.test(trimmed)) {
+    return false;
+  }
+
+  const pageNum = parseInt(trimmed, 10);
+  return pageNum >= 1 && pageNum <= 193;
 }
 
 /**
