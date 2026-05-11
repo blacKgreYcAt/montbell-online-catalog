@@ -20,8 +20,21 @@ export async function loadProducts(): Promise<Product[]> {
     }
 
     const data = await response.json();
-    const products = Array.isArray(data) ? data : data.products || [];
+    let products = Array.isArray(data) ? data : data.products || [];
 
+    // 驗證和過濾無效的商品數據
+    products = products.filter((product: unknown) => {
+      const valid = validateProduct(product);
+      if (!valid) {
+        console.warn('無效的商品數據，跳過:', product);
+      }
+      return valid;
+    });
+
+    // 格式化商品數據
+    products = products.map(formatProduct);
+
+    console.log(`成功載入 ${products.length} 件有效商品`);
     return products;
   } catch (error) {
     console.error("載入商品數據失敗:", error);

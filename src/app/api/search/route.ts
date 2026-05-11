@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { searchProducts, filterByCategory } from '@/lib/searchUtils';
 import { ApiResponse } from '@/types';
 import { Product } from '@/types';
+import { validateProduct, formatProduct } from '@/lib/products';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 
@@ -21,7 +22,20 @@ export async function GET(request: NextRequest) {
       const filePath = join(process.cwd(), 'public', 'products.json');
       const fileContent = readFileSync(filePath, 'utf-8');
       const data = JSON.parse(fileContent);
-      products = Array.isArray(data) ? data : data.products || [];
+      let rawProducts = Array.isArray(data) ? data : data.products || [];
+
+      // 驗證和過濾無效的商品數據
+      products = rawProducts
+        .filter((product: unknown) => {
+          const valid = validateProduct(product);
+          if (!valid) {
+            console.warn('搜尋 API：無效的商品數據，跳過:', product);
+          }
+          return valid;
+        })
+        .map(formatProduct);
+
+      console.log(`搜尋 API：成功載入 ${products.length} 件有效商品`);
     } catch (error) {
       console.error('讀取商品數據失敗:', error);
     }

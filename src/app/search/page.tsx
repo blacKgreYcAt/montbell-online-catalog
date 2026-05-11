@@ -3,7 +3,7 @@
 import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { loadImageMapping } from '@/lib/imageUtils';
-import { ProductGrid, SearchBar } from '@/components';
+import { ProductGrid, SearchBar, ErrorBoundary } from '@/components';
 import type { Product, ImageMapping, SearchResult } from '@/types';
 
 function SearchPageContent() {
@@ -150,8 +150,10 @@ function SearchPageContent() {
 
 export default function SearchPage() {
   return (
-    <Suspense fallback={<div className="text-center py-12">正在載入搜尋頁面...</div>}>
-      <SearchPageContent />
-    </Suspense>
+    <ErrorBoundary>
+      <Suspense fallback={<div className="text-center py-12">正在載入搜尋頁面...</div>}>
+        <SearchPageContent />
+      </Suspense>
+    </ErrorBoundary>
   );
 }

@@ -43,13 +43,13 @@ export default function CategoryNav({
               <Link
                 key={main.id}
                 href={`/products?main=${main.slug}`}
-                className={`px-4 py-2 rounded-lg font-medium transition-colors whitespace-nowrap min-h-[44px] flex items-center active:opacity-75 ${
+                className={`px-5 py-2 rounded-lg font-medium transition-colors whitespace-nowrap min-h-[44px] flex items-center active:opacity-75 ${
                   selectedCategory === main.slug
                     ? 'bg-[#7697B8] text-white'
                     : 'text-[#004c6f] hover:bg-gray-50'
                 }`}
               >
-                <span className="text-sm">{main.icon} {main.name}</span>
+                <span className="text-base">{main.name}</span>
               </Link>
             ))}
           </div>
@@ -80,8 +80,7 @@ export default function CategoryNav({
               : 'text-gray-900 hover:bg-gray-100'
           }`}
         >
-          <span className="text-lg mr-3">📦</span>
-          <span className="font-semibold">全部商品</span>
+          <span className="font-semibold text-lg">全部商品</span>
         </Link>
 
         {/* 主分類 */}
@@ -100,10 +99,7 @@ export default function CategoryNav({
                   : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
               }`}
             >
-              <div className="flex items-center gap-3">
-                <span className="text-xl">{mainCategory.icon}</span>
-                <span className="font-semibold">{mainCategory.name}</span>
-              </div>
+              <span className="font-semibold text-lg">{mainCategory.name}</span>
               <span className="text-sm">
                 {expandedMain === mainCategory.id ? '−' : '+'}
               </span>

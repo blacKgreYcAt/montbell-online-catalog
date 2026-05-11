@@ -5,7 +5,7 @@ import { useSearchParams } from 'next/navigation';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
-import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator } from '@/components';
+import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator, ErrorBoundary } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
 import type { Product, ImageMapping } from '@/types';
@@ -140,8 +140,10 @@ function ProductsPageContent() {
 
 export default function ProductsPage() {
   return (
-    <Suspense fallback={<div className="text-center py-12">正在載入商品...</div>}>
-      <ProductsPageContent />
-    </Suspense>
+    <ErrorBoundary>
+      <Suspense fallback={<div className="text-center py-12">正在載入商品...</div>}>
+        <ProductsPageContent />
+      </Suspense>
+    </ErrorBoundary>
   );
 }
