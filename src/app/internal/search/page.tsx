@@ -147,6 +147,7 @@ function InternalSearchContent() {
               imageMapping={imageMapping}
               hidePrice={true}
               basePath="/internal/products"
+              useGoogleDrive={true}
               emptyMessage="找不到相符的商品"
             />
           ) : (

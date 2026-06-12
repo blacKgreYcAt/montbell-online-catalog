@@ -269,6 +269,7 @@ export default function InternalProductDetailPage() {
             imageMapping={imageMapping}
             hidePrice={true}
             basePath="/internal/products"
+            useGoogleDrive={true}
           />
         </div>
       )}

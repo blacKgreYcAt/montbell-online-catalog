@@ -10,6 +10,7 @@ interface ProductGridProps {
   emptyMessage?: string;
   hidePrice?: boolean;
   basePath?: string;
+  useGoogleDrive?: boolean;
 }
 
 export default function ProductGrid({
@@ -19,6 +20,7 @@ export default function ProductGrid({
   emptyMessage = '找不到相符的商品',
   hidePrice = false,
   basePath = '/products',
+  useGoogleDrive = false,
 }: ProductGridProps) {
   if (loading) {
     return (
@@ -61,6 +63,7 @@ export default function ProductGrid({
             imageId={imageId}
             hidePrice={hidePrice}
             basePath={basePath}
+            useGoogleDrive={useGoogleDrive}
           />
         );
       })}

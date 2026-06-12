@@ -10,13 +10,16 @@ interface ProductCardProps {
   imageId?: string;
   hidePrice?: boolean;
   basePath?: string;
+  useGoogleDrive?: boolean;
 }
 
-export default function ProductCard({ product, imageId, hidePrice = false, basePath = '/products' }: ProductCardProps) {
-  // 優先使用 Montbell CDN (第一個顏色)，次選 Google Drive，最後用替代圖
+export default function ProductCard({ product, imageId, hidePrice = false, basePath = '/products', useGoogleDrive = false }: ProductCardProps) {
   let imageUrl = '/no-image.svg';
 
-  if (product.colors && product.colors.length > 0) {
+  // 內部版優先使用 Google Drive，公開版優先使用 Montbell CDN
+  if (useGoogleDrive && imageId) {
+    imageUrl = getGoogleDriveImageUrl(imageId);
+  } else if (product.colors && product.colors.length > 0) {
     imageUrl = generateMonbellImageUrl(product.modelNumber, product.colors[0]);
   } else if (imageId) {
     imageUrl = getGoogleDriveImageUrl(imageId);

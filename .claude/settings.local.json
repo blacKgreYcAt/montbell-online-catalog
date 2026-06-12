@@ -127,7 +127,10 @@
       "Bash(git commit -m 'fix: Add colors field to internal products data *)",
       "Bash(grep -v \"^$\")",
       "Bash(git commit -m 'fix: Add basePath parameter to support internal product links *)",
-      "Bash(git commit -m 'feat: Add complete product information display and improve image loading *)"
+      "Bash(git commit -m 'feat: Add complete product information display and improve image loading *)",
+      "Bash(git commit -m 'fix: Properly extract color codes from products-internal.json *)",
+      "Bash(git commit -m 'debug: Add detailed logging for image loading diagnostics *)",
+      "Bash(git commit -m 'fix: Use Google Drive images for internal version instead of Montbell CDN *)"
     ]
   }
 }

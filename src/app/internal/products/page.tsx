@@ -141,6 +141,7 @@ function InternalProductsContent() {
             loading={loading}
             hidePrice={true}
             basePath="/internal/products"
+            useGoogleDrive={true}
             emptyMessage={
               selectedCategory
                 ? `在 ${selectedCategory} 中找不到商品`
