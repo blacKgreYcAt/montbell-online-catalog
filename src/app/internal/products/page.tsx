@@ -78,6 +78,11 @@ function InternalProductsContent() {
   const filteredProducts = (() => {
     let results = products;
 
+    // FW27新品：顯示所有商品（不篩選）
+    if (selectedMainCategory === 'fw27-new') {
+      return products;
+    }
+
     if (selectedMainCategory) {
       results = filterByMainCategory(results, selectedMainCategory);
     } else if (selectedCategory) {

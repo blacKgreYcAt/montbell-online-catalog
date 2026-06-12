@@ -9,6 +9,19 @@ export default function Home() {
       <OrderDeadlineModal />
 
       <div className="space-y-12">
+        {/* 展示會提示 */}
+        <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-lg">
+          <h2 className="text-2xl font-bold text-amber-900 mb-2">
+            FW27 展示會
+          </h2>
+          <p className="text-lg text-amber-800 font-semibold mb-2">
+            結單日期：2026 年 6 月 29 日
+          </p>
+          <p className="text-amber-700">
+            本次 FW27 展示會結單日為 2026 年 6 月 29 日。網站將在結單日後自動關閉，請準時提交訂單。
+          </p>
+        </div>
+
         {/* 品牌焦點區 */}
         <BrandHero
           title="Montbell Online Catalog"

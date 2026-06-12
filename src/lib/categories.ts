@@ -22,6 +22,14 @@ export interface MainCategory {
 // 主分类配置
 export const MAIN_CATEGORIES: MainCategory[] = [
   {
+    id: 'fw27-new',
+    name: 'FW27新品',
+    slug: 'fw27-new',
+    icon: '🆕',
+    description: '最新的 FW27 季新商品',
+    subcategories: [],
+  },
+  {
     id: 'clothing',
     name: '上衣',
     slug: 'clothing',
