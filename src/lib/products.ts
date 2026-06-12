@@ -52,12 +52,43 @@ export async function loadProductsBySeason(): Promise<Product[]> {
 }
 
 /**
- * 加載內部版商品
- * 返回所有商品（同季節不會並存）
+ * 加載內部版商品（FW27 - 181 個商品）
  */
 export async function loadInternalProducts(): Promise<Product[]> {
-  const products = await loadProducts();
-  return products;
+  try {
+    const url = '/products-internal.json';
+
+    const response = await fetch(url, {
+      cache: 'no-store',
+      next: { revalidate: 0 }
+    });
+
+    if (!response.ok) {
+      console.error(`無法載入內部商品數據: ${response.status} from ${url}`);
+      return [];
+    }
+
+    const data = await response.json();
+    let products = Array.isArray(data) ? data : data.products || [];
+
+    // 驗證和過濾無效的商品數據
+    products = products.filter((product: unknown) => {
+      const valid = validateProduct(product);
+      if (!valid) {
+        console.warn('無效的商品數據，跳過:', product);
+      }
+      return valid;
+    });
+
+    // 格式化商品數據
+    products = products.map(formatProduct);
+
+    console.log(`成功載入 ${products.length} 件內部版商品 (FW27)`);
+    return products;
+  } catch (error) {
+    console.error("載入內部商品數據失敗:", error);
+    return [];
+  }
 }
 
 /**
