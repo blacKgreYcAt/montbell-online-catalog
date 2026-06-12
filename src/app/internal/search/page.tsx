@@ -110,6 +110,7 @@ function InternalSearchContent() {
         <SearchBar
           initialValue={query}
           placeholder="搜尋商品型號或名稱..."
+          basePath="/internal/search"
         />
       </div>
 

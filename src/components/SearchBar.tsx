@@ -7,12 +7,14 @@ interface SearchBarProps {
   placeholder?: string;
   onSearch?: (query: string) => void;
   initialValue?: string;
+  basePath?: string;
 }
 
 export default function SearchBar({
   placeholder = '搜尋型號、名稱、規格或頁碼...',
   onSearch,
   initialValue = '',
+  basePath = '/search',
 }: SearchBarProps) {
   const [query, setQuery] = useState(initialValue);
   const router = useRouter();
@@ -34,10 +36,10 @@ export default function SearchBar({
       } else {
         // 導向搜尋頁面
         const searchParams = new URLSearchParams({ q: query });
-        router.push(`/search?${searchParams.toString()}`);
+        router.push(`${basePath}?${searchParams.toString()}`);
       }
     },
-    [query, onSearch, router]
+    [query, onSearch, router, basePath]
   );
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
