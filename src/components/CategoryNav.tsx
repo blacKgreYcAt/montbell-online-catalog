@@ -7,6 +7,7 @@ import { MAIN_CATEGORIES } from '@/lib/categories';
 interface CategoryNavProps {
   selectedCategory?: string;
   variant?: 'horizontal' | 'sidebar';
+  basePath?: string;
 }
 
 /**
@@ -18,6 +19,7 @@ interface CategoryNavProps {
 export default function CategoryNav({
   selectedCategory,
   variant = 'horizontal',
+  basePath = '/products',
 }: CategoryNavProps) {
   const [expandedMain, setExpandedMain] = useState<string | null>(null);
 
@@ -28,7 +30,7 @@ export default function CategoryNav({
           <div className="flex gap-1 py-2 whitespace-nowrap">
             {/* 全部 */}
             <Link
-              href="/products"
+              href={basePath}
               className={`px-4 py-2 rounded-lg font-medium transition-colors min-h-[44px] flex items-center active:opacity-75 ${
                 !selectedCategory
                   ? 'bg-[#7697B8] text-white'
@@ -42,7 +44,7 @@ export default function CategoryNav({
             {MAIN_CATEGORIES.map((main) => (
               <Link
                 key={main.id}
-                href={`/products?main=${main.slug}`}
+                href={`${basePath}?main=${main.slug}`}
                 className={`px-5 py-2 rounded-lg font-medium transition-colors whitespace-nowrap min-h-[44px] flex items-center active:opacity-75 ${
                   selectedCategory === main.slug
                     ? 'bg-[#7697B8] text-white'
@@ -73,7 +75,7 @@ export default function CategoryNav({
       <div className="space-y-2">
         {/* 全部商品 */}
         <Link
-          href="/products"
+          href={basePath}
           className={`w-full flex items-center px-4 py-3 rounded-lg transition-colors ${
             !selectedCategory
               ? 'bg-[#004c6f] text-white'
@@ -86,42 +88,64 @@ export default function CategoryNav({
         {/* 主分類 */}
         {MAIN_CATEGORIES.map((mainCategory) => (
           <div key={mainCategory.id}>
-            {/* 主分類按鈕 */}
-            <button
-              onClick={() =>
-                setExpandedMain(
-                  expandedMain === mainCategory.id ? null : mainCategory.id
-                )
-              }
-              className={`w-full flex items-center justify-between px-4 py-3 rounded-lg transition-colors ${
-                expandedMain === mainCategory.id
-                  ? 'bg-[#004c6f] text-white'
-                  : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
-              }`}
-            >
-              <span className="font-semibold text-lg">{mainCategory.name}</span>
-              <span className="text-sm">
-                {expandedMain === mainCategory.id ? '−' : '+'}
-              </span>
-            </button>
+            {/* 如果沒有子分類（如 FW27新品），直接顯示為鏈接 */}
+            {mainCategory.subcategories.length === 0 ? (
+              <Link
+                href={`${basePath}?main=${mainCategory.slug}`}
+                className={`w-full flex items-center px-4 py-3 rounded-lg transition-colors ${
+                  selectedCategory === mainCategory.slug
+                    ? 'bg-[#004c6f] text-white'
+                    : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
+                }`}
+              >
+                <span className="font-semibold text-lg flex items-center gap-2">
+                  {mainCategory.icon && <span>{mainCategory.icon}</span>}
+                  {mainCategory.name}
+                </span>
+              </Link>
+            ) : (
+              <>
+                {/* 主分類按鈕 */}
+                <button
+                  onClick={() =>
+                    setExpandedMain(
+                      expandedMain === mainCategory.id ? null : mainCategory.id
+                    )
+                  }
+                  className={`w-full flex items-center justify-between px-4 py-3 rounded-lg transition-colors ${
+                    expandedMain === mainCategory.id
+                      ? 'bg-[#004c6f] text-white'
+                      : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
+                  }`}
+                >
+                  <span className="font-semibold text-lg flex items-center gap-2">
+                    {mainCategory.icon && <span>{mainCategory.icon}</span>}
+                    {mainCategory.name}
+                  </span>
+                  <span className="text-sm">
+                    {expandedMain === mainCategory.id ? '−' : '+'}
+                  </span>
+                </button>
 
-            {/* 子分類 */}
-            {expandedMain === mainCategory.id && (
-              <div className="ml-4 mt-2 space-y-1 border-l-2 border-[#004c6f] pl-4">
-                {mainCategory.subcategories.map((subCategory) => (
-                  <Link
-                    key={subCategory.id}
-                    href={`/products?category=${subCategory.id}`}
-                    className={`block px-3 py-2 rounded transition-colors ${
-                      selectedCategory === subCategory.id
-                        ? 'bg-[#004c6f] text-white'
-                        : 'text-gray-700 hover:bg-gray-100'
-                    }`}
-                  >
-                    {subCategory.name}
-                  </Link>
-                ))}
-              </div>
+                {/* 子分類 */}
+                {expandedMain === mainCategory.id && (
+                  <div className="ml-4 mt-2 space-y-1 border-l-2 border-[#004c6f] pl-4">
+                    {mainCategory.subcategories.map((subCategory) => (
+                      <Link
+                        key={subCategory.id}
+                        href={`${basePath}?category=${subCategory.id}`}
+                        className={`block px-3 py-2 rounded transition-colors ${
+                          selectedCategory === subCategory.id
+                            ? 'bg-[#004c6f] text-white'
+                            : 'text-gray-700 hover:bg-gray-100'
+                        }`}
+                      >
+                        {subCategory.name}
+                      </Link>
+                    ))}
+                  </div>
+                )}
+              </>
             )}
           </div>
         ))}
@@ -130,7 +154,7 @@ export default function CategoryNav({
       {/* 查看全部 */}
       <div className="pt-4 border-t border-gray-200">
         <Link
-          href="/products"
+          href={basePath}
           className="w-full block text-center px-4 py-3 bg-white border-2 border-[#004c6f] text-[#004c6f] font-semibold rounded-lg hover:bg-[#f0f5ff] transition-colors"
         >
           查看全部商品

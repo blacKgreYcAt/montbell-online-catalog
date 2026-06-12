@@ -47,5 +47,5 @@ export const ROUTES = {
   PRODUCT_DETAIL: (id: string) => `/products/${id}`,
 };
 
-// SS27 展示會結單截止日期
-export const ORDER_DEADLINE = new Date('2026-05-01T23:59:59Z');
+// FW27 展示會結單截止日期
+export const ORDER_DEADLINE = new Date('2026-06-29T23:59:59Z');

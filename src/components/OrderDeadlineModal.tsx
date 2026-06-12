@@ -51,7 +51,7 @@ export default function OrderDeadlineModal() {
                 <span className="text-5xl">📍</span>
               </div>
               <h2 className="text-3xl md:text-4xl font-bold text-[#004c6f] mb-2">
-                SS27 展示會
+                FW27 展示會
               </h2>
               <div className="w-16 h-1 bg-gradient-to-r from-[#004c6f] to-[#7697B8] mx-auto rounded-full" />
             </div>
@@ -117,7 +117,7 @@ export default function OrderDeadlineModal() {
               {/* 結單日期 */}
               <div className="text-center">
                 <p className="text-lg font-semibold text-[#004c6f]">
-                  結單日期：2026 年 5 月 1 日
+                  結單日期：2026 年 6 月 29 日
                 </p>
               </div>
             </div>
@@ -128,10 +128,10 @@ export default function OrderDeadlineModal() {
                 <span className="text-3xl flex-shrink-0">⏰</span>
                 <div>
                   <p className="text-[#004c6f] font-bold text-lg mb-2">
-                    本次 SS27 展示會
+                    本次 FW27 展示會
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    結單日為 <span className="font-bold text-[#004c6f]">2026 年 5 月 1 日</span>。
+                    結單日為 <span className="font-bold text-[#004c6f]">2026 年 6 月 29 日</span>。
                     網站將在結單日後自動關閉，請準時提交訂單。
                   </p>
                 </div>

@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { isInternalAuthValid } from '@/lib/internalAuth';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
-import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator, ErrorBoundary } from '@/components';
+import { ProductGrid, CategoryNav, SearchBar, SeasonIndicator, ErrorBoundary } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
 import { useSearchParams } from 'next/navigation';
@@ -126,18 +126,14 @@ function InternalProductsContent() {
 
       {/* 分類導航 */}
       {products.length > 0 && (
-        <CategoryNav variant="horizontal" selectedCategory={selectedCategory} />
+        <CategoryNav variant="horizontal" selectedCategory={selectedMainCategory || selectedCategory} basePath="/internal/products" />
       )}
 
       {/* 主內容區 */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-        {/* 篩選面板 */}
+        {/* 分類側欄 */}
         <div className="lg:col-span-1">
-          <FilterPanel
-            products={products}
-            selectedCategory={selectedCategory}
-            onCategoryChange={handleCategoryChange}
-          />
+          <CategoryNav variant="sidebar" selectedCategory={selectedMainCategory || selectedCategory} basePath="/internal/products" />
         </div>
 
         {/* 商品網格 */}
