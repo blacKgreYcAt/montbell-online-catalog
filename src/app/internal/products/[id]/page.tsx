@@ -147,7 +147,7 @@ export default function InternalProductDetailPage() {
               key={selectedColor}
               src={imageUrl}
               alt={product.name}
-              className="w-full h-full object-cover"
+              className="w-full h-full object-contain"
               onError={(e) => {
                 const img = e.target as HTMLImageElement;
                 if (!img.src.includes('no-image.svg')) {

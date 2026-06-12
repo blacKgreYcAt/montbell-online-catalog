@@ -34,7 +34,7 @@ export default function ProductCard({ product, imageId, hidePrice = false, baseP
           <img
             src={imageUrl}
             alt={product.name}
-            className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
+            className="w-full h-full object-contain hover:scale-105 transition-transform duration-300"
             onError={(e) => {
               const img = e.target as HTMLImageElement;
               // 圖片加載失敗時顯示「暫無商品圖」

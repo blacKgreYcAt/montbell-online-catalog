@@ -138,7 +138,8 @@
       "PowerShell(cd \"C:\\\\Users\\\\imaus\\\\SynologyDrive\\\\TF Claude Code Project\\\\montbell online catalog\"; $env:PYTHONIOENCODING=\"utf-8\"; python upload_to_cloudinary.py 2>&1 | Select-Object -First 50)",
       "PowerShell(Stop-Process -Name \"python\" -ErrorAction SilentlyContinue)",
       "Bash(node upload-cloudinary.js)",
-      "Bash(git commit -m 'feat: Switch internal product images to Cloudinary CDN *)"
+      "Bash(git commit -m 'feat: Switch internal product images to Cloudinary CDN *)",
+      "Bash(git commit -m 'fix: Change image display from object-cover to object-contain *)"
     ]
   }
 }
