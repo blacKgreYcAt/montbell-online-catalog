@@ -15,11 +15,13 @@ export async function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
     const query = searchParams.get('q') || '';
     const category = searchParams.get('category') || '';
+    const isInternal = searchParams.get('internal') === 'true';
 
-    // 直接讀取 public/products.json 文件
+    // 根據版本選擇產品文件
     let products: Product[] = [];
     try {
-      const filePath = join(process.cwd(), 'public', 'products.json');
+      const fileName = isInternal ? 'products-internal.json' : 'products.json';
+      const filePath = join(process.cwd(), 'public', fileName);
       const fileContent = readFileSync(filePath, 'utf-8');
       const data = JSON.parse(fileContent);
       let rawProducts = Array.isArray(data) ? data : data.products || [];
@@ -35,7 +37,7 @@ export async function GET(request: NextRequest) {
         })
         .map(formatProduct);
 
-      console.log(`搜尋 API：成功載入 ${products.length} 件有效商品`);
+      console.log(`搜尋 API：成功載入 ${products.length} 件有效商品 (${isInternal ? '內部版' : '公開版'})`);
     } catch (error) {
       console.error('讀取商品數據失敗:', error);
     }

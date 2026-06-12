@@ -41,7 +41,7 @@ function InternalSearchContent() {
         setError(null);
 
         const response = await fetch(
-          `/api/search?${new URLSearchParams({ q: query })}`
+          `/api/search?${new URLSearchParams({ q: query, internal: 'true' })}`
         );
 
         if (!response.ok) {
