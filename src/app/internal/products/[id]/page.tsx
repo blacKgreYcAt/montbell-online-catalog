@@ -94,20 +94,37 @@ export default function InternalProductDetailPage() {
   const currentColor = selectedColor || product?.colors?.[0] || '';
   let imageUrl = '/no-image.svg';
 
+  console.log('=== 圖片載入診斷 ===');
+  console.log('Product:', { modelNumber: product.modelNumber, colors: product.colors, selectedColor });
+  console.log('Current color:', currentColor);
+  console.log('Image mapping keys count:', Object.keys(imageMapping).length);
+  console.log('Image mapping sample keys:', Object.keys(imageMapping).slice(0, 5));
+
   if (currentColor && Object.keys(imageMapping).length > 0) {
-    // 嘗試查詢圖片映射
     const imageKey1 = `${product.modelNumber}_${currentColor.toUpperCase()}`;
     const imageKey2 = `${product.modelNumber}_${currentColor}`;
     const imageKey3 = `k_${product.modelNumber}_${currentColor.toLowerCase()}`;
 
+    console.log('Trying keys:', [imageKey1, imageKey2, imageKey3]);
+
     const imageId = imageMapping[imageKey1] || imageMapping[imageKey2] || imageMapping[imageKey3];
+
+    console.log('Found ID:', imageId);
 
     if (imageId) {
       imageUrl = getGoogleDriveImageUrl(imageId);
-      console.log(`找到圖片: ${imageKey1} → ${imageId}`);
+      console.log(`SUCCESS: 找到圖片: ${imageKey1} → ${imageId}`);
+      console.log('Image URL:', imageUrl);
     } else {
-      console.log(`未找到圖片，嘗試的鍵:`, [imageKey1, imageKey2, imageKey3]);
+      console.log(`FAILED: 未找到圖片`);
+      console.log('Check imageMapping:', {
+        key1_exists: imageKey1 in imageMapping,
+        key2_exists: imageKey2 in imageMapping,
+        key3_exists: imageKey3 in imageMapping,
+      });
     }
+  } else {
+    console.log('SKIPPED: Missing color or empty mapping', { currentColor, mappingLength: Object.keys(imageMapping).length });
   }
 
   return (
