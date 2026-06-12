@@ -5,11 +5,17 @@ export interface Product {
   id: string;
   modelNumber: string;
   name: string;
+  nameEn?: string;
   category: string;
   season: "SS" | "FW";
   description?: string;
-  price?: number;
-  specifications?: Record<string, string>;
+  descriptionEn?: string;
+  features?: string;
+  featuresEn?: string;
+  specifications?: string | Record<string, string>;
+  specificationsEn?: string;
+  price?: number | string;
+  weight?: string;
   colors?: string[];
   sizes?: string[];
   images?: {

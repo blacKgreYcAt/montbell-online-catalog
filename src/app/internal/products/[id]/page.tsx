@@ -38,7 +38,6 @@ export default function InternalProductDetailPage() {
     const loadData = async () => {
       try {
         setLoading(true);
-        console.log('正在載入內部版商品詳情，ID:', productId);
 
         const [productData, relatedData, imageData] = await Promise.all([
           getInternalProductById(productId),
@@ -48,7 +47,6 @@ export default function InternalProductDetailPage() {
 
         if (!productData) {
           setError(`找不到商品: ${productId}`);
-          setProduct(null);
         } else {
           setProduct(productData);
           setSelectedColor(productData.colors?.[0] || '');
@@ -96,12 +94,19 @@ export default function InternalProductDetailPage() {
   const currentColor = selectedColor || product?.colors?.[0] || '';
   let imageUrl = '/no-image.svg';
 
-  if (currentColor) {
+  if (currentColor && Object.keys(imageMapping).length > 0) {
+    // 嘗試查詢圖片映射
     const imageKey1 = `${product.modelNumber}_${currentColor.toUpperCase()}`;
-    const imageKey2 = `k_${product.modelNumber}_${currentColor.toLowerCase()}`;
-    const imageId = imageMapping[imageKey1] || imageMapping[imageKey2];
+    const imageKey2 = `${product.modelNumber}_${currentColor}`;
+    const imageKey3 = `k_${product.modelNumber}_${currentColor.toLowerCase()}`;
+
+    const imageId = imageMapping[imageKey1] || imageMapping[imageKey2] || imageMapping[imageKey3];
+
     if (imageId) {
       imageUrl = getGoogleDriveImageUrl(imageId);
+      console.log(`找到圖片: ${imageKey1} → ${imageId}`);
+    } else {
+      console.log(`未找到圖片，嘗試的鍵:`, [imageKey1, imageKey2, imageKey3]);
     }
   }
 
@@ -115,6 +120,7 @@ export default function InternalProductDetailPage() {
       </Link>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        {/* 圖片部分 */}
         <div className="space-y-4">
           <div className="bg-gray-100 rounded-lg overflow-hidden" style={{ aspectRatio: '1' }}>
             <img
@@ -131,6 +137,7 @@ export default function InternalProductDetailPage() {
             />
           </div>
 
+          {/* 顏色選擇 */}
           {product.colors && product.colors.length > 1 && (
             <div className="space-y-2">
               <p className="font-semibold text-gray-900">選擇顏色:</p>
@@ -153,6 +160,7 @@ export default function InternalProductDetailPage() {
           )}
         </div>
 
+        {/* 資訊部分 */}
         <div className="space-y-6">
           <div>
             <p className="text-sm text-gray-500 uppercase tracking-widest">型號</p>
@@ -169,9 +177,11 @@ export default function InternalProductDetailPage() {
             </span>
           </div>
 
+          {/* 商品敘述 */}
           {product.description && (
-            <div>
-              <p className="text-gray-700 text-lg leading-relaxed whitespace-pre-wrap">
+            <div className="border-t border-gray-200 pt-4">
+              <h3 className="text-lg font-semibold text-gray-900 mb-3">商品介紹</h3>
+              <p className="text-gray-700 leading-relaxed whitespace-pre-wrap">
                 {product.description}
               </p>
             </div>
@@ -179,8 +189,61 @@ export default function InternalProductDetailPage() {
         </div>
       </div>
 
+      {/* 特性 */}
+      {product.features && (
+        <div className="border-t border-gray-200 pt-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">主要特色</h2>
+          <p className="text-gray-700 leading-relaxed whitespace-pre-wrap">
+            {product.features}
+          </p>
+        </div>
+      )}
+
+      {/* 規格 */}
+      {product.specifications && (
+        <div className="border-t border-gray-200 pt-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">詳細規格</h2>
+          {typeof product.specifications === 'string' ? (
+            <p className="text-gray-700 leading-relaxed whitespace-pre-wrap">
+              {product.specifications}
+            </p>
+          ) : (
+            <div className="space-y-3">
+              {Object.entries(product.specifications).map(([key, value]) => (
+                <div key={key} className="flex justify-between items-center border-b border-gray-200 pb-2">
+                  <span className="text-gray-600">{key}</span>
+                  <span className="font-semibold text-gray-900">{value}</span>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* 尺寸 */}
+      {product.sizes && product.sizes.length > 0 && (
+        <div className="border-t border-gray-200 pt-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">可用尺寸</h2>
+          <div className="flex flex-wrap gap-2">
+            {product.sizes.map((size) => (
+              <span key={size} className="px-4 py-2 bg-[#f0f5ff] border border-[#7697B8] rounded-lg text-gray-900 font-medium">
+                {size}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* 重量 */}
+      {product.weight && (
+        <div className="border-t border-gray-200 pt-4">
+          <p className="text-gray-700"><span className="font-semibold">重量：</span> {product.weight}</p>
+        </div>
+      )}
+
+      {/* 相關商品 */}
       {relatedProducts.length > 0 && (
-        <div className="space-y-6">
+        <div className="border-t border-gray-200 pt-8 space-y-6">
           <div>
             <h2 className="text-3xl font-bold text-gray-900">相關商品</h2>
           </div>

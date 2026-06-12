@@ -5,6 +5,22 @@
     "name": "PERMAFROST 羽絨派克外套 男款",
     "nameEn": "PERMAFROST DOWN PARKA MEN'S",
     "category": "INSULATION",
+    "description": "● 羽絨派克外套，防水透氣表布，800 蓬鬆度 EX 羽絨，輕量卻極度保暖，未壓膠處理\n● 適用於寒冷天氣外層、輕量登山和旅行使用\n【本季改款重點】 風帽：按扣將改為隱藏式 正面拉鍊：Aqua-Tect 拉鍊將更新為霧面處理",
+    "descriptionEn": "● Down parka, waterproof breathable shell, 800 fill power EX down, lightweight yet highly heat-retaining, not seam-sealed\n● For cold-weather outerwear, light alpine, and travel use\n【Revised point(s) from the current model】 Hood: snap buttons will be hidden Front zipper: Aqua-Tect zipper will be updated to matte finish",
+    "features": "● 防水、高透氣 DRYTEC 提升耐候性\n● 立體隔間結構\n● 防絨處理\n● 可拆式 Dual-Axial 風帽\n● Aqua-Tect 拉鍊\n● 拉鍊擋片\n● Alpine 袖口\n● 內側束繩調節器\n● 3 個拉鍊口袋 (2 個暖手口袋，1 個胸前口袋)\n● 附收納袋\n● 未壓膠處理",
+    "featuresEn": "●Waterproof, highly breathable DRYTEC enhances weather\nresistance\n●Box Construction\n●Downproofing\n●Detachable, Dual-Axial Hood\n●Aqua-Tect zipper\n●Zip End Guard\n●Alpine Cuff\n●Inner drawcord adjuster\n●3 zippered pockets (2 hand pockets, 1 chest pocket)\n●Stuff sack included\n●Not seam sealed",
+    "specifications": "2 層 DRYTEC (高透氣度)\n30 丹尼 格紋尼龍布 (不含 PFAS 防潑水處理)\n內裡：20 丹尼 Ballistic 尼龍塔夫綢 (抗靜電處理)\n保暖層：800 蓬鬆度 EX 羽絨",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n30-denier nylon ripstop (PFAS-free water\nrepellent finish)\nLining: 20-denier Ballistic nylon taffeta (anti-\nstatic finish)\nInsulation: 800 fill power EX Down",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
+    "weight": "550 g",
     "price": "￥34,000",
     "colors": [
       "BK",
@@ -19,6 +35,22 @@
     "name": "PERMAFROST 羽絨派克外套 女款",
     "nameEn": "PERMAFROST DOWN PARKA WOMEN'S",
     "category": "INSULATION",
+    "description": "● 羽絨派克外套，防水透氣表布，800 蓬鬆度 EX 羽絨，輕量卻極度保暖，未壓膠處理\n● 適用於寒冷天氣外層服飾、輕量登山和旅行使用",
+    "descriptionEn": "● Down parka, waterproof breathable shell, 800 fill power EX down, lightweight yet highly heat-retaining, not seam-sealed\n● For cold-weather outerwear, light alpine, and travel use",
+    "features": "● 防水、高度透氣的 DRYTEC 提升耐候性\n● 立體隔間結構\n● 防絨處理\n● 可拆式雙軸風帽\n● Aqua-Tect 拉鍊\n● 拉鍊尾端保護片\n● Alpine 袖口\n● 內部束繩調節器\n● 3 個拉鍊口袋 (2 個暖手口袋，1 個胸前口袋)\n● 附收納袋\n● 未壓膠處理",
+    "featuresEn": "●Waterproof, highly breathable DRYTEC enhances weather\nresistance\n●Box Construction\n●Downproofing\n●Detachable, Dual-Axial Hood\n●Aqua-Tect zipper\n●Zip End Guard\n●Alpine Cuff\n●Inner drawcord adjuster\n●3 zippered pockets (2 hand pockets, 1 chest pocket)\n●Stuff sack included\n●Not seam sealed",
+    "specifications": "2 層 DRYTEC (高透氣度)\n30 丹尼 格紋尼龍布 (不含 PFAS 防潑水處理)\n內裡：20 丹尼 Ballistic 尼龍塔夫綢 (抗靜電處理)\n保暖層：800 蓬鬆度 EX 羽絨",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n30-denier nylon ripstop (PFAS-free water\nrepellent finish)\nLining: 20-denier Ballistic nylon taffeta (anti-\nstatic finish)\nInsulation: 800 fill power EX Down",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
+    "weight": "490 g",
     "price": "￥32,728",
     "colors": [
       "BK",
@@ -33,6 +65,19 @@
     "name": "THERMAWRAP 連帽外套 男款",
     "nameEn": "THERMAWRAP PARKA MEN'S",
     "category": "INSULATION",
+    "description": "● 保暖風帽外套，採用 STRETCH EXCELOFT 保暖層，斜裁布料，透氣，活動自如，易於保養\n● 適合冬季活動，可作為中層或外層穿著\n【與現有型號的改進點】 設計：可雙面穿 ⇒ 不可雙面穿 布料：12D ⇒ 20D 保暖層：EXCELOFT ⇒ STRETCH EXCELOFT",
+    "descriptionEn": "● Insulated hooded jacket, STRETCH EXCELOFT, bias-cut fabric, breathable, ease of movement, easy care\n● For active winter use as a mid- or outer layer\n【Revised point(s) from the current model】 Design: reversible ⇒ non-reversible Fabric: 12D ⇒ 20D Insulation: EXCELOFT ⇒ STRETCH EXCELOFT",
+    "features": "●STRETCH EXCELOFT 80g/㎡ (主體) 60g/㎡ (袖子)\n●斜向彈性系統\n●Dual-Axial 風帽\n●拉鍊末端保護\n●內側束繩調節\n●彈性袖口\n●3個拉鍊口袋 (2個暖手口袋，1個胸前口袋)\n●附收納袋",
+    "featuresEn": "●STRETCH EXCELOFT 80g/㎡ (body) 60g/㎡ (sleeve)\n●Bias stretch system\n●Dual-Axial Hood\n●Zip End Guard\n●Inner drawcord adjuster\n●Elastic cuff\n●3 zippered pockets (2 hand pockets, 1 chest pocket)\n●Stuff sack included",
+    "specifications": "20丹尼 Ballistic 格紋尼龍布 (不含PFAS 撥水加工)\n內裡：12丹尼 Ballistic Airlight 格紋尼龍布 (不含PFAS 撥水加工)\n保暖層：STRETCH EXCELOFT (聚酯纖維)",
+    "specificationsEn": "20-denier Ballistic nylon ripstop (PFAS-free\nwater repellent finish)\nLining: 12-denier Ballistic Airlight nylon\nripstop (PFAS-free water repellent finish)\nInsulation: STRETCH EXCELOFT (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "330 g",
     "price": "￥15,455",
     "colors": [
       "BK",
@@ -47,6 +92,20 @@
     "name": "THERMAWRAP PARKA 女款",
     "nameEn": "THERMAWRAP PARKA WOMEN'S",
     "category": "INSULATION",
+    "description": "● 保暖風帽外套，採用 STRETCH EXCELOFT 保暖層、斜紋剪裁布料，透氣、活動自如、易於保養\n● 適合冬季戶外活動，可作為中層或外層穿著\n【與現有型號的改進點】 設計：可雙面穿 ⇒ 不可雙面穿 布料：12 丹尼 ⇒ 20 丹尼 保暖層：EXCELOFT ⇒ STRETCH EXCELOFT",
+    "descriptionEn": "● Insulated hooded jacket, STRETCH EXCELOFT, bias-cut fabric, breathable, ease of movement, easy care\n● For active winter use as a mid- or outer layer\n【Revised point(s) from the current model】 Design: reversible ⇒ non-reversible Fabric: 12D ⇒ 20D Insulation: EXCELOFT ⇒ STRETCH EXCELOFT",
+    "features": "●STRETCH EXCELOFT 保暖層 80g/㎡ (主體) 60g/㎡ (袖子)\n●斜向彈性系統\n●Dual-Axial 風帽\n●拉鍊擋片\n●內部束繩調節扣\n●彈性袖口\n●3 個拉鍊口袋 (2 個暖手口袋，1 個胸前口袋)\n●隨附收納袋",
+    "featuresEn": "●STRETCH EXCELOFT 80g/㎡ (body) 60g/㎡ (sleeve)\n●Bias stretch system\n●Dual-Axial Hood\n●Zip End Guard\n●Inner drawcord adjuster\n●Elastic cuff\n●3 zippered pockets (2 hand pockets, 1 chest pocket)\n●Stuff sack included",
+    "specifications": "20 丹尼 Ballistic 格紋尼龍布 (不含 PFAS 撥水加工)\n內裡：12 丹尼 Ballistic Airlight 格紋尼龍布 (不含 PFAS 撥水加工)\n保暖層：STRETCH EXCELOFT (聚酯纖維)",
+    "specificationsEn": "20-denier Ballistic nylon ripstop (PFAS-free\nwater repellent finish)\nLining: 12-denier Ballistic Airlight nylon\nripstop (PFAS-free water repellent finish)\nInsulation: STRETCH EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "305 g",
     "price": "￥14,910",
     "colors": [
       "RD",
@@ -61,6 +120,19 @@
     "name": "THERMAWRAP 背心 男款",
     "nameEn": "THERMAWRAP VEST MEN'S",
     "category": "INSULATION",
+    "description": "● 保暖背心，採用 STRETCH EXCELOFT 保暖層，斜紋剪裁布料，透氣、活動自如、易於保養\n● 適合冬季戶外活動作為中層衣使用\n【本季改款重點】 設計：可雙面穿 ⇒ 不可雙面穿 布料：12D ⇒ 20D 保暖層：EXCELOFT ⇒ STRETCH EXCELOFT",
+    "descriptionEn": "● Insulated vest, STRETCH EXCELOFT, bias-cut fabric, breathable, ease of movement, easy care\n● For active winter use as a mid-layer\n【Revised point(s) from the current model】 Design: reversible ⇒ non-reversible Fabric: 12D ⇒ 20D Insulation: EXCELOFT ⇒ STRETCH EXCELOFT",
+    "features": "●STRETCH EXCELOFT 80g/㎡\n●斜向彈性系統\n●拉鍊擋片\n●內部束繩調節器\n●3個拉鍊口袋 (2個插手口袋，1個胸前口袋)\n●隨附收納袋",
+    "featuresEn": "●STRETCH EXCELOFT 80g/㎡\n●Bias stretch system\n●Zip End Guard\n●Inner drawcord adjuster\n●3 zippered pockets (2 hand pockets, 1 chest pocket)\n●Stuff sack included",
+    "specifications": "20丹尼 Ballistic 格紋尼龍布 (無PFAS撥水處理)\n內裡：12丹尼 Ballistic Airlight 格紋尼龍布 (無PFAS撥水處理)\n保暖層：STRETCH EXCELOFT (聚酯纖維)",
+    "specificationsEn": "20-denier Ballistic nylon ripstop (PFAS-free\nwater repellent finish)\nLining: 12-denier Ballistic Airlight nylon\nripstop (PFAS-free water repellent finish)\nInsulation: STRETCH EXCELOFT (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "220 g",
     "price": "￥10,910",
     "colors": [
       "BK",
@@ -74,6 +146,20 @@
     "name": "THERMAWRAP 背心 女款",
     "nameEn": "THERMAWRAP VEST WOMEN'S",
     "category": "INSULATION",
+    "description": "● 保暖背心，STRETCH EXCELOFT，斜裁布料，透氣，活動自如，易於保養\n● 適合冬季活動作為中層衣著\n【與現行款式比較之改良點】 設計：可雙面穿 ⇒ 不可雙面穿 布料：12 丹尼 ⇒ 20 丹尼 保暖層：EXCELOFT ⇒ STRETCH EXCELOFT",
+    "descriptionEn": "● Insulated vest, STRETCH EXCELOFT, bias-cut fabric, breathable, ease of movement, easy care\n● For active winter use as a mid-layer\n【Revised point(s) from the current model】 Design: reversible ⇒ non-reversible Fabric: 12D ⇒ 20D Insulation: EXCELOFT ⇒ STRETCH EXCELOFT",
+    "features": "●STRETCH EXCELOFT 80g/㎡\n●斜向彈性系統\n●拉鍊擋片\n●內部束繩調節器\n●3 個拉鍊口袋 (2 個暖手口袋，1 個胸前口袋)\n●附收納袋",
+    "featuresEn": "●STRETCH EXCELOFT 80g/㎡\n●Bias stretch system\n●Zip End Guard\n●Inner drawcord adjuster\n●3 zippered pockets (2 hand pockets, 1 chest pocket)\n●Stuff sack included",
+    "specifications": "20 丹尼 Ballistic 格紋尼龍布 (不含 PFAS 撥水加工)\n內裡：12 丹尼 Ballistic Airlight 格紋尼龍布 (不含 PFAS 撥水加工)\n保暖層：STRETCH EXCELOFT (聚酯纖維)",
+    "specificationsEn": "20-denier Ballistic nylon ripstop (PFAS-free\nwater repellent finish)\nLining: 12-denier Ballistic Airlight nylon\nripstop (PFAS-free water repellent finish)\nInsulation: STRETCH EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "205 g",
     "price": "￥10,455",
     "colors": [
       "DNV",
@@ -87,6 +173,20 @@
     "name": "STADIUM JUMPER",
     "nameEn": "STADIUM JUMPER",
     "category": "TRAVEL & COUNTRY",
+    "description": "● 保暖棒球外套，以這類外套而言，相當輕量、耐用，採用 EXCELOFT 保暖層，溫暖且多功能\n● 適合登山、露營、旅行、日常穿著",
+    "descriptionEn": "● Insulated varsity jacket, lightweight for this type of jacket, durable, EXCELOFT, warm, versatile\n● For hiking, camping, travel, daily use",
+    "features": "● 採用 EXCELOFT 60g/㎡ 保暖層 (車縫固定)，提供溫暖感受\n● 3 個口袋 (2 個暖手口袋，1 個內袋)\n● 拉鍊與鈕扣前開襟設計\n● 羅紋領口、袖口與下擺",
+    "featuresEn": "●EXCELOFT 60g/㎡ (sewn-through) insulated to provide warmth\n●3 pockets (2 hand pockets, 1 internal pocket)\n●Zipper & button front closure\n●Ribbed collar, cuff and hem",
+    "specifications": "主體：羊毛\n袖子：合成皮革\n內裡：20 丹尼 Ballistic 尼龍塔夫綢 (抗靜電處理)\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "Body: wool\nSleeves: synthetic leather\nLining: 20-denier Ballistic nylon taffeta (anti-\nstatic finish)\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "1030 g",
     "price": "￥40,000",
     "colors": [
       "DNV",
@@ -100,6 +200,19 @@
     "name": "THERMALAND PARKA 男款",
     "nameEn": "THERMALAND PARKA MEN'S",
     "category": "TRAVEL & COUNTRY",
+    "description": "● 保暖外套，輕量、溫暖、易於保養、EXCELOFT、多功能\n● 適合旅行與日常穿著\n【本季改款重點】 設計：可雙面穿 ⇒ 不可雙面穿 絎縫圖案 ⇒ 更新",
+    "descriptionEn": "● Insulated jacket, lightweight, warm, easy care, EXCELOFT, versatile\n● For travel and daily use\n【Revised point(s) from the current model】 Design: reversible ⇒ non-reversible Quilting pattern ⇒ updated",
+    "features": "● 雙向可調風帽\n● 拉鍊護片\n● 內側下擺束繩\n● 兩個拉鍊暖手口袋\n● 隨附收納袋",
+    "featuresEn": "●Dual-axial Hood\n●Zip End Guard\n●Inner drawcord adjuster\n●2 zippered hand pockets\n●Stuff sack included",
+    "specifications": "表布：40丹尼超細纖維尼龍塔夫綢 (不含PFAS撥水處理)\n內裡：40丹尼超細纖維尼龍塔夫綢 (不含PFAS撥水處理)\n保暖層：EXCELOFT (聚酯纖維)\n※身體⇒80g/㎡，袖子與風帽⇒50g/㎡",
+    "specificationsEn": "40-denier microfiber nylon taffeta (PFAS-free\nwater repellent finish)\nReverse: 40-denier microfiber nylon taffeta\n(PFAS-free water repellent finish)\nInsulation: EXCELOFT (polyester)\n※Body⇒80g/㎡, sleeve&hood⇒50g/㎡",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "500 g",
     "price": "￥12,182",
     "colors": [
       "BK",
@@ -115,6 +228,20 @@
     "name": "THERMALAND PARKA 女款",
     "nameEn": "THERMALAND PARKA WOMEN'S",
     "category": "TRAVEL & COUNTRY",
+    "description": "● 保暖外套，輕量、溫暖、易於保養、EXCELOFT、多功能\n● 適合旅行與日常穿著\n【與現行款式相比的改進】 設計：可雙面穿 ⇒ 不可雙面穿 絎縫圖案 ⇒ 更新",
+    "descriptionEn": "● Insulated jacket, lightweight, warm, easy care, EXCELOFT, versatile\n● For travel and daily use\n【Revised point(s) from the current model】 Design: reversible ⇒ non-reversible Quilting pattern ⇒ updated",
+    "features": "●Dual-axial 風帽\n●拉鍊擋片\n●內側下擺束繩調節\n●2個拉鍊式暖手口袋\n●附收納袋",
+    "featuresEn": "●Dual-axial Hood\n●Zip End Guard\n●Inner drawcord adjuster\n●2 zippered hand pockets\n●Stuff sack included",
+    "specifications": "40丹尼超細纖維尼龍塔夫綢 (不含PFAS撥水加工)\n反面：40丹尼超細纖維尼龍塔夫綢\n(不含PFAS撥水加工)\n保暖層：EXCELOFT (聚酯纖維)\n※主體⇒80g/㎡，袖子與風帽⇒50g/㎡",
+    "specificationsEn": "40-denier microfiber nylon taffeta (PFAS-free\nwater repellent finish)\nReverse: 40-denier microfiber nylon taffeta\n(PFAS-free water repellent finish)\nInsulation: EXCELOFT (polyester)\n※Body⇒80g/㎡, sleeve&hood⇒50g/㎡",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "440 g",
     "price": "￥11,637",
     "colors": [
       "BK",
@@ -130,6 +257,19 @@
     "name": "THERMALAND WARM PARKA 男款",
     "nameEn": "THERMALAND WARM PARKA MEN'S",
     "category": "TRAVEL & COUNTRY",
+    "description": "● 保暖外套，輕量，最保暖的合成纖維填充款式，易於保養，EXCELOFT\n● 適用於寒冷氣候下的旅行與日常穿著",
+    "descriptionEn": "● Insulated jacket, lightweight, warmest synthetic-fill model, easy care, EXCELOFT\n● For travel and daily use in cold conditions",
+    "features": "●雙向調整風帽\n●拉鍊擋片\n●內部束繩調節\n●2 個拉鍊式暖手口袋\n●隨附收納袋",
+    "featuresEn": "●Dual-axial Hood\n●Zip End Guard\n●Inner drawcord adjuster\n●2 zippered hand pockets\n●Stuff sack included",
+    "specifications": "40 丹尼超細纖維尼龍塔夫綢 (不含 PFAS 撥水加工)\n反面：40 丹尼超細纖維尼龍塔夫綢 (不含 PFAS 撥水加工)\n保暖層：EXCELOFT (聚酯纖維)\n※主體⇒150g/㎡，袖子與風帽⇒120g/㎡",
+    "specificationsEn": "40-denier microfiber nylon taffeta (PFAS-free\nwater repellent finish)\nReverse: 40-denier microfiber nylon taffeta\n(PFAS-free water repellent finish)\nInsulation: EXCELOFT (polyester)\n※Body⇒150g/㎡, Sleeve&hood⇒120g/㎡",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "600 g",
     "price": "￥12,728",
     "colors": [
       "BK",
@@ -144,6 +284,20 @@
     "name": "THERMALAND 溫暖連帽外套 女款",
     "nameEn": "THERMALAND WARM PARKA WOMEN'S",
     "category": "TRAVEL & COUNTRY",
+    "description": "● 保暖外套，輕量，最保暖的化纖填充款式，易於保養，EXCELOFT\n● 適合旅行與日常寒冷天氣穿著",
+    "descriptionEn": "● Insulated jacket, lightweight, warmest synthetic-fill model, easy care, EXCELOFT\n● For travel and daily use in cold conditions",
+    "features": "●雙軸式風帽\n●拉鍊擋片\n●內部束繩調節器\n●2個拉鍊暖手口袋\n●附收納袋",
+    "featuresEn": "●Dual-axial Hood\n●Zip End Guard\n●Inner drawcord adjuster\n●2 zippered hand pockets\n●Stuff sack included",
+    "specifications": "表布：40丹尼超細纖維尼龍塔夫綢 (不含PFAS撥水加工)\n內裡：40丹尼超細纖維尼龍塔夫綢 (不含PFAS撥水加工)\n保暖層：EXCELOFT (聚酯纖維)\n※主體⇒150g/㎡，袖子與風帽⇒120g/㎡",
+    "specificationsEn": "40-denier microfiber nylon taffeta (PFAS-free\nwater repellent finish)\nReverse: 40-denier microfiber nylon taffeta\n(PFAS-free water repellent finish)\nInsulation: EXCELOFT (polyester)\n※Body⇒150g/㎡, Sleeve&hood⇒120g/㎡",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "535 g",
     "price": "￥12,182",
     "colors": [
       "BK",
@@ -158,6 +312,19 @@
     "name": "CLIMAGRID 套頭上衣 男款",
     "nameEn": "CLIMAGRID PULLOVER MEN'S",
     "category": "THERMAL",
+    "description": "● 刷毛套頭上衣，彈性舒適，刷毛內裡，透氣保暖，表面防潑雪\n● 適合全年多功能使用",
+    "descriptionEn": "● Fleece pullover, stretchy comfort, brushed lining, breathable, warm, snow-shedding surface\n● For year-round, versatile use",
+    "features": "●內層格紋設計提供透氣度\n及適度保暖\n●Flat Seam Technology\n●Zip End Guard\n●防晃動拉鍊\n●拇指孔\n●1 個拉鍊胸前口袋",
+    "featuresEn": "●Interior grid pattern provides breathability\nand moderate warmth\n●Flat Seam Technology\n●Zip End Guard\n●Swingproof zipper\n●Thumb hole\n●1 zippered chest pocket",
+    "specifications": "CLIMAGRID (100% 聚酯纖維)",
+    "specificationsEn": "CLIMAGRID (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "266 g",
     "price": "￥5,455",
     "colors": [
       "BK",
@@ -172,6 +339,20 @@
     "name": "CLIMAGRID 套頭衫 女款",
     "nameEn": "CLIMAGRID PULLOVER WOMEN'S",
     "category": "THERMAL",
+    "description": "● 刷毛套頭衫，彈性舒適，刷毛內裡，透氣保暖，表面防潑雪\n● 適合全年多功能使用",
+    "descriptionEn": "● Fleece pullover, stretchy comfort, brushed lining, breathable, warm, snow-shedding surface\n● For year-round, versatile use",
+    "features": "● 內層格紋設計提供透氣度與適度保暖\n● 平車縫線技術\n● 拉鍊擋布\n● 防晃動拉鍊\n● 拇指孔\n● 1 個拉鍊胸前口袋",
+    "featuresEn": "●Interior grid pattern provides breathability\nand moderate warmth\n●Flat Seam Technology\n●Zip End Guard\n●Swingproof zipper\n●Thumb hole\n●1 zippered chest pocket",
+    "specifications": "CLIMAGRID (100% 聚酯纖維)",
+    "specificationsEn": "CLIMAGRID (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "225 g",
     "price": "￥5,091",
     "colors": [
       "IV",
@@ -186,6 +367,19 @@
     "name": "CLIMAGRID 刷毛圓領衫 男款",
     "nameEn": "CLIMAGRID SWEATSHIRT MEN'S",
     "category": "THERMAL",
+    "description": "● 刷毛圓領衫，彈性舒適，刷毛內裡，透氣保暖，表面不易沾雪\n● 適合全年多功能穿著",
+    "descriptionEn": "● Fleece sweatshirt, stretchy comfort, brushed lining, breathable, warm, snow-shedding surface\n● For year-round, versatile use",
+    "features": "● 內層格紋設計，提供透氣度及適度保暖\n●Flat Seam Technology\n●Spiral Slant-Tec Cuff",
+    "featuresEn": "●Interior grid pattern provides breathability\nand moderate warmth\n●Flat Seam Technology\n●Spiral Slant-Tec Cuff",
+    "specifications": "CLIMAGRID (100% 聚酯纖維)",
+    "specificationsEn": "CLIMAGRID (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "237 g",
     "price": "￥3,637",
     "colors": [
       "BK",
@@ -200,6 +394,20 @@
     "name": "CLIMAGRID 刷毛運動衫 女款",
     "nameEn": "CLIMAGRID SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
+    "description": "● 刷毛運動衫，彈性舒適，刷毛內裡，透氣保暖，表面防潑雪。\n● 適合全年多功能使用。",
+    "descriptionEn": "● Fleece sweatshirt, stretchy comfort, brushed lining, breathable, warm, snow-shedding surface\n● For year-round, versatile use",
+    "features": "● 內層格紋設計，提供透氣度與適度保暖。\n● Flat Seam Technology\n● Spiral Slant-Tec 袖口",
+    "featuresEn": "●Interior grid pattern provides breathability\nand moderate warmth\n●Flat Seam Technology\n●Spiral Slant-Tec Cuff",
+    "specifications": "CLIMAGRID (100% 聚酯纖維)",
+    "specificationsEn": "CLIMAGRID (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "195 g",
     "price": "￥3,273",
     "colors": [
       "IV",
@@ -214,6 +422,19 @@
     "name": "CHAMEECE 刷毛運動衫 男款",
     "nameEn": "CHAMEECE SWEATSHIRT MEN'S",
     "category": "THERMAL",
+    "description": "● 採用 CHAMEECE 輕量刷毛材質，柔軟保暖的運動衫。\n● 適用於戶外活動與日常穿著。",
+    "descriptionEn": "● Lightweight fleece sweatshirt, CHAMEECE, soft and warm\n● Versatile for outdoor use and everyday wear",
+    "features": "● 兼具良好保暖性與透氣度。\n● Spiral Slant-Tec 袖口。",
+    "featuresEn": "●Well balanced thermal performance,\nbreathability\n●Spiral Slant-Tec Cuff",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "196 g",
     "price": "￥3,273",
     "colors": [
       "DGY",
@@ -228,6 +449,20 @@
     "name": "CHAMEECE 女款運動衫",
     "nameEn": "CHAMEECE SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
+    "description": "● 輕量刷毛運動衫，CHAMEECE 材質，柔軟保暖\n● 適合戶外活動與日常穿著",
+    "descriptionEn": "● Lightweight fleece sweatshirt, CHAMEECE, soft and warm\n● Versatile for outdoor use and everyday wear",
+    "features": "● 優異的保暖平衡與透氣度\n● Spiral Slant-Tec 袖口",
+    "featuresEn": "●Well balanced thermal performance,\nbreathability\n●Spiral Slant-Tec Cuff",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "164 g",
     "price": "￥3,000",
     "colors": [
       "IV",
@@ -242,6 +477,19 @@
     "name": "CHAMEECE V領背心 男款",
     "nameEn": "CHAMEECE V-NECK VEST MEN'S",
     "category": "THERMAL",
+    "description": "● 輕量背心，CHAMEECE 材質，V領設計，柔軟保暖，可收納\n● 適合寒冷天氣額外保暖",
+    "descriptionEn": "● Lightweight vest, CHAMEECE, V- neck, soft and warm, packable\n● For additional warmth in cold weather",
+    "features": "● 兼具良好保暖性與透氣度\n● V領款式",
+    "featuresEn": "●Well balanced thermal performance,\nbreathability\n●V-neck style",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "116 g",
     "price": "￥2,910",
     "colors": [
       "DGY",
@@ -255,6 +503,20 @@
     "name": "CHAMEECE V領背心 女款",
     "nameEn": "CHAMEECE V-NECK VEST WOMEN'S",
     "category": "THERMAL",
+    "description": "● 輕量背心，採用CHAMEECE材質，V領設計，柔軟保暖，可收納\n● 適合寒冷天氣額外保暖",
+    "descriptionEn": "● Lightweight vest, CHAMEECE, V- neck, soft and warm, packable\n● For additional warmth in cold weather",
+    "features": "● 良好的保暖性能與透氣度平衡\n● V領款式",
+    "featuresEn": "●Well balanced thermal performance,\nbreathability\n●V-neck style",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "95 g",
     "price": "￥2,728",
     "colors": [
       "IV",
@@ -268,6 +530,19 @@
     "name": "CHAMEECE 印花夾克 男款",
     "nameEn": "CHAMEECE PRINT JACKET MEN'S",
     "category": "THERMAL",
+    "description": "● 輕量刷毛夾克，CHAMEECE 材質，印花設計，柔軟保暖\n● 可作為外層或中層穿著，用途廣泛",
+    "descriptionEn": "● Lightweight fleece jacket, CHAMEECE, printed design, soft and warm\n●Versatile as an outer layer or a midlayer",
+    "features": "● 保暖性與透氣度兼具\n● Spiral Slant-Tec 袖口\n● 拉鍊擋片\n● 3個口袋 (2個暖手口袋，1個拉鍊胸前口袋)",
+    "featuresEn": "●Well balanced thermal performance,\nbreathability\n●Spiral Slant-Tec Cuff\n●Zip End Guard\n●3 pockets (2 hand pockets, 1 zippered chest\npocket)",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "262 g",
     "price": "￥7,819",
     "colors": [],
     "season": "FW"
@@ -278,6 +553,20 @@
     "name": "CHAMEECE 印刷外套 女款",
     "nameEn": "CHAMEECE PRINT JACKET WOMEN'S",
     "category": "THERMAL",
+    "description": "● 輕量刷毛外套，CHAMEECE 材質，印刷設計，柔軟保暖\n● 可作為外層或中層穿著，用途廣泛",
+    "descriptionEn": "● Lightweight fleece jacket, CHAMEECE, printed design, soft and warm\n●Versatile as an outer layer or a midlayer",
+    "features": "● 良好的保暖性與透氣度\n● Spiral Slant-Tec 袖口\n● Zip End Guard\n● 3 個口袋 (2 個暖手口袋，1 個拉鍊胸前口袋)",
+    "featuresEn": "●Well balanced thermal performance,\nbreathability\n●Spiral Slant-Tec Cuff\n●Zip End Guard\n●3 pockets (2 hand pockets, 1 zippered chest\npocket)",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "203 g",
     "price": "￥7,273",
     "colors": [],
     "season": "FW"
@@ -288,6 +577,20 @@
     "name": "CLIMAPLUS 100 輕量運動衫 女款",
     "nameEn": "CLIMAPLUS 100 LITE SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
+    "description": "● 輕量運動衫，採用 CLIMAPLUS 100 刷毛，具彈性、柔軟、保暖\n● 適用於戶外活動及日常穿著，用途廣泛\n【本季改款重點】 版型：胸圍/腰圍 +2 cm，下擺 +3 cm，領口將會加大",
+    "descriptionEn": "● Lightweight sweatshirt, CLIMAPLUS 100 fleece, stretch, soft, warm\n● Versatile for outdoor use and everyday wear\n【Revised point(s) from the current model】 Fit: chest/waist +2 cm, hem +3 cm Neck opening will be enlarged",
+    "features": "● 具備速乾特性、優異的透氣度與保暖性\n● Slant-Tec 袖口",
+    "featuresEn": "●Quick-drying properties, breathability and\nexcellent warmth\n●Slant-Tec Cuff",
+    "specifications": "CLIMAPLUS 100 (聚酯纖維)",
+    "specificationsEn": "CLIMAPLUS 100 (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "230 g",
     "price": "￥4,455",
     "colors": [
       "PU",
@@ -303,6 +606,20 @@
     "name": "CLIMAPLUS 100 背心 女款",
     "nameEn": "CLIMAPLUS 100 VEST WOMEN'S",
     "category": "THERMAL",
+    "description": "● 輕量背心，採用 CLIMAPLUS 100 材質，V領設計，具彈性、柔軟、保暖、可收納\n● 適合寒冷天氣提供額外保暖\n【本季改款重點】 版型：胸圍/腰圍 +2 cm，下擺 +3 cm。領口將會加大",
+    "descriptionEn": "● Lightweight vest, CLIMAPLUS 100, V-neck, stretch, soft, warm, packable\n● For additional warmth in cold weather\n【Revised point(s) from the current model】 Fit: chest/waist +2 cm, hem +3 cm Neck opening will be enlarged",
+    "features": "● 具備速乾特性、透氣度與\n優異保暖性",
+    "featuresEn": "●Quick-drying properties, breathability and\nexcellent warmth",
+    "specifications": "CLIMAPLUS 100 (聚酯纖維)",
+    "specificationsEn": "CLIMAPLUS 100 (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "147 g",
     "price": "￥3,364",
     "colors": [
       "DBN",
@@ -316,6 +633,20 @@
     "name": "CLIMAPLUS 100 印刷輕量大學T 女款",
     "nameEn": "CLIMAPLUS 100 PRINT LITE SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
+    "description": "● 輕量大學T，採用 CLIMAPLUS 100 刷毛，具彈性、柔軟、保暖。\n● 適合戶外活動與日常穿著。\n【本季改款重點】 版型：胸圍/腰圍增加 2 公分，下擺增加 3 公分。領口將會加大。",
+    "descriptionEn": "● Lightweight sweatshirt, CLIMAPLUS 100 fleece, stretch, soft, warm\n● For outdoor use, everyday wear\n【Revised point(s) from the current model】 Fit: chest/waist +2 cm, hem +3 cm Neck opening will be enlarged",
+    "features": "● 具備速乾特性、透氣度與極佳保暖性。\n● Slant-Tec 袖口",
+    "featuresEn": "●Quick-drying properties, breathability and\nexcellent warmth\n●Slant-Tec Cuff",
+    "specifications": "CLIMAPLUS 100 (聚酯纖維)",
+    "specificationsEn": "CLIMAPLUS 100 (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥5,455",
     "colors": [],
     "season": "FW"
@@ -326,6 +657,22 @@
     "name": "STREAM PARKA 男款",
     "nameEn": "STREAM PARKA MEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼外套，採用耐用的 DRYTEC，防水且高度透氣\n● 適用於冬季登山、攀冰\n【本季改款重點】布料將更輕量、更耐用，並新增暖手口袋",
+    "descriptionEn": "● Alpine hard-shell jacket, durable DRYTEC, waterproof and highly breathable\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Fabric will be lighter and more durable Hand pockets will be added",
+    "features": "●防水且高度透氣的 DRYTEC 布料\n●全壓膠處理\n●Aqua-Tect 拉鍊\n●三向式風帽\n●可容納攀登頭盔的風帽\n●臉部防護領\n●拉鍊末端護片\n●防霧透氣系統\n●立體剪裁袖子\n●高山袖口\n●腋下透氣拉鍊\n●雙向主拉鍊\n●下擺調節繩\n●6個口袋 (2個拉鍊胸前口袋、2個拉鍊暖手口袋、1個內部拉鍊口袋、1個內部口袋)\n●附收納袋",
+    "featuresEn": "●Waterproof and highly breathable DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Tri-axial Hood\n●Climbing helmet compatible hood\n●Face Shield Collar\n●Zip End Guard\n●Anti-fog Aeration System\n●Articulated arms\n●Alpine Cuff\n●Pit zips\n●2-way front zipper\n●Hem adjuster\n●6 pockets (2 zippered chest pockets, 2 zippered hand pockets, 1\nInternal zip pocket, 1 internal pocket)\n●Stuff sack included",
+    "specifications": "3層 DRYTEC (高度透氣)\n40丹尼摩擦織尼龍塔夫綢 (不含PFAS的撥水處理)",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n40-denier friction-weave nylon taffeta (PFAS-\nfree water repellent finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
+    "weight": "466 g",
     "price": "￥29,000",
     "colors": [
       "RD",
@@ -340,6 +687,19 @@
     "name": "DENALI PARKA 男款",
     "nameEn": "DENALI PARKA MEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼外套，採用耐用 GORE-TEX，防水且透氣\n● 適用於冬季登山、攀冰\n【本季改款重點】將新增暖手口袋",
+    "descriptionEn": "● Alpine hard-shell jacket, durable GORE-TEX, waterproof and breathable\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Hand pockets will be added",
+    "features": "●防水透氣 GORE-TEX 布料\n●全防水貼條處理\n●Aqua-Tect 拉鍊\n●Tri-axial 風帽\n●可容納攀登頭盔的風帽\n●面部防護領\n●拉鍊末端護片\n●防霧通風系統\n●立體剪裁袖子\n●Alpine 袖口\n●腋下透氣拉鍊\n●雙向主拉鍊\n●下擺調節繩\n●採用輕量、薄型 13 mm 寬防水貼條進行全防水貼條處理\n●6 個口袋 (2 個拉鍊胸前口袋、2 個拉鍊暖手口袋、1 個內部拉鍊口袋、1 個內部口袋)\n●附收納袋",
+    "featuresEn": "●Waterproof and breathable GORE-TEX fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Tri-axial Hood\n●Climbing helmet compatible hood\n●Face Shield Collar\n●Zip End Guard\n●Anti-fog Aeration System\n●Articulated arms\n●Alpine Cuff\n●Pit zips\n●2-way front zipper\n●Hem adjuster\n●Fully seam-sealed using lightweight, thin 13 mm-wide tape\n●6 pockets (2 zippered chest pockets, 2 zippered hand pockets, 1\nInternal zip pocket, 1 internal pocket)\n●Stuff sack included",
+    "specifications": "3 層 GORE-TEX® 布料\n70 丹尼 Ballistic 抗撕裂尼龍塔夫綢\n(不含 PFAS 撥水處理)",
+    "specificationsEn": "3-layer GORE-TEX® Fabrics\n70-denier friction-weave Ballistic nylon taffeta\n(PFAS-free water repellent finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "410 g",
     "price": "￥40,910",
     "colors": [
       "YGN",
@@ -354,6 +714,20 @@
     "name": "DENALI PARKA 女款",
     "nameEn": "DENALI PARKA WOMEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼外套，採用耐用的 GORE-TEX，防水且透氣\n● 適用於冬季登山、攀冰\n【本季改款重點】 將增加暖手口袋",
+    "descriptionEn": "● Alpine hard-shell jacket, durable GORE-TEX, waterproof and breathable\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Hand pockets will be added",
+    "features": "● 防水且透氣的 GORE-TEX 布料\n● 全壓膠處理\n● Aqua-Tect Zipper\n● Tri-axial 風帽\n● 可容納攀登頭盔的風帽\n● Face Shield Collar\n● Zip End Guard\n● Anti-fog Aeration System\n● 可拆式妝容防護片\n● 立體剪裁衣袖\n● Alpine 袖口\n● 腋下透氣拉鍊\n● 雙向主拉鍊\n● 下擺調節繩\n● 採用輕量、薄型 13 mm 寬壓膠帶進行全壓膠處理\n● 6 個口袋 (2 個拉鍊式胸前口袋、2 個拉鍊式暖手口袋、1 個內部拉鍊口袋、1 個內部口袋)",
+    "featuresEn": "●Waterproof and breathable GORE-TEX fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Tri-axial Hood\n●Climbing helmet compatible hood\n●Face Shield Collar\n●Zip End Guard\n●Anti-fog Aeration System\n●Detachable makeup guard\n●Articulated arms\n●Alpine Cuff\n●Pit zips\n●2-way front zipper\n●Hem adjuster\n●Fully seam-sealed using lightweight, thin 13 mm-wide tape\n●6 pockets (2 zippered chest pockets, 2 zippered hand pockets, 1\nInternal zip pocket, 1 internal pocket)",
+    "specifications": "3 層 GORE-TEX® 布料\n70 丹尼 Ballistic 抗撕裂尼龍塔夫綢\n(不含 PFAS 撥水處理)",
+    "specificationsEn": "3-layer GORE-TEX® Fabrics\n70-denier friction-weave Ballistic nylon taffeta\n(PFAS-free water repellent finish)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "380 g",
     "price": "￥40,000",
     "colors": [
       "PK",
@@ -367,6 +741,19 @@
     "name": "DYNA ACTION PARKA 男款",
     "nameEn": "DYNA ACTION PARKA MEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 超輕量高山硬殼外套，採用彈性 DRYTEC 材質，具備防水與高度透氣功能\n● 適用於全年登山、高山攀登、健行\n【本季改款重點】 布料更輕量、更具彈性 移除雪裙 內口袋數量：2 ⇒ 1",
+    "descriptionEn": "● Ultralight alpine hard-shell jacket, stretchy DRYTEC, waterproof and highly breathable\n● For year-round mountaineering, alpine climbing, hiking\n【Revised point(s) from the current model】 Fabric will be lighter and more stretchy Snow skirt will be removed Number of inner pocket： 2 ⇒ 1",
+    "features": "●防水、高度透氣、彈性 DRYTEC 布料\n●全壓膠處理\n●Aqua-Tect 拉鍊\n●Tri-axial 風帽\n●可容納攀登頭盔的風帽\n●面部防護領\n●拉鍊末端保護\n●防霧透氣系統\n●立體剪裁袖子\n●高山袖口\n●腋下透氣拉鍊\n●雙向主拉鍊\n●下擺調節繩\n●採用輕量、薄型 13 mm 寬壓膠條進行全壓膠處理\n●4 個口袋 (1 個拉鍊胸前口袋、2 個拉鍊暖手口袋、1 個內口袋)\n●附收納袋",
+    "featuresEn": "●Waterproof, highly breathable, and stretchy DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Tri-axial Hood\n●Climbing helmet compatible hood\n●Face Shield Collar\n●Zip End Guard\n●Anti-fog Aeration System\n●Articulated arms\n●Alpine Cuff\n●Pit zips\n●2-way front zipper\n●Hem adjuster\n●Fully seam-sealed using lightweight, thin 13 mm-wide tape\n●4 pockets (1 zippered chest pocket, 2 zippered hand pockets, 1\ninternal pocket)\n●Stuff sack included",
+    "specifications": "3 層 DRYTEC (高度透氣)\n15 丹尼摩擦編織 Ballistic Airlight\n格紋尼龍布 (不含 PFAS 撥水處理)",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n15-denier friction-weave Ballistic Airlight\nnylon ripstop (PFAS-free water repellent\nfinish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "360 g",
     "price": "￥33,000",
     "colors": [
       "OG",
@@ -381,6 +768,28 @@
     "name": "高山長褲 男款",
     "nameEn": "ALPINE PANTS MEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼長褲，採用彈性耐用的 DRYTEC 材質，具備防水與高度透氣功能\n● 適用於冬季登山、攀冰活動\n【本季改款重點】為提升登山性能，移除下擺補強片；移除內置雪裙；縮小褲腳防磨片尺寸以提升活動性",
+    "descriptionEn": "● Alpine hard-shell pants, stretchy and durable DRYTEC, waterproof and highly breathable\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Hem gussets will be removed for mountaineering-focused performance Inner gaiters will be eliminated Edge guard will be downsized for improved mobility",
+    "features": "● 採用防水、高度透氣、雙向彈性的 DRYTEC 布料\n● 全壓膠處理\n● Aqua-Tect 拉鍊\n● 易調式腰帶\n● 吊帶連接點\n● 前開襟拉鍊\n● 膝部立體剪裁\n● 側邊拉鍊\n● 褲腳防磨片\n● 大腿口袋內側附鑰匙環\n● 隨附收納袋\n● 4 個口袋 (2 個拉鍊式暖手口袋、2 個拉鍊式大腿口袋)",
+    "featuresEn": "●Waterproof, highly breathable, and 2-way stretch DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Easy-adjust belt\n●Suspender attachment points\n●Front fly\n●Articulated knee\n●Side zipper\n●Edge Guard\n●Key loops inside thigh pockets\n●Stuff sack included\n●4 pockets (2 zippered hand pockets, 2 zippered thigh pockets)",
+    "specifications": "3 層 DRYTEC (高度透氣)\n70 丹尼摩擦編織尼龍塔夫綢 (不含 PFAS 撥水加工)\n褲腳防磨片：1,260 丹尼 Ballistic 尼龍",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n70-denier friction-weave nylon taffeta (PFAS-\nfree water repellent finish)\nEdge guard: 1,260-denier Ballistic nylon",
+    "sizes": [
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XL-L",
+      "XXL",
+      "XXL-S"
+    ],
+    "weight": "460 g",
     "price": "￥26,000",
     "colors": [
       "BK",
@@ -396,6 +805,27 @@
     "name": "高山長褲 女款",
     "nameEn": "ALPINE PANTS WOMEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼長褲，採用彈性耐用的 DRYTEC 材質，防水且高度透氣\n● 適用於冬季登山、攀冰\n【本季改款重點】下擺褲腳片將移除，以提升登山機能 內置雪裙將取消 耐磨護邊將縮小尺寸，以提升活動性",
+    "descriptionEn": "● Alpine hard-shell pants, stretchy and durable DRYTEC, waterproof and highly breathable\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Hem gussets will be removed for mountaineering-focused performance Inner gaiters will be eliminated Edge guard will be downsized for improved mobility",
+    "features": "● 防水、高度透氣、雙向彈性的 DRYTEC 布料\n● 全縫線貼條處理\n● Aqua-Tect 拉鍊\n● 易調式腰帶\n● 吊帶連接點\n● 前開襟拉鍊\n● 立體剪裁膝部\n● 側邊拉鍊\n● 耐磨護邊\n● 大腿口袋內側附鑰匙環\n● 附收納袋\n● 2個拉鍊式大腿口袋",
+    "featuresEn": "●Waterproof, highly breathable, and 2-way stretch DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Easy-adjust belt\n●Suspender attachment points\n●Front fly\n●Articulated knee\n●Side zipper\n●Edge Guard\n●Key loops inside thigh pockets\n●Stuff sack included\n●2 zippered thigh pockets",
+    "specifications": "三層 DRYTEC (高度透氣)\n70 丹尼 抗撕裂尼龍塔夫綢 (不含 PFAS 撥水加工)\n耐磨護邊：1,260 丹尼 Ballistic 尼龍",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n70-denier friction-weave nylon taffeta (PFAS-\nfree water repellent finish)\nEdge guard: 1,260-denier Ballistic nylon",
+    "sizes": [
+      "XS",
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XXL-S"
+    ],
+    "weight": "375 g",
     "price": "￥24,637",
     "colors": [
       "BK",
@@ -409,6 +839,28 @@
     "name": "ALPINE 輕量長褲 男款",
     "nameEn": "ALPINE LIGHT PANTS MEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 輕量高山硬殼褲，採用彈性 DRYTEC 材質，防水且高度透氣\n● 適用於四季登山、高山攀登、健行活動\n【本季改款重點】 移除下擺褲腳片以提升登山性能，取消內置雪裙，縮小褲腳耐磨片尺寸以提升活動性",
+    "descriptionEn": "● Lightweight alpine hard-shell pants, stretchy DRYTEC, waterproof and highly breathable\n● For year-round mountaineering, alpine climbing, hiking\n【Revised point(s) from the current model】 Hem gussets will be removed for mountaineering-focused performance Inner gaiters will be eliminated Edge guard will be downsized for improved mobility",
+    "features": "● 防水、高度透氣、雙向彈性 DRYTEC 材質\n● 全防水貼條處理\n● Aqua-Tect 拉鍊\n● 易於調整的腰帶\n● 吊帶連接點\n● 前開襟\n● 膝部立體剪裁\n● 側邊拉鍊\n● 褲腳耐磨片\n● 大腿口袋內附鑰匙環\n● 隨附收納袋\n● 2 個拉鍊式大腿口袋",
+    "featuresEn": "●Waterproof, highly breathable, and 2-way stretch DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Easy-adjust belt\n●Suspender attachment points\n●Front fly\n●Articulated knee\n●Side zipper\n●Edge Guard\n●Key loops inside thigh pockets\n●Stuff sack included\n●2 zippered thigh pockets",
+    "specifications": "3 層 DRYTEC (高度透氣)\n40 丹尼摩擦編織尼龍塔夫綢 (不含 PFAS 撥水處理)\n褲腳耐磨片：1,260 丹尼 Ballistic 尼龍",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n40-denier friction-weave nylon taffeta (PFAS-\nfree water repellent finish)\nEdge guard: 1,260-denier Ballistic nylon",
+    "sizes": [
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XL-L",
+      "XXL",
+      "XXL-S"
+    ],
+    "weight": "381 g",
     "price": "￥24,000",
     "colors": [
       "BK",
@@ -422,6 +874,27 @@
     "name": "ALPINE 輕量長褲 女款",
     "nameEn": "ALPINE LIGHT PANTS WOMEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 輕量高山硬殼長褲，採用彈性 DRYTEC 材質，防水且高度透氣\n● 適用於四季登山、高山攀登、健行活動\n【本季改款重點】為提升登山機能，移除下擺褲腳片；移除內置雪裙；縮小褲腳耐磨片尺寸，提升活動性",
+    "descriptionEn": "● Lightweight alpine hard-shell pants, stretchy DRYTEC, waterproof and highly breathable\n● For year-round mountaineering, alpine climbing, hiking\n【Revised point(s) from the current model】 Hem gussets will be removed for mountaineering-focused performance Inner gaiters will be eliminated Edge guard will be downsized for improved mobility",
+    "features": "● 防水、高度透氣、雙向彈性 DRYTEC 布料\n● 全壓膠處理\n● Aqua-Tect 拉鍊\n● 易調式腰帶\n● 吊帶連接點\n● 前開襟拉鍊\n● 立體剪裁膝部\n● 側邊拉鍊\n● 褲腳耐磨片\n● 大腿口袋內側鑰匙環\n● 附收納袋\n● 兩個拉鍊式大腿口袋",
+    "featuresEn": "●Waterproof, highly breathable, and 2-way stretch DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Easy-adjust belt\n●Suspender attachment points\n●Front fly\n●Articulated knee\n●Side zipper\n●Edge Guard\n●Key loops inside thigh pockets\n●Stuff sack included\n●2 zippered thigh pockets",
+    "specifications": "3 層 DRYTEC (高度透氣)\n40 丹尼抗撕裂尼龍塔夫綢 (無 PFAS 撥水處理)\n褲腳耐磨片：1,260 丹尼 Ballistic 尼龍",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n40-denier friction-weave nylon taffeta (PFAS-\nfree water repellent finish)\nEdge guard: 1,260-denier Ballistic nylon",
+    "sizes": [
+      "XS",
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XXL-S"
+    ],
+    "weight": "335 g",
     "price": "￥22,637",
     "colors": [
       "BK"
@@ -434,6 +907,28 @@
     "name": "DRYTEC 保暖高山長褲 男款",
     "nameEn": "DRYTEC INSULATED ALPINE PANTS MEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼長褲，採用 DRYTEC 材質，具備防水、高度透氣機能，搭配 Thinsulate 保暖層\n● 適用於冬季登山、攀冰活動\n【與現行款的改進點】為提升登山專用性能，將移除下擺插角布 ● 將取消內置雪裙 ● 邊緣防護片將縮小尺寸，以提升活動靈活性",
+    "descriptionEn": "● Alpine hard-shell pants, DRYTEC, waterproof and highly breathable, Thinsulate insulation\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Hem gussets will be removed for mountaineering-focused performance Inner gaiters will be eliminated Edge guard will be downsized for improved mobility",
+    "features": "● 採用防水、高度透氣且具備雙向彈性的 DRYTEC 布料\n● 全壓膠處理\n● Aqua-Tect 拉鍊\n● Thinsulate™ 化纖填充\n● 易調式腰帶\n● 吊帶連接點\n● 前開襟\n● 立體剪裁膝部\n● 側邊拉鍊\n● 邊緣防護片\n● 大腿口袋內側附鑰匙環\n● 隨附收納袋\n● 4個口袋（2個拉鍊式暖手口袋、2個拉鍊式大腿口袋）",
+    "featuresEn": "●Waterproof, highly breathable, and 2-way stretch DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Thinsulate™ synthetic insulation\n●Easy-adjust belt\n●Suspender attachment points\n●Front fly\n●Articulated knee\n●Side zipper\n●Edge Guard\n●Key loops inside thigh pockets\n●Stuff sack included\n●4 pockets (2 zippered hand pockets, 2 zippered thigh pockets)",
+    "specifications": "2層 DRYTEC (高透氣度)\n75丹尼 摩擦織法聚酯纖維塔夫綢\n(不含PFAS撥水加工)\n內裡：30丹尼 聚酯纖維塔夫綢\n保暖層：Thinsulate™ 40g/m²\n邊緣防護片：1,260丹尼 Ballistic 尼龍",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n75-denier friction-weave polyester taffeta\n(PFAS-free water repellent finish)\nLining: 30-denier polyester taffeta\nInsulation: Thinsulate™  40g/m²\nEdge guard: 1,260-denier Ballistic nylon",
+    "sizes": [
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XL-L",
+      "XXL",
+      "XXL-S"
+    ],
+    "weight": "442 g",
     "price": "￥22,000",
     "colors": [
       "BK",
@@ -447,6 +942,27 @@
     "name": "DRYTEC 保暖高山長褲 女款",
     "nameEn": "DRYTEC INSULATED ALPINE PANTS WOMEN'S",
     "category": "ALPINE CLOTHING",
+    "description": "● 高山硬殼長褲，採用 DRYTEC 材質，具備防水、高度透氣與 Thinsulate 保暖層\n● 適用於冬季登山、攀冰活動\n【本季改款重點】為提升登山機能，移除下擺褲管的立體剪裁；取消內置雪裙；縮小褲腳防磨片尺寸，以提升活動靈活性",
+    "descriptionEn": "● Alpine hard-shell pants, DRYTEC, waterproof and highly breathable, Thinsulate insulation\n● For winter mountaineering, ice climbing\n【Revised point(s) from the current model】 Hem gussets will be removed for mountaineering-focused performance Inner gaiters will be eliminated Edge guard will be downsized for improved mobility",
+    "features": "● 採用防水、高度透氣且具備雙向彈性的 DRYTEC 布料\n● 全縫線密封處理\n● Aqua-Tect 拉鍊\n● Thinsulate™ 化纖填充\n● 易於調整的腰帶\n● 吊帶連接點\n● 前開襟拉鍊\n● 立體剪裁膝部\n● 側邊拉鍊\n● 褲腳防磨片\n● 大腿口袋內附鑰匙環\n● 附收納袋\n● 兩個拉鍊式大腿口袋",
+    "featuresEn": "●Waterproof, highly breathable, and 2-way stretch DRYTEC fabric\n●Fully seam-sealed\n●Aqua-Tect Zipper\n●Thinsulate™ synthetic insulation\n●Easy-adjust belt\n●Suspender attachment points\n●Front fly\n●Articulated knee\n●Side zipper\n●Edge Guard\n●Key loops inside thigh pockets\n●Stuff sack included\n●2 zippered thigh pockets",
+    "specifications": "2 層 DRYTEC (高度透氣)\n75 丹尼 抗撕裂聚酯纖維塔夫綢\n(不含 PFAS 撥水處理)\n內裡：30 丹尼 聚酯纖維塔夫綢\n保暖層：Thinsulate™ 40g/m²\n褲腳防磨片：1,260 丹尼 Ballistic 尼龍",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n75-denier friction-weave polyester taffeta\n(PFAS-free water repellent finish)\nLining: 30-denier polyester taffeta\nInsulation: Thinsulate™  40g/m²\nEdge guard: 1,260-denier Ballistic nylon",
+    "sizes": [
+      "XS",
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XXL-S"
+    ],
+    "weight": "394 g",
     "price": "￥21,000",
     "colors": [
       "BK"
@@ -459,6 +975,19 @@
     "name": "反光輕量外套 男款",
     "nameEn": "REFLECTIVE LIGHT SHELL JACKET MEN'S",
     "category": "SOFT SHELL",
+    "description": "● 反光外套，輕量，刷毛網眼內裡，高能見度印花，撥水，多功能\n● 提升夜間安全性",
+    "descriptionEn": "● Reflective jacket, lightweight, brushed mesh lining, high visibility print, water-repellent, versatile\n● For enhanced safety in the dark",
+    "features": "● 反光印花\n● 抗風\n● 3個口袋 (2個拉鍊暖手口袋，1個拉鍊胸前口袋)\n● 內側束繩調節\n● 彈性袖口與下擺\n● 附收納袋",
+    "featuresEn": "●Reflective print\n●Wind resistant\n●3 pockets (2 zippered hand pockets, 1 zippered chest pocket)\n●Inner drawcord adjuster\n●Elasticized cuffs and hem\n●Stuff sack included",
+    "specifications": "40丹尼尼龍塔夫綢 (反光印花，不含PFAS撥水處理)\n內裡：CLIMAPLUS 網眼布 (聚酯纖維，吸濕排汗處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water repellent finish)\nLining: CLIMAPLUS mesh (polyester,\nperspiration-absorbing treatment)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "267 g",
     "price": "￥10,546",
     "colors": [
       "DGY",
@@ -473,6 +1002,20 @@
     "name": "超輕量表布風帽外套 男款",
     "nameEn": "ULTRA LIGHT SHELL HOODED JACKET MEN'S",
     "category": "SOFT SHELL",
+    "description": "● 輕量抗風表布，透氣、網眼內裡、吸濕排汗、舒適\n● 適合快速健行和多功能戶外活動\n【本季改款重點】 版型與合身度更新 新增暖手口袋 移除腋下通風設計",
+    "descriptionEn": "● Lightweight wind shell, breathable, mesh lining, moisture wicking, comfortable\n● For speed hikes and versatile outdoor use\n【Revised point(s) from the current model】 Silhouette and fit will be updated Hand pockets will be added Underarm ventilation will be removed",
+    "features": "●抗風\n●斜向彈性系統\n●雙軸向風帽\n●拉鍊擋片\n●1個拉鍊胸前口袋，2個拉鍊暖手口袋\n●可收納設計",
+    "featuresEn": "●Wind resistant\n●Bias stretch system\n●Dual-axial Hood\n●Zip End Guard\n●1 zippered chest pocket,2 zippered hand pockets\n●Pocketable design",
+    "specifications": "12 丹尼 Ballistic Airlight 格紋尼龍布\n(不含PFAS撥水處理)\n內裡 (風帽除外)：聚酯纖維網眼布 (吸濕處理)",
+    "specificationsEn": "12-denier Ballistic Airlight nylon ripstop\n(PFAS-free water repellent finish)\nLining (except hood): polyester mesh (sweat-\nabsorbing finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "weight": "132 g",
     "price": "￥8,000",
     "colors": [
       "CN",
@@ -488,6 +1031,19 @@
     "name": "超輕量表布風帽外套 女款",
     "nameEn": "ULTRA LIGHT SHELL HOODED JACKET WOMEN'S",
     "category": "SOFT SHELL",
+    "description": "● 輕量抗風表布，透氣，網眼內裡，吸濕排汗，穿著舒適\n● 適合快速健行與多功能戶外活動使用\n【本季改款重點】 版型與合身度將會更新 將新增暖手口袋 將移除腋下通風設計",
+    "descriptionEn": "● Lightweight wind shell, breathable, mesh lining, moisture wicking, comfortable\n● For speed hikes and versatile outdoor use\n【Revised point(s) from the current model】 Silhouette and fit will be updated Hand pockets will be added Underarm ventilation will be removed",
+    "features": "● 抗風\n● 雙軸向風帽\n● 拉鍊擋片\n● 1個拉鍊胸前口袋，2個拉鍊暖手口袋\n● 可收納設計\n● 斜向彈性系統",
+    "featuresEn": "●Wind resistant\n●Dual-axial Hood\n●Zip End Guard\n●1 zippered chest pocket,2 zippered hand pockets\n●Pocketable design\n●Bias stretch system",
+    "specifications": "12 丹尼 Ballistic Airlight 格紋尼龍布\n(不含 PFAS 撥水加工)\n內裡 (風帽除外)：聚酯纖維網布 (吸濕加工)",
+    "specificationsEn": "12-denier Ballistic Airlight nylon ripstop\n(PFAS-free water repellent finish)\nLining (except hood): polyester mesh (sweat-\nabsorbing finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "110 g",
     "price": "￥7,546",
     "colors": [
       "DNV",
@@ -502,6 +1058,19 @@
     "name": "超輕量表布外套 男款",
     "nameEn": "ULTRA LIGHT SHELL JACKET MEN'S",
     "category": "SOFT SHELL",
+    "description": "● 輕量抗風表布，透氣、網眼內裡、吸濕排汗、舒適\n● 適用於快速健行與多功能戶外用途\n【本季改款重點】 版型與合身度將更新 將增加暖手口袋 將移除腋下通風設計",
+    "descriptionEn": "● Lightweight wind shell, breathable, mesh lining, moisture wicking, comfortable\n● For speed hikes and versatile outdoor use\n【Revised point(s) from the current model】 Silhouette and fit will be updated Hand pockets will be added Underarm ventilation will be removed",
+    "features": "● 抗風\n● 斜向彈性系統\n● 拉鍊擋片\n● 1個拉鍊胸前口袋，2個拉鍊暖手口袋\n● 可收納設計",
+    "featuresEn": "●Wind resistant\n●Bias stretch system\n●Zip End Guard\n●1 zippered chest pocket,2 zippered hand pockets\n●Pocketable design",
+    "specifications": "12丹尼 Ballistic Airlight 格紋尼龍布\n(不含PFAS撥水加工)\n內裡 (風帽除外)：聚酯纖維網布 (吸濕加工)",
+    "specificationsEn": "12-denier Ballistic Airlight nylon ripstop\n(PFAS-free water repellent finish)\nLining (except hood): polyester mesh (sweat-\nabsorbing finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥7,273",
     "colors": [
       "CN",
@@ -516,6 +1085,19 @@
     "name": "超輕量表布外套 女款",
     "nameEn": "ULTRA LIGHT SHELL JACKET WOMEN'S",
     "category": "SOFT SHELL",
+    "description": "● 輕量防風表布，透氣、網眼內裡、吸濕排汗、舒適\n● 適合快速健行與多功能戶外活動\n【本季改款重點】 版型與合身度將會更新，將新增暖手口袋，將移除腋下通風設計",
+    "descriptionEn": "● Lightweight wind shell, breathable, mesh lining, moisture wicking, comfortable\n● For speed hikes and versatile outdoor use\n【Revised point(s) from the current model】 Silhouette and fit will be updated Hand pockets will be added Underarm ventilation will be removed",
+    "features": "●防風\n●斜向彈性設計\n●拉鍊擋片\n●1個拉鍊胸前口袋，2個拉鍊暖手口袋\n●可收納設計",
+    "featuresEn": "●Wind resistant\n●Bias stretch system\n●Zip End Guard\n●1 zippered chest pocket,2 zippered hand pockets\n●Pocketable design",
+    "specifications": "12丹尼 Ballistic Airlight 格紋尼龍布\n(不含PFAS撥水處理)\n內裡 (風帽除外)：聚酯纖維網布 (吸濕處理)",
+    "specificationsEn": "12-denier Ballistic Airlight nylon ripstop\n(PFAS-free water repellent finish)\nLining (except hood): polyester mesh (sweat-\nabsorbing finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥6,909",
     "colors": [
       "DNV",
@@ -530,6 +1112,20 @@
     "name": "反光風衣外套",
     "nameEn": "REFLECTIVE WIND JACKET",
     "category": "WIND SHELL",
+    "description": "● 反光風衣外套，輕量、高能見度印花，可收納於口袋中\n● 適合夜間慢跑、健行、日常穿著\n【本季改款重點】 布料：全新反光印花設計 反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective wind jacket, lightweight, high visibility print, compactly packed into a pocket\n● For night jogging, walking, daily use\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash-durable",
+    "features": "● 反光處理，提升夜間活動安全性\n● 拉鍊擋布\n● 內側束繩調節設計\n● 3個口袋 (2個暖手口袋、1個胸前口袋)\n● 可收納設計",
+    "featuresEn": "●Reflective finish improves safety while traveling in the dark\n●Zip End Guard\n●Inner drawcord adjuster\n●3 pockets (2 hand pockets, 1 chest pocket)\n●Pocketable design",
+    "specifications": "40丹尼尼龍塔夫綢 (反光印花，不含PFAS撥水加工)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water repellent finish)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥8,091",
     "colors": [
       "DNV",
@@ -544,6 +1140,20 @@
     "name": "美麗諾羊毛 O.D. 襯衫 男款",
     "nameEn": "MERINO WOOL O.D. SHIRT MEN'S",
     "category": "SHIRTS",
+    "description": "● 羊毛襯衫，中等厚度，柔軟，耐用，抗臭，防縮水，可居家洗滌\n● 適用於寒冷季節\n【現行款式更新點】 布料：將會更新",
+    "descriptionEn": "● Wool shirt, midweight, soft, durable, odor-resistant, shrink- resistant, washable at home\n● For cold season wear\n【Revised point(s) from the current model】 Fabric: will be updated",
+    "features": "● 中等厚度 MERINO WOOL\n● 天然抗臭\n● 優異的濕氣調節功能\n● 防縮水處理\n● 2 個翻蓋胸前口袋 (左胸前口袋附有筆插)",
+    "featuresEn": "●Midweight MERINO WOOL\n●Naturally odor-resistant\n●Excellent moisture management\n●Shink-resistant treatment\n●2 flapped chest pockets (left chest pocket\nhas a pen holder)",
+    "specifications": "100% MERINO WOOL",
+    "specificationsEn": "100% MERINO WOOL",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥11,819",
     "colors": [
       "BL",
@@ -559,6 +1169,20 @@
     "name": "美麗諾羊毛 O.D. 襯衫 女款",
     "nameEn": "MERINO WOOL O.D. SHIRT WOMEN'S",
     "category": "SHIRTS",
+    "description": "● 中等厚度羊毛襯衫，柔軟、耐用、抗臭、抗縮水，可居家洗滌\n● 適合寒冷季節穿著\n【本季改款重點】 布料：將進行更新",
+    "descriptionEn": "● Wool shirt, midweight, soft, durable, odor-resistant, shrink- resistant, washable at home\n● For cold season wear\n【Revised point(s) from the current model】 Fabric: will be updated",
+    "features": "● 中等厚度美麗諾羊毛\n● 天然抗臭\n● 優異的濕度調節\n● 抗縮水處理\n● 1 個胸前口袋",
+    "featuresEn": "●Midweight MERINO WOOL\n●Naturally odor-resistant\n●Excellent moisture management\n●Shink-resistant treatment\n●1 chest pockets",
+    "specifications": "100% 美麗諾羊毛",
+    "specificationsEn": "100% MERINO WOOL",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥10,000",
     "colors": [
       "DGY",
@@ -574,6 +1198,20 @@
     "name": "美麗諾羊毛輕量長袖襯衫 男款",
     "nameEn": "MERINO WOOL LIGHT LONG SLEEVE SHIRT MEN'S",
     "category": "SHIRTS",
+    "description": "● 羊毛襯衫，輕量、柔軟、透氣、速乾、抗臭\n● 適合全年穿著\n【與現有型號的修改點】 布料：將會更新",
+    "descriptionEn": "● Wool shirt, lightweight, soft, breathable, quick-drying, odor- resistant\n● For year-round use\n【Revised point(s) from the current model】 Fabric: will be updated",
+    "features": "●輕量 MERINO WOOL PLUS\n●天然抗臭\n●優異的濕氣管理\n●抗縮水處理\n●1個胸前口袋",
+    "featuresEn": "●Lightweight MERINO WOOL PLUS\n●Naturally odor-resistant\n●Excellent moisture management\n●Shink-resistant treatment\n●1 chest pockets",
+    "specifications": "美麗諾羊毛 Plus (70% 羊毛 + 30%\n聚酯纖維)",
+    "specificationsEn": "Merino Wool Plus (70% wool + 30%\npolyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥10,000",
     "colors": [
       "GY",
@@ -589,6 +1227,20 @@
     "name": "美麗諾羊毛輕量長袖襯衫 女款",
     "nameEn": "MERINO WOOL LIGHT LONG SLEEVE SHIRT WOMEN'S",
     "category": "SHIRTS",
+    "description": "● 羊毛襯衫，輕量、柔軟、透氣、速乾、抗臭\n● 四季皆宜\n【本季改款重點】 布料：將會更新",
+    "descriptionEn": "● Wool shirt, lightweight, soft, breathable, quick-drying, odor- resistant\n● For year-round use\n【Revised point(s) from the current model】 Fabric: will be updated",
+    "features": "●輕量 MERINO WOOL PLUS\n●天然抗臭\n●優異的濕氣調節\n●防縮處理\n●1個胸前口袋",
+    "featuresEn": "●Lightweight MERINO WOOL PLUS\n●Naturally odor-resistant\n●Excellent moisture management\n●Shink-resistant treatment\n●1 chest pockets",
+    "specifications": "Merino Wool Plus (70% 羊毛 + 30% 聚酯纖維)",
+    "specificationsEn": "Merino Wool Plus (70% wool + 30%\npolyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥8,819",
     "colors": [
       "LV",
@@ -603,6 +1255,20 @@
     "name": "WICKRON O.D. 按扣襯衫",
     "nameEn": "WICKRON O.D. SNAP BUTTON SHIRT",
     "category": "SHIRTS",
+    "description": "● WICKRON 襯衫，中等厚度，透氣，吸濕排汗，速乾，按扣設計",
+    "descriptionEn": "● Wickron shirt, midweight, breathable, moisture wicking, quick- drying, snap button closure",
+    "features": "●中等厚度 WICKRON\n●透氣\n●吸濕排汗，速乾\n●按扣設計\n●1 個胸前口袋",
+    "featuresEn": "●Midweight Wickron\n●Breathable\n●Moisture-wicking, quick-drying\n●Snap button closure\n●1 chest pockets",
+    "specifications": "WICKRON (100% 聚酯纖維)",
+    "specificationsEn": "Wickron (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥7,455",
     "colors": [
       "LGN",
@@ -616,6 +1282,20 @@
     "name": "WICKRON O.D. 立領長袖洋裝",
     "nameEn": "WICKRON O.D. STAND COLLAR LONG SLEEVE DRESS",
     "category": "SHIRTS",
+    "description": "● Wickron 洋裝，中等厚度，立領設計，吸濕排汗、速乾，穿著舒適",
+    "descriptionEn": "● Wickron dress, midweight, stand collar, moisture wicking, quick- drying, comfortable to wear",
+    "features": "● 中等厚度 Wickron\n● 透氣\n● 吸濕排汗、速乾\n● 立領\n● 側邊開衩\n● 3 個口袋 (2 個插手口袋，1 個胸前口袋)",
+    "featuresEn": "●Midweight Wickron\n●Breathable\n●Moisture-wicking, quick-drying\n●Stand collar\n●Side slits\n●3 pockets (2 hand, 1 chest)",
+    "specifications": "Wickron (100% 聚酯纖維)",
+    "specificationsEn": "Wickron (100% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥7,637",
     "colors": [
       "NV",
@@ -630,6 +1310,20 @@
     "name": "牛津鈕扣領襯衫",
     "nameEn": "OXFORD BUTTON DOWN SHIRT",
     "category": "SHIRTS",
+    "description": "● 鈕扣領襯衫，Core Spun 材質，輕量、速乾、抗皺\n● 適用於旅行、日常穿著、輕度戶外活動\n【與現有型號的改進點】 面料紗線：聚酯纖維/棉 ⇒ Core Spun",
+    "descriptionEn": "● Button-down shirt, Core Spun, lightweight, quick-drying, wrinkle- resistant\n● For travel, daily wear, light outdoor use\n【Revised point(s) from the current model】 Fabric yarn: polyester/cotton ⇒ core-spun",
+    "features": "● 輕量 Core Spun\n● 棉質觸感\n● 速乾\n● 抗皺\n● 1 個胸前口袋",
+    "featuresEn": "●Lightweight Core Spun\n●Cotton texture\n●Quick-drying\n●Wrinkle-resistant\n●1 chest pocket",
+    "specifications": "Core Spun (棉質外層包覆聚酯纖維長絲內芯) (35% 棉 + 35% 聚酯纖維)",
+    "specificationsEn": "Core Spun (cotton outer sheath wrapped\naround polyester filament core) (35% cotton +\n35% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥7,000",
     "colors": [
       "BL",
@@ -645,6 +1339,20 @@
     "name": "牛津立領襯衫",
     "nameEn": "OXFORD STAND COLLAR SHIRT",
     "category": "SHIRTS",
+    "description": "● 鈕扣式襯衫，立領設計，採用 Core Spun 材質，輕量、速乾、抗皺\n● 適合旅行、日常穿著、輕度戶外活動\n【本季改款重點】布料紗線：聚酯纖維/棉 ⇒ Core Spun",
+    "descriptionEn": "● Button-down shirt, stand-collar, Core Spun, lightweight, quick- drying, wrinkle-resistant\n● For travel, daily wear, light outdoor use\n【Revised point(s) from the current model】 Fabric yarn: polyester/cotton ⇒ core-spun",
+    "features": "● 輕量 Core Spun 材質\n● 棉質觸感\n● 速乾\n● 抗皺\n● 立領\n● 1 個胸前口袋",
+    "featuresEn": "●Lightweight Core Spun\n●Cotton texture\n●Quick-drying\n●Wrinkle-resistant\n●Stand collar\n●1 chest pocket",
+    "specifications": "Core Spun (棉質外層包覆聚酯纖維內芯) (35% 棉 + 35% 聚酯纖維)",
+    "specificationsEn": "Core Spun (cotton outer sheath wrapped\naround polyester filament core) (35% cotton +\n35% polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥6,819",
     "colors": [
       "BL",
@@ -659,6 +1367,26 @@
     "name": "多功能保暖長褲 男款",
     "nameEn": "MULTIUSE THERMAL TROUSERS MEN'S",
     "category": "PANTS",
+    "description": "● 防水透氣 DRYTEC、磨毛內裡、保暖、舒適、多功能\n● 適合於寒冷或多變天氣下登山健行",
+    "descriptionEn": "● Waterproof breathable DRYTEC, brushed lining, warm, comfortable, versatile\n● For hiking in cold or changing weather",
+    "features": "●厚實布料搭配磨毛內裡\n●全防水貼條\n●雙向彈性\n●易調式腰帶\n●前開襟拉鍊\n●版型：標準\n●褲管樣式：錐形\n●4個口袋 (2個拉鍊式暖手口袋、1個拉鍊式大腿口袋、1個拉鍊式臀部口袋)",
+    "featuresEn": "●Heavy weight fabric with brushed lining\n●Fully seam-sealed\n●2-way stretch\n●Easy-adjust belt\n●Front fly\n●Fit: Regular\n●Lower leg style: Tapered\n●4 pockets (2 zippered hand pockets, 1 zippered thigh pocket, 1\nzippered back pocket)",
+    "specifications": "DRYTEC (高透氣度)\n85% 尼龍 + 15% 聚氨酯 (不含PFAS撥水處理)\n內裡：100% 聚酯纖維",
+    "specificationsEn": "DRYTEC (High breathability)\n85% nylon + 15% polyurethane (PFAS-free\nwater repellent finish)\nLining: 100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "XL",
+      "XL-S",
+      "XXL-S"
+    ],
+    "weight": "TBD",
     "price": "￥16,364",
     "colors": [
       "BK",
@@ -672,6 +1400,27 @@
     "name": "多功能保暖長褲 女款",
     "nameEn": "MULTIUSE THERMAL TROUSERS WOMEN'S",
     "category": "PANTS",
+    "description": "● 防水透氣 DRYTEC，磨毛內裡，保暖、舒適、多功能\n● 適合寒冷或多變天氣下的健行",
+    "descriptionEn": "● Waterproof breathable DRYTEC, brushed lining, warm, comfortable, versatile\n● For hiking in cold or changing weather",
+    "features": "●厚實布料搭配磨毛內裡\n●全防水貼條處理\n●雙向彈性\n●易於調節的腰帶\n●前開襟\n●版型：標準\n●褲管款式：錐形\n●4個口袋（2個拉鍊式插手口袋、1個拉鍊式大腿口袋、1個拉鍊式後口袋）",
+    "featuresEn": "●Heavy weight fabric with brushed lining\n●Fully seam-sealed\n●2-way stretch\n●Easy-adjust belt\n●Front fly\n●Fit: Regular\n●Lower leg style: Tapered\n●4 pockets (2 zippered hand pockets, 1 zippered thigh pocket, 1\nzippered back pocket)",
+    "specifications": "DRYTEC（高透氣度）\n85% 尼龍 + 15% 聚氨酯（不含 PFAS 撥水處理）\n內裡：100% 聚酯纖維",
+    "specificationsEn": "DRYTEC (High breathability)\n85% nylon + 15% polyurethane (PFAS-free\nwater repellent finish)\nLining: 100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "S-L",
+      "M",
+      "M-S",
+      "M-L",
+      "L",
+      "L-S",
+      "L-L",
+      "XL",
+      "XL-S",
+      "XXL-S"
+    ],
+    "weight": "TBD",
     "price": "￥15,455",
     "colors": [
       "BK",
@@ -685,6 +1434,19 @@
     "name": "THERMAWRAP 步道裙",
     "nameEn": "THERMAWRAP TRAIL SKIRT",
     "category": "PANTS",
+    "description": "● 保暖裙，及膝長度，防風、保暖、快乾，側邊彈性刷毛裁片\n● 適合寒冷天氣多層次穿搭\n【與現有款式相比的改進點】 長度：+5 cm",
+    "descriptionEn": "● Insulated skirt, knee length, wind-resistant, warm, quick-dry, stretch fleece side gusset\n● For layering in cold weather\n【Revised point(s) from the current model】 Length: +5 cm",
+    "features": "●車縫貫穿式結構\n●側邊：彈性 CLIMAPLUS\n●1 個右臀拉鍊口袋\n●1 個背面拉鍊口袋",
+    "featuresEn": "●Sewn Through Construction\n●Side: stretch CLIMAPLUS\n●1 zippered right hip pocket\n●1 zippered back pocket",
+    "specifications": "20 丹尼格紋尼龍布 (不含 PFAS 防潑水處理)\n內裡：20 丹尼 Ballistic 尼龍塔夫綢 (抗靜電處理)\n側邊：彈性 CLIMAPLUS\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "20-denier nylon ripstop (PFAS-free water\nrepellent finish)\nLining: 20-denier Ballistic nylon taffeta (anti-\nstatic finish)\nSide: Stretch CLIMAPLUS\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥6,182",
     "colors": [
       "BK",
@@ -698,6 +1460,19 @@
     "name": "WICKRON ZEO THERMAL 長袖上衣 男款",
     "nameEn": "WICKRON ZEO THERMAL LONG SLEEVE SHIRT MEN'S",
     "category": "KNIT SHIRT",
+    "description": "● 中層長袖T恤，彈性、透氣、內裡刷毛、保暖\n● 適合寒冷天氣下的動態活動",
+    "descriptionEn": "● Midweight long-sleeve T, stretch, breathable, brushed inside, warm\n●For active movement in cold conditions",
+    "features": "● 平車縫線技術\n● Spiral Slant-Tec 袖口\n● 抗異味",
+    "featuresEn": "●Flat Seam Technology\n●Spiral Slant-Tec Cuff\n●Odor control",
+    "specifications": "Wickron ZEO Thermal (100% 聚酯纖維 / 刷毛內裡處理)",
+    "specificationsEn": "Wickron ZEO Thermal (100% polyester /\nbrushed lining finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "263 g",
     "price": "￥4,819",
     "colors": [
       "BK",
@@ -714,6 +1489,20 @@
     "name": "WICKRON ZEO THERMAL 長袖上衣 女款",
     "nameEn": "WICKRON ZEO THERMAL LONG SLEEVE SHIRT WOMEN'S",
     "category": "KNIT SHIRT",
+    "description": "● 中層長袖T恤，彈性、透氣、內裡刷毛、保暖\n● 適合寒冷天氣下的動態活動",
+    "descriptionEn": "● Midweight long-sleeve T, stretch, breathable, brushed inside, warm\n●For active movement in cold conditions",
+    "features": "● 平車縫線技術\n● Spiral Slant-Tec 袖口\n● 抗異味",
+    "featuresEn": "●Flat Seam Technology\n●Spiral Slant-Tec Cuff\n●Odor control",
+    "specifications": "Wickron ZEO Thermal (100% 聚酯纖維 / 刷毛內裡加工)",
+    "specificationsEn": "Wickron ZEO Thermal (100% polyester /\nbrushed lining finish)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "205 g",
     "price": "￥4,091",
     "colors": [
       "BK",
@@ -729,6 +1518,19 @@
     "name": "SUPER MERINO WOOL EXP. PLUS 高領衫 男款",
     "nameEn": "SUPER MERINO WOOL EXP. PLUS HIGH NECK SHIRT MEN'S",
     "category": "BASE LAYER",
+    "description": "● 底層衣、高領、Super Merino Wool、厚磅、箱型結構、內裡刷毛、天然抗臭、彈性、平滑、柔軟",
+    "descriptionEn": "● Base layer, high-neck, Super Merino Wool, heavyweight, box construction, brushed inner surface, naturally odor-resistant, stretch, smooth, soft",
+    "features": "●Spiral Slant-Tec 袖口\n●平車縫線技術\n●後擺加長",
+    "featuresEn": "●Spiral Slant-Tec Cuff\n●Flat Seam Technology\n●Longer hem length in the back",
+    "specifications": "Super Merino Wool (92% 羊毛 + 7% 尼龍 + 1% 聚氨酯)",
+    "specificationsEn": "Super Merino Wool (92% wool + 7% nylon +\n1% polyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "298 g",
     "price": "￥12,455",
     "colors": [
       "BK",
@@ -742,6 +1544,19 @@
     "name": "SUPER MERINO WOOL EXP. PLUS 高領衫 女款",
     "nameEn": "SUPER MERINO WOOL EXP. PLUS HIGH NECK SHIRT WOMEN'S",
     "category": "BASE LAYER",
+    "description": "● 底層衣、高領、Super Merino Wool、厚磅、箱型結構、內裡刷毛、天然抑臭、彈性、平滑、柔軟",
+    "descriptionEn": "● Base layer, high-neck, Super Merino Wool, heavyweight, box construction, brushed inner surface, naturally odor-resistant, stretch, smooth, soft",
+    "features": "●Spiral Slant-Tec 袖口\n●Flat Seam Technology\n●後下擺加長",
+    "featuresEn": "●Spiral Slant-Tec Cuff\n●Flat Seam Technology\n●Longer hem length in the back",
+    "specifications": "Super Merino Wool (92% 羊毛 + 7% 尼龍 + 1% 聚氨酯)",
+    "specificationsEn": "Super Merino Wool (92% wool + 7% nylon +\n1% polyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "233 g",
     "price": "￥11,182",
     "colors": [
       "BK",
@@ -755,6 +1570,19 @@
     "name": "ZEO-LINE EXP. V領衫 男款",
     "nameEn": "ZEO-LINE EXP. V-NECK SHIRT MEN'S",
     "category": "BASE LAYER",
+    "description": "● 底層衣、V領、厚磅、箱型結構、吸濕排汗、彈性、表面平滑、柔軟\n● 適用於極度寒冷環境的層次穿搭",
+    "descriptionEn": "● Base layer, v-neck, heavyweight, box construction, moisture-wicking, stretch, smooth surface, soft\n● For extreme cold layering",
+    "features": "●Spiral Slant-Tec 袖口\n●平車縫線技術\n●後下擺加長\n●九分袖",
+    "featuresEn": "●Spiral Slant-Tec Cuff\n●Flat Seam Technology\n●Longer hem length in the back\n●9/10-length sleeve",
+    "specifications": "ZEO-LINE (100% 聚酯纖維)",
+    "specificationsEn": "ZEO-LINE (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "219 g",
     "price": "￥5,591",
     "colors": [
       "LGY"
@@ -767,6 +1595,19 @@
     "name": "SUPER MERINO WOOL EXP. V領衫 男款",
     "nameEn": "SUPER MERINO WOOL EXP. V-NECK SHIRT MEN'S",
     "category": "BASE LAYER",
+    "description": "● 底層衣、V領、Super Merino Wool、厚磅、立體盒狀結構、內裡磨毛、天然抑臭、彈性、滑順、柔軟",
+    "descriptionEn": "● Base layer, v-neck, Super Merino Wool, heavyweight, box construction, brushed inner surface, naturally odor-resistant, stretch, smooth, soft",
+    "features": "●Spiral Slant-Tec 袖口\n●Flat Seam Technology\n●後下擺加長\n●九分袖",
+    "featuresEn": "●Spiral Slant-Tec Cuff\n●Flat Seam Technology\n●Longer hem length in the back\n●9/10-length sleeve",
+    "specifications": "Super Merino Wool (79% 羊毛 + 18% 聚酯纖維 + 2% 尼龍 + 1% 聚氨酯)",
+    "specificationsEn": "Super Merino Wool (79% wool + 18%\npolyester + 2% nylon + 1% polyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "196 g",
     "price": "￥9,800",
     "colors": [
       "LGY"
@@ -779,6 +1620,19 @@
     "name": "ZEO-LINE 中厚 U領 T恤 女款",
     "nameEn": "ZEO-LINE M.W. U-NECK T-SHIRT WOMEN'S",
     "category": "BASE LAYER",
+    "description": "● 底層衣、U領、中厚、箱型結構、吸濕排汗、彈性、表面平滑、柔軟\n● 適用於登山、滑雪旅行、走走停停的活動",
+    "descriptionEn": "● Base layer, u-neck, midweight, box construction, moisture-wicking, stretch, smooth surface, soft\n● For mountaineering, ski touring, stop-and-go activity",
+    "features": "●平車縫線技術\n●後下擺加長",
+    "featuresEn": "●Flat Seam Technology\n●Longer hem length in the back",
+    "specifications": "ZEO-LINE (100% 聚酯纖維)",
+    "specificationsEn": "ZEO-LINE (100% polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "90 g",
     "price": "￥3,910",
     "colors": [
       "BK",
@@ -792,6 +1646,19 @@
     "name": "超級美麗諾羊毛中厚U領T恤 女款",
     "nameEn": "SUPER MERINO WOOL M.W. U-NECK T-SHIRT WOMEN'S",
     "category": "BASE LAYER",
+    "description": "● 底層衣、U領、超級美麗諾羊毛、中厚、優異的吸濕排汗、天然抗臭、彈性、柔滑、柔軟\n● 適用於登山健行至雪地運動",
+    "descriptionEn": "● Base layer, u-neck, Super Merino Wool, midweight, superior moisture management, naturally odor- resistant, stretch, smooth, soft\n● For hiking to snow sports use",
+    "features": "● 平車縫線技術\n● 背部下擺加長",
+    "featuresEn": "●Flat Seam Technology\n●Longer hem length in the back",
+    "specifications": "超級美麗諾羊毛 (85% 羊毛 + 15% 聚酯纖維)",
+    "specificationsEn": "Super Merino Wool (85% wool + 15%\npolyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "100 g",
     "price": "￥6,091",
     "colors": [
       "BK",
@@ -805,6 +1672,21 @@
     "name": "ZEO-LINE MESH 運動內衣",
     "nameEn": "ZEO-LINE MESH SPORTS BRA",
     "category": "BASE LAYER",
+    "description": "● 運動內衣，採用 ZEO-LINE Mesh 材質，透氣、彈性、高支撐，附立體罩杯\n● 適合高強度活動穿著\n【本季改款重點】 主要布料：將更新為更輕量、更透氣的消光布料。配件 (罩杯、鬆緊帶)：材質將會更新。",
+    "descriptionEn": "● Sports bra, ZEO-LINE Mesh, breathable, stretch, high support, molded cups\n● For high-output activity\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術\n● 附罩杯",
+    "featuresEn": "●Flat Seam Technology\n●With cup",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD,",
+    "sizes": [
+      "XL-AB",
+      "XL-CD",
+      "S-EF",
+      "M-EF",
+      "L-EF",
+      "XL-EF"
+    ],
+    "weight": "48 g",
     "price": "￥5,728",
     "colors": [
       "BK",
@@ -820,6 +1702,21 @@
     "name": "ZEO-LINE MESH 柔軟胸罩",
     "nameEn": "ZEO-LINE MESH SOFT BRA",
     "category": "BASE LAYER",
+    "description": "● 運動胸罩，採用 ZEO-LINE Mesh 材質，透氣、彈性佳，穩定肩帶，附柔軟胸墊\n● 適合活動時穿著\n【現有款式改良重點】 主要布料：將更新為更輕量、更透氣、霧面質感的布料\n組件（罩杯、鬆緊帶）：材質將會更新",
+    "descriptionEn": "● Sports bra, ZEO-LINE Mesh, breathable, stretch, stay-in-place straps, soft pads\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術\n● 內縫胸墊",
+    "featuresEn": "●Flat Seam Technology\n●Pad sewn in",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD,",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD,",
+    "sizes": [
+      "XL-AB",
+      "XL-CD",
+      "S-EF",
+      "M-EF",
+      "L-EF",
+      "XL-EF"
+    ],
+    "weight": "50 g",
     "price": "￥4,273",
     "colors": [
       "BK",
@@ -835,6 +1732,21 @@
     "name": "ZEO-LINE MESH 前扣軟式運動內衣",
     "nameEn": "ZEO-LINE MESH FRONT HOOK SOFT BRA",
     "category": "BASE LAYER",
+    "description": "● 運動內衣，採用 ZEO-LINE Mesh 材質，透氣、彈性佳，前扣設計，提供高支撐。\n● 適合活動時穿著。\n【本季改款重點】 主要布料：將更新為更輕量、更透氣、具霧面質感的布料。 配件（罩杯、鬆緊帶）：材質將會更新。",
+    "descriptionEn": "● Sports bra, ZEO-LINE Mesh, breathable, stretch, front hook closure, high support\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術\n● 內建襯墊\n● 附前扣設計",
+    "featuresEn": "●Flat Seam Technology\n●Pad sewn in\n●With a fromt hook",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD,",
+    "sizes": [
+      "XL-AB",
+      "XL-CD",
+      "S-EF",
+      "M-EF",
+      "L-EF",
+      "XL-EF"
+    ],
+    "weight": "53 g",
     "price": "￥5,182",
     "colors": [
       "BK",
@@ -848,6 +1760,21 @@
     "name": "ZEO-LINE MESH 前扣舒適軟式胸罩",
     "nameEn": "ZEO-LINE MESH FRONT HOOK COMFORT SOFT BRA",
     "category": "BASE LAYER",
+    "description": "● 運動內衣，採用 ZEO-LINE Mesh 材質，透氣、舒適版型、前扣設計，穿著舒適。\n● 適用於山屋或露營時穿著。\n【本季改款重點】 主要布料：更新為更輕量、更透氣、霧面質感的布料。配件（罩杯、鬆緊帶）：材質將會更新。",
+    "descriptionEn": "● Sports bra, ZEO-LINE Mesh, breathable, relaxed fit, front hook closure, comfortable\n● For use in huts and during camping\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術\n● 內置襯墊\n● 前扣設計",
+    "featuresEn": "●Flat Seam Technology\n●Pad sewn in\n●with a fromt hook",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD,",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)\nS-AB, S-CD, M-AB, M-CD, L-AB, L-CD,",
+    "sizes": [
+      "XL-AB",
+      "XL-CD",
+      "S-EF",
+      "M-EF",
+      "L-EF",
+      "XL-EF"
+    ],
+    "weight": "53 g",
     "price": "￥4,819",
     "colors": [
       "BK",
@@ -861,6 +1788,19 @@
     "name": "ZEO-LINE 網眼短褲 女款",
     "nameEn": "ZEO-LINE MESH SHORTS WOMEN'S",
     "category": "BASE LAYER",
+    "description": "● ZEO-LINE 網眼短褲，透氣、彈性、速乾、平車縫線\n● 適合動態活動穿著\n【本季改款重點】 主布料：將更新為更輕量、更透氣、霧面質感的布料 配件 (罩杯、鬆緊帶)：材質將會更新",
+    "descriptionEn": "● Shorts, ZEO-LINE Mesh, breathable, stretch, quick-drying, low-profile seams\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "●平車縫線技術",
+    "featuresEn": "●Flat Seam Technology",
+    "specifications": "ZEO-LINE 網眼 (77% 聚酯纖維 + 23% 聚氨酯)",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "42 g",
     "price": "￥3,091",
     "colors": [
       "BK",
@@ -876,6 +1816,19 @@
     "name": "ZEO-LINE MESH 活動短褲 女款",
     "nameEn": "ZEO-LINE MESH ACTIVE SHORTS WOMEN'S",
     "category": "BASE LAYER",
+    "description": "● 短褲，ZEO-LINE Mesh 材質，透氣、彈性、速乾、扁平縫線\n● 適合活動時穿著\n【本季改款重點】 主布：將更新為更輕量、更透氣的霧面布料 部件（罩杯、鬆緊帶）：材質將會更新",
+    "descriptionEn": "● Shorts, ZEO-LINE Mesh, breathable, stretch, quick-drying, low-profile seams\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "●扁平縫線技術",
+    "featuresEn": "●Flat Seam Technology",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "30 g",
     "price": "￥2,728",
     "colors": [
       "BK",
@@ -891,6 +1844,19 @@
     "name": "ZEO-LINE MESH 吸收型生理褲",
     "nameEn": "ZEO-LINE MESH ABSORBENT SANITARY",
     "category": "BASE LAYER",
+    "description": "● 生理褲，ZEO-LINE Mesh，吸收型，透氣，速乾，彈性，防水褲襠，3層結構，抗異味，平車縫線\n● 適合活動時穿著\n【與現行款的改進點】 主布料：將更新為更輕量、更透氣、具霧面質感的布料 配件（罩杯、鬆緊帶）：材質將會更新",
+    "descriptionEn": "● Sanitary shorts, ZEO-LINE Mesh, absorbent, breathable, quick-drying, stretch, waterproof crotch, 3-layer structure, odor control, low-profile seams\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術\n● 可固定生理用品。* 適用蝶翼型生理用品。\n● 可在家輕鬆洗滌",
+    "featuresEn": "●Flat Seam Technology\n●Secures sanitary pads in place. *Wing type\ncompatible.\n●Easily washable at home",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "41 g",
     "price": "￥4,728",
     "colors": [
       "BK"
@@ -903,6 +1869,19 @@
     "name": "ZEO-LINE MESH 生理褲",
     "nameEn": "ZEO-LINE MESH SANITARY SHORTS",
     "category": "BASE LAYER",
+    "description": "● 生理褲，採用 ZEO-LINE Mesh 材質，透氣、速乾、彈性佳，褲襠具防水功能，雙層結構，平車縫線設計\n● 適合活動時穿著\n【本季改款重點】 主布料：更新為更輕量、更透氣、霧面質感布料 配件 (罩杯、鬆緊帶)：材質將會更新",
+    "descriptionEn": "● Sanitary shorts, ZEO-LINE Mesh, breathable, quick-drying, stretch, waterproof crotch, 2-layer structure, low-profile seams\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術",
+    "featuresEn": "●Flat Seam Technology",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23%\n聚氨酯)",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "44 g",
     "price": "￥3,637",
     "colors": [
       "BK"
@@ -915,6 +1894,19 @@
     "name": "ZEO-LINE MESH 生理運動短褲",
     "nameEn": "ZEO-LINE MESH SANITARY ACTIVE SHORTS",
     "category": "BASE LAYER",
+    "description": "● 生理短褲，採用 ZEO-LINE Mesh 材質，透氣、速乾、彈性佳，褲襠具備防水功能，雙層結構，平車縫線設計\n● 適合活躍運動時穿著\n【本季改款重點】 主要布料：更新為更輕量、更透氣、霧面質感的布料；配件（罩杯、鬆緊帶）：材質將會更新",
+    "descriptionEn": "● Sanitary shorts, ZEO-LINE Mesh, breathable, quick-drying, stretch, waterproof crotch, 2-layer structure, low-profile seams\n● For active use\n【Revised point(s) from the current model】 Main fabric: will be updated to lighter, more breathable, matte fabric Components (cup, elastic): materials will be updated",
+    "features": "● 平車縫線技術\n● 可固定生理用品。*適用蝶翼型衛生棉。",
+    "featuresEn": "●Flat Seam Technology\n●Secures sanitary pads in place. *Wing type\ncompatible.",
+    "specifications": "ZEO-LINE Mesh (77% 聚酯纖維 + 23% 聚氨酯)",
+    "specificationsEn": "ZEO-LINE Mesh (77% polyester + 23%\npolyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "34 g",
     "price": "￥3,273",
     "colors": [
       "BK"
@@ -927,6 +1919,18 @@
     "name": "SUPER MERINO WOOL EXP. 護腰",
     "nameEn": "SUPER MERINO WOOL EXP. WAIST WARMER",
     "category": "SUPPORTER & WARMER",
+    "description": "● 護腰, Super Merino Wool, 厚磅, 箱型結構, 內裡刷毛, 天然抗異味, 彈性, 碳纖維紗線, 抗靜電",
+    "descriptionEn": "● Waist warmer, Super Merino Wool, heavyweight, box construction, brushed inner surface, naturally odor-resistant, stretch, carbon fiber thread, anti-static",
+    "features": "●平車縫線\n●長度足以覆蓋腰部至臀部\n●抗異味\n●抗靜電",
+    "featuresEn": "●Flat Seam\n●Long enough to cover from the waist to the\nhips\n●Odor control\n●Static Electricity Resistant",
+    "specifications": "Super Merino Wool (79% 羊毛 + 18% 聚酯纖維 + 2% 尼龍 + 1% 聚氨酯)",
+    "specificationsEn": "Super Merino Wool (79% wool + 18%\npolyester + 2% nylon + 1% polyurethane)",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "TBD",
     "price": "￥3,819",
     "colors": [
       "BK"
@@ -939,6 +1943,18 @@
     "name": "超級美麗諾羊毛 輕量保暖腰帶",
     "nameEn": "SUPER MERINO WOOL L.W. WAIST WARMER",
     "category": "SUPPORTER & WARMER",
+    "description": "● 保暖腰帶，超級美麗諾羊毛，輕量，天然抑菌抗臭，彈性，多功能\n● 適合全年分層穿搭",
+    "descriptionEn": "● Waist warmer, Super Merino Wool, lightweight, naturally odor- resistant, stretch, versatile\n● For year-round layering",
+    "features": "●平縫\n●長度足以覆蓋腰部至臀部\n●快速吸濕排汗快乾\n●抑菌抗臭",
+    "featuresEn": "●Flat Seam\n●Long enough to cover from the waist to the\nhips\n●Quick-wicking and drying\n●Bacterial control/Odor resistance",
+    "specifications": "超級美麗諾羊毛 (85% 羊毛 + 15% 聚酯纖維)",
+    "specificationsEn": "Super Merino Wool (85% wool + 15%\npolyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "TBD",
     "price": "￥3,273",
     "colors": [
       "BK",
@@ -952,6 +1968,18 @@
     "name": "SUPER MERINO WOOL 輕量側邊拉鍊護腰",
     "nameEn": "SUPER MERINO WOOL L.W. SIDE-ZIP WAIST WARMER",
     "category": "SUPPORTER & WARMER",
+    "description": "● 護腰，SUPER MERINO WOOL，輕量，側邊拉鍊，穿脫方便，天然抑菌抗臭，彈性，多功能\n● 適合活動時多層次穿搭",
+    "descriptionEn": "● Waist warmer, Super Merino Wool, lightweight, side zipper, easy on-off, naturally odor-resistant, stretch, versatile\n● For active layering",
+    "features": "●平車縫線\n●側邊拉鍊設計，方便穿脫\n●短版設計\n●快速吸濕排汗乾燥\n●抑菌抗臭",
+    "featuresEn": "●Flat Seam\n●Side zipper for easy to take on and off\n●Short length\n●Quick-wicking and drying\n●Bacterial control/Odor resistance",
+    "specifications": "SUPER MERINO WOOL (85% 羊毛 + 15% 聚酯纖維)",
+    "specificationsEn": "Super Merino Wool (85% wool + 15%\npolyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "TBD",
     "price": "￥3,455",
     "colors": [
       "BK",
@@ -965,6 +1993,19 @@
     "name": "EXCELOFT 露營保暖短靴",
     "nameEn": "EXCELOFT CAMP BOOTIES",
     "category": "SOCKS",
+    "description": "● 保暖室內鞋，EXCELOFT 保暖層，合成皮革鞋底，耐用，易於保養，及踝高\n● 適用於寒冷露營及室內穿著\n【本季改款重點】 布料：不含 PFAS 尺寸：新增 XL 碼",
+    "descriptionEn": "● Insulated indoor shoes, EXCELOFT, synthetic leather sole, durable, easy care, ankle-height\n● For cold camp and indoor wear\n【Revised point(s) from the current model】 Fabric: PFAS-free Size: XL will be added",
+    "features": "●EXCELOFT 保暖\n●合成皮革鞋底\n●聚氨酯泡棉襯墊鞋墊\n●隨附收納袋",
+    "featuresEn": "●EXCELOFT insulated\n●Synthetic leather sole\n●Urethane foam padded insole\n●Stuff sack included",
+    "specifications": "鞋面：40 丹尼尼龍塔夫綢 (不含 PFAS 防潑水處理)\n鞋底：合成皮革\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "Upper: 40-denier nylon taffeta (PFAS-free\nwater-repellent finish)\nSole: synthetic leather\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "142 g",
     "price": "￥3,546",
     "colors": [
       "BK",
@@ -980,6 +2021,19 @@
     "name": "EXCELOFT 長筒營地鞋",
     "nameEn": "EXCELOFT CAMP BOOTIES LONG",
     "category": "SOCKS",
+    "description": "● 保暖室內鞋，EXCELOFT，合成皮革鞋底，耐用，易於保養，高筒設計\n● 適用於寒冷營地及室內穿著\n【本季改款重點】 布料：不含 PFAS 尺寸：新增 XL 碼",
+    "descriptionEn": "● Insulated indoor shoes, EXCELOFT, synthetic leather sole, durable, easy care, above-ankle\n● For cold camp and indoor wear\n【Revised point(s) from the current model】 Fabric: PFAS-free Size: XL will be added",
+    "features": "● EXCELOFT 保暖\n● 合成皮革鞋底\n● 聚氨酯泡棉襯墊鞋墊\n● 隨附收納袋",
+    "featuresEn": "●EXCELOFT insulated\n●Synthetic leather sole\n●Urethane foam padded insole\n●Stuff sack included",
+    "specifications": "鞋面：40 丹尼尼龍塔夫綢 (不含 PFAS 防潑水處理)\n鞋底：合成皮革\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "Upper: 40-denier nylon taffeta (PFAS-free\nwater-repellent finish)\nSole: synthetic leather\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "147 g",
     "price": "￥3,910",
     "colors": [
       "BK",
@@ -995,6 +2049,19 @@
     "name": "EXCELOFT 保暖襪套",
     "nameEn": "EXCELOFT BOOTIES",
     "category": "SOCKS",
+    "description": "● 保暖足部用品，採用 EXCELOFT 保暖層，70-丹尼尼龍鞋底，易於保養\n● 適用於山屋及帳篷內使用\n【本季改款重點】 布料：不含PFAS 尺寸：新增XL尺寸",
+    "descriptionEn": "● Insulated foot warmer, EXCELOFT, 70-denier nylon sole, easy care\n● For hut and tent use\n【Revised point(s) from the current model】 Fabric: PFAS-free Size: XL will be added",
+    "features": "● 採用 EXCELOFT 保暖層\n● CLIMAPLUS 網布內裡\n● 開口處採用彈性材質，提供服貼的穿著感\n● 腳踝處附有可調節鬆緊的束繩\n● 附收納袋",
+    "featuresEn": "●EXCELOFT insulated\n●CLIMAPLUS Mesh lined\n●Stretch material at the opening for a close fit\n●Fit-adjustable drawstring around the ankles\n●Stuff sack included",
+    "specifications": "鞋面：40-丹尼尼龍塔夫綢 (不含PFAS，防潑水處理)\n內裡：CLIMAPLUS 網布 (聚酯纖維)\n鞋底：70-丹尼尼龍塔瑟布\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "Upper: 40-denier nylon taffeta (PFAS-free\nwater-repellent finish)\nLining: CLIMAPLUS mesh (polyester)\nSole: 70-denier nylon tasser\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "233 g",
     "price": "￥4,819",
     "colors": [
       "BK",
@@ -1008,6 +2075,19 @@
     "name": "羽絨營地鞋",
     "nameEn": "DOWN CAMP BOOTIES",
     "category": "SOCKS",
+    "description": "● 保暖室內鞋，500FP DOWN FIBER，合成皮革鞋底，柔軟，及踝高度\n● 適用於寒冷營地及室內穿著\n【本季改款重點】 表布：不含PFAS 保暖層：650FP 羽絨 ⇒ 500FP DOWN FIBER 尺寸：新增XL",
+    "descriptionEn": "● Insulated indoor shoes, 500FP DOWN FIBER, synthetic leather sole, soft, ankle-height\n● For cold camp and indoor wear\n【Revised point(s) from the current model】 Fabric: PFAS-free Insulation: 650FP down ⇒ 500FP DOWN FIBER Size: XL will be added",
+    "features": "●採用500 蓬鬆度 DOWN FIBER 保暖\n●合成皮革鞋底\n●聚氨酯泡棉鞋墊\n●附收納袋",
+    "featuresEn": "●500 fill power DOWN FIBER insulated\n●Synthetic leather sole\n●Urethane foam padded insole\n●Stuff sack included",
+    "specifications": "鞋面：40 丹尼尼龍塔夫綢 (不含PFAS防潑水處理)\n鞋底：合成皮革\n保暖層：500FP DOWN FIBER",
+    "specificationsEn": "Upper: 40-denier nylon taffeta (PFAS-free\nwater-repellent finish)\nSole: synthetic leather\nInsulation: 500FP DOWN FIBER",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "126 g",
     "price": "￥4,455",
     "colors": [
       "BK",
@@ -1023,6 +2103,19 @@
     "name": "長版羽絨營地靴套",
     "nameEn": "DOWN CAMP BOOTIES LONG",
     "category": "SOCKS",
+    "description": "● 保暖室內鞋，採用 500FP DOWN FIBER，合成皮革鞋底，柔軟舒適，高筒設計。\n● 適用於寒冷營地及室內穿著。\n【現行款式改版重點】 布料：不含 PFAS 保暖層：650FP 羽絨 ⇒ 500FP DOWN FIBER 尺寸：新增 XL 碼",
+    "descriptionEn": "● Insulated indoor shoes, 500FP DOWN FIBER, synthetic leather sole, soft, above-ankle\n● For cold camp and indoor wear\n【Revised point(s) from the current model】 Fabric: PFAS-free Insulation: 650FP down ⇒ 500FP DOWN FIBER Size: XL will be added",
+    "features": "●500 蓬鬆度 DOWN FIBER 保暖\n●合成皮革鞋底\n●聚氨酯泡棉填充鞋墊\n●隨附收納袋",
+    "featuresEn": "●500 fill power DOWN FIBER insulated\n●Synthetic leather sole\n●Urethane foam padded insole\n●Stuff sack included",
+    "specifications": "鞋面：40 丹尼尼龍塔夫綢 (不含 PFAS 防潑水處理)\n鞋底：合成皮革\n保暖層：500FP DOWN FIBER",
+    "specificationsEn": "Upper: 40-denier nylon taffeta (PFAS-free\nwater-repellent finish)\nSole: synthetic leather\nInsulation: 500FP DOWN FIBER",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "170 g",
     "price": "￥4,819",
     "colors": [
       "BK",
@@ -1038,6 +2131,19 @@
     "name": "羽絨暖足套",
     "nameEn": "DOWN BOOTIES",
     "category": "SOCKS",
+    "description": "● 保暖暖足套，採用 800FP 羽絨，鞋底為 70 丹尼尼龍，可輕巧收納\n● 適用於山屋及帳篷內使用\n【本季改款重點】 表布：10D ⇒ 15D (不含 PFAS) 保暖層：650FP 羽絨 ⇒ 800FP 羽絨 (填充量已調整)",
+    "descriptionEn": "● Insulated foot warmer, 800FP DOWN, 70-denier nylon sole, compactly packable\n● For hut and tent use\n【Revised point(s) from the current model】 Fabric: 10D ⇒ 15D (PFAS-free) Insulation: 650FP down ⇒ 800FP down (fill weight adjusted)",
+    "features": "●500 蓬鬆度 羽絨纖維保暖\n●CLIMAPLUS 網布內裡\n●開口處採用彈性材質，提供舒適貼合感\n●腳踝處附有可調節抽繩，方便調整鬆緊度\n●附收納袋",
+    "featuresEn": "●500 fill power DOWN FIBER insulated\n●CLIMAPLUS Mesh lined\n●Stretch material at the opening for a close fit\n●Fit-adjustable drawstring around the ankles\n●Stuff sack included",
+    "specifications": "鞋面：15 丹尼尼龍塔夫綢 (不含 PFAS 撥水加工)\n內裡：CLIMAPLUS 網布 (聚酯纖維)\n鞋底：70 丹尼尼龍塔瑟布\n保暖層：800 蓬鬆度 羽絨",
+    "specificationsEn": "Upper: 15-denier nylon taffeta (PFAS-free\nwater repellent finish)\nLining: CLIMAPLUS mesh (polyester)\nSole: 70-denier nylon tasser\nInsulation: 800 fill power down",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "152 g",
     "price": "￥6,182",
     "colors": [
       "BK",
@@ -1051,6 +2157,20 @@
     "name": "皮革拉鍊連指手套",
     "nameEn": "LEATHER ZIP MITTENS",
     "category": "GLOVES",
+    "description": "● 連指手套，山羊皮革，DRYTEC，防水，EXCELOFT 保暖，拉鍊開口，耐用\n● 適用於冬季使用、攝影、裝置操作",
+    "descriptionEn": "● Mittens, goat leather, DRYTEC, waterproof, EXCELOFT insulated, zipper access, durable\n● For winter use, photography, device operation",
+    "features": "●防水\n●手掌處採用極簡縫線設計\n●DRY-TEC 內襯\n●手指與手掌處拉鍊開口\n●Aqua-Tect 拉鍊\n●單手調節器\n●手套繩環\n●左右手套連接扣\n●手掌材質延伸至手腕下方",
+    "featuresEn": "●Waterproof\n●Minimized-seam palm pattern\n●DRY-TEC insert\n●Zippered opening for fingers and palm\n●Aqua-Tect Zipper\n●One-hand adjuster\n●Leash loop\n●Buckle to connect left and right\n●Palm material extends below the wrist",
+    "specifications": "山羊皮革 (不含 PFAS 防潑水處理，可水洗處理)\n內襯: DRYTEC (高透氣度)\n內裡: 聚酯纖維\n保暖層: EXCELOFT (聚酯纖維)",
+    "specificationsEn": "Goat leather (PFAS-free water-repellent\nfinish, washable finish)\nInsert: DRYTEC (High breathability)\nLining: polyester\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "178 g",
     "price": "￥13,000",
     "colors": [
       "BK"
@@ -1063,6 +2183,20 @@
     "name": "冬季皮革手套",
     "nameEn": "WINTER LEATHER GLOVES",
     "category": "GLOVES",
+    "description": "● 採用山羊皮革、DRYTEC 防水、EXCELOFT 保暖、透氣、耐用的手套\n● 適用於雪地運動\n【現行款式改良點】\n袖口：魔鬼氈閉合 ⇒ 可收緊束繩 + 可調式束帶 (雪地手套款式)\n內裡：羊毛 ⇒ 聚酯纖維\n縫製版型：掌心/手腕縫線將會移動 (提升耐磨性)",
+    "descriptionEn": "● Gloves, goat leather, DRYTEC, waterproof, EXCELOFT insulated, breathable, durable\n● For snow sports\n【Revised point(s) from the current model】 Cuff: hook and loop closure ⇒ cinchable drawcord + adjustable strap (Powder Gloves style) Lining: wool ⇒ polyeser Sewing pattern: palm/wrist seamline will be moved (become more wear-resistant)",
+    "features": "●防水\n●掌心減少縫線設計\n●DRYTEC 內襯\n●環繞式指尖設計\n●掛繩環\n●左右手套連接扣\n●掌心材質延伸至手腕下方",
+    "featuresEn": "●Waterproof\n●Minimized-seam palm pattern\n●DRY-TEC insert\n●Wrap around finger\n●Leash loop\n●Buckle to connect left and right\n●Palm material extends below the wrist",
+    "specifications": "山羊皮革 (不含 PFAS 防潑水處理，可水洗處理)\n內襯：DRYTEC (高透氣度)\n內裡：聚酯纖維\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "Goat leather (PFAS-free water-repellent\nfinish, washable finish)\nInsert: DRYTEC (High breathability)\nLining: polyester\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "210 g",
     "price": "￥12,819",
     "colors": [
       "BK"
@@ -1075,6 +2209,20 @@
     "name": "POWDER ZIP 連指手套",
     "nameEn": "POWDER ZIP MITTENS",
     "category": "GLOVES",
+    "description": "● DRYTEC 連指手套，防水、EXCELOFT 保暖、透氣、拉鍊開口設計，耐用\n● 適用於冬季使用及設備操作\n【本季改版重點】 袖口：將更新為可收緊束繩 + 可調式束帶 (Powder 手套款式) 拉鍊：將更耐寒 縫合版型：掌心/手腕縫線將移動 (更耐磨) 掌心寬度：將更寬",
+    "descriptionEn": "● Mittens, DRYTEC, waterproof, EXCELOFT insulated, breathable, zipper access, durable\n● For winter use and device operation\n【Revised point(s) from the current model】 Cuff: will be updated to cinchable drawcord + adjustable strap (Powder Gloves style) Zipper: will become more cold-resistant Sewing pattern: palm/wrist seamline will be moved (become more wear-resistant) Palm width: will be wider",
+    "features": "●防水\n●減少縫線的掌心版型\n●DRY-TEC 內襯\n●手指與掌心拉鍊開口\n●Aqua-Tect 拉鍊\n●單手調節器\n●手套繩環\n●左右手套連接扣\n●掌心材質延伸至手腕下方",
+    "featuresEn": "●Waterproof\n●Minimized-seam palm pattern\n●DRY-TEC insert\n●Zippered opening for fingers and palm\n●Aqua-Tect Zipper\n●One-hand adjuster\n●Leash loop\n●Buckle to connect left and right\n●Palm material extends below the wrist",
+    "specifications": "2 層 DRYTEC (高透氣度)\n75 丹尼聚酯纖維 (不含 PFAS 防潑水處理)\n掌心：Duragrip\n內襯：防水透氣內襯\n內裡：聚酯纖維\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n75-denier polyester (PFAS-free water-\nrepellent finish)\nPalm: Duragrip\nInsert: waterproof breathable insert\nLining: polyester\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "161 g",
     "price": "￥9,455",
     "colors": [
       "BK"
@@ -1087,6 +2235,20 @@
     "name": "EXCELOFT 拉鍊併指手套",
     "nameEn": "EXCELOFT ZIP MITTENS",
     "category": "GLOVES",
+    "description": "● EXCELOFT保暖併指手套，附拉鍊開口設計\n● 適用於冬季使用、攝影、操作裝置\n【與現行款的改進點】 拉鍊：更加抗寒 掌寬：將會加寬",
+    "descriptionEn": "● Mittens, EXCELOFT insulated, zipper access\n● For winter use, photography, device operation\n【Revised point(s) from the current model】 Zipper: will become more cold-resistant Palm width: will be wider",
+    "features": "● 防風\n● 支援觸控螢幕\n● 設有拉鍊開口，方便手指與手掌進出",
+    "featuresEn": "●Wind-resistant\n●Touchscreen compatible\n●Zippered opening for fingers and palm",
+    "specifications": "40 丹尼尼龍塔夫綢 (壓克力塗層)\n內裡：聚酯纖維\n保暖層：EXCELOFT (聚酯纖維)",
+    "specificationsEn": "40-denier nylon taffeta (acrylic coating)\nLining: polyester\nInsulation: EXCELOFT (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥5,910",
     "colors": [
       "BK",
@@ -1101,6 +2263,18 @@
     "name": "WINDSHELL 可收納帽",
     "nameEn": "WINDSHELL CRUSHABLE CAP",
     "category": "CAP & HAT",
+    "description": "● 帽款，輕量、刷毛內裡、保暖、柔軟、舒適\n● 適用於寒冷天氣",
+    "descriptionEn": "● Cap, lightweight, brushed lining, warm, soft, comfortable\n● For cold-weather use",
+    "features": "●背部調節帶\n●可摺疊帽簷\n●5 片式剪裁",
+    "featuresEn": "●Back strap adjuster\n●Crushable brim\n●5 panels",
+    "specifications": "表布：15 丹尼 Ballistic Airlight 格紋尼龍布\n(不含 PFAS 撥水處理)\n內裡：100% 聚酯纖維",
+    "specificationsEn": "15-denier Ballistic Airlight nylon ripstop\n(PFAS-free water repellent finish)\nLining: 100% polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "TBD",
     "price": "￥3,637",
     "colors": [
       "BK",
@@ -1116,6 +2290,19 @@
     "name": "O.D. 攀岩帽",
     "nameEn": "O.D. CRAG CAP",
     "category": "CAP & HAT",
+    "description": "● 高度防風、防潑水、透氣的帽款。\n● 適合動態活動使用。",
+    "descriptionEn": "● Cap, highly wind-resistant, water- repellent, breathable\n● For active use",
+    "features": "● 後方調節帶\n● 高度彈性且防風\n● 可抵擋小雨",
+    "featuresEn": "●Back strap adjuster\n●Highly stretchable and windproof\n●Repels light precipitation",
+    "specifications": "CLIMAPRO 100 (92% 尼龍 + 8% 聚氨酯，不含PFAS的防潑水處理)",
+    "specificationsEn": "CLIMAPRO 100 (92% nylon + 8%\npolyurethane, PFAS-free water-repellent\nfinish)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥3,182",
     "colors": [
       "BK",
@@ -1130,6 +2317,18 @@
     "name": "O.D. CRAG 護耳帽",
     "nameEn": "O.D. CRAG EAR WARMER CAP",
     "category": "CAP & HAT",
+    "description": "● 防風帽，撥水、透氣、輕量，活動舒適\n● 適合高強度活動、健行",
+    "descriptionEn": "● Windproof cap, water-repellent, breathable, lightweight, active comfort\n● For high-output activities, hiking",
+    "features": "● 後方調節帶\n● 高度彈性且防風\n● 可阻擋輕微降水",
+    "featuresEn": "●Back strap adjuster\n●highly stretchable and windproof\n●repels light precipitation",
+    "specifications": "CLIMAPRO 100 (92% 尼龍 + 8% 聚氨酯，無PFAS撥水處理)",
+    "specificationsEn": "CLIMAPRO 100 (92% nylon + 8%\npolyurethane, PFAS-free water-repellent\nfinish)",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "TBD",
     "price": "￥3,637",
     "colors": [
       "BK",
@@ -1144,6 +2343,19 @@
     "name": "O.D. 內裡帽",
     "nameEn": "O.D. LINED HAT",
     "category": "CAP & HAT",
+    "description": "● 耐用面料，保暖\n● 適用於寒冷天氣",
+    "descriptionEn": "● Durable fabric, warm\n● For cold weather use",
+    "features": "● 帽子連接環 (3個環)\n● 刷毛內裡",
+    "featuresEn": "●Hat Connect (3 loops)\n●Brushed lining",
+    "specifications": "70 丹尼 全消光尼龍塔絲絨\n(無 PFAS 防潑水處理)\n內裡：CLIMAAIR (聚酯纖維)",
+    "specificationsEn": "70-denier full-dull nylon tasser\n(PFAS-free water-repellent finish)\nLining: CLIMAAIR (polyester)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥3,637",
     "colors": [
       "BGY",
@@ -1158,6 +2370,18 @@
     "name": "反光帽",
     "nameEn": "REFLECTIVE CAP",
     "category": "CAP & HAT",
+    "description": "● 反光帽款，輕量，高能見度印花\n● 適合夜間慢跑、散步、日常使用\n【本季改款重點】 布料：全新反光印花設計；反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective cap, lightweight, high visibility print\n● For night jogging, walking, daily use\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash- durable",
+    "features": "● 反光印花提高能見度，增強低光源環境下的安全性\n● 側面網布透氣\n● 防潑水\n● 速乾\n● 背部調節帶",
+    "featuresEn": "●Reflective print increases visibility and\nenhances safety in low-light\n●Side mesh ventilation\n●Water-repellent\n●Quick-drying\n●Back strap adjuster",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花，無 PFAS 防潑水處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print, PFAS-\nfree water-repellent finish)",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "TBD",
     "price": "￥2,728",
     "colors": [
       "DGY",
@@ -1172,6 +2396,17 @@
     "name": "CLIMAAIR 雙面保暖圍脖",
     "nameEn": "CLIMAAIR REVERSIBLE NECK WARMER",
     "category": "SCARF AND NECK GAITER",
+    "description": "● 採用 CLIMAAIR 長纖刷毛，柔軟、高度保暖且防風的圍脖，按扣式開合，可收納。\n● 適用於寒冷天氣和旅行。",
+    "descriptionEn": "● Neck warmer, wind-resistant, CLIMAAIR, long-fiber fleece, soft, highly heat-retaining, snap button closure, packable\n● For cold weather and travel",
+    "features": "● 按扣設計，方便穿脫",
+    "featuresEn": "●Snap buttons for easy off and off",
+    "specifications": "70 丹尼全消光仿棉感尼龍塔絲隆\n(不含 PFAS 撥水加工)\n內裡：CLIMAAIR (聚酯纖維)",
+    "specificationsEn": "70-denier full-dull spun-like nylon tasser\n(PFAS-free water repellent finish)\nLining: CLIMAAIR (polyester)",
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
+    "weight": "36 g",
     "price": "￥2,000",
     "colors": [
       "IV",
@@ -1186,6 +2421,17 @@
     "name": "風帽式保暖頸套",
     "nameEn": "HOODED NECK GAITER",
     "category": "SCARF AND NECK GAITER",
+    "description": "● 頭部與臉部保暖，版型可調整，按扣式開合，用途廣泛\n● 適用於冬季戶外活動",
+    "descriptionEn": "● Head and face warmer, fit- adjustable, snap button closure, versatile\n● For winter outdoor use",
+    "features": "● 臉部與風帽周圍束繩可調整\n● 按扣設計方便穿脫\n● 口部覆蓋布料提供額外保暖",
+    "featuresEn": "●Draw cord  adjustment around face and\nhood\n●Snap buttons for easy off and off\n●Mouth covering fabric for additional warmth",
+    "specifications": "彈性 CLIMAPLUS (47% 尼龍 + 36% 聚酯纖維 + 17% 聚氨酯)",
+    "specificationsEn": "Stretch CLIMAPLUS (47% nylon + 36%\npolyester + 17% polyurethane)",
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
+    "weight": "107 g",
     "price": "￥5,455",
     "colors": [
       "BK",
@@ -1199,6 +2445,16 @@
     "name": "CLIMAPRENE 臉部頭套",
     "nameEn": "CLIMAPRENE FACE BALACLAVA",
     "category": "SCARF AND NECK GAITER",
+    "description": "● CLIMAPRENE 頭套，覆蓋臉部，高度防風、彈性、吸濕排汗，並提供四種穿戴方式\n● 適用於極度嚴寒環境\n【與現有款式相比的改進點】 鼻部開口：將移除大型通風口 (以保持溫暖) 鼻部區域：將增加定型襯墊 (以減少霧氣產生)",
+    "descriptionEn": "● Balaclava, CLIMAPRENE covers the face, highly wind-protective, stretch, moisture wicking, wearable in 4 ways\n● For extreme cold conditions\n【Revised point(s) from the current model】 Nose opening: large vent will be removed (to retain warmth) Nose area: shape-retaining insert will be added (to reduce fogging)",
+    "features": "● 塑膠強化核心 (鼻部區域)\n● 鼻部和嘴部周圍設有通風口，以利順暢呼吸",
+    "featuresEn": "●Plastic-reinforced core (nose area)\n●Air vents around the nose and mouth area to\nallow for easy breathing",
+    "specifications": "彈性 CLIMAPLUS 200 (97% 聚酯纖維 +\n3% 聚氨酯)\n臉部：CLIMAPRENE (氯丁橡膠)",
+    "specificationsEn": "Stretch CLIMAPLUS 200 (97% polyester +\n3% polyurethane)\nFace: CLIMAPRENE (chloroprene rubber)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "65 g",
     "price": "￥3,637",
     "colors": [
       "BK"
@@ -1211,6 +2467,16 @@
     "name": "CLIMAPRENE 面頸套",
     "nameEn": "CLIMAPRENE FACE NECK GAITER",
     "category": "SCARF AND NECK GAITER",
+    "description": "● 頸套，CLIMAPRENE 材質包覆臉部，高度防風、彈性、吸濕排汗，可容納頭盔\n● 適用於冬季運動\n【本季改款重點】 鼻部開口：移除大型通風口 (以保持溫暖) 鼻部區域：增加塑形襯墊 (以減少起霧)",
+    "descriptionEn": "● Neck gaiter, CLIMAPRENE covers the face, highly wind- protective, stretch, moisture wicking, helmet compatible\n● For winter sports\n【Revised point(s) from the current model】 Nose opening: large vent will be removed (to retain warmth) Nose area: shape-retaining insert will be added (to reduce fogging)",
+    "features": "● 鼻部區域採用塑膠強化內芯\n● 鼻部與嘴部周圍設有通風口，便於呼吸",
+    "featuresEn": "●Plastic-reinforced core (nose area)\n●Air vents around the nose and mouth area to\nallow for easy breathing",
+    "specifications": "彈性 CLIMAPLUS 200 (97% 聚酯纖維 + 3% 聚氨酯)\n臉部：CLIMAPRENE (氯丁橡膠)",
+    "specificationsEn": "Stretch CLIMAPLUS 200 (97% polyester +\n3% polyurethane)\nFace: CLIMAPRENE (chloroprene rubber)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "53 g",
     "price": "￥3,437",
     "colors": [
       "BK"
@@ -1223,6 +2489,17 @@
     "name": "TRAIL ACTION 頭套",
     "nameEn": "TRAIL ACTION BALACLAVA",
     "category": "SCARF AND NECK GAITER",
+    "description": "● 頭套，Stretch CLIMAPLUS，彈性，透氣\n【與現有款式相比的改進點】 版型：將會更新 (當開口拉至下巴時，穿戴更服貼)",
+    "descriptionEn": "● Balaclava, Stretch CLIMAPLUS, stretch, breathable\n【Revised point(s) from the current model】 Sewing pattern: will be updated (to fit better when the opening is pulled down to the chin)",
+    "features": "●塑膠強化核心 (鼻樑處)",
+    "featuresEn": "●Plastic-reinforced core (nose area)",
+    "specifications": "Stretch CLIMAPLUS (47% 尼龍 + 36%\n聚酯纖維 + 17% 聚氨酯)\n內裡 (口部)：ZEO-LINE (聚酯纖維)",
+    "specificationsEn": "Stretch CLIMAPLUS (47% nylon + 36%\npolyester + 17% polyurethane\nLining (mouth): ZEO-LINE (polyester)",
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
+    "weight": "61 g",
     "price": "￥5,000",
     "colors": [
       "BK",
@@ -1236,6 +2513,16 @@
     "name": "CHAMEECE 印花圍巾",
     "nameEn": "CHAMEECE PRINT SCARF",
     "category": "SCARF AND NECK GAITER",
+    "description": "● 輕量刷毛圍巾，CHAMEECE 材質，印花設計，柔軟保暖",
+    "descriptionEn": "● Lightweight fleece scarf, CHAMEECE, printed design, soft and warm",
+    "features": "● 柔軟優雅的觸感",
+    "featuresEn": "●Soft and elegant feeling scarf",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "62 g",
     "price": "￥1,546",
     "colors": [],
     "season": "FW"
@@ -1246,6 +2533,16 @@
     "name": "CHAMEECE 印花可調整圍脖",
     "nameEn": "CHAMEECE PRINT ADJUSTABLE NECK",
     "category": "SCARF AND NECK GAITER",
+    "description": "● 輕量刷毛圍脖，採用 CHAMEECE 材質，尺寸可調整，柔軟保暖",
+    "descriptionEn": "● Lightweight fleece neck warmer, CHAMEECE, size-adjustable, soft and warm",
+    "features": "●束繩可調整貼合度\n●塑膠加固核心 (鼻部)",
+    "featuresEn": "●Drawcord for adjusting the fit\n●Plastic-reinforced core (nose area)",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "31 g",
     "price": "￥2,410",
     "colors": [],
     "season": "FW"
@@ -1256,6 +2553,26 @@
     "name": "ALPINE CRUISER 3000 內建雪套 男款",
     "nameEn": "ALPINE CRUISER 3000 W/ GAITERS MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 冬季登山靴，防水透氣 DRYTEC，保暖，內建雪套，可搭配冰爪\n● 適用於冬季登山\n【與現行款的改進點】 防水性：GORE-TEX ⇒ DRYTEC 鞋帶系統：繩索 + 魔鬼氈束帶 ⇒ 雙繩索 雪套將更新為防水布料 雪套拉鍊角度將調整以實現更順暢的閉合",
+    "descriptionEn": "● Winter mountaineering boots, waterproof breathable DRYTEC, insulated, built-in gaiter, crampon compatible\n● For winter mountaineering\n【Revised point(s) from the current model】 Waterproofing: GORE-TEX ⇒ DRYTEC Lacing: cord + hook&loop strap ⇒ double cord Gaiter will be updated to waterproof fabric Gaiter zipper angle will be adjusted for smoother closure",
+    "features": "● 防水透氣 DRYTEC 內裡\n● 雙繩索鎖定鞋帶系統\n● 整合式 DRYTEC 雪套\n● 雪套採用耐候 Aqua-Tect Zipper\n● Trail Gripper 大底\n● 可搭配自動冰爪\n● 可換底",
+    "featuresEn": "●Waterproof & breathable DRYTEC lining\n●Double cord-lock shoelace system\n●Integrated DRYTEC gaiters\n●Weather resistant Aqua-Tect Zipper on gaiters\n●Trail Gripper outsole\n●Compatible with automatic crampons\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 撥水處理)、聚酯纖維、橡膠、聚氨酯 (不含 PFAS 撥水處理)\n內裡：DRYTEC\n保暖層：Thinsulate\n大底：Trail Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish), polyester, rubber,\npolyurethane (PFAS-free water-repellent\nfinish)\nLining: DRYTEC\nInsulation: Thinsulate\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "865 g",
     "price": "￥51,819",
     "colors": [
       "OG"
@@ -1268,6 +2585,22 @@
     "name": "ALPINE CRUISER 3000 內建雪套 女款",
     "nameEn": "ALPINE CRUISER 3000 W/ GAITERS WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● 冬季登山靴，防水透氣 DRYTEC，保暖，內建雪套，可搭配冰爪\n● 適用於冬季登山\n【現行款的改版重點】 防水材質：GORE-TEX ⇒ DRYTEC 鞋帶系統：繩索 + 魔鬼氈束帶 ⇒ 雙重繩索 雪套將更新為防水布料 雪套拉鍊角度將調整，開合更順暢",
+    "descriptionEn": "● Winter mountaineering boots, waterproof breathable DRYTEC, insulated, built-in gaiter, crampon compatible\n● For winter mountaineering\n【Revised point(s) from the current model】 Waterproofing: GORE-TEX ⇒ DRYTEC Lacing: cord + hook&loop strap ⇒ double cord Gaiter will be updated to waterproof fabric Gaiter zipper angle will be adjusted for smoother closure",
+    "features": "●防水透氣 DRYTEC 內裡\n●雙重繩索鎖定鞋帶系統\n●整合式 DRYTEC 雪套\n●雪套採用耐候性 Aqua-Tect 拉鍊\n●Trail Gripper 大底\n●可搭配自動冰爪\n●可更換鞋底",
+    "featuresEn": "●Waterproof & breathable DRYTEC lining\n●Double cord-lock shoelace system\n●Integrated DRYTEC gaiters\n●Weather resistant Aqua-Tect Zipper on gaiters\n●Trail Gripper outsole\n●Compatible with automatic crampons\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 防潑水處理)、聚酯纖維、橡膠、聚氨酯 (不含 PFAS 防潑水處理)\n內裡：DRYTEC\n保暖層：Thinsulate\n大底：Trail Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish), polyester, rubber,\npolyurethane (PFAS-free water-repellent\nfinish)\nLining: DRYTEC\nInsulation: Thinsulate\nOutsole: Trail Gripper",
+    "sizes": [
+      "23.0",
+      "23.5",
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0"
+    ],
+    "weight": "TBD",
     "price": "￥51,546",
     "colors": [
       "OG"
@@ -1280,6 +2613,26 @@
     "name": "ALPINE CRUISER 3000 內建綁腿 男款 - 寬楦",
     "nameEn": "ALPINE CRUISER 3000 W/ GAITERS MEN'S - WIDE",
     "category": "FOOTWEAR",
+    "description": "● 冬季登山靴，防水透氣 DRYTEC，保暖，內建綁腿，可搭配冰爪\n● 適用於冬季登山\n【與現行款的改進點】 防水材質：GORE-TEX ⇒ DRYTEC 鞋帶系統：繩索 + 魔鬼氈綁帶 ⇒ 雙繩索 綁腿將更新為防水布料 綁腿拉鍊角度將調整，以實現更順暢的閉合",
+    "descriptionEn": "● Winter mountaineering boots, waterproof breathable DRYTEC, insulated, built-in gaiter, crampon compatible\n● For winter mountaineering\n【Revised point(s) from the current model】 Waterproofing: GORE-TEX ⇒ DRYTEC Lacing: cord + hook&loop strap ⇒ double cord Gaiter will be updated to waterproof fabric Gaiter zipper angle will be adjusted for smoother closure",
+    "features": "●防水透氣 DRYTEC 內裡\n●雙繩索鎖定鞋帶系統\n●整合式 DRYTEC 綁腿\n●綁腿採用抗候 Aqua-Tect 拉鍊\n●Trail Gripper 大底\n●可搭配自動冰爪\n●寬楦設計\n●可更換大底",
+    "featuresEn": "●Waterproof & breathable DRYTEC lining\n●Double cord-lock shoelace system\n●Integrated DRYTEC gaiters\n●Weather resistant Aqua-Tect Zipper on gaiters\n●Trail Gripper outsole\n●Compatible with automatic crampons\n●Wide last\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 防潑水處理)、聚酯纖維、橡膠、聚氨酯 (不含 PFAS 防潑水處理)\n內裡：DRYTEC\n保暖層：Thinsulate\n大底：Trail Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish), polyester, rubber,\npolyurethane (PFAS-free water-repellent\nfinish)\nLining: DRYTEC\nInsulation: Thinsulate\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥51,819",
     "colors": [
       "OG"
@@ -1292,6 +2645,26 @@
     "name": "MOUNTAIN CRUISER 400 BOA 男款",
     "nameEn": "MOUNTAIN CRUISER 400 BOA MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 中筒登山鞋，防水透氣 DRYTEC，BOA 快索系統，輕量，網布\n● 適合輕量健行與山屋行程\n【與現行款的改進點】 鞋面將更柔軟，以提升貼合度與舒適性 防水材質：GORE-TEX ⇒ DRYTEC BOA 鞋帶：金屬線 ⇒ 紡織鞋帶 (高強度 PE)",
+    "descriptionEn": "● Mid-cut boots, waterproof breathable DRYTEC, BOA fit, lightweight, mesh\n● For light hiking and hut trips\n【Revised point(s) from the current model】 Upper will be softer to improve fit and comfort Waterproofing : GORE-TEX ⇒ DRYTEC BOA lace: metal wire ⇒ textile lace (high-strength PE)",
+    "features": "●輕量中筒設計，提供支撐與舒適性\n●防水透氣 DRYTEC 內裡\n●BOA Fit System\n●Trail Gripper 大底\n●可更換鞋底",
+    "featuresEn": "●Lightweight mid-cut design delivers support and comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS 的防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "503 g",
     "price": "￥24,546",
     "colors": [
       "GY"
@@ -1304,6 +2677,24 @@
     "name": "MOUNTAIN CRUISER 400 BOA 女款",
     "nameEn": "MOUNTAIN CRUISER 400 BOA WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● 中筒登山鞋，防水透氣 DRYTEC，BOA 快調系統，輕量，網布\n● 適用於輕量健行與山屋行程\n【本季改款重點】 鞋面將更柔軟，以提升貼合度與舒適性 防水材質：GORE-TEX ⇒ DRYTEC BOA 鞋帶：金屬線 ⇒ 紡織鞋帶 (高強度 PE)",
+    "descriptionEn": "● Mid-cut boots, waterproof breathable DRYTEC, BOA fit, lightweight, mesh\n● For light hiking and hut trips\n【Revised point(s) from the current model】 Upper will be softer to improve fit and comfort Waterproofing : GORE-TEX ⇒ DRYTEC BOA lace: metal wire ⇒ textile lace (high-strength PE)",
+    "features": "● 輕量中筒設計，提供支撐與舒適性\n● 防水透氣 DRYTEC 內裡\n● BOA 快調系統\n● Trail Gripper 大底\n● 可更換大底",
+    "featuresEn": "●Lightweight mid-cut design delivers support and comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS 氟素撥水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "22.0",
+      "22.5",
+      "23.0",
+      "23.5",
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0"
+    ],
+    "weight": "TBD",
     "price": "￥24,273",
     "colors": [
       "GY"
@@ -1316,6 +2707,26 @@
     "name": "MOUNTAIN CRUISER 400 BOA 男款 - 寬楦",
     "nameEn": "MOUNTAIN CRUISER 400 BOA MEN'S - WIDE",
     "category": "FOOTWEAR",
+    "description": "● 中筒登山鞋，防水透氣 DRYTEC，BOA 快索系統，輕量，網布\n● 適合輕量健行及山屋行程\n【本季改款重點】 鞋面材質更柔軟，提升貼合度與舒適性 防水材質：GORE-TEX ⇒ DRYTEC BOA 鞋帶：金屬線 ⇒ 紡織鞋帶 (高強度 PE)",
+    "descriptionEn": "● Mid-cut boots, waterproof breathable DRYTEC, BOA fit, lightweight, mesh\n● For light hiking and hut trips\n【Revised point(s) from the current model】 Upper will be softer to improve fit and comfort Waterproofing : GORE-TEX ⇒ DRYTEC BOA lace: metal wire ⇒ textile lace (high-strength PE)",
+    "features": "● 輕量中筒設計，提供支撐與舒適性\n● 防水透氣 DRYTEC 內裡\n● BOA 快索系統\n● Trail Gripper 大底\n● 寬楦設計\n● 可更換大底",
+    "featuresEn": "●Lightweight mid-cut design delivers support and comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Wide last\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維，聚氨酯 (不含 PFAS 氟素撥水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥24,546",
     "colors": [
       "GY"
@@ -1328,6 +2739,26 @@
     "name": "MOUNTAIN HOPPER 中筒 BOA 男款",
     "nameEn": "MOUNTAIN HOPPER MID BOA MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 中筒登山鞋，採用防水透氣 DRYTEC，BOA 快調系統，緩震中底，柔軟輕量\n● 適合輕量健行",
+    "descriptionEn": "● Mid-cut boots, waterproof breathable DRYTEC, BOA fit, cushioned midsole, soft and lightweight\n● For light hiking",
+    "features": "● 輕量中筒設計，提供柔軟舒適感\n● 防水透氣 DRYTEC 內裡\n● BOA 快調系統\n● Trail Gripper 大底\n● 可更換鞋底",
+    "featuresEn": "●Lightweight mid-cut design delivers soft comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS，防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "427 g",
     "price": "￥23,455",
     "colors": [
       "KGN",
@@ -1341,6 +2772,24 @@
     "name": "MOUNTAIN HOPPER 中筒 BOA 女款",
     "nameEn": "MOUNTAIN HOPPER MID BOA WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● 中筒登山鞋款，採用防水透氣 DRYTEC 材質，BOA 貼合系統，緩震中底，柔軟輕量。\n● 適合輕量健行。",
+    "descriptionEn": "● Mid-cut boots, waterproof breathable DRYTEC, BOA fit, cushioned midsole, soft and lightweight\n● For light hiking",
+    "features": "● 輕量中筒設計，提供柔軟舒適感。\n● 防水透氣 DRYTEC 內裡。\n● BOA Fit System。\n● Trail Gripper 大底。\n● 可更換大底設計。",
+    "featuresEn": "●Lightweight mid-cut design delivers soft comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS、防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "22.0",
+      "22.5",
+      "23.0",
+      "23.5",
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0"
+    ],
+    "weight": "TBD",
     "price": "￥23,182",
     "colors": [
       "GY",
@@ -1354,6 +2803,26 @@
     "name": "MOUNTAIN HOPPER 中筒 BOA 男款 - 寬楦",
     "nameEn": "MOUNTAIN HOPPER MID BOA MEN'S - WIDE",
     "category": "FOOTWEAR",
+    "description": "● 中筒登山鞋，防水透氣 DRYTEC，BOA Fit System，緩震中底，柔軟輕量\n● 適合輕量健行",
+    "descriptionEn": "● Mid-cut boots, waterproof breathable DRYTEC, BOA fit, cushioned midsole, soft and lightweight\n● For light hiking",
+    "features": "● 輕量中筒設計，提供柔軟舒適\n● 防水透氣 DRYTEC 內裡\n● BOA Fit System\n● Trail Gripper 大底\n● 寬楦設計\n● 可更換大底",
+    "featuresEn": "●Lightweight mid-cut design delivers soft comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Wide last\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維，聚氨酯 (不含 PFAS 防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥23,455",
     "colors": [
       "KGN",
@@ -1367,6 +2836,26 @@
     "name": "MOUNTAIN HOPPER BOA 男款",
     "nameEn": "MOUNTAIN HOPPER BOA MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 低筒鞋款，採用防水透氣 DRYTEC，BOA 快索系統，緩震中底，柔軟輕量\n● 適合輕量健行",
+    "descriptionEn": "● Low-cut shoes, waterproof breathable DRYTEC, BOA fit, cushioned midsole, soft and lightweight\n● For light hiking",
+    "features": "● 輕量低筒設計，提供柔軟舒適\n● 防水透氣 DRYTEC 內裡\n● BOA 快索系統\n● Trail Gripper 大底\n● 可更換大底",
+    "featuresEn": "●Lightweight low-cut design delivers soft comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS 防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "350 g",
     "price": "￥22,546",
     "colors": [
       "BK",
@@ -1380,6 +2869,24 @@
     "name": "MOUNTAIN HOPPER BOA 女款",
     "nameEn": "MOUNTAIN HOPPER BOA WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● 低筒鞋款，採用防水透氣 DRYTEC，BOA 快調系統，緩震中底，柔軟輕量\n● 適合輕量健行",
+    "descriptionEn": "● Low-cut shoes, waterproof breathable DRYTEC, BOA fit, cushioned midsole, soft and lightweight\n● For light hiking",
+    "features": "● 輕量低筒設計，提供柔軟舒適感\n● 防水透氣 DRYTEC 內裡\n● BOA Fit System\n● Trail Gripper 大底\n● 可更換鞋底",
+    "featuresEn": "●Lightweight low-cut design delivers soft comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS 防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "22.0",
+      "22.5",
+      "23.0",
+      "23.5",
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0"
+    ],
+    "weight": "TBD",
     "price": "￥22,273",
     "colors": [
       "LGY",
@@ -1393,6 +2900,26 @@
     "name": "MOUNTAIN HOPPER BOA 男款 - 寬楦",
     "nameEn": "MOUNTAIN HOPPER BOA MEN'S - WIDE",
     "category": "FOOTWEAR",
+    "description": "● 低筒鞋款，採用防水透氣 DRYTEC，BOA 快索系統，緩震中底，柔軟輕量\n● 適合輕量健行",
+    "descriptionEn": "● Low-cut shoes, waterproof breathable DRYTEC, BOA fit, cushioned midsole, soft and lightweight\n● For light hiking",
+    "features": "● 輕量低筒設計，提供柔軟舒適\n● 防水透氣 DRYTEC 內裡\n● BOA 快索系統\n● Trail Gripper 大底\n● 寬楦設計\n● 可更換大底",
+    "featuresEn": "●Lightweight low-cut design delivers soft comfort\n●Waterproof & breathable DRYTEC lining\n●BOA Fit System\n●Trail Gripper outsole\n●Wide last\n●Resoleable",
+    "specifications": "鞋面：聚酯纖維、聚氨酯 (不含 PFAS，防潑水處理)\n內裡：DRYTEC\n大底：Trail Gripper",
+    "specificationsEn": "Upper: polyester, polyurethane (PFAS-free\nwater-repellent finish)\nLining: DRYTEC\nOutsole: Trail Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥22,546",
     "colors": [
       "BK",
@@ -1406,6 +2933,26 @@
     "name": "高地靴 男款",
     "nameEn": "HIGHLAND BOOTS MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 側邊鬆緊帶靴款，採用全粒面皮革、縫合結構，堅固耐用，搭配 Urban Grip 大底。\n● 適合旅行、城市漫步與露營使用。\n【與現行款的改進點】 結構：更新為縫合結構 材質：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Side gore boots, full grain leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material: suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 側邊鬆緊帶設計搭配彈性襯墊，方便穿脫。\n● 優質皮革提供舒適貼合與耐用性。\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Side gore design with elastic gussets for easy on and off\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish) (PFAS-free water-repellent\nfinish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥17,546",
     "colors": [
       "BN",
@@ -1419,6 +2966,24 @@
     "name": "HIGHLAND BOOTS 女款",
     "nameEn": "HIGHLAND BOOTS WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● 側邊鬆緊帶靴款，採用全粒面皮革、縫合結構，堅固耐用，搭配 Urban Grip 大底\n● 適合旅行、城市日常及露營使用\n【本季改款重點】 結構：更新為縫合結構 材質：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Side gore boots, full grain leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material: suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 彈性側邊設計，方便穿脫\n● 優質皮革，提供舒適貼合與耐用性\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Side gore design with elastic gussets for easy on and off\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含PFAS的防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "22.0",
+      "22.5",
+      "23.0",
+      "23.5",
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0"
+    ],
+    "weight": "TBD",
     "price": "￥17,273",
     "colors": [
       "BN",
@@ -1432,6 +2997,26 @@
     "name": "RAMBLER CHUKKA 男款靴",
     "nameEn": "RAMBLER CHUKKA BOOTS MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 查卡靴，皮革製，縫製結構，耐用，Urban Grip 大底\n● 適合旅行、城市與露營使用\n【本季改款重點】 結構：更新為縫製式 材質 (顏色：BK)：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Chukka boots, leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material (Color: BK): suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 中筒綁帶式查卡靴\n● 優質皮革提供舒適貼合與耐用性\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Mid-cut, lace-up chukka boot\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 的防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥18,000",
     "colors": [
       "BN",
@@ -1445,6 +3030,24 @@
     "name": "RAMBLER CHUKKA 靴 女款",
     "nameEn": "RAMBLER CHUKKA BOOTS WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● Chukka 靴，皮革，縫合式結構，耐用，Urban Grip 大底\n● 適合旅行、城鎮與露營使用\n【本季改款重點】 結構：更新為縫合式結構 材質 (顏色：BK)：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Chukka boots, leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material (Color: BK): suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 中筒綁帶式 Chukka 靴\n● 優質皮革，提供舒適貼合與耐用性\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Mid-cut, lace-up chukka boot\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0"
+    ],
+    "weight": "TBD",
     "price": "￥17,728",
     "colors": [
       "BN",
@@ -1458,6 +3061,26 @@
     "name": "HIGHLAND MOC 男款",
     "nameEn": "HIGHLAND MOC MEN'S",
     "category": "FOOTWEAR",
+    "description": "● 套穿式鞋款，全粒面皮革，stitch-down 結構，耐用，Urban Grip 大底\n● 適用於旅行、城鎮及露營使用\n【現行款式改進點】 結構：將更新為 stitch-down 材質：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Slip-on shoes, full grain leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material: suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 低筒、套穿式設計\n● 彈性側邊設計，方便穿脫\n● 優質皮革，提供舒適貼合與耐用性\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Low-cut, slip-on design\n●Elastic gusset for easy on and off\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含PFAS的防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥16,546",
     "colors": [
       "BN",
@@ -1471,6 +3094,24 @@
     "name": "HIGHLAND MOC 女款",
     "nameEn": "HIGHLAND MOC WOMEN'S",
     "category": "FOOTWEAR",
+    "description": "● 套穿鞋款，採用全粒面皮革，縫合結構，耐用，搭配 Urban Grip 大底\n● 適用於旅行、日常穿搭及露營使用\n【本季改款重點】 結構：更新為縫合結構 材質：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Slip-on shoes, full grain leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material: suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 低筒套穿式設計\n● 彈性襯片，方便穿脫\n● 優質皮革，提供舒適貼合與耐用性\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Low-cut, slip-on design\n●Elastic gusset for easy on and off\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含 PFAS 的防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0"
+    ],
+    "weight": "TBD",
     "price": "￥17,000",
     "colors": [
       "BN",
@@ -1484,6 +3125,26 @@
     "name": "漫步鞋",
     "nameEn": "RAMBLER SHOES",
     "category": "FOOTWEAR",
+    "description": "● 素面鞋頭鞋款，全粒面皮革，縫合結構，耐用，Urban Grip 大底\n● 適合旅行、城鎮與露營使用\n【本款與舊款的改進點】 結構：更新為縫合結構 材質：麂皮 ⇒ 全粒面皮革 大底：Trail Gripper ⇒ Urban Gripper",
+    "descriptionEn": "● Plain toe shoes, full grain leather, stitch down, durable, Urban Grip Outsole\n● For travel, town, and camp use\n【Revised point(s) from the current model】 Construction: will be updated to stitch-down Material: suede leather ⇒ full-grain leather Outsole: Trail Gripper ⇒ Urban Gripper",
+    "features": "● 低筒綁帶設計\n● 優質皮革提供舒適貼合與耐用性\n● Urban Gripper\n● 可更換大底",
+    "featuresEn": "●Low-cut, lace-up design\n●High quality leather for comfortable fit and durability\n●Urban Gripper\n●Resoleable",
+    "specifications": "鞋面：牛皮 (不含PFAS防潑水處理)\n內裡：聚酯纖維\n大底：Urban Gripper",
+    "specificationsEn": "Upper: cow leather (PFAS-free water-\nrepellent finish)\nLining: polyester\nOutsole: Urban Gripper",
+    "sizes": [
+      "24.0",
+      "24.5",
+      "25.0",
+      "25.5",
+      "26.0",
+      "26.5",
+      "27.0",
+      "27.5",
+      "28.0",
+      "28.5",
+      "29.0"
+    ],
+    "weight": "TBD",
     "price": "￥17,273",
     "colors": [
       "BN",
@@ -1497,6 +3158,16 @@
     "name": "EASY-SPIKE",
     "nameEn": "EASY-SPIKE",
     "category": "SNOW GEAR",
+    "description": "● 在結冰路面提供抓地力，具彈性，易於穿脫，小巧，輕量，通用尺寸\n● 適用於結冰路面行走及旅行\n【與現有型號的改進點】 拉環數量（前後）：1 → 2，更易於拉動",
+    "descriptionEn": "● Grips on icy surface, elastic, easy on-off, compact, lightweight, universal fit\n● For walking on icy roads and travel\n【Revised point(s) from the current model】 Number of pull tabs (front and back): 1 → 2 for easier pulling",
+    "features": "● 在冬季結冰路面提供抓地力\n● 彈性結構設計，方便快速穿脫\n● 前腳掌區域設有冰爪\n● 單一尺寸適用大多數人\n● 附收納袋",
+    "featuresEn": "●Provides traction in icy winter conditions\n●Elastic construction for quick and easy on\nand off\n●Spikes in the forefoot area\n●One size fits most\n●Stuff sack included",
+    "specifications": "彈性體\n冰爪：S45C 碳鋼",
+    "specificationsEn": "Elastomer\nSpike: S45C carbon steel",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥1,728",
     "colors": [
       "BK"
@@ -1509,6 +3180,16 @@
     "name": "EASY-SPIKE 全鞋底",
     "nameEn": "EASY-SPIKE FULL SOLE",
     "category": "SNOW GEAR",
+    "description": "● 在冰面上提供抓地力、彈性、易於穿脫、小巧、輕量、通用尺寸\n● 適用於冰面道路行走與旅行",
+    "descriptionEn": "● Grips on icy surface, elastic, easy on-off, compact, lightweight, universal fit\n● For walking on icy roads and travel",
+    "features": "● 在濕滑冰面提供抓地力\n● 彈性結構，方便快速穿脫\n● 前掌與腳跟處設有冰爪\n● 單一尺寸，適用大多數鞋款\n● 內含收納袋",
+    "featuresEn": "●Provides traction in icy winter conditions\n●Elastic construction for quick and easy on\nand off\n●Spikes in the forefoot and heel area\n●One size fits most\n●Stuff sack included",
+    "specifications": "彈性體\n冰爪：S45C 碳鋼",
+    "specificationsEn": "Elastomer\nSpike: S45C carbon steel",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥2,000",
     "colors": [
       "BK"
@@ -1521,6 +3202,16 @@
     "name": "GALENA PACK 20",
     "nameEn": "GALENA PACK 20",
     "category": "BACKPACK",
+    "description": "● 日用背包，附肩部與腰部口袋，多功能\n● 適合單日健行\n【現行款式改進點】主拉鍊長度將縮短 肩部口袋：僅左側 ⇒ 雙肩 肩部口袋將更新為彈性網布 前方頂部口袋將增加收納口袋",
+    "descriptionEn": "● Daypack, shoulder & waist pockets, versatile\n● For day hikes\n【Revised point(s) from the current model】 Main zipper length will be shortened Shoulder pockets: left-only ⇒ both shoulders Shoulder pockets will be updated with stretchy mesh fabric Organizer pockets will be added in the front top pocket",
+    "features": "●3D網狀背板\n●胸扣帶\n●肩部口袋\n●內側網狀口袋附鑰匙扣環\n●頂部口袋附內側收納口袋\n●快速取用壓縮收納\n●正面口袋\n●冰斧/登山杖固定環\n●頭盔固定環\n●反光材質\n●側邊口袋\n●腰帶口袋\n●可收納式腰帶口袋\n●可兼容水袋系統\n●可收納式背包套\n●背長：49cm\n●容量：20L",
+    "featuresEn": "●3D Mesh back panel\n●Chest strap\n●Shoulder pockets\n●Inner mesh pocket with key loop\n●Top pocket with inner organizer pockets\n●Quick access compression storage\n●front pocket\n●Ice axe / pole holder\n●Helmet holder attachment loop\n●Reflective material\n●Side pockets\n●Hipbelt pocket\n●Stow-away hipbelt pocket\n●Trail Water Pack compatible\n●Stow-away pack cover\n●Back length : 49cm\n●Capacity: 20L",
+    "specifications": "主體：100丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n側邊與底部：210丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 100-denier Ballistic nylon ripstop\n(urethane coating)\nSide and bottom: 210-denier Ballistic nylon\nripstop (urethane coating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "829 g",
     "price": "￥15,455",
     "colors": [
       "BK",
@@ -1535,6 +3226,16 @@
     "name": "GALENA PACK 20 女性款",
     "nameEn": "GALENA PACK 20 WOMEN'S",
     "category": "BACKPACK",
+    "description": "● 日用背包，肩部與腰部口袋，多功能\n● 適合單日健行\n【本季改款重點】 主拉鍊長度縮短 肩部口袋：從單邊左側改為雙肩皆有 肩部口袋改為使用彈性網布 正面頂部口袋新增分隔收納口袋",
+    "descriptionEn": "● Daypack, shoulder & waist pockets, versatile\n● For day hikes\n【Revised point(s) from the current model】 Main zipper length will be shortened Shoulder pockets: left-only ⇒ both shoulders Shoulder pockets will be updated with stretchy mesh fabric Organizer pockets will be added in the front top pocket",
+    "features": "●3D網狀背板\n●胸扣帶\n●肩部口袋\n●內側網狀口袋附鑰匙扣環\n●頂部口袋附內側分隔收納口袋\n●快速取用壓縮收納\n●正面口袋\n●冰斧/登山杖固定環\n●頭盔固定環\n●反光材質\n●側邊口袋\n●腰帶口袋\n●可收納式腰帶口袋\n●可搭配水袋使用\n●可收納式背包套\n●背長：45cm\n●容量：20L",
+    "featuresEn": "●3D Mesh back panel\n●Chest strap\n●Shoulder pockets\n●Inner mesh pocket with key loop\n●Top pocket with inner organizer pockets\n●Quick access compression storage\n●front pocket\n●Ice axe / pole holder\n●Helmet holder attachment loop\n●Reflective material\n●Side pockets\n●Hipbelt pocket\n●Stow-away hipbelt pocket\n●Trail Water Pack compatible\n●Stow-away pack cover\n●Back length : 45cm\n●Capacity: 20L",
+    "specifications": "主體：100丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n側邊與底部：210丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 100-denier Ballistic nylon ripstop\n(urethane coating)\nSide and bottom: 210-denier Ballistic nylon\nripstop (urethane coating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥14,546",
     "colors": [
       "BGY",
@@ -1549,6 +3250,16 @@
     "name": "GALENA PACK 25",
     "nameEn": "GALENA PACK 25",
     "category": "BACKPACK",
+    "description": "● 日用背包，肩部與腰部口袋，多功能\n● 適合單日健行\n【與現有型號的改進點】主拉鍊長度將縮短 肩部口袋：從僅限左側 ⇒ 變為雙肩皆有 肩部口袋將更新為彈性網布 正面頂部口袋將新增收納口袋",
+    "descriptionEn": "● Daypack, shoulder & waist pockets, versatile\n● For day hikes\n【Revised point(s) from the current model】 Main zipper length will be shortened Shoulder pockets: left-only ⇒ both shoulders Shoulder pockets will be updated with stretchy mesh fabric Organizer pockets will be added in the front top pocket",
+    "features": "●3D網布背板\n●胸扣帶\n●肩部口袋\n●內部網狀口袋附鑰匙扣環\n●頂部口袋附內部收納口袋\n●快速取用壓縮收納\n●正面口袋\n●冰斧／登山杖固定環\n●頭盔固定環\n●反光材質\n●側邊口袋\n●腰帶口袋\n●可收納腰帶口袋\n●可兼容水袋\n●可收納背包套\n●背長：51cm\n●容量：25L",
+    "featuresEn": "●3D Mesh back panel\n●Chest strap\n●Shoulder pockets\n●Inner mesh pocket with key loop\n●Top pocket with inner organizer pockets\n●Quick access compression storage\n●front pocket\n●Ice axe / pole holder\n●Helmet holder attachment loop\n●Reflective material\n●Side pockets\n●Hipbelt pocket\n●Stow-away hipbelt pocket\n●Trail Water Pack compatible\n●Stow-away pack cover\n●Back length : 51cm\n●Capacity: 25L",
+    "specifications": "主體：100丹尼 Ballistic® 格紋尼龍布\n(聚氨酯塗層)\n側邊與底部：210丹尼 Ballistic® 格紋尼龍布 (聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 100-denier Ballistic nylon ripstop\n(urethane coating)\nSide and bottom: 210-denier Ballistic nylon\nripstop (urethane coating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "880 g",
     "price": "￥15,910",
     "colors": [
       "BK",
@@ -1564,6 +3275,16 @@
     "name": "GALENA PACK 25 女款",
     "nameEn": "GALENA PACK 25 WOMEN'S",
     "category": "BACKPACK",
+    "description": "● 日用背包，附肩部與腰部口袋，多功能\n● 適合單日健行\n【本季改款重點】 主拉鍊長度縮短 肩部口袋：從單邊（左側）改為雙邊 肩部口袋改用彈性網布 頂部前側口袋增加收納口袋",
+    "descriptionEn": "● Daypack, shoulder & waist pockets, versatile\n● For day hikes\n【Revised point(s) from the current model】 Main zipper length will be shortened Shoulder pockets: left-only ⇒ both shoulders Shoulder pockets will be updated with stretchy mesh fabric Organizer pockets will be added in the front top pocket",
+    "features": "●3D網布背板\n●胸扣帶\n●肩部口袋\n●內側網布口袋附鑰匙扣\n●頂部口袋附內側收納口袋\n●快速取用壓縮收納\n●前側口袋\n●冰斧/登山杖固定環\n●頭盔固定環\n●反光材質\n●側邊口袋\n●腰帶口袋\n●可收納腰帶口袋\n●可搭配水袋系統\n●可收納式背包套\n●背長：47cm\n●容量：25L",
+    "featuresEn": "●3D Mesh back panel\n●Chest strap\n●Shoulder pockets\n●Inner mesh pocket with key loop\n●Top pocket with inner organizer pockets\n●Quick access compression storage\n●front pocket\n●Ice axe / pole holder\n●Helmet holder attachment loop\n●Reflective material\n●Side pockets\n●Hipbelt pocket\n●Stow-away hipbelt pocket\n●Trail Water Pack compatible\n●Stow-away pack cover\n●Back length : 47cm\n●Capacity: 25L",
+    "specifications": "主體：100丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n側邊與底部：210丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 100-denier Ballistic nylon ripstop\n(urethane coating)\nSide and bottom: 210-denier Ballistic nylon\nripstop (urethane coating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "867 g",
     "price": "￥15,000",
     "colors": [
       "BGY",
@@ -1579,6 +3300,16 @@
     "name": "GALENA PACK 30",
     "nameEn": "GALENA PACK 30",
     "category": "BACKPACK",
+    "description": "● 日用背包，附肩部與腰部口袋，多功能\n● 適用於單日健行至多日山屋行程\n【本季改款重點】 主拉鍊長度縮短\n肩部口袋：由單邊（左側）改為雙邊肩部\n肩部口袋改為彈性網布\n正面頂部口袋新增分隔收納口袋",
+    "descriptionEn": "● Daypack, shoulder & waist pockets, versatile\n● For day hikes to multi-day hut trips\n【Revised point(s) from the current model】 Main zipper length will be shortened Shoulder pockets: left-only ⇒ both shoulders Shoulder pockets will be updated with stretchy mesh fabric Organizer pockets will be added in the front top pocket",
+    "features": "●3D網布背板\n●胸扣帶\n●肩部口袋\n●內部網狀口袋附鑰匙扣環\n●頂部口袋附內部收納分隔口袋\n●快速取用壓縮收納空間\n●正面口袋\n●冰斧/登山杖固定環\n●頭盔固定織帶環\n●反光材質\n●側邊口袋\n●腰帶口袋\n●可收納式腰帶口袋\n●相容水袋系統\n●可收納式背包套\n●背長：53cm\n●容量：30L",
+    "featuresEn": "●3D Mesh back panel\n●Chest strap\n●Shoulder pockets\n●Inner mesh pocket with key loop\n●Top pocket with inner organizer pockets\n●Quick access compression storage\n●front pocket\n●Ice axe / pole holder\n●Helmet holder attachment loop\n●Reflective material\n●Side pockets\n●Hipbelt pocket\n●Stow-away hipbelt pocket\n●Trail Water Pack compatible\n●Stow-away pack cover\n●Back length : 53cm\n●Capacity: 30L",
+    "specifications": "主體：100丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n側邊與底部：210丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 100-denier Ballistic nylon ripstop\n(urethane coating)\nSide and bottom: 210-denier Ballistic nylon\nripstop (urethane coating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "900 g",
     "price": "￥16,364",
     "colors": [
       "BK",
@@ -1594,6 +3325,16 @@
     "name": "GALENA PACK 30 女款",
     "nameEn": "GALENA PACK 30 WOMEN'S",
     "category": "BACKPACK",
+    "description": "● 日用背包，肩部與腰部口袋，多功能\n● 適合單日健行到多日山屋行程\n【本季改款重點】 主拉鍊長度縮短 肩部口袋：由單邊（左側）改為雙邊 肩部口袋改為彈性網布 前方頂袋新增分隔收納口袋",
+    "descriptionEn": "● Daypack, shoulder & waist pockets, versatile\n● For day hikes to multi-day hut trips\n【Revised point(s) from the current model】 Main zipper length will be shortened Shoulder pockets: left-only ⇒ both shoulders Shoulder pockets will be updated with stretchy mesh fabric Organizer pockets will be added in the front top pocket",
+    "features": "●3D網狀背板\n●胸扣帶\n●肩部口袋\n●內側網狀口袋附鑰匙扣環\n●頂袋附內側分隔收納口袋\n●快速壓縮收納\n●前方口袋\n●冰斧/登山杖固定環\n●安全帽固定環\n●反光材質\n●側邊口袋\n●腰帶口袋\n●可收納式腰帶口袋\n●可搭配水袋使用\n●可收納式背包套\n●背長：48cm\n●容量：30L",
+    "featuresEn": "●3D Mesh back panel\n●Chest strap\n●Shoulder pockets\n●Inner mesh pocket with key loop\n●Top pocket with inner organizer pockets\n●Quick access compression storage\n●front pocket\n●Ice axe / pole holder\n●Helmet holder attachment loop\n●Reflective material\n●Side pockets\n●Hipbelt pocket\n●Stow-away hipbelt pocket\n●Trail Water Pack compatible\n●Stow-away pack cover\n●Back length : 48cm\n●Capacity: 30L",
+    "specifications": "主體：100丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n側邊與底部：210丹尼 Ballistic 格紋尼龍布\n(聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 100-denier Ballistic nylon ripstop\n(urethane coating)\nSide and bottom: 210-denier Ballistic nylon\nripstop (urethane coating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥15,455",
     "colors": [
       "BGY",
@@ -1608,6 +3349,16 @@
     "name": "日用背包 #1 20",
     "nameEn": "DAY PACK #1 20",
     "category": "BACKPACK",
+    "description": "● 日用背包，採用耐用布料，具備多個口袋與有條理的收納空間，內含筆電夾層\n● 適合輕量健行與日常使用",
+    "descriptionEn": "● Daypack, durable fabric, multiple pockets and organized storage, laptop sleeve\n● For light hiking and everyday use",
+    "features": "● 3D立體網布背板\n● 肩帶菊繩\n● 內側網布口袋附鑰匙扣環\n● 可收納14吋筆電的背部口袋\n● 前方隔層附內側收納口袋\n● 前口袋\n● 雨傘口袋\n● 側口袋\n● 胸扣帶需另購(#1134501)\n● 背長：47cm\n● 容量：20L",
+    "featuresEn": "●3D mesh back panel\n●Daisy chain on shoulder strap\n●Inner mesh pocket with key loop\n●Laptop-compatible(14inch) back pocket\n●Front compartment with inner organizer pockets\n●Front pocket\n●Umbrella pocket\n●Side pockets\n●Chest strap sold separately(#1134501)\n●Back length : 47cm\n●Capacity: 20L",
+    "specifications": "主體：420丹尼尼龍牛津布 (聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 420-denier nylon oxford (urethane\ncoating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "668 g",
     "price": "￥10,728",
     "colors": [
       "BK",
@@ -1623,6 +3374,16 @@
     "name": "DAY PACK #1 25",
     "nameEn": "DAY PACK #1 25",
     "category": "BACKPACK",
+    "description": "● 日用背包，採用耐用布料，具備多個口袋與分層收納空間，內含筆記型電腦隔層\n● 適合輕量健行與日常使用",
+    "descriptionEn": "● Daypack, durable fabric, multiple pockets and organized storage, laptop sleeve\n● For light hiking and everyday use",
+    "features": "● 3D立體網布背板\n● 肩帶菊繩\n● 內側網布口袋附鑰匙扣環\n● 可收納14吋筆記型電腦的背部口袋\n● 前方隔層附內部收納口袋\n● 前口袋\n● 雨傘口袋\n● 側口袋\n● 胸扣帶另售 (#1134501)\n● 背長：51cm\n● 容量：25L",
+    "featuresEn": "●3D mesh back panel\n●Daisy chain on shoulder strap\n●Inner mesh pocket with key loop\n●Laptop-compatible(14inch) back pocket\n●Front compartment with inner organizer pockets\n●Front pocket\n●Umbrella pocket\n●Side pockets\n●Chest strap sold separately(#1134501)\n●Back length : 51cm\n●Capacity: 25L",
+    "specifications": "主體：420丹尼尼龍牛津布 (聚氨酯塗層)\n背板：3D網布",
+    "specificationsEn": "Body: 420-denier nylon oxford (urethane\ncoating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "724 g",
     "price": "￥11,182",
     "colors": [
       "BK",
@@ -1638,6 +3399,16 @@
     "name": "DAY PACK #2 15L",
     "nameEn": "DAY PACK #2 15",
     "category": "BACKPACK",
+    "description": "● 日用背包，採用耐用布料，流線型設計，配備正面口袋與筆記型電腦收納層\n● 適合輕量健行與日常使用",
+    "descriptionEn": "● Daypack, durable fabric, streamlined design, front pocket, laptop sleeve\n● For light hiking and everyday use",
+    "features": "● 3D立體網狀背板\n● 肩帶菊繩織帶環\n● 內部筆記型電腦收納袋\n● 網狀口袋\n● 正面口袋附內網狀口袋與鑰匙扣環\n● 側邊口袋\n● 可自立平底設計\n● 胸扣帶另售(#1134501)\n● 背長：44cm\n● 容量：15L",
+    "featuresEn": "●3D mesh back panel\n●Daisy chain on shoulder strap\n●Interior pocket for laptop\n●Mesh pocket\n●Front pocket with inner mesh pocket and key loop\n●Side pockets\n●Self-standing flat bottom\n●Chest strap sold separately(#1134501)\n●Back length : 44cm\n●Capacity: 15L",
+    "specifications": "主體：420 丹尼尼龍牛津布 (聚氨酯塗層)\n背板：3D立體網布",
+    "specificationsEn": "Body: 420-denier nylon oxford (urethane\ncoating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "515 g",
     "price": "￥7,091",
     "colors": [
       "BK",
@@ -1652,6 +3423,16 @@
     "name": "DAY PACK #2 20",
     "nameEn": "DAY PACK #2 20",
     "category": "BACKPACK",
+    "description": "● 輕量背包，耐用布料，流線型設計，正面口袋，筆記型電腦夾層\n● 適合輕量健行與日常使用",
+    "descriptionEn": "● Daypack, durable fabric, streamlined design, front pocket, laptop sleeve\n● For light hiking and everyday use",
+    "features": "●3D網眼背板\n●肩帶菊繩\n●內部筆記型電腦夾層\n●網狀口袋\n●正面口袋附內網狀口袋與鑰匙扣環\n●側邊口袋\n●自立式平底\n●胸扣帶另售(#1134501)\n●背長：47cm\n●容量：20L",
+    "featuresEn": "●3D mesh back panel\n●Daisy chain on shoulder strap\n●Interior pocket for laptop\n●Mesh pocket\n●Front pocket with inner mesh pocket and key loop\n●Side pockets\n●Self-standing flat bottom\n●Chest strap sold separately(#1134501)\n●Back length : 47cm\n●Capacity: 20L",
+    "specifications": "主體：420丹尼尼龍牛津布 (聚氨酯塗層)\n背板：3D網眼布",
+    "specificationsEn": "Body: 420-denier nylon oxford (urethane\ncoating)\nBack panel: 3D mesh",
+    "sizes": [
+      "-"
+    ],
+    "weight": "570 g",
     "price": "￥7,546",
     "colors": [
       "BK",
@@ -1666,6 +3447,16 @@
     "name": "反光登山傘 55",
     "nameEn": "REFLECTIVE TREKKING UMBRELLA 55",
     "category": "UMBRELLA",
+    "description": "● 雨傘、反光印花、碳纖骨架、輕量、耐用、附收納袋\n【與現有型號的改進點】 布料：全新反光印花設計 反光印花：將更耐洗、耐用",
+    "descriptionEn": "● Umbrella, reflective print, carbon frame, lightweight, durable, case included\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash- durable",
+    "features": "●反光處理\n●收納長度：25 cm\n●傘骨數量：8\n●展開直徑：98 cm\n●傘骨長度：55 cm\n●附收納袋",
+    "featuresEn": "●Reflective finish\n●Folded length: 25 cm\n●Number of ribs: 8\n●Opened diameter: 98 cm\n●Rib length: 55 cm\n●Umbrella case included",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花、無 PFAS 防潑水處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print, PFAS-\nfree water-repellent finish)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "172 g",
     "price": "￥6,546",
     "colors": [
       "DNV",
@@ -1680,6 +3471,16 @@
     "name": "反光健行傘 55 傘套",
     "nameEn": "REFLECTIVE TREKKING UMBRELLA 55 CASE",
     "category": "UMBRELLA",
+    "description": "● 適用於反光健行傘 55 (#1128852) 的傘套\n【與現行款式相比的改良點】 布料：全新反光印花設計 反光印花：提升耐洗度",
+    "descriptionEn": "● Umbrella case for Reflective Trekking Umbrella 55 (#1128852)\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash- durable",
+    "features": "● 替換用傘套\n● 反光材質",
+    "featuresEn": "●Replacement umbrella case\n●Reflective material",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花，不含 PFAS 防潑水處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print, PFAS-\nfree water-repellent finish)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥1,000",
     "colors": [
       "DNV",
@@ -1694,6 +3495,16 @@
     "name": "胸扣帶",
     "nameEn": "CHEST STRAP",
     "category": "ACCESSORIES",
+    "description": "● 可選購胸扣帶，適用於 Day Pack #1 和 #2，提供穩固服貼，可調整",
+    "descriptionEn": "● Optional chest strap, for Day Pack #1 and #2, secure fit, adjustable",
+    "features": "● 可調整式織帶，提供客製化貼合\n● 相容於 DAY PACK#1 20/25 和\nDAY PACK#2 15/20",
+    "featuresEn": "●Adjustable strap for a customized fit\n●Compatible with DAY PACK#1 20/25 and\nDAY PACK#2 15/20",
+    "specifications": "尼龍",
+    "specificationsEn": "nylon",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥637",
     "colors": [
       "BK",
@@ -1708,6 +3519,16 @@
     "name": "雪鏡收納包",
     "nameEn": "GOGGLE CASE",
     "category": "EYEWEAR",
+    "description": "● 半硬式雪鏡收納包，EVA泡棉提供保護，可垂直收納，方便取用，堅固耐用\n● 用於收納一副雪鏡和備用鏡片",
+    "descriptionEn": "● Goggle case, semi-hard, EVA foam protection, vertical storage, easy access, durable\n● For storing a pair of goggles and spare lenses",
+    "features": "●尺寸：21×13×8.5cm\n●適用雪鏡尺寸：26.5×11cm",
+    "featuresEn": "●SIZE: 21×13×8.5cm\n●AVAILABLE GOOGLE SIZE : 26.5×11cm",
+    "specifications": "EVA泡棉",
+    "specificationsEn": "E.V.A. foam",
+    "sizes": [
+      "-"
+    ],
+    "weight": "140 g",
     "price": "￥2,273",
     "colors": [
       "BK"
@@ -1720,6 +3541,16 @@
     "name": "輕量雪鏡收納包",
     "nameEn": "LIGHT GOGGLE CASE",
     "category": "EYEWEAR",
+    "description": "● 雪鏡收納包，輕量、輕巧、EVA 泡棉保護、柔軟背板、掛環\n● 於攜帶時保護雪鏡\n【本季改款重點】布料：將更新",
+    "descriptionEn": "● Goggle case, lightweight, compact, EVA foam protection, soft back panel, leash loop\n● For protecting goggles during transport\n【Revised point(s) from the current model】 Fabric: will be updated",
+    "features": "●尺寸：21×11.5×12cm\n●適用雪鏡尺寸：26.5×11cm",
+    "featuresEn": "●SIZE: 21×11.5×12cm\n●AVAILABLE GOOGLE SIZE : 26.5×11cm",
+    "specifications": "40 丹尼格紋尼龍布 (HYDROPRO 塗層)\n鏡片保護區：E.V.A. 泡棉",
+    "specificationsEn": "40-denier nylon ripstop (HYDROPRO coating)\nLens area: E.V.A. foam",
+    "sizes": [
+      "-"
+    ],
+    "weight": "80 g",
     "price": "￥1,910",
     "colors": [
       "BK",
@@ -1733,6 +3564,16 @@
     "name": "雪鏡收納包",
     "nameEn": "GOGGLE WRAP",
     "category": "EYEWEAR",
+    "description": "● 雪鏡收納包，超輕量、精巧、具緩衝性、可折疊、附繫繩環\n● 輕巧精巧地攜帶雪鏡\n【現行款式改版重點】 布料：將更新 尺寸：2種尺寸 ⇒ 1種尺寸",
+    "descriptionEn": "● Goggle case, ultralight, compact, cushioned, foldable, leash loop\n● For transporting goggles in a light, compact way\n【Revised point(s) from the current model】 Fabric: will be updated Sizing: 2 sizes ⇒ 1 size",
+    "features": "●尺寸：23×13×7cm\n●可收納雪鏡尺寸：26.5×11cm",
+    "featuresEn": "●SIZE: 23×13×7cm\n●AVAILABLE GOOGLE SIZE : 26.5×11cm",
+    "specifications": "40丹尼格紋尼龍布 (HYDROPRO塗層)\n緩衝材質：E.V.A.泡棉",
+    "specificationsEn": "40-denier nylon ripstop (HYDROPRO coating)\nCushioning material: E.V.A. sponge",
+    "sizes": [
+      "-"
+    ],
+    "weight": "23 g",
     "price": "￥1,728",
     "colors": [
       "BK",
@@ -1746,6 +3587,16 @@
     "name": "濾水器加強濾芯",
     "nameEn": "WATER FILTER PLUS",
     "category": "BOTTLES",
+    "description": "● 濾水器專用選購濾芯，活性碳材質，可去除異味，並降低氯/PFAS。",
+    "descriptionEn": "● Optional filter unit for Water Filter, activated carbon, odor removal, chlorine/PFAS reduction",
+    "features": "● 活性碳濾芯\n● 改善飲水口感與氣味\n● 去除PFAS\n● 附濾芯連接零件\n● 可與 Mont-bell 獨家濾水器相容\n● 連接部件尺寸：Φ32mm*24\n● 濾芯尺寸：Φ22mm*10",
+    "featuresEn": "●Activated carbon filter\n●Improves taste and smell\n●Removes PFAS\n●Filter attachment part included\n●Compatible with Montbell's proprietary Water\nFilter\n●Attachment size: Φ32mm*24\n●Filter size: Φ22mm*10",
+    "specifications": "連接部件：聚丙烯\n濾芯：活性碳",
+    "specificationsEn": "Attachment: polypropylene\nFilter: activated carbon",
+    "sizes": [
+      "-"
+    ],
+    "weight": "6 g",
     "price": "￥2,819",
     "colors": [
       "GY"
@@ -1758,6 +3609,16 @@
     "name": "WATER FILTER PLUS 替換濾芯 (3入)",
     "nameEn": "WATER FILTER PLUS REPLACEMENT FILTERS (3PCS)",
     "category": "BOTTLES",
+    "description": "● WATER FILTER PLUS 替換濾芯，活性碳，去除異味，降低氯與PFAS",
+    "descriptionEn": "● Replacement filter for Water Filter Plus, activated carbon, odor removal, chlorine/PFAS reduction -",
+    "features": "●活性碳濾芯\n●改善口感與氣味\n●去除PFAS\n●相容於 Montbell 專利濾水\n器\n●濾芯尺寸：Φ22mm*10",
+    "featuresEn": "●Activated carbon filter\n●Improves taste and smell\n●Removes PFAS\n●Compatible with Montbell's proprietary Water\nFilter\n●Filter size: Φ22mm*10",
+    "specifications": "濾芯：活性碳",
+    "specificationsEn": "Filter: activated carbon",
+    "sizes": [
+      "-"
+    ],
+    "weight": ".5 g",
     "price": "￥2,182",
     "colors": [],
     "season": "FW"
@@ -1768,6 +3629,16 @@
     "name": "摺疊杯 S",
     "nameEn": "FOLDING CUP S",
     "category": "COOKWARE",
+    "description": "● 多用途杯，摺疊設計，精巧易攜，可用於洗碗機和微波爐",
+    "descriptionEn": "● Multiuse cup, folding design, compact and easy to carry, dishwasher & microwave safe",
+    "features": "● 可摺疊\n● 可微波\n● 可用於洗碗機\n● 容量：200ml\n● 可與摺疊碗 M 和 L 堆疊收納",
+    "featuresEn": "●Foldable\n●Microwavable\n●Dishwasher safe\n●Capacity: 200ml\n●Stackable with Folding Bowl M and L",
+    "specifications": "聚丙烯，熱塑性彈性體",
+    "specificationsEn": "Polypropylene, thermoplastic elastomer",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥728",
     "colors": [
       "IV",
@@ -1782,6 +3653,16 @@
     "name": "摺疊碗 M",
     "nameEn": "FOLDING BOWL M",
     "category": "COOKWARE",
+    "description": "● 多用途碗，摺疊設計，可密封，小巧易攜帶，可用洗碗機清洗\n● 適用於露營",
+    "descriptionEn": "● Multiuse bowl, folding design, sealable, compact and easy to carry, dishwasher safe\n● For camping",
+    "features": "● 可摺疊\n● 蓋子打開時可微波\n● 可用洗碗機清洗\n● 容量：450ml\n● 可與摺疊杯 S 和摺疊碗 L 堆疊收納",
+    "featuresEn": "●Foldable\n●Microwava safe when lid open\n●Dishwasher safe\n●Capacity: 450ml\n●Stackable with Folding Cup S and Folding\nBowl L",
+    "specifications": "蓋子：聚丙烯\n密封圈：矽膠\n主體：聚丙烯，熱塑性彈性體",
+    "specificationsEn": "Lid: polypropylene\nSeal: silicone\nBody: polypropylene, thermoplastic elastomer",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥1,091",
     "colors": [
       "IV",
@@ -1796,6 +3677,16 @@
     "name": "可摺疊碗 L",
     "nameEn": "FOLDING BOWL L",
     "category": "COOKWARE",
+    "description": "● 多用途碗，可摺疊設計，可密封，小巧易攜，可用洗碗機清洗\n● 適用於露營",
+    "descriptionEn": "● Multiuse bowl, folding design, sealable, compact and easy to carry, dishwasher safe\n● For camping",
+    "features": "● 可摺疊\n● 蓋子打開時可微波\n● 可用洗碗機清洗\n● 容量：1000ml\n● 可與可摺疊杯 S 和可摺疊碗 M 堆疊收納",
+    "featuresEn": "●Foldable\n●Microwava safe when lid open\n●Dishwasher safe\n●Capacity: 1000ml\n●Stackable with Folding Cup S and Folding\nBowl M",
+    "specifications": "蓋子：聚丙烯\n密封圈：矽膠\n主體：聚丙烯，熱塑性彈性體",
+    "specificationsEn": "Lid: polypropylene\nSeal: silicone\nBody: polypropylene, thermoplastic elastomer",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥1,455",
     "colors": [
       "IV",
@@ -1810,6 +3701,18 @@
     "name": "皮革手套",
     "nameEn": "LEATHER GLOVES",
     "category": "FIELD WEAR",
+    "description": "● 工作手套，耐用、多功能，適用於露營和DIY",
+    "descriptionEn": "● Work gloves, durable, versatile, for camping and DIY",
+    "features": "● 柔軟卻耐用的皮革\n● 掛環",
+    "featuresEn": "●Soft yet durable leather\n●Hanging loop",
+    "specifications": "牛皮 (約 1.4mm 厚)",
+    "specificationsEn": "Cow leather (approx. 1.4mm-thick)",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "126 g",
     "price": "￥1,546",
     "colors": [
       "YL"
@@ -1822,6 +3725,18 @@
     "name": "浸漬手套",
     "nameEn": "DIPPED GLOVES",
     "category": "FIELD WEAR",
+    "description": "● 工作手套，聚氨酯浸漬塗層，防水，耐用，強化抓握力，可調式袖口\n● 適用於戶外工作",
+    "descriptionEn": "● Work gloves, polyurethane dip coating, waterproof, durable, enhanced grip, adjustable cuff\n● For outdoor work",
+    "features": "● 聚氨酯浸漬塗層\n● 防水\n● 強化抓握力\n● 單手可調式袖口\n● 手套掛環\n● 手套連結扣環",
+    "featuresEn": "●Polyurethane dip coated\n●Waterproof\n●Enhanced grip\n●One hand adjustor (cuff)\n●Loop for glove leash\n●Buckle for connecting gloves together",
+    "specifications": "樹脂：聚氨酯，丁腈橡膠\n基底布料：尼龍\n袖口：聚酯纖維",
+    "specificationsEn": "Resin: polyurethane, nitrile\nBase fabric: nylon\nCuff: polyester",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "120 g",
     "price": "￥2,637",
     "colors": [
       "DTL"
@@ -1834,6 +3749,18 @@
     "name": "浸膠保暖手套",
     "nameEn": "DIPPED GLOVES W/ LINER",
     "category": "FIELD WEAR",
+    "description": "● 工作手套，採用聚氨酯浸膠塗層，防水，刷毛內裡，耐用，強化抓握力，可調式袖口\n● 適用於寒冷天氣工作",
+    "descriptionEn": "● Work gloves, polyurethane dip coating, waterproof, lined with brushed fabric, durable, enhanced grip, adjustable cuff\n● For cold weather work",
+    "features": "● 聚氨酯浸膠塗層\n● 防水\n● 內裡設計\n● 強化抓握力\n● 單手可調式設計 (袖口)\n● 手套繩環\n● 手套連接扣環",
+    "featuresEn": "●Polyurethane dip coated\n●Waterproof\n●Lined\n●Enhanced grip\n●One hand adjustor (cuff)\n●Loop for glove leash\n●Buckle for connecting gloves together",
+    "specifications": "樹脂：聚氨酯，丁腈橡膠\n主體布料：尼龍\n袖口：聚酯纖維\n內裡：壓克力纖維",
+    "specificationsEn": "Resin: polyurethane, nitrile\nBase fabric: nylon\nCuff: polyester\nLining: acrylic",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "weight": "176 g",
     "price": "￥3,273",
     "colors": [
       "DTL"
@@ -1846,6 +3773,16 @@
     "name": "FANBLOW 背心專用加熱墊",
     "nameEn": "HEATED PAD FOR FANBLOW VEST",
     "category": "FIELD WEAR",
+    "description": "● FANBLOW 背心配件，背部面板內建電熱片",
+    "descriptionEn": "● FanBlow Vest accessory, back panel with built-in electric heating sheet",
+    "features": "● 可與 FANBLOW 背心搭配使用的加熱面板\n● 碳奈米管薄膜提供即時溫暖",
+    "featuresEn": "●Headed panel compatible with FanBlow Vest\n●Carbon nanotube film provides immediate\nwarmth",
+    "specifications": "加熱片：碳奈米管 (CNT) 薄膜\n表布：100% 聚酯纖維",
+    "specificationsEn": "Heating sheet: carbon nanotube (CNT) film\nFabric: 100% polyester",
+    "sizes": [
+      "-"
+    ],
+    "weight": "110 g",
     "price": "￥7,091",
     "colors": [
       "DGY"
@@ -1858,6 +3795,20 @@
     "name": "加熱暖腰帶",
     "nameEn": "HEATED WAIST WARMER",
     "category": "FIELD WEAR",
+    "description": "● 內建電熱片的暖腰帶",
+    "descriptionEn": "● Waist warmer with built-in electric heating sheet",
+    "features": "● 加熱暖腰帶\n● 碳奈米管薄膜提供即時溫暖",
+    "featuresEn": "●Headed waist warmer\n●Carbon nanotube film provides immediate\nwarmth",
+    "specifications": "加熱片：碳奈米管 (CNT) 薄膜\n表布：100% 聚酯纖維",
+    "specificationsEn": "Heating sheet: carbon nanotube (CNT) film\nFabric: 100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "250 g",
     "price": "￥7,728",
     "colors": [
       "DGY"
@@ -1870,6 +3821,20 @@
     "name": "輕量表布自行車外套",
     "nameEn": "LIGHT SHELL CYCLE JACKET",
     "category": "CYCLING",
+    "description": "● 輕量自行車外套，正面防風，背面具彈性與透氣性，可收納。\n● 多功能設計，適合全年騎行。\n【現行款式改進點】 背部面料將更新為 CLIMAGRID。拉鍊：單向拉鍊 ⇒ 雙向拉鍊。",
+    "descriptionEn": "● Lightweight cycling jacket, wind- resistant front, stretch and breathable back, pocketable\n● Versatile use for year-round cycling\n【Revised point(s) from the current model】 Back panel will be updated to CLIMAGRID Zipper: single slider⇒ double slider",
+    "features": "● 專為自行車設計的版型\n● 領口調節器\n● 下巴保護片\n● 雙向正面拉鍊\n● 手臂立體剪裁\n● 透氣、彈性面料 (背面)\n● 反光條\n● 5 個口袋 (1 個拉鍊胸前口袋、1 個拉鍊暖手口袋 (右側)、背面 3 個無拉鍊口袋)\n● 防滑橡膠\n● 可收納設計",
+    "featuresEn": "●Cycling-specific pattern ●Neck adjuster\n●Chin guard ●2-way front zipper\n●Slight articulation throughout the arm\n●Breathable, stretchy fabric (back)\n●Reflective tape\n●5 pockets (1 zippered chest pocket, 1 zippered\nhand pocket (right), 3 non-zippered pockets on back)\n●Gripper rubber ●Pocketable design",
+    "specifications": "表布：100% 尼龍 (不含 PFAS 防潑水處理)\n背面：CLIMAGRID (100% 聚酯纖維)\n內裡：100% 聚酯纖維",
+    "specificationsEn": "Front: 100% nylon (PFAS-free water-repellent\nfinish)\nBack: CLIMAGRID (100% polyester)\nLining: 100% polyester",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥11,500",
     "colors": [
       "YL",
@@ -1884,6 +3849,20 @@
     "name": "ZEO-LINE M.W. 自行車底層衣",
     "nameEn": "ZEO-LINE M.W. CYCLING UNDER T-SHIRT",
     "category": "CYCLING",
+    "description": "● 長版下擺自行車底層衣，正面保暖，背部透氣，速乾吸濕排汗\n● 適用於寒冷天氣騎行",
+    "descriptionEn": "● Long-tail cycling base layer, warmer front, breathable back, quick-drying, moisture-wicking\n● For cold-weather cycling",
+    "features": "● 快速吸濕排汗與速乾\n● 平車縫技術\n● 背部加長下擺\n● 抗異味",
+    "featuresEn": "●Quick wicking and drying\n●Flat Seam Technology\n●Longer hem length in the back\n●Odor control",
+    "specifications": "ZEO-LINE (聚酯纖維)",
+    "specificationsEn": "ZEO-LINE (polyester)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥3,546",
     "colors": [
       "NV",
@@ -1897,6 +3876,20 @@
     "name": "WINDTECT 自行車內搭緊身褲",
     "nameEn": "WINDTECT CYCLING UNDER TIGHTS",
     "category": "CYCLING",
+    "description": "● 防風自行車底層衣，正面彈性表布，背面透氣，速乾吸濕排汗\n● 適合寒冷天氣自行車活動",
+    "descriptionEn": "● Wind-resistant cycling base layer, stretch-shell front, breathable back, quick-drying, moisture-wicking\n● For cold-weather cycling",
+    "features": "● 平車縫技術\n● 蓄熱雙層結構 (正面)\n● 快速吸濕排汗與乾燥 (背面)\n● 抗異味",
+    "featuresEn": "●Flat Seam Technology\n●Heat retaining 2-layer construction (front)\n●Quick wicking and drying (back)\n●Odor control",
+    "specifications": "ZEO-LINE (聚酯纖維)\n(表布部分) 88% 聚酯纖維 + 12% 聚氨酯",
+    "specificationsEn": "ZEO-LINE (polyester)\n(Shell part) 88% polyester + 12%\npolyurethane",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥6,273",
     "colors": [
       "BK"
@@ -1909,6 +3902,20 @@
     "name": "DRY TOP SUPER",
     "nameEn": "DRY TOP SUPER",
     "category": "PADDLE SPORTS",
+    "description": "● 划船式乾式上衣，防水耐用，採用 DRYTEC 材質，搭配乳膠密封圈。\n● 適用於寒冷水域划船。\n【現行款式更新】 口袋設計將更新。布料將更新為不含 PFAS 的材質。",
+    "descriptionEn": "● Paddling dry top, waterproof and durable, DRYTEC, latex gaskets\n● For cold-water paddling\n【Revised point(s) from the current model】 Pocket design will be updated Fabric sill be updated to PFAS-free material",
+    "features": "● 領口、袖口、腳踝處採用 CLIMAPRENE 密封圈。\n● 防水拉鍊。",
+    "featuresEn": "● CLIMAPRENE gaskets on the collar, cuffs,\nand ankles\n●Waterproof zipper",
+    "specifications": "3 層 DRYTEC\n70 x 140 丹尼尼龍塔絲隆 (不含 PFAS 的防潑水處理)\n[領口、手腕] 內層：乳膠 (天然橡膠) / 外層：CLIMAPRENE (氯丁橡膠)",
+    "specificationsEn": "3-layer DRYTEC\n70 x 140-denier nylon tasser (PFAS-free\nwater-repellent finish)\n[Neck, wrist] inside: latex (natural rubber) /\noutside: CLIMAPRENE (chloroprene rubber)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥37,273",
     "colors": [
       "RD",
@@ -1922,6 +3929,20 @@
     "name": "DRY SUIT SUPER",
     "nameEn": "DRY SUIT SUPER",
     "category": "PADDLE SPORTS",
+    "description": "● 划船用乾式防寒衣，防水耐用，採用 DRYTEC 材質，乳膠密封圈，一體式襪套，背部拉鍊設計。\n● 適用於寒冷水域划船。\n【本季改款重點】 口袋設計將更新。布料將更新為不含 PFAS 的材質。",
+    "descriptionEn": "● Paddling dry suit, waterproof and durable, DRYTEC, latex gasket, integrated socks, back zipper\n● For cold-water paddling\n【Revised point(s) from the current model】 Pocket design will be updated Fabric sill be updated to PFAS-free material",
+    "features": "● 乳膠密封圈\n● 氯丁橡膠袖口，附可調式 Velcro 系統\n● 防水拉鍊\n● 雙層管狀腰部\n● 一體式襪套\n● 臀部區域無縫設計",
+    "featuresEn": "●Latex gaskets\n●Chloroprene rubber cuffs with adjustable\nVelcro system\n●Waterproof zipper\n●Double tube waist\n●Integrated socks\n●Seamless design at seat area",
+    "specifications": "三層 DRYTEC 70 x 140 丹尼尼龍塔絲隆 (不含 PFAS 的防潑水處理)\n[頸部、手腕] 內層：乳膠 (天然橡膠) / 外層：CLIMAPRENE (氯丁橡膠)\n[腳部、腳踝] 內層：一體式 DRYTEC 襪套 / 外層：CLIMAPRENE (氯丁橡膠)",
+    "specificationsEn": "3-layer DRYTEC 70 x 140-denier nylon tasser (PFAS-\nfree water-repellent finish)\n[Neck, wrist] inside: latex (natural rubber) / outside:\nCLIMAPRENE (chloroprene rubber)\n[Foot, ankle] inside: integrated DRYTEC sock / outside:\nCLIMAPRENE (chloroprene rubber)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥89,091",
     "colors": [
       "RD",
@@ -1935,6 +3956,20 @@
     "name": "乾式防寒衣",
     "nameEn": "DRY SUIT",
     "category": "PADDLE SPORTS",
+    "description": "● 划槳乾式防寒衣，採用 DRYTEC 材質，具備防水與耐用性，搭配 CLIMAPRENE 密封墊。\n● 適用於寒冷水域划槳／適合租賃使用。\n【本季改款重點】 入口拉鍊位置：前置 ⇒ 後置",
+    "descriptionEn": "● Paddling dry suit, waterproof and durable, DRYTEC, CLIMAPRENE gaskets\n● For cold-water paddling/ suitable for rental use\n【Revised point(s) from the current model】 Entry zipper position: front ⇒ back",
+    "features": "● 領口、袖口、腳踝處採用 CLIMAPRENE 密封墊。\n● 防水拉鍊",
+    "featuresEn": "● CLIMAPRENE gaskets on the collar, cuffs,\nand ankles\n●Waterproof zipper",
+    "specifications": "3 層 DRYTEC\n70 x 140 丹尼尼龍塔絲隆 (不含 PFAS 的防潑水處理)\n頸部、手腕、腳踝：CLIMAPRENE\n(氯丁橡膠)",
+    "specificationsEn": "3-layer DRYTEC\n70 x 140-denier nylon tasser (PFAS-free\nwater-repellent finish)\nNeck, wrist, ankle: CLIMAPRENE\n(chloroprene rubber)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "TBD",
     "price": "￥71,819",
     "colors": [
       "RD",
@@ -1948,6 +3983,16 @@
     "name": "CLIMAPRENE PADDLE PORGIES",
     "nameEn": "CLIMAPRENE PADDLE PORGIES",
     "category": "PADDLE SPORTS",
+    "description": "● 划槳連指手套，人體工學設計，不對稱剪裁，保暖防寒，魔鬼氈閉合\n● 適用於寒冷環境下划槳，提供裸手般的操控感\n【現行款式改進點】 將更新材料來源以提供更具吸引力的價格。",
+    "descriptionEn": "● Paddle mitt, ergonomic, asymmetric, cold protection, hook & loop closure,\n● For paddling in cold conditions, bare-hand control\n【Revised point(s) from the current model】 Material sourcing will be updated for more attractive pricing.",
+    "features": "● 4mm 厚氯丁橡膠",
+    "featuresEn": "●4mm thick chloroprene rubber",
+    "specifications": "4 mm CLIMAPRENE (表層：光滑面 /\n內裡：聚丙烯刷毛)",
+    "specificationsEn": "4 mm CLIMAPRENE (Face: smooth skin /\nLining: polypropylene pile)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥4,364",
     "colors": [
       "BK"
@@ -1960,6 +4005,16 @@
     "name": "遛狗腰包 3",
     "nameEn": "DOG WALKER WAIST BAG 3",
     "category": "DOG GEAR",
+    "description": "● 遛狗專用腰包，附牽繩固定環、多個口袋、水瓶收納袋、鑰匙扣環\n● 讓您輕鬆遛狗，解放雙手",
+    "descriptionEn": "● Waist bag for dog walks, leash attachment, multiple pockets, bottle holders, key leash\n● For hands-free dog walking",
+    "features": "● 拉鍊開口\n● 5個口袋 (1個正面網狀口袋、1個拉鍊式正面口袋、1個內部拉鍊網狀口袋、2個側邊口袋)\n● 內部鑰匙扣環\n● 反光條\n● 牽繩固定環\n● 容量：3L\n● 適用腰圍：~105cm",
+    "featuresEn": "●Zippered opening\n●5 pockets (1 front mesh pocket, 1 zippered\nfront pocket, 1 Interior zippered mesh pocket,\n2 side pockets)\n●Interior key leash ●Reflective tape\n●Leash loop ●Capacity : 3L\n●Compatible waist size : ~105cm",
+    "specifications": "100 丹尼 Ballistic® 尼龍三重格紋布 (聚氨酯塗層)",
+    "specificationsEn": "100-denier Ballistic nylon triple ripstop\n(urethane coating)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "309 g",
     "price": "￥5,728",
     "colors": [
       "BK",
@@ -1973,6 +4028,16 @@
     "name": "遛狗腰包 5",
     "nameEn": "DOG WALKER WAIST BAG 5",
     "category": "DOG GEAR",
+    "description": "● 遛狗用腰包，附牽繩固定環、多個口袋、水瓶收納袋、鑰匙扣繩\n● 讓您能空出雙手輕鬆遛狗",
+    "descriptionEn": "● Waist bag for dog walks, leash attachment, multiple pockets, bottle holders, key leash\n● For hands-free dog walking",
+    "features": "●拉鍊開口\n●5個口袋 (1個正面網狀口袋、1個拉鍊式正面口袋、1個內部拉鍊式網狀口袋、2個側邊口袋)\n●內部鑰匙扣繩 ●反光條\n●牽繩固定環 ●容量：5L\n●適用腰圍：～105cm",
+    "featuresEn": "●Zippered opening\n●5 pockets (1 front mesh pocket, 1 zippered\nfront pocket, 1 Interior zippered mesh pocket,\n2 side pockets)\n●Interior key leash ●Reflective tape\n●Leash loop ●Capacity : 5L\n●Compatible waist size : ~105cm",
+    "specifications": "100丹尼 Ballistic® 尼龍三重格紋布 (聚氨酯塗層)",
+    "specificationsEn": "100-denier Ballistic nylon triple ripstop\n(urethane coating)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "357 g",
     "price": "￥6,364",
     "colors": [
       "BK",
@@ -1986,6 +4051,21 @@
     "name": "狗用 CLIMAAIR 背心 S",
     "nameEn": "DOG CLIMAAIR VEST SMALL",
     "category": "DOG GEAR",
+    "description": "● 狗用刷毛背心，採用長刷毛 CLIMAAIR，柔軟保暖\n● 可與您的寵物搭配穿著",
+    "descriptionEn": "● Fleece vest for dog, long-pile CLIMAAIR, soft, warm\n● Lets you coordinate with your pet",
+    "features": "● 頸部可調式束繩\n● 身體周圍可調式彈性綁帶\n● 1個拉鍊口袋\n● 牽繩孔\n● 反光材質",
+    "featuresEn": "●Adjustable draw cord around the neck\n●Adjustable elastic straps around the torso\n●1 zippered pocket\n●Leash hole\n●Reflective material",
+    "specifications": "CLIMAAIR (聚酯纖維)\n側邊：彈性 CLIMAPLUS (47% 尼龍 +\n36% 聚酯纖維 + 17% 聚氨酯)\n口袋：聚酯纖維",
+    "specificationsEn": "CLIMAAIR (polyester)\nSides: Stretch CLIMAPLUS (47% nylon +\n36% polyester + 17% polyurethane)\nPocket: polyester",
+    "sizes": [
+      "26",
+      "30",
+      "34",
+      "38",
+      "42",
+      "46"
+    ],
+    "weight": "TBD",
     "price": "￥4,455",
     "colors": [
       "IV",
@@ -2001,6 +4081,19 @@
     "name": "狗用 CLIMAAIR 背心 L",
     "nameEn": "DOG CLIMAAIR VEST LARGE",
     "category": "DOG GEAR",
+    "description": "● 狗用刷毛背心，採用長刷毛 CLIMAAIR 材質，柔軟保暖\n● 可與您的寵物搭配穿著",
+    "descriptionEn": "● Fleece vest for dog, long-pile CLIMAAIR, soft, warm\n● Lets you coordinate with your pet",
+    "features": "● 頸部可調式束繩\n● 軀幹處可調式彈性綁帶\n● 1個拉鍊口袋\n● 牽繩孔\n● 反光材質",
+    "featuresEn": "●Adjustable draw cord around neck\n●Adjustable elastic straps around the torso\n●1 zippered pocket\n●Leash hole\n●Reflective material",
+    "specifications": "CLIMAAIR (聚酯纖維)\n側邊：彈性 CLIMAPLUS (47% 尼龍 +\n36% 聚酯纖維 + 17% 聚氨酯)\n口袋：聚酯纖維",
+    "specificationsEn": "CLIMAAIR (polyester)\nSides: Stretch CLIMAPLUS (47% nylon +\n36% polyester + 17% polyurethane)\nPocket: polyester",
+    "sizes": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "weight": "TBD",
     "price": "￥5,000",
     "colors": [
       "IV",
@@ -2016,6 +4109,21 @@
     "name": "狗用長袖連身衣 S",
     "nameEn": "DOG LONG SLEEVE ROMPERS SMALL",
     "category": "DOG GEAR",
+    "description": "● 狗用連身衣，撥水，彈性，四季皆宜底層衣",
+    "descriptionEn": "● Dog romper, water repellent, stretch, year-round base layer",
+    "features": "●UPF50+\n●雙向彈性\n●適用於游泳池 (抗氯材質)",
+    "featuresEn": "●UPF50+\n●2-way stretch\n●Swimming pool compatible (Chlorine-\nresistant material)",
+    "specifications": "聚酯纖維 + 聚氨酯 (不含PFAS撥水加工)",
+    "specificationsEn": "polyester + polyurethane (PFAS-free water\nrepellent finish)",
+    "sizes": [
+      "26",
+      "30",
+      "34",
+      "38",
+      "42",
+      "46"
+    ],
+    "weight": "TBD",
     "price": "￥4,364",
     "colors": [
       "CN",
@@ -2029,6 +4137,19 @@
     "name": "狗用長袖連身衣 大尺寸",
     "nameEn": "DOG LONG SLEEVE ROMPERS LARGE",
     "category": "DOG GEAR",
+    "description": "● 狗用連身衣，撥水，彈性，四季皆宜底層衣",
+    "descriptionEn": "● Dog romper, water repellent, stretch, year-round base layer",
+    "features": "●UPF50+\n●雙向彈性\n●適用於游泳池 (抗氯材質)",
+    "featuresEn": "●UPF50+\n●2-way stretch\n●Swimming pool compatible (Chlorine-\nresistant material)",
+    "specifications": "聚酯纖維 + 聚氨酯 (不含PFAS的撥水加工)",
+    "specificationsEn": "polyester + polyurethane (PFAS-free water\nrepellent finish)",
+    "sizes": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "weight": "TBD",
     "price": "￥4,728",
     "colors": [
       "CN",
@@ -2042,6 +4163,20 @@
     "name": "涉水夾克",
     "nameEn": "WADING JACKET",
     "category": "FISHING",
+    "description": "● 釣魚夾克，採用 DRYTEC 材質，具備防水、透氣、持久防潑水功能，較短版型，並具備釣魚專用特色。\n● 適用於惡劣天氣下的釣魚活動。\n【本季改款重點】 布料：50 丹尼 ⇒ 40 丹尼 腋下立體剪裁 (拉鍊開口)：將移除 風帽：將增加帽簷",
+    "descriptionEn": "● Fishing jacket, DRYTEC, waterproof, breathable, durable water- repellent, shorter length, fishing-specific features\n● For bad weather fishing\n【Revised point(s) from the current model】 Fabric: 50D ⇒ 40D Underarm gusset (zip-open): will be removed Hood: visor will be added",
+    "features": "● 三向調節風帽\n● 撈網固定環\n● 拉鍊擋片\n● Aqua-Tect 拉鍊\n● 立體剪裁肘部\n● 氯丁橡膠袖口\n● 4 個拉鍊口袋",
+    "featuresEn": "●Tri-axial Hood\n●Landing net holder\n●Zip End Guard\n●Aqua-Tect Zipper\n●Articulated elbow\n●Chloroprene cuffs\n●4 zippered pockets",
+    "specifications": "3 層 DRYTEC (高透氣度)\n40 丹尼尼龍塔夫綢 (不含 PFAS 的防潑水處理)",
+    "specificationsEn": "3-layer DRYTEC (High breathability)\n40-denier nylon taffeta (PFAS-free water-\nrepellent finish)",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "405 g",
     "price": "￥20,728",
     "colors": [
       "GY"
@@ -2054,6 +4189,19 @@
     "name": "CLIMAPRENE 釣魚襪",
     "nameEn": "CLIMAPRENE FISHING SOCKS",
     "category": "FISHING",
+    "description": "● 氯丁橡膠襪，保暖、緩衝性佳，附碎石防護片\n● 保護雙腳在寒冷水中，免受碎石、異物侵擾\n【本季改款重點】 材質：將更新",
+    "descriptionEn": "● Chloroprene rubber socks, warm, cushioned, with gravel guard\n● For keeping feet protected in cold water and from debris\n【Revised point(s) from the current model】 Fabric: will be updated",
+    "features": "● 3mm 厚氯丁橡膠\n● 搭載碎石防護片",
+    "featuresEn": "●3mm thick chloroprene rubber\n●Equipped with gravel guard",
+    "specifications": "CLIMAPRENE (3mm 氯丁橡膠 雙面針織布)",
+    "specificationsEn": "CLIMAPRENE (3 mm chloroprene rubber\ndouble-sided jersey)",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "weight": "210 g",
     "price": "￥3,000",
     "colors": [
       "BK"
@@ -2066,6 +4214,18 @@
     "name": "DRYTEC DOWN FIBER PARKA KID'S 140-160",
     "nameEn": "DRYTEC DOWN FIBER PARKA KID'S 140-160",
     "category": "KIDS & BABY",
+    "description": "● 兒童羽絨 PARKA，DRYTEC 材質，防水、防風、透氣，填充厚實保暖層，保暖，無壓膠處理\n● 適用於冬季健行、戶外玩耍、日常穿著\n【現行款式改版重點】 風帽：將改為可拆卸式",
+    "descriptionEn": "● Kids down parka, DRYTEC, waterproof, windproof, breathable, generously filled insulation, warm, not seam-sealed\n● For winter hiking, outdoor play, everyday use\n【Revised point(s) from the current model】 Hood: will become removable",
+    "features": "●貫通式縫合結構\n●防絨處理\n●可拆式風帽\n●撥水拉鍊\n●拉鍊擋片\n●內部束繩調節\n●2個暖手口袋\n●姓名標籤\n●附收納袋",
+    "featuresEn": "●Sewn Through Construction\n●Down proof finish\n●Detachable hood\n●Water repellent zipper\n●Zip End Guard\n●Inner drawcord adjuster\n●2 hand pockets\n●Name tag\n●Stuff sack included",
+    "specifications": "2層 DRYTEC (高透氣度)\n30 丹尼尼龍 (不含PFAS撥水加工)\n內裡：20 丹尼尼龍\n保暖層：500 蓬鬆度 DOWN FIBER",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n30-denier nylon (PFAS-free water repellent\nfinish)\nLining: 20-denier nylon\nInsulation: 500 fill power DOWN FIBER",
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
+    "weight": "310 g",
     "price": "￥14,273",
     "colors": [
       "BK",
@@ -2081,6 +4241,19 @@
     "name": "DRYTEC DOWN FIBER PARKA 童款 100-130",
     "nameEn": "DRYTEC DOWN FIBER PARKA KID'S 100-130",
     "category": "KIDS & BABY",
+    "description": "● 童款羽絨連帽外套，採用DRYTEC材質，具備防水、防風、透氣功能，填充厚實保暖層，溫暖舒適，無壓膠處理。\n● 適用於冬季健行、戶外活動、日常穿著。\n【與現行款式之修改點】 風帽：將改為可拆式",
+    "descriptionEn": "● Kids down parka, DRYTEC, waterproof, windproof, breathable, generously filled insulation, warm, not seam-sealed\n● For winter hiking, outdoor play, everyday use\n【Revised point(s) from the current model】 Hood: will become removable",
+    "features": "●車縫貫穿結構\n●防絨處理\n●可拆式風帽\n●撥水拉鍊\n●拉鍊擋片\n●內側下擺束繩\n●兩個暖手口袋\n●姓名標籤\n●附收納袋",
+    "featuresEn": "●Sewn Through Construction\n●Down proof finish\n●Detachable hood\n●Water repellent zipper\n●Zip End Guard\n●Inner drawcord adjuster\n●2 hand pockets\n●Name tag\n●Stuff sack included",
+    "specifications": "2層 DRYTEC (高透氣度)\n30 丹尼尼龍 (無PFAS撥水加工)\n內裡：20 丹尼尼龍\n保暖層：500 蓬鬆度 DOWN FIBER",
+    "specificationsEn": "2-layer DRYTEC (High breathability)\n30-denier nylon (PFAS-free water repellent\nfinish)\nLining: 20-denier nylon\nInsulation: 500 fill power DOWN FIBER",
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "weight": "150 g",
     "price": "￥13,000",
     "colors": [
       "BK",
@@ -2096,6 +4269,18 @@
     "name": "反光輕量表布外套 童款 140-160",
     "nameEn": "REFLECTIVE LIGHT SHELL JACKET KID'S 140-160",
     "category": "KIDS & BABY",
+    "description": "● 反光外套，輕量，刷毛網眼內裡，高可視度印花，撥水，多功能\n● 提升黑暗中的安全性\n【本季改款重點】 布料：全新反光印花設計 反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective jacket, lightweight, brushed mesh lining, high visibility print, water-repellent, versatile\n● For enhanced safety in the dark\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash-durable",
+    "features": "●反光印花\n●拉鍊擋片\n●彈性袖口及下擺\n●附姓名標籤\n●2個拉鍊插手口袋\n●附收納袋",
+    "featuresEn": "●Reflective print\n●Zip End Guard\n●Elasticized cuffs and hem\n●Equipped with a name tag\n●2 zippered hand pockets\n●Stuff sack included",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花，\n不含 PFAS 撥水加工)\n內裡：CLIMAPLUS 網眼 (聚酯纖維，\n吸濕處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water repellent finish)\nLining: CLIMAPLUS mesh (polyester,\nperspiration-absorbing treatment)",
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
+    "weight": "TBD",
     "price": "￥8,091",
     "colors": [
       "DGY",
@@ -2109,6 +4294,19 @@
     "name": "反光輕量表布外套 童款 100-130",
     "nameEn": "REFLECTIVE LIGHT SHELL JACKET KID'S 100-130",
     "category": "KIDS & BABY",
+    "description": "● 反光外套，輕量，刷毛網眼內裡，高能見度印花，撥水，多功能\n● 提升夜間安全性\n【現行款式改良點】 布料：全新反光印花設計 反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective jacket, lightweight, brushed mesh lining, high visibility print, water-repellent, versatile\n● For enhanced safety in the dark\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash-durable",
+    "features": "●反光印花\n●拉鍊擋片\n●彈性袖口與下擺\n●附姓名標籤\n●2個拉鍊暖手口袋\n●附收納袋",
+    "featuresEn": "●Reflective print\n●Zip End Guard\n●Elasticized cuffs and hem\n●Equipped with a name tag\n●2 zippered hand pockets\n●Stuff sack included",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花,\n不含PFAS撥水加工)\n內裡：CLIMAPLUS 網眼布 (聚酯纖維,\n吸濕排汗處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water repellent finish)\nLining: CLIMAPLUS mesh (polyester,\nperspiration-absorbing treatment)",
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "weight": "TBD",
     "price": "￥7,273",
     "colors": [
       "DGY",
@@ -2122,6 +4320,18 @@
     "name": "反光風衣外套 童款 140-160",
     "nameEn": "REFLECTIVE WIND JACKET KID'S 140-160",
     "category": "KIDS & BABY",
+    "description": "● 反光風衣外套，輕量、高可視度印花，可收納至口袋中\n● 適合夜間外出、日常使用，提升黑暗中的安全性\n【本季改款重點】 布料：全新反光印花設計 反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective wind jacket, lightweight, high visibility print, compactly packed into a pocket\n● For night outing, daily use, enhancing safety in the dark\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash-durable",
+    "features": "●反光處理提升夜間活動的安全性\n●拉鍊擋布\n●彈性袖口與下擺\n●姓名標籤\n●2個插手口袋\n●可收納設計",
+    "featuresEn": "●Reflective finish improves safety while traveling in the dark\n●Zip End Guard\n●Elasticized cuffs and hem\n●Name tag\n●2 hand pockets\n●Pocketable design",
+    "specifications": "40丹尼尼龍塔夫綢 (反光印花，不含PFAS撥水處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water repellent finish)",
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
+    "weight": "TBD",
     "price": "￥7,546",
     "colors": [
       "LGY",
@@ -2135,6 +4345,19 @@
     "name": "反光風衣外套 童款 100-130",
     "nameEn": "REFLECTIVE WIND JACKET KID'S 100-130",
     "category": "KIDS & BABY",
+    "description": "● 反光風衣外套，輕量、高辨識度印花，可收納於口袋中\n● 適合夜間外出、日常穿著，提升黑暗中的安全性\n【本季改款重點】 布料：全新反光印花設計 反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective wind jacket, lightweight, high visibility print, compactly packed into a pocket\n● For night outing, daily use, enhancing safety in the dark\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash-durable",
+    "features": "●反光處理，提升夜間活動的安全性\n●拉鍊擋片\n●彈性袖口與下擺\n●姓名標籤\n●2個暖手口袋\n●可收納設計",
+    "featuresEn": "●Reflective finish improves safety while traveling in the dark\n●Zip End Guard\n●Elasticized cuffs and hem\n●Name tag\n●2 hand pockets\n●Pocketable design",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花、不含 PFAS 撥水處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water repellent finish)",
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "weight": "TBD",
     "price": "￥6,910",
     "colors": [
       "LGY",
@@ -2148,6 +4371,18 @@
     "name": "CHAMEECE 印花夾克 童款 140-160",
     "nameEn": "CHAMEECE PRINT JACKET KID'S 140-160",
     "category": "KIDS & BABY",
+    "description": "● 輕量刷毛夾克，CHAMEECE，印花設計，柔軟保暖\n● 可作為外層或中層穿著，用途廣泛",
+    "descriptionEn": "● Lightweight fleece jacket, CHAMEECE, printed design, soft and warm\n●Versatile as an outer layer or a midlayer",
+    "features": "● 優異的保暖性與透氣度\n● 拉鍊擋片\n● Spiral Slant-Tec 袖口\n● 2 個拉鍊插手口袋",
+    "featuresEn": "●Well balanced thermal performance, breathability\n●Zip End Guard\n●Spiral Slant-Tec Cuff\n●2 zippered hand pockets",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
+    "weight": "195 g",
     "price": "￥5,364",
     "colors": [],
     "season": "FW"
@@ -2158,6 +4393,20 @@
     "name": "CHAMEECE 印花夾克 童款 100-130",
     "nameEn": "CHAMEECE PRINT JACKET KID'S 100-130",
     "category": "KIDS & BABY",
+    "description": "● 輕量刷毛夾克，CHAMEECE 材質，印花設計，柔軟保暖\n● 可作為外層或中層穿著，用途廣泛",
+    "descriptionEn": "● Lightweight fleece jacket, CHAMEECE, printed design, soft and warm\n●Versatile as an outer layer or a midlayer",
+    "features": "● 良好的保暖性與透氣度\n● 拉鍊擋片\n● Spiral Slant-Tec 袖口\n● 2 個拉鍊插手口袋",
+    "featuresEn": "●Well balanced thermal performance, breathability\n●Zip End Guard\n●Spiral Slant-Tec Cuff\n●2 zippered hand pockets",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "weight": "TBD",
     "price": "￥5,091",
     "colors": [],
     "season": "FW"
@@ -2168,6 +4417,18 @@
     "name": "CHAMEECE 童款運動衫 140-160",
     "nameEn": "CHAMEECE SWEATSHIRT KID'S 140-160",
     "category": "KIDS & BABY",
+    "description": "● 輕量刷毛運動衫，採用 CHAMEECE 材質，柔軟保暖\n● 用途廣泛，適合戶外活動與日常穿著",
+    "descriptionEn": "● Lightweight fleece sweatshirt, CHAMEECE, soft and warm\n● Versatile for outdoor use and everyday wear",
+    "features": "● 兼具良好保暖性與透氣度\n● Spiral Slant-Tec 袖口",
+    "featuresEn": "●Well balanced thermal performance, breathability\n●Spiral Slant-Tec Cuff",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
+    "weight": "145 g",
     "price": "￥3,000",
     "colors": [
       "BK",
@@ -2183,6 +4444,19 @@
     "name": "CHAMEECE 童款運動衫 100-130",
     "nameEn": "CHAMEECE SWEATSHIRT KID'S 100-130",
     "category": "KIDS & BABY",
+    "description": "● 輕量刷毛運動衫，CHAMEECE 材質，柔軟保暖\n● 多功能設計，適合戶外活動與日常穿著",
+    "descriptionEn": "● Lightweight fleece sweatshirt, CHAMEECE, soft and warm\n● Versatile for outdoor use and everyday wear",
+    "features": "● 兼具優異保暖性與透氣度\n● Spiral Slant-Tec 袖口",
+    "featuresEn": "●Well balanced thermal performance, breathability\n●Spiral Slant-Tec Cuff",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "weight": "TBD",
     "price": "￥2,728",
     "colors": [
       "BK",
@@ -2198,6 +4472,18 @@
     "name": "棉質大學T #8 童款 140-160",
     "nameEn": "COTTON SWEATSHIRT #8 KID'S 140-160",
     "category": "KIDS & BABY",
+    "description": "●棉混紡大學T，棉+聚酯纖維提升快乾性，柔軟舒適\n●適合旅行及日常穿著",
+    "descriptionEn": "●Cotton-blend sweatshirt, cotton+polyester for faster drying, soft and comfortable\n●Suitable for travel and everyday wear",
+    "features": "●柔軟舒適的棉質\n●聚酯纖維提供速乾特性",
+    "featuresEn": "●Soft, comfortable cotton\n●Polyester offers quick-drying properties",
+    "specifications": "主體：69% 棉 + 31% 聚酯纖維\n羅紋：95% 棉 + 5% 聚氨酯",
+    "specificationsEn": "Body: 69% cotton + 31% polyester\nRib: 95% cotton + 5% polyurethane",
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
+    "weight": "340 g",
     "price": "￥4,500",
     "colors": [
       "IV",
@@ -2211,6 +4497,19 @@
     "name": "棉質大學T #8 童款 100-130",
     "nameEn": "COTTON SWEATSHIRT #8 KID'S 100-130",
     "category": "KIDS & BABY",
+    "description": "●棉混紡大學T，棉與聚酯纖維混紡提升速乾性，柔軟舒適\n●適合旅行與日常穿著",
+    "descriptionEn": "●Cotton-blend sweatshirt, cotton+polyester for faster drying, soft and comfortable\n●Suitable for travel and everyday wear",
+    "features": "●柔軟舒適的棉質\n●聚酯纖維具備速乾特性",
+    "featuresEn": "●Soft, comfortable cotton\n●Polyester offers quick-drying properties",
+    "specifications": "主體：69% 棉 + 31% 聚酯纖維\n羅紋：95% 棉 + 5% 聚氨酯",
+    "specificationsEn": "Body: 69% cotton + 31% polyester\nRib: 95% cotton + 5% polyurethane",
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "weight": "212 g",
     "price": "￥4,000",
     "colors": [
       "IV",
@@ -2224,6 +4523,17 @@
     "name": "WIC. 嬰幼兒長袖連身衣 YAMA NO KI 70-80",
     "nameEn": "WIC. LONG SLEEVE ROMPERS BABY'S YAMA NO KI 70-80",
     "category": "KIDS & BABY",
+    "description": "● WICKRON 連身衣，長袖、透氣、吸濕排汗、速乾、羅紋袖口\n●適合輕鬆舒適穿著\n【本季改款重點】 袖口：Slant-Tec 袖口 → 羅紋袖口，防止小手滑出袖子",
+    "descriptionEn": "● WICKRON romper, long sleeves, breathable, moisture-wicking, quick-drying, ribbed cuffs\n●For relaxed, comfortable wear\n【Revised point(s) from the current model】 Cuffs: Slant-Tec Cuff → ribbed cuff to keep hands out of the sleeves",
+    "features": "●優異的吸濕排汗與速乾性\n●極佳透氣度\n●柔軟親膚觸感\n●抗異味\n●羅紋袖口\n●領口與褲檔處採用按扣設計",
+    "featuresEn": "●Superior wicking & quick to dry\n●Stellar breathability\n●Soft natural feel\n●Odor control\n●Ribbed cuffs\n●Snap buttons along the neck and bottom",
+    "specifications": "WICKRON (聚酯纖維)",
+    "specificationsEn": "Wickron (polyester)",
+    "sizes": [
+      "70",
+      "80"
+    ],
+    "weight": "94 g",
     "price": "￥3,364",
     "colors": [
       "BL",
@@ -2238,6 +4548,17 @@
     "name": "WICKRON 嬰幼兒長袖Monta熊臉連身衣 70-80",
     "nameEn": "WIC. LONG SLEEVE ROMPERS BABY'S MONTA BEAR FACE 70-80",
     "category": "KIDS & BABY",
+    "description": "● WICKRON 連身衣，長袖、透氣、吸濕排汗、速乾、羅紋袖口\n● 適合輕鬆舒適穿著\n【本款與舊款的改進點】 袖口：Slant-Tec 袖口 → 改為羅紋袖口，防止小手滑出袖子",
+    "descriptionEn": "● WICKRON romper, long sleeves, breathable, moisture-wicking, quick-drying, ribbed cuffs\n●For relaxed, comfortable wear\n【Revised point(s) from the current model】 Cuffs: Slant-Tec Cuff → ribbed cuff to keep hands out of the sleeves",
+    "features": "● 優異的吸濕排汗與速乾性\n● 極佳的透氣度\n● 柔軟的天然觸感\n● 抗異味\n● 羅紋袖口\n● 領口與褲檔處設有按扣",
+    "featuresEn": "●Superior wicking & quick to dry\n●Stellar breathability\n●Soft natural feel\n●Odor control\n●Ribbed cuffs\n●Snap buttons along the neck and bottom",
+    "specifications": "WICKRON (聚酯纖維)",
+    "specificationsEn": "Wickron (polyester)",
+    "sizes": [
+      "70",
+      "80"
+    ],
+    "weight": "94 g",
     "price": "￥3,364",
     "colors": [
       "BK"
@@ -2250,6 +4571,17 @@
     "name": "WICKRON RAGLAN 長袖 T恤 嬰幼兒 山與帳篷 80-90",
     "nameEn": "WIC RAGLAN LONG SLEEVE T BABY'S YAMA TO TENT 80-90",
     "category": "KIDS & BABY",
+    "description": "● WICKRON T恤，長袖，透氣，吸濕排汗，速乾，羅紋袖口\n● 適合輕鬆舒適穿著\n【本季改款重點】 袖口：Slant-Tec 袖口 → 改為羅紋袖口，防止小手滑出袖子",
+    "descriptionEn": "● WICKRON T-shirt, long sleeves, breathable, moisture wicking, quick-drying, ribbed cuffs\n●For relaxed, comfortable wear\n【Revised point(s) from the current model】 Cuffs: Slant-Tec Cuff → ribbed cuff to keep hands out of the sleeves",
+    "features": "● 優異的吸濕排汗與速乾性\n● 極佳的透氣度\n● 柔軟親膚觸感\n● 抗異味功能\n● 羅紋袖口\n● 肩部按扣設計",
+    "featuresEn": "●Superior wicking & quick to dry\n●Stellar breathability\n●Soft natural feel\n●Odor control\n●Ribbed cuffs\n●Snap buttons along the shoulder",
+    "specifications": "WICKRON (聚酯纖維)",
+    "specificationsEn": "Wickron (polyester)",
+    "sizes": [
+      "80",
+      "90"
+    ],
+    "weight": "62 g",
     "price": "￥2,273",
     "colors": [
       "LBL",
@@ -2264,6 +4596,17 @@
     "name": "WICKRON 蒙塔熊臉嬰幼兒長袖T恤 80-90",
     "nameEn": "WIC. LONG SLEEVE T B'S MONTA BEAR FACE 80-90",
     "category": "KIDS & BABY",
+    "description": "● WICKRON 長袖T恤，透氣、吸濕排汗、速乾，羅紋袖口。\n● 穿著輕鬆舒適。\n【本季改款重點】 袖口：Slant-Tec 袖口 → 改為羅紋袖口，避免袖子遮蓋手部。",
+    "descriptionEn": "● WICKRON T-shirt, long sleeves, breathable, moisture wicking, quick-drying, ribbed cuffs\n●For relaxed, comfortable wear\n【Revised point(s) from the current model】 Cuffs: Slant-Tec Cuff → ribbed cuff to keep hands out of the sleeves",
+    "features": "● 優異的吸濕排汗與速乾性\n● 極佳的透氣度\n● 柔軟親膚觸感\n● 抗異味\n● 羅紋袖口\n● 肩部按扣",
+    "featuresEn": "●Superior wicking & quick to dry\n●Stellar breathability\n●Soft natural feel\n●Odor control\n●Ribbed cuffs\n●Snap buttons along the shoulder",
+    "specifications": "WICKRON (聚酯纖維)",
+    "specificationsEn": "Wickron (polyester)",
+    "sizes": [
+      "80",
+      "90"
+    ],
+    "weight": "62 g",
     "price": "￥2,273",
     "colors": [
       "BK"
@@ -2276,6 +4619,17 @@
     "name": "棉質嬰幼兒彩虹長袖T恤 80-90",
     "nameEn": "COTTON LONG SLEEVE T BABY'S RAINBOW 80-90",
     "category": "KIDS & BABY",
+    "description": "● 嬰幼兒棉質長袖T恤，羅紋袖口，肩部按扣開口設計方便穿脫。\n【本款改良重點】 袖口：從 Slant-Tec Cuff 改為羅紋袖口，避免手部滑出袖子。",
+    "descriptionEn": "● Cotton T-shirt for kids, long sleeves, ribbed cuffs, snap-button shoulder opening for easy on-off\n【Revised point(s) from the current model】 Cuffs: Slant-Tec Cuff → ribbed cuff to keep hands out of the sleeves",
+    "features": "● 肩部按扣設計\n● 羅紋袖口",
+    "featuresEn": "●Snap buttons along the shoulder\n●Ribbed cuffs",
+    "specifications": "有機棉",
+    "specificationsEn": "Organic cotton",
+    "sizes": [
+      "80",
+      "90"
+    ],
+    "weight": "65 g",
     "price": "￥2,000",
     "colors": [
       "BL",
@@ -2289,6 +4643,17 @@
     "name": "棉質長袖T恤 嬰幼兒森林動物 80-90",
     "nameEn": "COTTON LONG SLEEVE T BABY'S FOREST ANIMALS 80-90",
     "category": "KIDS & BABY",
+    "description": "● 嬰幼兒棉質長袖T恤，採用羅紋袖口與肩部按扣開口設計，方便穿脫。\n【本款與舊款的改進點】 袖口：從 Slant-Tec 袖口 改為 羅紋袖口，以避免手部從袖子滑出。",
+    "descriptionEn": "● Cotton T-shirt for kids, long sleeves, ribbed cuffs, snap-button shoulder opening for easy on-off\n【Revised point(s) from the current model】 Cuffs: Slant-Tec Cuff → ribbed cuff to keep hands out of the sleeves",
+    "features": "● 肩部按扣設計\n● 羅紋袖口",
+    "featuresEn": "●Snap buttons along the shoulder\n●Ribbed cuffs",
+    "specifications": "有機棉",
+    "specificationsEn": "Organic cotton",
+    "sizes": [
+      "80",
+      "90"
+    ],
+    "weight": "65 g",
     "price": "￥2,000",
     "colors": [
       "LGY",
@@ -2302,6 +4667,16 @@
     "name": "反光帽 童款",
     "nameEn": "REFLECTIVE CAP KID'S",
     "category": "KIDS & BABY",
+    "description": "● 反光帽款，輕量，高能見度印花\n● 適合夜間外出、日常使用，提升黑暗中的安全性\n【本季改款重點】 布料：全新反光印花設計 反光印花：更耐洗滌",
+    "descriptionEn": "● Reflective cap, lightweight, high visibility print\n● For night outing, daily use, enhancing safety in the dark\n【Revised point(s) from the current model】 Fabric: new reflective print design Reflective print: will become more wash-durable",
+    "features": "● 反光印花增加能見度，提升低光源環境下的安全性\n● 兩側網布透氣\n● 撥水處理\n● 速乾\n● 後方束帶調節",
+    "featuresEn": "●Reflective print increases visibility and enhances safety in low-light\n●Side mesh ventilation\n●Water-repellent\n●Quick-drying\n●Back strap adjuster",
+    "specifications": "40 丹尼尼龍塔夫綢 (反光印花，不含 PFAS 撥水處理)",
+    "specificationsEn": "40-denier nylon taffeta (reflective print,\nPFAS-free water-repellent finish)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "TBD",
     "price": "￥2,600",
     "colors": [
       "DGY",
@@ -2316,6 +4691,16 @@
     "name": "CHAMEECE 印花按扣圍脖",
     "nameEn": "CHAMEECE PRINT SNAP NECK GAITER",
     "category": "KIDS & BABY",
+    "description": "● 採用 CHAMEECE 輕量刷毛材質的保暖圍脖，印花設計，柔軟保暖",
+    "descriptionEn": "● Lightweight fleece neck warmer, CHAMEECE, printed design, soft and warm",
+    "features": "● 按扣設計，三段式調節\n● 塑膠強化內芯 (鼻部)",
+    "featuresEn": "●Snap button closure with 3 levels of adjustment\n●Plastic-reinforced core (nose area)",
+    "specifications": "CHAMEECE (100% 聚酯纖維)",
+    "specificationsEn": "CHAMEECE (100% polyester)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "26 g",
     "price": "￥2,091",
     "colors": [],
     "season": "FW"
@@ -2326,6 +4711,16 @@
     "name": "TRAIL ACTION 巴拉克拉瓦帽 童款",
     "nameEn": "TRAIL ACTION BALACLAVA KID'S",
     "category": "KIDS & BABY",
+    "description": "● 巴拉克拉瓦帽，採用彈性 TRAIL ACTION 刷毛，貓眼設計，輕量保暖\n● 適用於寒冷天氣下的戶外活動\n【本季改款重點】 版型：嘴部開口可輕鬆拉至下巴下方",
+    "descriptionEn": "● Balaclava, stretchy Trail Action fleece, cats-eye design, lightweight, warm\n● For cold-weather active use\n【Revised point(s) from the current model】 Pattern: mouth opening will be easily extendable below chin",
+    "features": "● 鼻部採用塑膠強化骨架",
+    "featuresEn": "●Plastic-reinforced core (nose area)",
+    "specifications": "彈性 CLIMAPLUS (47% 尼龍 + 36%\n聚酯纖維 + 17% 聚氨酯)\n(嘴部內裡) ZEO-LINE (聚酯纖維)",
+    "specificationsEn": "Stretch CLIMAPLUS (47% nylon + 36%\npolyester + 17% polyurethane)\n(Mouth lining) ZEO-LINE (polyester)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "43 g",
     "price": "￥3,910",
     "colors": [
       "BK",
@@ -2339,6 +4734,25 @@
     "name": "雪靴 童款 16-25",
     "nameEn": "POWDER BOOTS KID'S 16-25",
     "category": "KIDS & BABY",
+    "description": "● 童款雪靴，保暖、刷毛內裡、易於穿脫、輕量、溫暖\n● 適合冬季戶外活動和玩雪\n【本季改款重點】 鞋口：魔鬼氈 ⇒ 束繩鞋帶，有助於防止積雪。版型將更新，以便搭配厚褲子時更容易收納。",
+    "descriptionEn": "● Kids' winter boots, insulated, fleece lining, easy entry, lightweight, warm\n● For winter outings and snow play\n【Revised point(s) from the current model】 Closure: hook & loop ⇒ cord-lock lacing, to help prevent snow buildup Fit will be updated to allow easier tucking with thick pants",
+    "features": "●束繩鞋帶系統\n●刷毛內裡提供額外保暖",
+    "featuresEn": "●Cord lock lacing system\n●Fleece lining for additional warmth",
+    "specifications": "鞋面：聚酯纖維、合成皮革\n(不含PFAS防潑水處理)\n內裡：聚酯纖維刷毛\n大底：EVA泡棉",
+    "specificationsEn": "Upper: polyester, synthetic leather\n(PFAS-free water-repellent finish)\nLining: polyester fleece\nOutsole: EVA foam",
+    "sizes": [
+      "16.0",
+      "17.0",
+      "18.0",
+      "19.0",
+      "20.0",
+      "21.0",
+      "22.0",
+      "23.0",
+      "24.0",
+      "25.0"
+    ],
+    "weight": "269 g",
     "price": "￥7,637",
     "colors": [
       "NV",
@@ -2354,6 +4768,18 @@
     "name": "嬰幼兒雪靴 13-15",
     "nameEn": "POWDER BOOTS BABY'S 13-15",
     "category": "KIDS & BABY",
+    "description": "● 嬰幼兒冬季雪靴，保暖、刷毛內裡、易於穿脫、輕量、溫暖\n● 適合冬季戶外活動及玩雪\n【本季改款重點】閉合方式：魔鬼氈 ⇒ 束繩鞋帶，有助於防止積雪。版型將更新，以便搭配厚褲子時更容易收納。",
+    "descriptionEn": "● Babies' winter boots, insulated, fleece lining, easy entry, lightweight, warm\n● For winter outings and snow play\n【Revised point(s) from the current model】 Closure: hook & loop ⇒ cord-lock lacing, to help prevent snow buildup Fit will be updated to allow easier tucking with thick pants",
+    "features": "● 束繩鞋帶系統\n● 刷毛內裡提供額外保暖",
+    "featuresEn": "●Cord lock lacing system\n●Fleece lining for additional warmth",
+    "specifications": "鞋面：聚酯纖維、合成皮革\n(不含PFAS防潑水處理)\n內裡：聚酯纖維刷毛\n鞋底：EVA泡棉",
+    "specificationsEn": "Upper: polyester, synthetic leather\n(PFAS-free water-repellent finish)\nLining: polyester fleece\nOutsole: EVA foam",
+    "sizes": [
+      "13",
+      "14",
+      "15"
+    ],
+    "weight": "TBD",
     "price": "￥7,182",
     "colors": [
       "NV",
@@ -2367,6 +4793,16 @@
     "name": "嬰兒背架",
     "nameEn": "BABY CARRIER",
     "category": "KIDS & BABY",
+    "description": "● 嬰兒背架背包，輕量，自立式設計，安全束帶，透氣且緩衝舒適\n● 適合與幼兒一同健行\n【本季改款重點】 背長調整系統更新 新增肩部口袋 移除腰帶口袋 新增背架穩定器",
+    "descriptionEn": "● Baby carrier backpack, lightweight, self-standing design, safety harness, ventilated and cushioning comfort\n● For hiking with toddlers\n【Revised point(s) from the current model】 Back adjustment system will be updated Shoulder pockets will be added Hipbelt pockets will be removed Carrier stabilizer will be added",
+    "features": "● 可調式背長系統\n● 可拆式枕頭\n● 可搭配 Trail Water Pack (另售)\n● 底部口袋、網狀口袋、頂部口袋、胸前口袋\n● 嬰兒體重：9 - 16 kg\n● 軀幹長度：44-54 cm\n● 容量：26 L",
+    "featuresEn": "●Adjustable back length system\n●Removal pillow\n●Compatible with the Trail Water Pack (sold separately)\n●Bottom pocket, mesh pocket, top pocket, chest pockets\n●Baby weight: 9 - 16 kg\n●Torso length: 44-54 cm\n●Capacity: 26 L",
+    "specifications": "主體：100 丹尼 尼龍三層格紋布\n(聚氨酯塗層)\n束帶、背板、座椅、靠背：\n聚酯纖維 3D 網布\n骨架：鋁合金",
+    "specificationsEn": "Body: 100-denier nylon triple ripstop\n(urethane coating)\nHarness, back panel, seat, and backrest:\npolyester 3D mesh\nFrame: aluminum alloy",
+    "sizes": [
+      "-"
+    ],
+    "weight": "2330 g",
     "price": "￥31,819",
     "colors": [
       "NV",
@@ -2380,6 +4816,16 @@
     "name": "可收納嬰兒背架雨罩",
     "nameEn": "POCKETABLE BABY CARRIER RAIN COVER",
     "category": "KIDS & BABY",
+    "description": "● 嬰兒背架雨罩，防水，輕鬆扣合\n【現行款式改良】鉤環將更新，更易於安裝",
+    "descriptionEn": "● Rain cover for baby carrier, waterproof, easy clip-on\n【Revised point(s) from the current model】 Hook will be updated for easier attachment",
+    "features": "● 節省空間的可收納設計",
+    "featuresEn": "●Space-saving pocketable design",
+    "specifications": "70 丹尼尼龍 (聚氨酯塗層，防潑水處理)",
+    "specificationsEn": "70-denier nylon (urethane coating, water-\nrepellent finish)",
+    "sizes": [
+      "-"
+    ],
+    "weight": "110 g",
     "price": "￥3,000",
     "colors": [
       "NV"
@@ -2392,6 +4838,16 @@
     "name": "可收納嬰兒背帶保暖罩",
     "nameEn": "POCKETABLE BABY CARRIER WARMER",
     "category": "KIDS & BABY",
+    "description": "● EXCELOFT 保暖嬰兒罩，撥水表布，可水洗，夾扣式固定\n● 為可收納嬰兒背帶提供寒冷天氣防護\n【本季改款重點】 掛鉤將會更新，以便更容易固定到嬰兒推車或較厚的肩帶上",
+    "descriptionEn": "● Insulated baby cover, EXCELOFT, water-repellent shell, washable, clip-on attach\n● Cold weather protection for Pocketable Baby Carrier\n【Revised point(s) from the current model】 Hooks will be updated for easier attachment to strollers or thicker shoulder harnesses",
+    "features": "●兩側束繩可供調整。\n●節省空間的可收納設計\n●織帶末端附有彈性環\n●兩個正面口袋可支撐嬰兒臀部\n●可搭配嬰兒推車使用",
+    "featuresEn": "●Cinch cords on both side for adjustment.\n●Space-saving pocketable design\n●Elastic loop on the tip of strap\n●Two frontside pockets to support baby's bottom\n●Stroller compatible",
+    "specifications": "表布：40 丹尼全消光尼龍塔夫綢 (不含 PFAS 撥水加工)\n保暖層：EXCELOFT (聚酯纖維)\n內裡：20 丹尼尼龍塔夫綢",
+    "specificationsEn": "40-denier full-dull nylon taffeta (PFAS-free\nwater repellent finish)\nInsulation: EXCELOFT (polyester)\nLining: 20-denier nylon taffeta",
+    "sizes": [
+      "-"
+    ],
+    "weight": "215 g",
     "price": "￥6,273",
     "colors": [
       "BK",
