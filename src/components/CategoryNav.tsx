@@ -8,6 +8,7 @@ interface CategoryNavProps {
   selectedCategory?: string;
   variant?: 'horizontal' | 'sidebar';
   basePath?: string;
+  isInternal?: boolean;
 }
 
 /**
@@ -20,8 +21,13 @@ export default function CategoryNav({
   selectedCategory,
   variant = 'horizontal',
   basePath = '/products',
+  isInternal = false,
 }: CategoryNavProps) {
   const [expandedMain, setExpandedMain] = useState<string | null>(null);
+
+  const categories = isInternal
+    ? MAIN_CATEGORIES
+    : MAIN_CATEGORIES.filter(cat => cat.id !== 'fw27-new');
 
   if (variant === 'horizontal') {
     return (
@@ -41,7 +47,7 @@ export default function CategoryNav({
             </Link>
 
             {/* 主分类 */}
-            {MAIN_CATEGORIES.map((main) => (
+            {categories.map((main) => (
               <Link
                 key={main.id}
                 href={`${basePath}?main=${main.slug}`}
@@ -86,7 +92,7 @@ export default function CategoryNav({
         </Link>
 
         {/* 主分類 */}
-        {MAIN_CATEGORIES.map((mainCategory) => (
+        {categories.map((mainCategory) => (
           <div key={mainCategory.id}>
             {/* 如果沒有子分類（如 FW27新品），直接顯示為鏈接 */}
             {mainCategory.subcategories.length === 0 ? (

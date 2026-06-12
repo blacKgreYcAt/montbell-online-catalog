@@ -126,14 +126,14 @@ function InternalProductsContent() {
 
       {/* 分類導航 */}
       {products.length > 0 && (
-        <CategoryNav variant="horizontal" selectedCategory={selectedMainCategory || selectedCategory} basePath="/internal/products" />
+        <CategoryNav variant="horizontal" selectedCategory={selectedMainCategory || selectedCategory} basePath="/internal/products" isInternal={true} />
       )}
 
       {/* 主內容區 */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
         {/* 分類側欄 */}
         <div className="lg:col-span-1">
-          <CategoryNav variant="sidebar" selectedCategory={selectedMainCategory || selectedCategory} basePath="/internal/products" />
+          <CategoryNav variant="sidebar" selectedCategory={selectedMainCategory || selectedCategory} basePath="/internal/products" isInternal={true} />
         </div>
 
         {/* 商品網格 */}
