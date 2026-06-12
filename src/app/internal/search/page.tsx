@@ -11,6 +11,7 @@ function InternalSearchContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const query = searchParams.get('q') || '';
+  // Force redeploy: v2
 
   const [results, setResults] = useState<SearchResult | null>(null);
   const [imageMapping, setImageMapping] = useState<ImageMapping>({});
