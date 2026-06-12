@@ -10,9 +10,11 @@ import { ProductGrid } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
 export default function InternalProductDetailPage() {
+  console.log('📍 InternalProductDetailPage rendered');
   const params = useParams();
   const router = useRouter();
   const productId = params?.id as string;
+  console.log('📍 productId:', productId);
 
   const [product, setProduct] = useState<Product | null>(null);
   const [relatedProducts, setRelatedProducts] = useState<Product[]>([]);
