@@ -61,6 +61,14 @@ export async function loadProductsBySeason(): Promise<Product[]> {
 }
 
 /**
+ * 加載內部版商品（FW27 專用）
+ */
+export async function loadInternalProducts(): Promise<Product[]> {
+  const products = await loadProducts();
+  return filterBySeason(products, 'FW');
+}
+
+/**
  * 根據 ID 獲取商品
  */
 export async function getProductById(id: string): Promise<Product | null> {

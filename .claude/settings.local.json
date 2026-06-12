@@ -114,7 +114,8 @@
       "Bash(git commit -m 'docs: Create backup manifest before deploying internal version \\(v1.0.0-backup-before-internal-launch\\) *)",
       "Bash(git commit -m 'feat: Implement dual-version architecture \\(public + internal FW27\\) *)",
       "Bash(git commit -m 'fix: Add FW27 exhibition info to homepage and FW27新品 quick category *)",
-      "Bash(git commit -m 'fix: Fix OrderDeadlineModal button click event handling *)"
+      "Bash(git commit -m 'fix: Fix OrderDeadlineModal button click event handling *)",
+      "Bash(git commit -m 'fix: Load FW products for internal version regardless of current season *)"
     ]
   }
 }

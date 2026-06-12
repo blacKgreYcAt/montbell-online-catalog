@@ -3,7 +3,7 @@
 import { useState, useEffect, Suspense } from 'react';
 import { useRouter } from 'next/navigation';
 import { isInternalAuthValid } from '@/lib/internalAuth';
-import { loadProductsBySeason } from '@/lib/products';
+import { loadInternalProducts } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { ProductGrid, CategoryNav, SearchBar, SeasonIndicator, ErrorBoundary } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
@@ -46,7 +46,7 @@ function InternalProductsContent() {
       try {
         setLoading(true);
         const [productsData, imageData] = await Promise.all([
-          loadProductsBySeason(),
+          loadInternalProducts(),
           loadImageMapping(),
         ]);
         setProducts(productsData);
