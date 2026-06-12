@@ -39,8 +39,8 @@ export default function OrderDeadlineModal() {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 p-4">
-      <div className="w-full max-w-2xl">
+    <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 p-4" onClick={() => setIsVisible(false)}>
+      <div className="w-full max-w-2xl" onClick={(e) => e.stopPropagation()}>
         <div className="bg-gradient-to-br from-white via-blue-50 to-white rounded-2xl shadow-2xl overflow-hidden border-2 border-[#004c6f]/10">
           <div className="h-1 bg-gradient-to-r from-[#004c6f] via-[#7697B8] to-[#004c6f]" />
 
