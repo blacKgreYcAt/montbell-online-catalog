@@ -116,7 +116,8 @@
       "Bash(git commit -m 'fix: Add FW27 exhibition info to homepage and FW27新品 quick category *)",
       "Bash(git commit -m 'fix: Fix OrderDeadlineModal button click event handling *)",
       "Bash(git commit -m 'fix: Load FW products for internal version regardless of current season *)",
-      "Bash(git commit -m 'fix: Hide FW27新品 from public version, only show in internal *)"
+      "Bash(git commit -m 'fix: Hide FW27新品 from public version, only show in internal *)",
+      "Bash(git commit -m 'refactor: Remove season filtering - load all products directly *)"
     ]
   }
 }

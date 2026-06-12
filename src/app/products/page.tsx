@@ -5,7 +5,7 @@ import { useSearchParams } from 'next/navigation';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
-import { ProductGrid, FilterPanel, CategoryNav, SearchBar, SeasonIndicator, ErrorBoundary } from '@/components';
+import { ProductGrid, FilterPanel, CategoryNav, SearchBar, ErrorBoundary } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
 import type { Product, ImageMapping } from '@/types';
@@ -71,9 +71,6 @@ function ProductsPageContent() {
 
   return (
     <div className="space-y-8">
-      {/* 季節指示器 */}
-      <SeasonIndicator />
-
       {/* 頁面標題 */}
       <div>
         <h1 className="text-4xl font-bold text-gray-900 mb-2">商品目錄</h1>

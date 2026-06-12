@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { isInternalAuthValid } from '@/lib/internalAuth';
 import { loadInternalProducts } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
-import { ProductGrid, CategoryNav, SearchBar, SeasonIndicator, ErrorBoundary } from '@/components';
+import { ProductGrid, CategoryNav, SearchBar, ErrorBoundary } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
 import { useSearchParams } from 'next/navigation';
@@ -99,9 +99,6 @@ function InternalProductsContent() {
 
   return (
     <div className="space-y-8">
-      {/* 季節指示器 */}
-      <SeasonIndicator />
-
       {/* 內部版標示 */}
       <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded">
         <p className="text-amber-800 font-semibold flex items-center gap-2">

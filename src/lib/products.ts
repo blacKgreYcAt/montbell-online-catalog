@@ -43,29 +43,21 @@ export async function loadProducts(): Promise<Product[]> {
 }
 
 /**
- * 根據季節過濾商品
- */
-export function filterBySeason(
-  products: Product[],
-  season: "SS" | "FW"
-): Product[] {
-  return products.filter((p) => p.season === season);
-}
-
-/**
- * 載入商品並根據當前季節過濾
+ * 載入商品（不按季節過濾）
+ * 每次展示會只有一個季節，所以直接返回所有商品
  */
 export async function loadProductsBySeason(): Promise<Product[]> {
   const products = await loadProducts();
-  return filterBySeason(products, CURRENT_SEASON);
+  return products;
 }
 
 /**
- * 加載內部版商品（FW27 專用）
+ * 加載內部版商品
+ * 返回所有商品（同季節不會並存）
  */
 export async function loadInternalProducts(): Promise<Product[]> {
   const products = await loadProducts();
-  return filterBySeason(products, 'FW');
+  return products;
 }
 
 /**
