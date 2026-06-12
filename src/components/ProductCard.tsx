@@ -8,9 +8,10 @@ import { getGoogleDriveImageUrl, generateMonbellImageUrl } from '@/lib/imageUtil
 interface ProductCardProps {
   product: Product;
   imageId?: string;
+  hidePrice?: boolean;
 }
 
-export default function ProductCard({ product, imageId }: ProductCardProps) {
+export default function ProductCard({ product, imageId, hidePrice = false }: ProductCardProps) {
   // 優先使用 Montbell CDN (第一個顏色)，次選 Google Drive，最後用替代圖
   let imageUrl = '/no-image.svg';
 
@@ -104,7 +105,7 @@ export default function ProductCard({ product, imageId }: ProductCardProps) {
           )}
 
           {/* 價格 */}
-          {product.price && (
+          {product.price && !hidePrice && (
             <div className="pt-3 border-t border-gray-200">
               <p className="text-lg font-bold text-[#C00]">
                 NT${product.price.toLocaleString()}

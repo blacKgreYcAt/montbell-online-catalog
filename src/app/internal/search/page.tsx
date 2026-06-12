@@ -145,6 +145,7 @@ function InternalSearchContent() {
             <ProductGrid
               products={results.products}
               imageMapping={imageMapping}
+              hidePrice={true}
               emptyMessage="找不到相符的商品"
             />
           ) : (

@@ -8,6 +8,7 @@ interface ProductGridProps {
   imageMapping?: ImageMapping;
   loading?: boolean;
   emptyMessage?: string;
+  hidePrice?: boolean;
 }
 
 export default function ProductGrid({
@@ -15,6 +16,7 @@ export default function ProductGrid({
   imageMapping = {},
   loading = false,
   emptyMessage = '找不到相符的商品',
+  hidePrice = false,
 }: ProductGridProps) {
   if (loading) {
     return (
@@ -42,15 +44,20 @@ export default function ProductGrid({
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
       {products.map((product) => {
         // 獲取第一個顏色的圖片 ID
-        const firstColor = product.colors?.[0] || 'bk';
-        const imageKey = `k_${product.modelNumber}_${firstColor.toLowerCase().substring(0, 2)}`;
-        const imageId = imageMapping[imageKey];
+        const firstColor = product.colors?.[0] || 'BK';
+        const colorCode = firstColor.toUpperCase();
+
+        // 嘗試兩種圖片映射格式
+        const imageKey1 = `${product.modelNumber}_${colorCode}`; // 內部版格式
+        const imageKey2 = `k_${product.modelNumber}_${colorCode.toLowerCase()}`; // 公開版格式
+        const imageId = imageMapping[imageKey1] || imageMapping[imageKey2];
 
         return (
           <ProductCard
             key={product.id}
             product={product}
             imageId={imageId}
+            hidePrice={hidePrice}
           />
         );
       })}

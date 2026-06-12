@@ -139,6 +139,7 @@ function InternalProductsContent() {
             products={filteredProducts}
             imageMapping={imageMapping}
             loading={loading}
+            hidePrice={true}
             emptyMessage={
               selectedCategory
                 ? `在 ${selectedCategory} 中找不到商品`
