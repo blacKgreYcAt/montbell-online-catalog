@@ -92,10 +92,18 @@ export async function loadInternalProducts(): Promise<Product[]> {
 }
 
 /**
- * 根據 ID 獲取商品
+ * 根據 ID 獲取商品（公開版）
  */
 export async function getProductById(id: string): Promise<Product | null> {
   const products = await loadProductsBySeason();
+  return products.find((p) => p.id === id) || null;
+}
+
+/**
+ * 根據 ID 獲取商品（內部版）
+ */
+export async function getInternalProductById(id: string): Promise<Product | null> {
+  const products = await loadInternalProducts();
   return products.find((p) => p.id === id) || null;
 }
 
@@ -107,6 +115,23 @@ export async function getRelatedProducts(
   limit: number = 4
 ): Promise<Product[]> {
   const products = await loadProductsBySeason();
+  const currentProduct = products.find((p) => p.id === productId);
+
+  if (!currentProduct) return [];
+
+  return products
+    .filter((p) => p.category === currentProduct.category && p.id !== productId)
+    .slice(0, limit);
+}
+
+/**
+ * 獲取推薦商品（內部版）
+ */
+export async function getInternalRelatedProducts(
+  productId: string,
+  limit: number = 4
+): Promise<Product[]> {
+  const products = await loadInternalProducts();
   const currentProduct = products.find((p) => p.id === productId);
 
   if (!currentProduct) return [];

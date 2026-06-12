@@ -121,7 +121,9 @@
       "Bash(cd \"D:\\\\MB 官網\\\\FW27原廠資料\" && ls -lh \"27FW Distributor Workbook 20260612_英中對照_翻譯完成.xlsx\")",
       "Bash(git commit -m 'feat: Integrate FW27 internal products data \\(181 items from EXCEL\\) *)",
       "Bash(git commit -m 'feat: Integrate FW27 image mappings \\(362 images from Google Drive\\) *)",
-      "Bash(git commit -m 'fix: Hide prices in internal version and fix image mapping lookup *)"
+      "Bash(git commit -m 'fix: Hide prices in internal version and fix image mapping lookup *)",
+      "Bash(cp \"C:\\\\Users\\\\imaus\\\\SynologyDrive\\\\TF Claude Code Project\\\\montbell online catalog\\\\src\\\\app\\\\products\\\\[id]\\\\page.tsx\" \"C:\\\\Users\\\\imaus\\\\SynologyDrive\\\\TF Claude Code Project\\\\montbell online catalog\\\\src\\\\app\\\\internal\\\\products\\\\[id]\\\\page.tsx\")",
+      "Bash(git commit -m 'feat: Add internal version product detail page and lookup functions *)"
     ]
   }
 }
