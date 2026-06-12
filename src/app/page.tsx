@@ -1,9 +1,6 @@
 import Link from "next/link";
-import { SITE_NAME } from "@/lib/constants";
 import { BrandHero } from "@/components";
-import CategoryNav from "@/components/CategoryNav";
 import OrderDeadlineModal from "@/components/OrderDeadlineModal";
-import { MAIN_CATEGORIES } from "@/lib/categories";
 
 export default function Home() {
   return (
@@ -12,56 +9,73 @@ export default function Home() {
       <OrderDeadlineModal />
 
       <div className="space-y-12">
-      {/* 品牌焦點區 */}
-      <BrandHero
-        title="Montbell Online Catalog"
-        subtitle="經銷商限定展示會商品線上目錄"
-        description=""
-        ctaText="瀏覽商品目錄"
-        ctaHref="/products"
-      />
+        {/* 品牌焦點區 */}
+        <BrandHero
+          title="Montbell Online Catalog"
+          subtitle="經銷商限定展示會商品線上目錄"
+          description=""
+          ctaText="瀏覽商品目錄"
+          ctaHref="/public/products"
+        />
 
-      {/* 快速導航 */}
-      <section className="bg-[#f0f5ff] rounded-lg p-8 border-2 border-[#7697B8]">
-        <h2 className="text-2xl font-bold text-[#004c6f] mb-6">快速導航</h2>
-        <div className="grid md:grid-cols-2 gap-4">
-          <Link
-            href="/products"
-            className="p-4 border-2 border-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors text-[#004c6f] font-semibold"
-          >
-            → 查看所有商品
-          </Link>
-          <Link
-            href="/search"
-            className="p-4 border-2 border-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors text-[#004c6f] font-semibold"
-          >
-            → 搜尋商品
-          </Link>
-        </div>
-      </section>
-
-      {/* 分類瀏覽 */}
-      <section className="bg-white">
-        <h2 className="text-2xl font-bold text-[#004c6f] mb-6">按分類瀏覽</h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-          {MAIN_CATEGORIES.map((category) => (
+        {/* 版本選擇 */}
+        <section className="bg-white rounded-lg p-8">
+          <h2 className="text-2xl font-bold text-[#004c6f] mb-8 text-center">選擇瀏覽方式</h2>
+          <div className="grid md:grid-cols-2 gap-8 max-w-2xl mx-auto">
+            {/* 公開版 */}
             <Link
-              key={category.id}
-              href={`/products?main=${category.slug}`}
-              className="group relative p-6 bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg border-2 border-[#7697B8] hover:border-[#004c6f] hover:shadow-lg transition-all"
+              href="/public/products"
+              className="group relative p-8 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border-2 border-[#7697B8] hover:border-[#004c6f] hover:shadow-xl transition-all"
             >
               <div className="text-center">
-                <h3 className="font-bold text-lg text-[#004c6f] group-hover:text-[#004c6f] transition-colors">
-                  {category.name}
-                </h3>
-                <p className="text-xs text-gray-600 mt-2">
-                  {category.subcategories.length} 個子分類
+                <div className="text-4xl mb-4">📂</div>
+                <h3 className="font-bold text-xl text-[#004c6f] mb-2">查看公開商品</h3>
+                <p className="text-sm text-gray-600 mb-4">
+                  適合經銷商查看可對外銷售的商品
                 </p>
+                <div className="text-xs text-gray-500 font-semibold">
+                  點擊進入 →
+                </div>
               </div>
             </Link>
-          ))}
-        </div>
-      </section>
+
+            {/* 內部版 */}
+            <Link
+              href="/internal/auth"
+              className="group relative p-8 bg-gradient-to-br from-amber-50 to-amber-100 rounded-lg border-2 border-[#c39d6f] hover:border-[#004c6f] hover:shadow-xl transition-all"
+            >
+              <div className="text-center">
+                <div className="text-4xl mb-4">🔒</div>
+                <h3 className="font-bold text-xl text-[#004c6f] mb-2">進入內部版</h3>
+                <p className="text-sm text-gray-600 mb-4">
+                  內部同事查看 FW27 新品（需要密碼）
+                </p>
+                <div className="text-xs text-gray-500 font-semibold">
+                  需要密碼 →
+                </div>
+              </div>
+            </Link>
+          </div>
+        </section>
+
+        {/* 快速導航 */}
+        <section className="bg-[#f0f5ff] rounded-lg p-8 border-2 border-[#7697B8]">
+          <h2 className="text-2xl font-bold text-[#004c6f] mb-6">快速導航</h2>
+          <div className="grid md:grid-cols-2 gap-4">
+            <Link
+              href="/public/products"
+              className="p-4 border-2 border-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors text-[#004c6f] font-semibold"
+            >
+              → 查看所有商品
+            </Link>
+            <Link
+              href="/public/search"
+              className="p-4 border-2 border-[#004c6f] rounded-lg hover:bg-[#004c6f] hover:text-white transition-colors text-[#004c6f] font-semibold"
+            >
+              → 搜尋商品
+            </Link>
+          </div>
+        </section>
       </div>
     </>
   );
