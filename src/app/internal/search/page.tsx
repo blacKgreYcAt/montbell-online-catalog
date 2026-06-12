@@ -3,7 +3,7 @@
 import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { isInternalAuthValid } from '@/lib/internalAuth';
-import { loadImageMapping } from '@/lib/imageUtils';
+import { loadInternalImageMapping } from '@/lib/imageUtils';
 import { ProductGrid, SearchBar, ErrorBoundary } from '@/components';
 import type { Product, ImageMapping, SearchResult } from '@/types';
 
@@ -65,11 +65,12 @@ function InternalSearchContent() {
     performSearch();
   }, [query]);
 
-  // 載入圖片映射
+
+  // 載入內部版圖片映射
   useEffect(() => {
-    const loadData = async () => {
+    const loadMappingData = async () => {
       try {
-        const imageData = await loadImageMapping();
+        const imageData = await loadInternalImageMapping();
         setImageMapping(imageData);
       } catch (error) {
         console.error('載入圖片映射失敗:', error);
@@ -77,7 +78,7 @@ function InternalSearchContent() {
     };
 
     if (isAuthorized) {
-      loadData();
+      loadMappingData();
     }
   }, [isAuthorized]);
 

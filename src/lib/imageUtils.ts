@@ -24,7 +24,7 @@ export function getGoogleDriveImageUrl(fileId: string): string {
 }
 
 /**
- * 載入圖片映射文件
+ * 載入圖片映射文件（公開版）
  */
 export async function loadImageMapping(): Promise<ImageMapping> {
   try {
@@ -36,6 +36,23 @@ export async function loadImageMapping(): Promise<ImageMapping> {
     return await response.json();
   } catch (error) {
     console.error("載入圖片映射失敗:", error);
+    return {};
+  }
+}
+
+/**
+ * 載入圖片映射文件（內部版 - FW27）
+ */
+export async function loadInternalImageMapping(): Promise<ImageMapping> {
+  try {
+    const response = await fetch("/imageMapping-internal.json");
+    if (!response.ok) {
+      console.warn("無法載入內部版圖片映射文件");
+      return {};
+    }
+    return await response.json();
+  } catch (error) {
+    console.error("載入內部版圖片映射失敗:", error);
     return {};
   }
 }

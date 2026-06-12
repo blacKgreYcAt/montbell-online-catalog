@@ -117,7 +117,10 @@
       "Bash(git commit -m 'fix: Fix OrderDeadlineModal button click event handling *)",
       "Bash(git commit -m 'fix: Load FW products for internal version regardless of current season *)",
       "Bash(git commit -m 'fix: Hide FW27新品 from public version, only show in internal *)",
-      "Bash(git commit -m 'refactor: Remove season filtering - load all products directly *)"
+      "Bash(git commit -m 'refactor: Remove season filtering - load all products directly *)",
+      "Bash(cd \"D:\\\\MB 官網\\\\FW27原廠資料\" && ls -lh \"27FW Distributor Workbook 20260612_英中對照_翻譯完成.xlsx\")",
+      "Bash(git commit -m 'feat: Integrate FW27 internal products data \\(181 items from EXCEL\\) *)",
+      "Bash(git commit -m 'feat: Integrate FW27 image mappings \\(362 images from Google Drive\\) *)"
     ]
   }
 }

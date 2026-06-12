@@ -4,7 +4,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { useRouter } from 'next/navigation';
 import { isInternalAuthValid } from '@/lib/internalAuth';
 import { loadInternalProducts } from '@/lib/products';
-import { loadImageMapping } from '@/lib/imageUtils';
+import { loadInternalImageMapping } from '@/lib/imageUtils';
 import { ProductGrid, CategoryNav, SearchBar, ErrorBoundary } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
@@ -47,7 +47,7 @@ function InternalProductsContent() {
         setLoading(true);
         const [productsData, imageData] = await Promise.all([
           loadInternalProducts(),
-          loadImageMapping(),
+          loadInternalImageMapping(),
         ]);
         setProducts(productsData);
         setImageMapping(imageData);
