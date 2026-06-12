@@ -6,6 +6,11 @@
     "nameEn": "PERMAFROST DOWN PARKA MEN'S",
     "category": "INSULATION",
     "price": "￥34,000",
+    "colors": [
+      "BK",
+      "DTL",
+      "MST"
+    ],
     "season": "FW"
   },
   {
@@ -15,6 +20,11 @@
     "nameEn": "PERMAFROST DOWN PARKA WOMEN'S",
     "category": "INSULATION",
     "price": "￥32,728",
+    "colors": [
+      "BK",
+      "IV",
+      "GY"
+    ],
     "season": "FW"
   },
   {
@@ -24,6 +34,11 @@
     "nameEn": "THERMAWRAP PARKA MEN'S",
     "category": "INSULATION",
     "price": "￥15,455",
+    "colors": [
+      "BK",
+      "RD",
+      "CN"
+    ],
     "season": "FW"
   },
   {
@@ -33,6 +48,11 @@
     "nameEn": "THERMAWRAP PARKA WOMEN'S",
     "category": "INSULATION",
     "price": "￥14,910",
+    "colors": [
+      "RD",
+      "DNV",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -42,6 +62,10 @@
     "nameEn": "THERMAWRAP VEST MEN'S",
     "category": "INSULATION",
     "price": "￥10,910",
+    "colors": [
+      "BK",
+      "CN"
+    ],
     "season": "FW"
   },
   {
@@ -51,6 +75,10 @@
     "nameEn": "THERMAWRAP VEST WOMEN'S",
     "category": "INSULATION",
     "price": "￥10,455",
+    "colors": [
+      "DNV",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -60,6 +88,10 @@
     "nameEn": "STADIUM JUMPER",
     "category": "TRAVEL & COUNTRY",
     "price": "￥40,000",
+    "colors": [
+      "DNV",
+      "GAR"
+    ],
     "season": "FW"
   },
   {
@@ -69,6 +101,12 @@
     "nameEn": "THERMALAND PARKA MEN'S",
     "category": "TRAVEL & COUNTRY",
     "price": "￥12,182",
+    "colors": [
+      "BK",
+      "DTL",
+      "RD",
+      "MST"
+    ],
     "season": "FW"
   },
   {
@@ -78,6 +116,12 @@
     "nameEn": "THERMALAND PARKA WOMEN'S",
     "category": "TRAVEL & COUNTRY",
     "price": "￥11,637",
+    "colors": [
+      "BK",
+      "LBL",
+      "DTL",
+      "MST"
+    ],
     "season": "FW"
   },
   {
@@ -87,6 +131,11 @@
     "nameEn": "THERMALAND WARM PARKA MEN'S",
     "category": "TRAVEL & COUNTRY",
     "price": "￥12,728",
+    "colors": [
+      "BK",
+      "DNV",
+      "BN"
+    ],
     "season": "FW"
   },
   {
@@ -96,6 +145,11 @@
     "nameEn": "THERMALAND WARM PARKA WOMEN'S",
     "category": "TRAVEL & COUNTRY",
     "price": "￥12,182",
+    "colors": [
+      "BK",
+      "IV",
+      "BRC"
+    ],
     "season": "FW"
   },
   {
@@ -105,6 +159,11 @@
     "nameEn": "CLIMAGRID PULLOVER MEN'S",
     "category": "THERMAL",
     "price": "￥5,455",
+    "colors": [
+      "BK",
+      "DTL",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -114,6 +173,11 @@
     "nameEn": "CLIMAGRID PULLOVER WOMEN'S",
     "category": "THERMAL",
     "price": "￥5,091",
+    "colors": [
+      "IV",
+      "BK",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -123,6 +187,11 @@
     "nameEn": "CLIMAGRID SWEATSHIRT MEN'S",
     "category": "THERMAL",
     "price": "￥3,637",
+    "colors": [
+      "BK",
+      "DTL",
+      "RD"
+    ],
     "season": "FW"
   },
   {
@@ -132,6 +201,11 @@
     "nameEn": "CLIMAGRID SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
     "price": "￥3,273",
+    "colors": [
+      "IV",
+      "DGY",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -141,6 +215,11 @@
     "nameEn": "CHAMEECE SWEATSHIRT MEN'S",
     "category": "THERMAL",
     "price": "￥3,273",
+    "colors": [
+      "DGY",
+      "IV",
+      "BGN"
+    ],
     "season": "FW"
   },
   {
@@ -150,6 +229,11 @@
     "nameEn": "CHAMEECE SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
     "price": "￥3,000",
+    "colors": [
+      "IV",
+      "DGY",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -159,6 +243,10 @@
     "nameEn": "CHAMEECE V-NECK VEST MEN'S",
     "category": "THERMAL",
     "price": "￥2,910",
+    "colors": [
+      "DGY",
+      "IV"
+    ],
     "season": "FW"
   },
   {
@@ -168,6 +256,10 @@
     "nameEn": "CHAMEECE V-NECK VEST WOMEN'S",
     "category": "THERMAL",
     "price": "￥2,728",
+    "colors": [
+      "IV",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -177,6 +269,7 @@
     "nameEn": "CHAMEECE PRINT JACKET MEN'S",
     "category": "THERMAL",
     "price": "￥7,819",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -186,6 +279,7 @@
     "nameEn": "CHAMEECE PRINT JACKET WOMEN'S",
     "category": "THERMAL",
     "price": "￥7,273",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -195,6 +289,12 @@
     "nameEn": "CLIMAPLUS 100 LITE SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
     "price": "￥4,455",
+    "colors": [
+      "PU",
+      "GY",
+      "IV",
+      "DNV"
+    ],
     "season": "FW"
   },
   {
@@ -204,6 +304,10 @@
     "nameEn": "CLIMAPLUS 100 VEST WOMEN'S",
     "category": "THERMAL",
     "price": "￥3,364",
+    "colors": [
+      "DBN",
+      "IV"
+    ],
     "season": "FW"
   },
   {
@@ -213,6 +317,7 @@
     "nameEn": "CLIMAPLUS 100 PRINT LITE SWEATSHIRT WOMEN'S",
     "category": "THERMAL",
     "price": "￥5,455",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -222,6 +327,11 @@
     "nameEn": "STREAM PARKA MEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥29,000",
+    "colors": [
+      "RD",
+      "MGD",
+      "BL"
+    ],
     "season": "FW"
   },
   {
@@ -231,6 +341,11 @@
     "nameEn": "DENALI PARKA MEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥40,910",
+    "colors": [
+      "YGN",
+      "NV",
+      "RD"
+    ],
     "season": "FW"
   },
   {
@@ -240,6 +355,10 @@
     "nameEn": "DENALI PARKA WOMEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥40,000",
+    "colors": [
+      "PK",
+      "DBN"
+    ],
     "season": "FW"
   },
   {
@@ -249,6 +368,11 @@
     "nameEn": "DYNA ACTION PARKA MEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥33,000",
+    "colors": [
+      "OG",
+      "CN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -258,6 +382,12 @@
     "nameEn": "ALPINE PANTS MEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥26,000",
+    "colors": [
+      "BK",
+      "DGY",
+      "DNV",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -267,6 +397,10 @@
     "nameEn": "ALPINE PANTS WOMEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥24,637",
+    "colors": [
+      "BK",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -276,6 +410,10 @@
     "nameEn": "ALPINE LIGHT PANTS MEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥24,000",
+    "colors": [
+      "BK",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -285,6 +423,9 @@
     "nameEn": "ALPINE LIGHT PANTS WOMEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥22,637",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -294,6 +435,10 @@
     "nameEn": "DRYTEC INSULATED ALPINE PANTS MEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥22,000",
+    "colors": [
+      "BK",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -303,6 +448,9 @@
     "nameEn": "DRYTEC INSULATED ALPINE PANTS WOMEN'S",
     "category": "ALPINE CLOTHING",
     "price": "￥21,000",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -312,6 +460,11 @@
     "nameEn": "REFLECTIVE LIGHT SHELL JACKET MEN'S",
     "category": "SOFT SHELL",
     "price": "￥10,546",
+    "colors": [
+      "DGY",
+      "LGY",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -321,6 +474,12 @@
     "nameEn": "ULTRA LIGHT SHELL HOODED JACKET MEN'S",
     "category": "SOFT SHELL",
     "price": "￥8,000",
+    "colors": [
+      "CN",
+      "LGY",
+      "RD",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -330,6 +489,11 @@
     "nameEn": "ULTRA LIGHT SHELL HOODED JACKET WOMEN'S",
     "category": "SOFT SHELL",
     "price": "￥7,546",
+    "colors": [
+      "DNV",
+      "LGY",
+      "LGN"
+    ],
     "season": "FW"
   },
   {
@@ -339,6 +503,11 @@
     "nameEn": "ULTRA LIGHT SHELL JACKET MEN'S",
     "category": "SOFT SHELL",
     "price": "￥7,273",
+    "colors": [
+      "CN",
+      "LGY",
+      "BGY"
+    ],
     "season": "FW"
   },
   {
@@ -348,6 +517,11 @@
     "nameEn": "ULTRA LIGHT SHELL JACKET WOMEN'S",
     "category": "SOFT SHELL",
     "price": "￥6,909",
+    "colors": [
+      "DNV",
+      "LGY",
+      "LGN"
+    ],
     "season": "FW"
   },
   {
@@ -357,6 +531,11 @@
     "nameEn": "REFLECTIVE WIND JACKET",
     "category": "WIND SHELL",
     "price": "￥8,091",
+    "colors": [
+      "DNV",
+      "LGY",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -366,6 +545,12 @@
     "nameEn": "MERINO WOOL O.D. SHIRT MEN'S",
     "category": "SHIRTS",
     "price": "￥11,819",
+    "colors": [
+      "BL",
+      "DGY",
+      "DNV",
+      "BN"
+    ],
     "season": "FW"
   },
   {
@@ -375,6 +560,12 @@
     "nameEn": "MERINO WOOL O.D. SHIRT WOMEN'S",
     "category": "SHIRTS",
     "price": "￥10,000",
+    "colors": [
+      "DGY",
+      "GAR",
+      "BL",
+      "LTN"
+    ],
     "season": "FW"
   },
   {
@@ -384,6 +575,12 @@
     "nameEn": "MERINO WOOL LIGHT LONG SLEEVE SHIRT MEN'S",
     "category": "SHIRTS",
     "price": "￥10,000",
+    "colors": [
+      "GY",
+      "IV",
+      "GAR",
+      "NV"
+    ],
     "season": "FW"
   },
   {
@@ -393,6 +590,11 @@
     "nameEn": "MERINO WOOL LIGHT LONG SLEEVE SHIRT WOMEN'S",
     "category": "SHIRTS",
     "price": "￥8,819",
+    "colors": [
+      "LV",
+      "LBL",
+      "BL"
+    ],
     "season": "FW"
   },
   {
@@ -402,6 +604,10 @@
     "nameEn": "WICKRON O.D. SNAP BUTTON SHIRT",
     "category": "SHIRTS",
     "price": "￥7,455",
+    "colors": [
+      "LGN",
+      "TN"
+    ],
     "season": "FW"
   },
   {
@@ -411,6 +617,11 @@
     "nameEn": "WICKRON O.D. STAND COLLAR LONG SLEEVE DRESS",
     "category": "SHIRTS",
     "price": "￥7,637",
+    "colors": [
+      "NV",
+      "MST",
+      "LGN"
+    ],
     "season": "FW"
   },
   {
@@ -420,6 +631,12 @@
     "nameEn": "OXFORD BUTTON DOWN SHIRT",
     "category": "SHIRTS",
     "price": "￥7,000",
+    "colors": [
+      "BL",
+      "WT",
+      "PK",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -429,6 +646,11 @@
     "nameEn": "OXFORD STAND COLLAR SHIRT",
     "category": "SHIRTS",
     "price": "￥6,819",
+    "colors": [
+      "BL",
+      "WT",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -438,6 +660,10 @@
     "nameEn": "MULTIUSE THERMAL TROUSERS MEN'S",
     "category": "PANTS",
     "price": "￥16,364",
+    "colors": [
+      "BK",
+      "TN"
+    ],
     "season": "FW"
   },
   {
@@ -447,6 +673,10 @@
     "nameEn": "MULTIUSE THERMAL TROUSERS WOMEN'S",
     "category": "PANTS",
     "price": "￥15,455",
+    "colors": [
+      "BK",
+      "DGN"
+    ],
     "season": "FW"
   },
   {
@@ -456,6 +686,10 @@
     "nameEn": "THERMAWRAP TRAIL SKIRT",
     "category": "PANTS",
     "price": "￥6,182",
+    "colors": [
+      "BK",
+      "PU"
+    ],
     "season": "FW"
   },
   {
@@ -465,6 +699,13 @@
     "nameEn": "WICKRON ZEO THERMAL LONG SLEEVE SHIRT MEN'S",
     "category": "KNIT SHIRT",
     "price": "￥4,819",
+    "colors": [
+      "BK",
+      "LGY",
+      "NV",
+      "CN",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -474,6 +715,12 @@
     "nameEn": "WICKRON ZEO THERMAL LONG SLEEVE SHIRT WOMEN'S",
     "category": "KNIT SHIRT",
     "price": "￥4,091",
+    "colors": [
+      "BK",
+      "IV",
+      "BGY",
+      "LV"
+    ],
     "season": "FW"
   },
   {
@@ -483,6 +730,10 @@
     "nameEn": "SUPER MERINO WOOL EXP. PLUS HIGH NECK SHIRT MEN'S",
     "category": "BASE LAYER",
     "price": "￥12,455",
+    "colors": [
+      "BK",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -492,6 +743,10 @@
     "nameEn": "SUPER MERINO WOOL EXP. PLUS HIGH NECK SHIRT WOMEN'S",
     "category": "BASE LAYER",
     "price": "￥11,182",
+    "colors": [
+      "BK",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -501,6 +756,9 @@
     "nameEn": "ZEO-LINE EXP. V-NECK SHIRT MEN'S",
     "category": "BASE LAYER",
     "price": "￥5,591",
+    "colors": [
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -510,6 +768,9 @@
     "nameEn": "SUPER MERINO WOOL EXP. V-NECK SHIRT MEN'S",
     "category": "BASE LAYER",
     "price": "￥9,800",
+    "colors": [
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -519,6 +780,10 @@
     "nameEn": "ZEO-LINE M.W. U-NECK T-SHIRT WOMEN'S",
     "category": "BASE LAYER",
     "price": "￥3,910",
+    "colors": [
+      "BK",
+      "LV"
+    ],
     "season": "FW"
   },
   {
@@ -528,6 +793,10 @@
     "nameEn": "SUPER MERINO WOOL M.W. U-NECK T-SHIRT WOMEN'S",
     "category": "BASE LAYER",
     "price": "￥6,091",
+    "colors": [
+      "BK",
+      "IV"
+    ],
     "season": "FW"
   },
   {
@@ -537,6 +806,12 @@
     "nameEn": "ZEO-LINE MESH SPORTS BRA",
     "category": "BASE LAYER",
     "price": "￥5,728",
+    "colors": [
+      "BK",
+      "BG",
+      "BRC",
+      "DTL"
+    ],
     "season": "FW"
   },
   {
@@ -546,6 +821,12 @@
     "nameEn": "ZEO-LINE MESH SOFT BRA",
     "category": "BASE LAYER",
     "price": "￥4,273",
+    "colors": [
+      "BK",
+      "BG",
+      "BRC",
+      "DTL"
+    ],
     "season": "FW"
   },
   {
@@ -555,6 +836,10 @@
     "nameEn": "ZEO-LINE MESH FRONT HOOK SOFT BRA",
     "category": "BASE LAYER",
     "price": "￥5,182",
+    "colors": [
+      "BK",
+      "BG"
+    ],
     "season": "FW"
   },
   {
@@ -564,6 +849,10 @@
     "nameEn": "ZEO-LINE MESH FRONT HOOK COMFORT SOFT BRA",
     "category": "BASE LAYER",
     "price": "￥4,819",
+    "colors": [
+      "BK",
+      "BG"
+    ],
     "season": "FW"
   },
   {
@@ -573,6 +862,12 @@
     "nameEn": "ZEO-LINE MESH SHORTS WOMEN'S",
     "category": "BASE LAYER",
     "price": "￥3,091",
+    "colors": [
+      "BK",
+      "BG",
+      "BRC",
+      "DTL"
+    ],
     "season": "FW"
   },
   {
@@ -582,6 +877,12 @@
     "nameEn": "ZEO-LINE MESH ACTIVE SHORTS WOMEN'S",
     "category": "BASE LAYER",
     "price": "￥2,728",
+    "colors": [
+      "BK",
+      "BG",
+      "BRC",
+      "DTL"
+    ],
     "season": "FW"
   },
   {
@@ -591,6 +892,9 @@
     "nameEn": "ZEO-LINE MESH ABSORBENT SANITARY",
     "category": "BASE LAYER",
     "price": "￥4,728",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -600,6 +904,9 @@
     "nameEn": "ZEO-LINE MESH SANITARY SHORTS",
     "category": "BASE LAYER",
     "price": "￥3,637",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -609,6 +916,9 @@
     "nameEn": "ZEO-LINE MESH SANITARY ACTIVE SHORTS",
     "category": "BASE LAYER",
     "price": "￥3,273",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -618,6 +928,9 @@
     "nameEn": "SUPER MERINO WOOL EXP. WAIST WARMER",
     "category": "SUPPORTER & WARMER",
     "price": "￥3,819",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -627,6 +940,10 @@
     "nameEn": "SUPER MERINO WOOL L.W. WAIST WARMER",
     "category": "SUPPORTER & WARMER",
     "price": "￥3,273",
+    "colors": [
+      "BK",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -636,6 +953,10 @@
     "nameEn": "SUPER MERINO WOOL L.W. SIDE-ZIP WAIST WARMER",
     "category": "SUPPORTER & WARMER",
     "price": "￥3,455",
+    "colors": [
+      "BK",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -645,6 +966,12 @@
     "nameEn": "EXCELOFT CAMP BOOTIES",
     "category": "SOCKS",
     "price": "￥3,546",
+    "colors": [
+      "BK",
+      "TN",
+      "DTL",
+      "RD"
+    ],
     "season": "FW"
   },
   {
@@ -654,6 +981,12 @@
     "nameEn": "EXCELOFT CAMP BOOTIES LONG",
     "category": "SOCKS",
     "price": "￥3,910",
+    "colors": [
+      "BK",
+      "TN",
+      "DTL",
+      "RD"
+    ],
     "season": "FW"
   },
   {
@@ -663,6 +996,10 @@
     "nameEn": "EXCELOFT BOOTIES",
     "category": "SOCKS",
     "price": "￥4,819",
+    "colors": [
+      "BK",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -672,6 +1009,12 @@
     "nameEn": "DOWN CAMP BOOTIES",
     "category": "SOCKS",
     "price": "￥4,455",
+    "colors": [
+      "BK",
+      "TN",
+      "DTL",
+      "RD"
+    ],
     "season": "FW"
   },
   {
@@ -681,6 +1024,12 @@
     "nameEn": "DOWN CAMP BOOTIES LONG",
     "category": "SOCKS",
     "price": "￥4,819",
+    "colors": [
+      "BK",
+      "TN",
+      "DTL",
+      "RD"
+    ],
     "season": "FW"
   },
   {
@@ -690,6 +1039,10 @@
     "nameEn": "DOWN BOOTIES",
     "category": "SOCKS",
     "price": "￥6,182",
+    "colors": [
+      "BK",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -699,6 +1052,9 @@
     "nameEn": "LEATHER ZIP MITTENS",
     "category": "GLOVES",
     "price": "￥13,000",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -708,6 +1064,9 @@
     "nameEn": "WINTER LEATHER GLOVES",
     "category": "GLOVES",
     "price": "￥12,819",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -717,6 +1076,9 @@
     "nameEn": "POWDER ZIP MITTENS",
     "category": "GLOVES",
     "price": "￥9,455",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -726,6 +1088,11 @@
     "nameEn": "EXCELOFT ZIP MITTENS",
     "category": "GLOVES",
     "price": "￥5,910",
+    "colors": [
+      "BK",
+      "IV",
+      "DNV"
+    ],
     "season": "FW"
   },
   {
@@ -735,6 +1102,12 @@
     "nameEn": "WINDSHELL CRUSHABLE CAP",
     "category": "CAP & HAT",
     "price": "￥3,637",
+    "colors": [
+      "BK",
+      "BGY",
+      "YL",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -744,6 +1117,11 @@
     "nameEn": "O.D. CRAG CAP",
     "category": "CAP & HAT",
     "price": "￥3,182",
+    "colors": [
+      "BK",
+      "BGY",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -753,6 +1131,11 @@
     "nameEn": "O.D. CRAG EAR WARMER CAP",
     "category": "CAP & HAT",
     "price": "￥3,637",
+    "colors": [
+      "BK",
+      "NV",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -762,6 +1145,11 @@
     "nameEn": "O.D. LINED HAT",
     "category": "CAP & HAT",
     "price": "￥3,637",
+    "colors": [
+      "BGY",
+      "KGN",
+      "NV"
+    ],
     "season": "FW"
   },
   {
@@ -771,6 +1159,11 @@
     "nameEn": "REFLECTIVE CAP",
     "category": "CAP & HAT",
     "price": "￥2,728",
+    "colors": [
+      "DGY",
+      "LBL",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -780,6 +1173,11 @@
     "nameEn": "CLIMAAIR REVERSIBLE NECK WARMER",
     "category": "SCARF AND NECK GAITER",
     "price": "￥2,000",
+    "colors": [
+      "IV",
+      "DGN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -789,6 +1187,10 @@
     "nameEn": "HOODED NECK GAITER",
     "category": "SCARF AND NECK GAITER",
     "price": "￥5,455",
+    "colors": [
+      "BK",
+      "IV"
+    ],
     "season": "FW"
   },
   {
@@ -798,6 +1200,9 @@
     "nameEn": "CLIMAPRENE FACE BALACLAVA",
     "category": "SCARF AND NECK GAITER",
     "price": "￥3,637",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -807,6 +1212,9 @@
     "nameEn": "CLIMAPRENE FACE NECK GAITER",
     "category": "SCARF AND NECK GAITER",
     "price": "￥3,437",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -816,6 +1224,10 @@
     "nameEn": "TRAIL ACTION BALACLAVA",
     "category": "SCARF AND NECK GAITER",
     "price": "￥5,000",
+    "colors": [
+      "BK",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -825,6 +1237,7 @@
     "nameEn": "CHAMEECE PRINT SCARF",
     "category": "SCARF AND NECK GAITER",
     "price": "￥1,546",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -834,6 +1247,7 @@
     "nameEn": "CHAMEECE PRINT ADJUSTABLE NECK",
     "category": "SCARF AND NECK GAITER",
     "price": "￥2,410",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -843,6 +1257,9 @@
     "nameEn": "ALPINE CRUISER 3000 W/ GAITERS MEN'S",
     "category": "FOOTWEAR",
     "price": "￥51,819",
+    "colors": [
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -852,6 +1269,9 @@
     "nameEn": "ALPINE CRUISER 3000 W/ GAITERS WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥51,546",
+    "colors": [
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -861,6 +1281,9 @@
     "nameEn": "ALPINE CRUISER 3000 W/ GAITERS MEN'S - WIDE",
     "category": "FOOTWEAR",
     "price": "￥51,819",
+    "colors": [
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -870,6 +1293,9 @@
     "nameEn": "MOUNTAIN CRUISER 400 BOA MEN'S",
     "category": "FOOTWEAR",
     "price": "￥24,546",
+    "colors": [
+      "GY"
+    ],
     "season": "FW"
   },
   {
@@ -879,6 +1305,9 @@
     "nameEn": "MOUNTAIN CRUISER 400 BOA WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥24,273",
+    "colors": [
+      "GY"
+    ],
     "season": "FW"
   },
   {
@@ -888,6 +1317,9 @@
     "nameEn": "MOUNTAIN CRUISER 400 BOA MEN'S - WIDE",
     "category": "FOOTWEAR",
     "price": "￥24,546",
+    "colors": [
+      "GY"
+    ],
     "season": "FW"
   },
   {
@@ -897,6 +1329,10 @@
     "nameEn": "MOUNTAIN HOPPER MID BOA MEN'S",
     "category": "FOOTWEAR",
     "price": "￥23,455",
+    "colors": [
+      "KGN",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -906,6 +1342,10 @@
     "nameEn": "MOUNTAIN HOPPER MID BOA WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥23,182",
+    "colors": [
+      "GY",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -915,6 +1355,10 @@
     "nameEn": "MOUNTAIN HOPPER MID BOA MEN'S - WIDE",
     "category": "FOOTWEAR",
     "price": "￥23,455",
+    "colors": [
+      "KGN",
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -924,6 +1368,10 @@
     "nameEn": "MOUNTAIN HOPPER BOA MEN'S",
     "category": "FOOTWEAR",
     "price": "￥22,546",
+    "colors": [
+      "BK",
+      "MST"
+    ],
     "season": "FW"
   },
   {
@@ -933,6 +1381,10 @@
     "nameEn": "MOUNTAIN HOPPER BOA WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥22,273",
+    "colors": [
+      "LGY",
+      "CPK"
+    ],
     "season": "FW"
   },
   {
@@ -942,6 +1394,10 @@
     "nameEn": "MOUNTAIN HOPPER BOA MEN'S - WIDE",
     "category": "FOOTWEAR",
     "price": "￥22,546",
+    "colors": [
+      "BK",
+      "MST"
+    ],
     "season": "FW"
   },
   {
@@ -951,6 +1407,10 @@
     "nameEn": "HIGHLAND BOOTS MEN'S",
     "category": "FOOTWEAR",
     "price": "￥17,546",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -960,6 +1420,10 @@
     "nameEn": "HIGHLAND BOOTS WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥17,273",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -969,6 +1433,10 @@
     "nameEn": "RAMBLER CHUKKA BOOTS MEN'S",
     "category": "FOOTWEAR",
     "price": "￥18,000",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -978,6 +1446,10 @@
     "nameEn": "RAMBLER CHUKKA BOOTS WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥17,728",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -987,6 +1459,10 @@
     "nameEn": "HIGHLAND MOC MEN'S",
     "category": "FOOTWEAR",
     "price": "￥16,546",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -996,6 +1472,10 @@
     "nameEn": "HIGHLAND MOC WOMEN'S",
     "category": "FOOTWEAR",
     "price": "￥17,000",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1005,6 +1485,10 @@
     "nameEn": "RAMBLER SHOES",
     "category": "FOOTWEAR",
     "price": "￥17,273",
+    "colors": [
+      "BN",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1014,6 +1498,9 @@
     "nameEn": "EASY-SPIKE",
     "category": "SNOW GEAR",
     "price": "￥1,728",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1023,6 +1510,9 @@
     "nameEn": "EASY-SPIKE FULL SOLE",
     "category": "SNOW GEAR",
     "price": "￥2,000",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1032,6 +1522,11 @@
     "nameEn": "GALENA PACK 20",
     "category": "BACKPACK",
     "price": "￥15,455",
+    "colors": [
+      "BK",
+      "DTL",
+      "LTN"
+    ],
     "season": "FW"
   },
   {
@@ -1041,6 +1536,11 @@
     "nameEn": "GALENA PACK 20 WOMEN'S",
     "category": "BACKPACK",
     "price": "￥14,546",
+    "colors": [
+      "BGY",
+      "TQ",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1050,6 +1550,12 @@
     "nameEn": "GALENA PACK 25",
     "category": "BACKPACK",
     "price": "￥15,910",
+    "colors": [
+      "BK",
+      "DTL",
+      "RD",
+      "KGN"
+    ],
     "season": "FW"
   },
   {
@@ -1059,6 +1565,12 @@
     "nameEn": "GALENA PACK 25 WOMEN'S",
     "category": "BACKPACK",
     "price": "￥15,000",
+    "colors": [
+      "BGY",
+      "TQ",
+      "LTN",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1068,6 +1580,12 @@
     "nameEn": "GALENA PACK 30",
     "category": "BACKPACK",
     "price": "￥16,364",
+    "colors": [
+      "BK",
+      "DTL",
+      "RD",
+      "KGN"
+    ],
     "season": "FW"
   },
   {
@@ -1077,6 +1595,11 @@
     "nameEn": "GALENA PACK 30 WOMEN'S",
     "category": "BACKPACK",
     "price": "￥15,455",
+    "colors": [
+      "BGY",
+      "TQ",
+      "LTN"
+    ],
     "season": "FW"
   },
   {
@@ -1086,6 +1609,12 @@
     "nameEn": "DAY PACK #1 20",
     "category": "BACKPACK",
     "price": "￥10,728",
+    "colors": [
+      "BK",
+      "TN",
+      "LGY",
+      "DGN"
+    ],
     "season": "FW"
   },
   {
@@ -1095,6 +1624,12 @@
     "nameEn": "DAY PACK #1 25",
     "category": "BACKPACK",
     "price": "￥11,182",
+    "colors": [
+      "BK",
+      "TN",
+      "LGY",
+      "DGN"
+    ],
     "season": "FW"
   },
   {
@@ -1104,6 +1639,11 @@
     "nameEn": "DAY PACK #2 15",
     "category": "BACKPACK",
     "price": "￥7,091",
+    "colors": [
+      "BK",
+      "LGY",
+      "BN"
+    ],
     "season": "FW"
   },
   {
@@ -1113,6 +1653,11 @@
     "nameEn": "DAY PACK #2 20",
     "category": "BACKPACK",
     "price": "￥7,546",
+    "colors": [
+      "BK",
+      "NV",
+      "BN"
+    ],
     "season": "FW"
   },
   {
@@ -1122,6 +1667,11 @@
     "nameEn": "REFLECTIVE TREKKING UMBRELLA 55",
     "category": "UMBRELLA",
     "price": "￥6,546",
+    "colors": [
+      "DNV",
+      "LGY",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1131,6 +1681,11 @@
     "nameEn": "REFLECTIVE TREKKING UMBRELLA 55 CASE",
     "category": "UMBRELLA",
     "price": "￥1,000",
+    "colors": [
+      "DNV",
+      "LGY",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1140,6 +1695,11 @@
     "nameEn": "CHEST STRAP",
     "category": "ACCESSORIES",
     "price": "￥637",
+    "colors": [
+      "BK",
+      "DGY",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -1149,6 +1709,9 @@
     "nameEn": "GOGGLE CASE",
     "category": "EYEWEAR",
     "price": "￥2,273",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1158,6 +1721,10 @@
     "nameEn": "LIGHT GOGGLE CASE",
     "category": "EYEWEAR",
     "price": "￥1,910",
+    "colors": [
+      "BK",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1167,6 +1734,10 @@
     "nameEn": "GOGGLE WRAP",
     "category": "EYEWEAR",
     "price": "￥1,728",
+    "colors": [
+      "BK",
+      "BGN"
+    ],
     "season": "FW"
   },
   {
@@ -1176,6 +1747,9 @@
     "nameEn": "WATER FILTER PLUS",
     "category": "BOTTLES",
     "price": "￥2,819",
+    "colors": [
+      "GY"
+    ],
     "season": "FW"
   },
   {
@@ -1185,6 +1759,7 @@
     "nameEn": "WATER FILTER PLUS REPLACEMENT FILTERS (3PCS)",
     "category": "BOTTLES",
     "price": "￥2,182",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -1194,6 +1769,11 @@
     "nameEn": "FOLDING CUP S",
     "category": "COOKWARE",
     "price": "￥728",
+    "colors": [
+      "IV",
+      "RD",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1203,6 +1783,11 @@
     "nameEn": "FOLDING BOWL M",
     "category": "COOKWARE",
     "price": "￥1,091",
+    "colors": [
+      "IV",
+      "RD",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1212,6 +1797,11 @@
     "nameEn": "FOLDING BOWL L",
     "category": "COOKWARE",
     "price": "￥1,455",
+    "colors": [
+      "IV",
+      "RD",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1221,6 +1811,9 @@
     "nameEn": "LEATHER GLOVES",
     "category": "FIELD WEAR",
     "price": "￥1,546",
+    "colors": [
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1230,6 +1823,9 @@
     "nameEn": "DIPPED GLOVES",
     "category": "FIELD WEAR",
     "price": "￥2,637",
+    "colors": [
+      "DTL"
+    ],
     "season": "FW"
   },
   {
@@ -1239,6 +1835,9 @@
     "nameEn": "DIPPED GLOVES W/ LINER",
     "category": "FIELD WEAR",
     "price": "￥3,273",
+    "colors": [
+      "DTL"
+    ],
     "season": "FW"
   },
   {
@@ -1248,6 +1847,9 @@
     "nameEn": "HEATED PAD FOR FANBLOW VEST",
     "category": "FIELD WEAR",
     "price": "￥7,091",
+    "colors": [
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -1257,6 +1859,9 @@
     "nameEn": "HEATED WAIST WARMER",
     "category": "FIELD WEAR",
     "price": "￥7,728",
+    "colors": [
+      "DGY"
+    ],
     "season": "FW"
   },
   {
@@ -1266,6 +1871,11 @@
     "nameEn": "LIGHT SHELL CYCLE JACKET",
     "category": "CYCLING",
     "price": "￥11,500",
+    "colors": [
+      "YL",
+      "LGY",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1275,6 +1885,10 @@
     "nameEn": "ZEO-LINE M.W. CYCLING UNDER T-SHIRT",
     "category": "CYCLING",
     "price": "￥3,546",
+    "colors": [
+      "NV",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1284,6 +1898,9 @@
     "nameEn": "WINDTECT CYCLING UNDER TIGHTS",
     "category": "CYCLING",
     "price": "￥6,273",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1293,6 +1910,10 @@
     "nameEn": "DRY TOP SUPER",
     "category": "PADDLE SPORTS",
     "price": "￥37,273",
+    "colors": [
+      "RD",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1302,6 +1923,10 @@
     "nameEn": "DRY SUIT SUPER",
     "category": "PADDLE SPORTS",
     "price": "￥89,091",
+    "colors": [
+      "RD",
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1311,6 +1936,10 @@
     "nameEn": "DRY SUIT",
     "category": "PADDLE SPORTS",
     "price": "￥71,819",
+    "colors": [
+      "RD",
+      "CN"
+    ],
     "season": "FW"
   },
   {
@@ -1320,6 +1949,9 @@
     "nameEn": "CLIMAPRENE PADDLE PORGIES",
     "category": "PADDLE SPORTS",
     "price": "￥4,364",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1329,6 +1961,10 @@
     "nameEn": "DOG WALKER WAIST BAG 3",
     "category": "DOG GEAR",
     "price": "￥5,728",
+    "colors": [
+      "BK",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1338,6 +1974,10 @@
     "nameEn": "DOG WALKER WAIST BAG 5",
     "category": "DOG GEAR",
     "price": "￥6,364",
+    "colors": [
+      "BK",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1347,6 +1987,12 @@
     "nameEn": "DOG CLIMAAIR VEST SMALL",
     "category": "DOG GEAR",
     "price": "￥4,455",
+    "colors": [
+      "IV",
+      "BK",
+      "RD",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1356,6 +2002,12 @@
     "nameEn": "DOG CLIMAAIR VEST LARGE",
     "category": "DOG GEAR",
     "price": "￥5,000",
+    "colors": [
+      "IV",
+      "BK",
+      "RD",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1365,6 +2017,10 @@
     "nameEn": "DOG LONG SLEEVE ROMPERS SMALL",
     "category": "DOG GEAR",
     "price": "￥4,364",
+    "colors": [
+      "CN",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1374,6 +2030,10 @@
     "nameEn": "DOG LONG SLEEVE ROMPERS LARGE",
     "category": "DOG GEAR",
     "price": "￥4,728",
+    "colors": [
+      "CN",
+      "YL"
+    ],
     "season": "FW"
   },
   {
@@ -1383,6 +2043,9 @@
     "nameEn": "WADING JACKET",
     "category": "FISHING",
     "price": "￥20,728",
+    "colors": [
+      "GY"
+    ],
     "season": "FW"
   },
   {
@@ -1392,6 +2055,9 @@
     "nameEn": "CLIMAPRENE FISHING SOCKS",
     "category": "FISHING",
     "price": "￥3,000",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1401,6 +2067,12 @@
     "nameEn": "DRYTEC DOWN FIBER PARKA KID'S 140-160",
     "category": "KIDS & BABY",
     "price": "￥14,273",
+    "colors": [
+      "BK",
+      "DNV",
+      "YL",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1410,6 +2082,12 @@
     "nameEn": "DRYTEC DOWN FIBER PARKA KID'S 100-130",
     "category": "KIDS & BABY",
     "price": "￥13,000",
+    "colors": [
+      "BK",
+      "DNV",
+      "YL",
+      "RAS"
+    ],
     "season": "FW"
   },
   {
@@ -1419,6 +2097,10 @@
     "nameEn": "REFLECTIVE LIGHT SHELL JACKET KID'S 140-160",
     "category": "KIDS & BABY",
     "price": "￥8,091",
+    "colors": [
+      "DGY",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1428,6 +2110,10 @@
     "nameEn": "REFLECTIVE LIGHT SHELL JACKET KID'S 100-130",
     "category": "KIDS & BABY",
     "price": "￥7,273",
+    "colors": [
+      "DGY",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1437,6 +2123,10 @@
     "nameEn": "REFLECTIVE WIND JACKET KID'S 140-160",
     "category": "KIDS & BABY",
     "price": "￥7,546",
+    "colors": [
+      "LGY",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1446,6 +2136,10 @@
     "nameEn": "REFLECTIVE WIND JACKET KID'S 100-130",
     "category": "KIDS & BABY",
     "price": "￥6,910",
+    "colors": [
+      "LGY",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1455,6 +2149,7 @@
     "nameEn": "CHAMEECE PRINT JACKET KID'S 140-160",
     "category": "KIDS & BABY",
     "price": "￥5,364",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -1464,6 +2159,7 @@
     "nameEn": "CHAMEECE PRINT JACKET KID'S 100-130",
     "category": "KIDS & BABY",
     "price": "￥5,091",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -1473,6 +2169,12 @@
     "nameEn": "CHAMEECE SWEATSHIRT KID'S 140-160",
     "category": "KIDS & BABY",
     "price": "￥3,000",
+    "colors": [
+      "BK",
+      "BL",
+      "IV",
+      "BRC"
+    ],
     "season": "FW"
   },
   {
@@ -1482,6 +2184,12 @@
     "nameEn": "CHAMEECE SWEATSHIRT KID'S 100-130",
     "category": "KIDS & BABY",
     "price": "￥2,728",
+    "colors": [
+      "BK",
+      "IV",
+      "BL",
+      "CPK"
+    ],
     "season": "FW"
   },
   {
@@ -1491,6 +2199,10 @@
     "nameEn": "COTTON SWEATSHIRT #8 KID'S 140-160",
     "category": "KIDS & BABY",
     "price": "￥4,500",
+    "colors": [
+      "IV",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1500,6 +2212,10 @@
     "nameEn": "COTTON SWEATSHIRT #8 KID'S 100-130",
     "category": "KIDS & BABY",
     "price": "￥4,000",
+    "colors": [
+      "IV",
+      "LBL"
+    ],
     "season": "FW"
   },
   {
@@ -1509,6 +2225,11 @@
     "nameEn": "WIC. LONG SLEEVE ROMPERS BABY'S YAMA NO KI 70-80",
     "category": "KIDS & BABY",
     "price": "￥3,364",
+    "colors": [
+      "BL",
+      "YL",
+      "IV"
+    ],
     "season": "FW"
   },
   {
@@ -1518,6 +2239,9 @@
     "nameEn": "WIC. LONG SLEEVE ROMPERS BABY'S MONTA BEAR FACE 70-80",
     "category": "KIDS & BABY",
     "price": "￥3,364",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1527,6 +2251,11 @@
     "nameEn": "WIC RAGLAN LONG SLEEVE T BABY'S YAMA TO TENT 80-90",
     "category": "KIDS & BABY",
     "price": "￥2,273",
+    "colors": [
+      "LBL",
+      "TN",
+      "PK"
+    ],
     "season": "FW"
   },
   {
@@ -1536,6 +2265,9 @@
     "nameEn": "WIC. LONG SLEEVE T B'S MONTA BEAR FACE 80-90",
     "category": "KIDS & BABY",
     "price": "￥2,273",
+    "colors": [
+      "BK"
+    ],
     "season": "FW"
   },
   {
@@ -1545,6 +2277,10 @@
     "nameEn": "COTTON LONG SLEEVE T BABY'S RAINBOW 80-90",
     "category": "KIDS & BABY",
     "price": "￥2,000",
+    "colors": [
+      "BL",
+      "CPK"
+    ],
     "season": "FW"
   },
   {
@@ -1554,6 +2290,10 @@
     "nameEn": "COTTON LONG SLEEVE T BABY'S FOREST ANIMALS 80-90",
     "category": "KIDS & BABY",
     "price": "￥2,000",
+    "colors": [
+      "LGY",
+      "GN"
+    ],
     "season": "FW"
   },
   {
@@ -1563,6 +2303,11 @@
     "nameEn": "REFLECTIVE CAP KID'S",
     "category": "KIDS & BABY",
     "price": "￥2,600",
+    "colors": [
+      "DGY",
+      "LBL",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1572,6 +2317,7 @@
     "nameEn": "CHAMEECE PRINT SNAP NECK GAITER",
     "category": "KIDS & BABY",
     "price": "￥2,091",
+    "colors": [],
     "season": "FW"
   },
   {
@@ -1581,6 +2327,10 @@
     "nameEn": "TRAIL ACTION BALACLAVA KID'S",
     "category": "KIDS & BABY",
     "price": "￥3,910",
+    "colors": [
+      "BK",
+      "LGY"
+    ],
     "season": "FW"
   },
   {
@@ -1590,6 +2340,12 @@
     "nameEn": "POWDER BOOTS KID'S 16-25",
     "category": "KIDS & BABY",
     "price": "￥7,637",
+    "colors": [
+      "NV",
+      "DGY",
+      "TN",
+      "LV"
+    ],
     "season": "FW"
   },
   {
@@ -1599,6 +2355,10 @@
     "nameEn": "POWDER BOOTS BABY'S 13-15",
     "category": "KIDS & BABY",
     "price": "￥7,182",
+    "colors": [
+      "NV",
+      "LV"
+    ],
     "season": "FW"
   },
   {
@@ -1608,6 +2368,10 @@
     "nameEn": "BABY CARRIER",
     "category": "KIDS & BABY",
     "price": "￥31,819",
+    "colors": [
+      "NV",
+      "OG"
+    ],
     "season": "FW"
   },
   {
@@ -1617,6 +2381,9 @@
     "nameEn": "POCKETABLE BABY CARRIER RAIN COVER",
     "category": "KIDS & BABY",
     "price": "￥3,000",
+    "colors": [
+      "NV"
+    ],
     "season": "FW"
   },
   {
@@ -1626,6 +2393,11 @@
     "nameEn": "POCKETABLE BABY CARRIER WARMER",
     "category": "KIDS & BABY",
     "price": "￥6,273",
+    "colors": [
+      "BK",
+      "DBN",
+      "NV"
+    ],
     "season": "FW"
   }
 ]
