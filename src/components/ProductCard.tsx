@@ -9,9 +9,10 @@ interface ProductCardProps {
   product: Product;
   imageId?: string;
   hidePrice?: boolean;
+  basePath?: string;
 }
 
-export default function ProductCard({ product, imageId, hidePrice = false }: ProductCardProps) {
+export default function ProductCard({ product, imageId, hidePrice = false, basePath = '/products' }: ProductCardProps) {
   // 優先使用 Montbell CDN (第一個顏色)，次選 Google Drive，最後用替代圖
   let imageUrl = '/no-image.svg';
 
@@ -22,7 +23,7 @@ export default function ProductCard({ product, imageId, hidePrice = false }: Pro
   }
 
   return (
-    <Link href={`/products/${product.id}`}>
+    <Link href={`${basePath}/${product.id}`}>
       <div className="cursor-pointer overflow-hidden border border-gray-200 rounded-[15px] hover:shadow-lg transition-shadow duration-300 bg-white">
         {/* 圖片區域 */}
         <div className="relative w-full bg-gray-100 overflow-hidden" style={{ aspectRatio: '1', borderRadius: '15px 15px 0 0' }}>

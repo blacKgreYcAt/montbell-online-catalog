@@ -140,6 +140,7 @@ function InternalProductsContent() {
             imageMapping={imageMapping}
             loading={loading}
             hidePrice={true}
+            basePath="/internal/products"
             emptyMessage={
               selectedCategory
                 ? `在 ${selectedCategory} 中找不到商品`

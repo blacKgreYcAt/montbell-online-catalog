@@ -188,6 +188,7 @@ export default function InternalProductDetailPage() {
             products={relatedProducts}
             imageMapping={imageMapping}
             hidePrice={true}
+            basePath="/internal/products"
           />
         </div>
       )}

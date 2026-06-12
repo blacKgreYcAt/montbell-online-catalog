@@ -9,6 +9,7 @@ interface ProductGridProps {
   loading?: boolean;
   emptyMessage?: string;
   hidePrice?: boolean;
+  basePath?: string;
 }
 
 export default function ProductGrid({
@@ -17,6 +18,7 @@ export default function ProductGrid({
   loading = false,
   emptyMessage = '找不到相符的商品',
   hidePrice = false,
+  basePath = '/products',
 }: ProductGridProps) {
   if (loading) {
     return (
@@ -58,6 +60,7 @@ export default function ProductGrid({
             product={product}
             imageId={imageId}
             hidePrice={hidePrice}
+            basePath={basePath}
           />
         );
       })}

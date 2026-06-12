@@ -146,6 +146,7 @@ function InternalSearchContent() {
               products={results.products}
               imageMapping={imageMapping}
               hidePrice={true}
+              basePath="/internal/products"
               emptyMessage="找不到相符的商品"
             />
           ) : (
