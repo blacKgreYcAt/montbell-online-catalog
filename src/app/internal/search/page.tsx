@@ -111,6 +111,10 @@ function InternalSearchContent() {
           initialValue={query}
           placeholder="搜尋商品型號或名稱..."
           basePath="/internal/search"
+          onSearch={(newQuery) => {
+            const params = new URLSearchParams({ q: newQuery });
+            router.push(`/internal/search?${params.toString()}`);
+          }}
         />
       </div>
 
