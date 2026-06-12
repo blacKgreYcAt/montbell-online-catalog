@@ -114,7 +114,8 @@ export default function InternalProductDetailPage() {
     console.log('Found ID:', imageId);
 
     if (imageId) {
-      imageUrl = getGoogleDriveImageUrl(imageId);
+      // 支援 Cloudinary URL 和 Google Drive ID
+      imageUrl = imageId.startsWith('http') ? imageId : getGoogleDriveImageUrl(imageId);
       console.log(`SUCCESS: 找到圖片: ${imageKey1} → ${imageId}`);
       console.log('Image URL:', imageUrl);
     } else {
