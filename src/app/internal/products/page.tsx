@@ -118,7 +118,14 @@ function InternalProductsContent() {
 
       {/* 搜尋欄 */}
       <div className="bg-white rounded-lg border border-gray-200 p-6">
-        <SearchBar placeholder="搜尋商品型號或名稱..." />
+        <SearchBar
+          placeholder="搜尋商品型號或名稱..."
+          basePath="/internal/search"
+          onSearch={(newQuery) => {
+            const params = new URLSearchParams({ q: newQuery });
+            router.push(`/internal/search?${params.toString()}`);
+          }}
+        />
       </div>
 
       {/* 分類導航 */}
