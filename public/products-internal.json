@@ -55,7 +55,8 @@
     "colors": [
       "BK",
       "IV",
-      "GY"
+      "GY",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -136,7 +137,8 @@
     "price": "￥10,910",
     "colors": [
       "BK",
-      "CN"
+      "CN",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -218,7 +220,8 @@
       "BK",
       "DTL",
       "RD",
-      "MST"
+      "MST",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -274,7 +277,8 @@
     "colors": [
       "BK",
       "DNV",
-      "BN"
+      "BN",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -412,7 +416,8 @@
     "colors": [
       "IV",
       "DGY",
-      "OG"
+      "OG",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -575,7 +580,8 @@
     "colors": [
       "#4",
       "#5",
-      "#6"
+      "#6",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -945,7 +951,8 @@
     "price": "￥22,000",
     "colors": [
       "BK",
-      "DGY"
+      "DGY",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -1258,7 +1265,8 @@
     "colors": [
       "LV",
       "LBL",
-      "BL"
+      "BL",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -1598,7 +1606,8 @@
     "weight": "219 g",
     "price": "￥5,591",
     "colors": [
-      "LGY"
+      "LGY",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -1623,7 +1632,8 @@
     "weight": "196 g",
     "price": "￥9,800",
     "colors": [
-      "LGY"
+      "LGY",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -1649,7 +1659,8 @@
     "price": "￥3,910",
     "colors": [
       "BK",
-      "LV"
+      "LV",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -2024,7 +2035,8 @@
       "BK",
       "TN",
       "DTL",
-      "RD"
+      "RD",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -2160,7 +2172,8 @@
     "price": "￥6,182",
     "colors": [
       "BK",
-      "OG"
+      "OG",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -2688,7 +2701,8 @@
     "weight": "503 g",
     "price": "￥24,546",
     "colors": [
-      "GY"
+      "GY",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -2880,7 +2894,8 @@
     "price": "￥22,546",
     "colors": [
       "BK",
-      "MST"
+      "MST",
+      "樣品"
     ],
     "season": "FW"
   },
@@ -4150,7 +4165,8 @@
     "price": "￥4,364",
     "colors": [
       "CN",
-      "YL"
+      "YL",
+      "樣品"
     ],
     "season": "FW"
   },
