@@ -8,19 +8,20 @@ import { join } from 'path';
 
 /**
  * 搜尋 API 路由
- * GET /api/search?q=query&category=category
+ * GET /api/search?q=query&category=category&scope=public|all
+ * scope: 'public' (預設) 或 'all' (需要認證)
  */
 export async function GET(request: NextRequest) {
   try {
     const searchParams = request.nextUrl.searchParams;
     const query = searchParams.get('q') || '';
     const category = searchParams.get('category') || '';
-    const isInternal = searchParams.get('internal') === 'true';
+    const scope = searchParams.get('scope') || 'public';
 
-    // 根據版本選擇產品文件
+    // 根據權限級別選擇產品文件
     let products: Product[] = [];
     try {
-      const fileName = isInternal ? 'products-internal.json' : 'products.json';
+      const fileName = scope === 'all' ? 'products-internal.json' : 'products.json';
       const filePath = join(process.cwd(), 'public', fileName);
       const fileContent = readFileSync(filePath, 'utf-8');
       const data = JSON.parse(fileContent);
@@ -37,7 +38,7 @@ export async function GET(request: NextRequest) {
         })
         .map(formatProduct);
 
-      console.log(`搜尋 API：成功載入 ${products.length} 件有效商品 (${isInternal ? '內部版' : '公開版'})`);
+      console.log(`搜尋 API：成功載入 ${products.length} 件有效商品 (${scope === 'all' ? '全部' : '公開版'})`);
     } catch (error) {
       console.error('讀取商品數據失敗:', error);
     }

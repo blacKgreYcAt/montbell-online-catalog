@@ -30,7 +30,7 @@ function SearchPageContent() {
 
         // 調用搜尋 API
         const response = await fetch(
-          `/api/search?${new URLSearchParams({ q: query })}`
+          `/api/search?${new URLSearchParams({ q: query, scope: 'public' })}`
         );
 
         if (!response.ok) {
