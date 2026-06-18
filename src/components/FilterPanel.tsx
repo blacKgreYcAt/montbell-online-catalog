@@ -1,7 +1,6 @@
 'use client';
 
 import { useCallback, useMemo } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
 import { Product } from '@/types';
 import { getCategories } from '@/lib/searchUtils';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
@@ -17,9 +16,6 @@ export default function FilterPanel({
   selectedCategory = '',
   onCategoryChange,
 }: FilterPanelProps) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
-
   const categories = useMemo(() => {
     const categoryMap = getCategories(products);
     return Array.from(categoryMap.entries()).sort((a, b) =>
@@ -31,17 +27,8 @@ export default function FilterPanel({
     (category: string) => {
       const newCategory = selectedCategory === category ? '' : category;
       onCategoryChange?.(newCategory);
-
-      // 更新 URL 參數
-      const params = new URLSearchParams(searchParams);
-      if (newCategory) {
-        params.set('category', newCategory);
-      } else {
-        params.delete('category');
-      }
-      router.push(`?${params.toString()}`);
     },
-    [selectedCategory, onCategoryChange, router, searchParams]
+    [selectedCategory, onCategoryChange]
   );
 
   const totalProducts = products.length;
