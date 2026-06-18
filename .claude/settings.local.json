@@ -210,7 +210,9 @@
       "Bash(bash /tmp/test_search.sh)",
       "Bash(xargs grep -l \"pageNumber\\\\|badge\")",
       "Bash(curl -s \"http://localhost:3000/api/search?q=1&scope=public\")",
-      "Bash(python3 -c \"import sys, json; data = json.load\\(sys.stdin\\); print\\('頁碼 1 的商品: %d 件' % data['data']['total']\\); print\\('前 3 個: %s' % [p['modelNumber'] for p in data['data']['products'][:3]]\\)\")"
+      "Bash(python3 -c \"import sys, json; data = json.load\\(sys.stdin\\); print\\('頁碼 1 的商品: %d 件' % data['data']['total']\\); print\\('前 3 個: %s' % [p['modelNumber'] for p in data['data']['products'][:3]]\\)\")",
+      "Bash(bash /tmp/test_filters.sh)",
+      "Bash(bash /tmp/test_search_complete.sh)"
     ]
   }
 }

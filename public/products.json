@@ -101,7 +101,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 1
   },
@@ -138,7 +138,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV",
     "pageNumber": 1
   },
@@ -501,7 +501,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BGY",
     "pageNumber": 3
   },
@@ -533,7 +533,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "YL",
     "pageNumber": 3
   },
@@ -1536,7 +1536,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "DBN",
     "pageNumber": 8
   },
@@ -1567,7 +1567,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "LGY",
     "pageNumber": 8
   },
@@ -1691,7 +1691,7 @@
       "GY"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "GY",
     "pageNumber": 9
   },
@@ -1720,7 +1720,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "WRD",
     "pageNumber": 9
   },
@@ -1868,7 +1868,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV",
     "pageNumber": 10
   },
@@ -1898,7 +1898,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "WRD",
     "pageNumber": 10
   },
@@ -2141,7 +2141,7 @@
       "DKNV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "DKNV",
     "pageNumber": 11
   },
@@ -2169,7 +2169,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 12
   },
@@ -2200,7 +2200,7 @@
       "LTSV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "DKNV",
     "pageNumber": 12
   },
@@ -2229,7 +2229,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 12
   },
@@ -2437,7 +2437,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 13
   },
@@ -2465,7 +2465,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 13
   },
@@ -2494,7 +2494,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV",
     "pageNumber": 13
   },
@@ -2523,7 +2523,7 @@
       "BL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 14
   },
@@ -2883,7 +2883,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 16
   },
@@ -2911,7 +2911,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 16
   },
@@ -2943,7 +2943,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "LGY",
     "pageNumber": 16
   },
@@ -2973,7 +2973,7 @@
       "LV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 16
   },
@@ -3365,7 +3365,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "TN",
     "pageNumber": 18
   },
@@ -3393,7 +3393,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 19
   },
@@ -3708,7 +3708,7 @@
       "KH"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "DGN",
     "pageNumber": 20
   },
@@ -3738,7 +3738,7 @@
       "KH"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "KH",
     "pageNumber": 21
   },
@@ -3767,7 +3767,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "RD",
     "pageNumber": 21
   },
@@ -3827,7 +3827,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "YL",
     "pageNumber": 21
   },
@@ -3855,7 +3855,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "KH",
     "pageNumber": 21
   },
@@ -3989,7 +3989,7 @@
       "GY"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "GY",
     "pageNumber": 22
   },
@@ -8222,7 +8222,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV      BL      BK      WRD",
     "pageNumber": 46
   },
@@ -8256,7 +8256,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "GY",
     "pageNumber": 46
   },
@@ -8733,7 +8733,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BGN",
     "pageNumber": 49
   },
@@ -8767,7 +8767,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV",
     "pageNumber": 49
   },
@@ -9154,7 +9154,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 51
   },
@@ -9186,7 +9186,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "IV",
     "pageNumber": 51
   },
@@ -11254,7 +11254,7 @@
       "#3"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "#1",
     "pageNumber": 63
   },
@@ -11568,7 +11568,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 65
   },
@@ -12056,7 +12056,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "YL",
     "pageNumber": 68
   },
@@ -12398,7 +12398,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 70
   },
@@ -13141,7 +13141,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "pageNumber": 75
   },
   {
@@ -13169,7 +13169,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BGN",
     "pageNumber": 75
   },
@@ -13717,7 +13717,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 78
   },
@@ -14003,7 +14003,7 @@
       "PK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "PK",
     "pageNumber": 80
   },
@@ -14033,7 +14033,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "IV",
     "pageNumber": 80
   },
@@ -14063,7 +14063,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "NV",
     "pageNumber": 80
   },
@@ -14095,7 +14095,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "NV      WRD",
     "pageNumber": 80
   },
@@ -14125,7 +14125,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "LGY",
     "pageNumber": 80
   },
@@ -14156,7 +14156,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "IV",
     "pageNumber": 81
   },
@@ -14274,7 +14274,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "DGN",
     "pageNumber": 81
   },
@@ -16175,7 +16175,7 @@
       "DGN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "pageNumber": 91
   },
   {
@@ -16217,7 +16217,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "NV",
     "pageNumber": 91
   },
@@ -16255,7 +16255,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "pageNumber": 91
   },
   {
@@ -16732,7 +16732,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "DGN",
     "pageNumber": 93
   },
@@ -16770,7 +16770,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "PK",
     "pageNumber": 93
   },
@@ -16807,7 +16807,7 @@
       "BL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BL",
     "pageNumber": 94
   },
@@ -16844,7 +16844,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "TN",
     "pageNumber": 94
   },
@@ -17723,7 +17723,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "GN",
     "pageNumber": 99
   },
@@ -18150,7 +18150,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 101
   },
@@ -18738,7 +18738,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "TN",
     "pageNumber": 105
   },
@@ -18765,7 +18765,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "TN",
     "pageNumber": 105
   },
@@ -18914,7 +18914,7 @@
       "IND"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "HCH",
     "pageNumber": 106
   },
@@ -18941,7 +18941,7 @@
       "CBL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BNSD",
     "pageNumber": 106
   },
@@ -18973,7 +18973,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BGN",
     "pageNumber": 106
   },
@@ -19003,7 +19003,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "TN",
     "pageNumber": 106
   },
@@ -19035,7 +19035,7 @@
       "SLBL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "HCH",
     "pageNumber": 106
   },
@@ -19065,7 +19065,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "pageNumber": 106
   },
   {
@@ -19153,7 +19153,7 @@
       "MST"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 107
   },
@@ -19183,7 +19183,7 @@
       "MST"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BL",
     "pageNumber": 107
   },
@@ -19780,7 +19780,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BGY",
     "pageNumber": 111
   },
@@ -20363,7 +20363,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BGN",
     "pageNumber": 114
   },
@@ -20399,7 +20399,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "YL",
     "pageNumber": 114
   },
@@ -20434,7 +20434,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "OG",
     "pageNumber": 114
   },
@@ -20469,7 +20469,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "OG",
     "pageNumber": 114
   },
@@ -20502,7 +20502,7 @@
       "WT"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "WT",
     "pageNumber": 114
   },
@@ -20537,7 +20537,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "RD",
     "pageNumber": 115
   },
@@ -20570,7 +20570,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "LGY",
     "pageNumber": 115
   },
@@ -20598,7 +20598,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 115
   },
@@ -20627,7 +20627,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 115
   },
@@ -20657,7 +20657,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "LGY",
     "pageNumber": 115
   },
@@ -21747,7 +21747,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK25",
     "pageNumber": 121
   },
@@ -21777,7 +21777,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "DGY      YL",
     "pageNumber": 121
   },
@@ -22727,7 +22727,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 126
   },
@@ -22758,7 +22758,7 @@
       "TQ"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "PK",
     "pageNumber": 126
   },
@@ -22790,7 +22790,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "OG",
     "pageNumber": 127
   },
@@ -22823,7 +22823,7 @@
       "TQ"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "TQ",
     "pageNumber": 127
   },
@@ -22851,7 +22851,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 127
   },
@@ -22880,7 +22880,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 127
   },
@@ -22909,7 +22909,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV",
     "pageNumber": 127
   },
@@ -22940,7 +22940,7 @@
       "TQ"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "PK",
     "pageNumber": 127
   },
@@ -22972,7 +22972,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV",
     "pageNumber": 128
   },
@@ -23004,7 +23004,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "NV      LGY",
     "pageNumber": 128
   },
@@ -23244,7 +23244,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "TN",
     "pageNumber": 129
   },
@@ -23279,7 +23279,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "DGN1",
     "pageNumber": 129
   },
@@ -23312,7 +23312,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "TN",
     "pageNumber": 129
   },
@@ -23341,7 +23341,7 @@
       "DGN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 130
   },
@@ -23371,7 +23371,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "NV",
     "pageNumber": 130
   },
@@ -23433,7 +23433,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "TN",
     "pageNumber": 130
   },
@@ -23465,7 +23465,7 @@
       "BN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BN",
     "pageNumber": 130
   },
@@ -23493,7 +23493,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "BK",
     "pageNumber": 130
   },
@@ -23744,7 +23744,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BGN",
     "pageNumber": 132
   },
@@ -23775,7 +23775,7 @@
       "WT"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BK",
     "pageNumber": 132
   },
@@ -25910,7 +25910,7 @@
       "WT"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "DKMA",
     "pageNumber": 147
   },
@@ -25960,7 +25960,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "KBN",
     "pageNumber": 147
   },
@@ -26223,7 +26223,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "DGN",
     "pageNumber": 149
   },
@@ -26249,7 +26249,7 @@
       "KBN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "KBN",
     "pageNumber": 149
   },
@@ -26445,7 +26445,7 @@
       "DGN"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "BL",
     "pageNumber": 150
   },
@@ -26757,7 +26757,7 @@
       "ICWT"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "活動款",
     "sampleColor": "GM",
     "pageNumber": 152
   },
@@ -34182,7 +34182,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "DGY",
     "pageNumber": 203
   },
@@ -34208,7 +34208,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "OG",
     "pageNumber": 204
   },
@@ -34234,7 +34234,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "IV",
     "pageNumber": 204
   },
@@ -34258,7 +34258,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "WRD",
     "pageNumber": 204
   },
@@ -34980,7 +34980,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": null,
+    "badge": "26FW",
     "sampleColor": "YL",
     "pageNumber": 207
   },
