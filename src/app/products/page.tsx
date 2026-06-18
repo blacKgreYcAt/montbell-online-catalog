@@ -5,7 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
-import { ProductGrid, FilterPanel, CategoryNav, SearchBar, ErrorBoundary, DeadlineGuard } from '@/components';
+import { ProductGrid, FilterPanel, SearchBar, ErrorBoundary, DeadlineGuard } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
 import { isAfterDeadline } from '@/lib/deadlineCheck';
@@ -98,11 +98,6 @@ function ProductsPageContent() {
       <div className="bg-white rounded-lg border border-gray-200 p-6">
         <SearchBar placeholder="搜尋商品型號或名稱..." />
       </div>
-
-      {/* 分類導航 */}
-      {products.length > 0 && (
-        <CategoryNav variant="horizontal" selectedCategory={selectedCategory} />
-      )}
 
       {/* 主內容區 */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
