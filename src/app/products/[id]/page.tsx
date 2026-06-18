@@ -156,7 +156,7 @@ export default function ProductDetailPage() {
               key={selectedColor}
               src={imageUrl}
               alt={product.name}
-              className="w-full h-full object-cover"
+              className="w-full h-full object-contain"
               onError={(e) => {
                 const img = e.target as HTMLImageElement;
                 // 圖片加載失敗時，顯示替代圖「暫無商品圖」
