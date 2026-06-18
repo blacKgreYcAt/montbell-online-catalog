@@ -71,7 +71,7 @@ export default function ProductCard({ product, imageId, hidePrice = false, baseP
             </p>
             {product.pageNumber && (
               <span className="inline-flex items-center gap-1 bg-[#c39d6f] text-white px-2 py-0.5 rounded text-xs font-bold shadow-sm">
-                📖 P.{product.pageNumber}
+                P.{product.pageNumber}
               </span>
             )}
           </div>

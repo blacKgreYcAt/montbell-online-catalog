@@ -240,7 +240,16 @@
       "Bash(curl -s \"http://localhost:3005/api/search?q=1128848&scope=public\")",
       "Bash(curl -s -m 2 \"http://localhost:3000/api/search?q=test\")",
       "Bash(curl -s \"http://localhost:3006/api/search?q=1128848&scope=public\")",
-      "Bash(curl -s \"http://localhost:3006/api/search?q=&category=THERMAL&scope=public\")"
+      "Bash(curl -s \"http://localhost:3006/api/search?q=&category=THERMAL&scope=public\")",
+      "Bash(curl -s \"http://localhost:3000/api/search?q=雨衣&scope=public\")",
+      "Bash(python3 -c \"import sys, json; data=json.load\\(sys.stdin\\); print\\(f' 結果: {data[\\\\\"data\\\\\"][\\\\\"total\\\\\"]} 件'\\)\")",
+      "Bash(curl -s \"http://localhost:3007/api/search?q=雨衣&scope=public\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(f'  {d[\\\\\"data\\\\\"][\\\\\"total\\\\\"]} 件'\\)\")",
+      "Bash(curl -s \"http://localhost:3007/api/search?q=&category=THERMAL&scope=public\")",
+      "Bash(curl -s \"http://localhost:3007/api/search?q=1128848&scope=public\")",
+      "Bash(curl -s \"http://localhost:3007/api/search?q=rain&scope=public\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(f'英文搜尋\\(rain\\): {d[\\\\\"data\\\\\"][\\\\\"total\\\\\"]} 件'\\)\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); p=d['data']['products'][0]; print\\(f'產品1128848: Badge={p.get\\(\\\\\"badge\\\\\"\\)}, Colors={p.get\\(\\\\\"colors\\\\\"\\)}, Sample={p.get\\(\\\\\"sampleColor\\\\\"\\)}, Page={p.get\\(\\\\\"pageNumber\\\\\"\\)}'\\)\")"
     ]
   }
 }
