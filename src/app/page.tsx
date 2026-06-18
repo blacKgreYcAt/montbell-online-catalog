@@ -1,12 +1,16 @@
 import Link from "next/link";
 import { BrandHero } from "@/components";
 import OrderDeadlineModal from "@/components/OrderDeadlineModal";
+import DeadlineWarning from "@/components/DeadlineWarning";
 
 export default function Home() {
   return (
     <>
       {/* 結單倒數提醒 */}
       <OrderDeadlineModal />
+
+      {/* 結單日期警告 */}
+      <DeadlineWarning />
 
       <div className="space-y-12">
         {/* 展示會提示 */}

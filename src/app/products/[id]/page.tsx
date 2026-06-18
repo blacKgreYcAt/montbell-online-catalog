@@ -1,12 +1,13 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useParams } from 'next/navigation';
+import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { getProductById, getRelatedProducts } from '@/lib/products';
 import { loadImageMapping, getGoogleDriveImageUrl, generateMonbellImageUrl } from '@/lib/imageUtils';
 import { preloadProductImages, getImageUrlWithCache } from '@/lib/imagePreloader';
 import { ProductGrid } from '@/components';
+import { isAfterDeadline } from '@/lib/deadlineCheck';
 import type { Product, ImageMapping } from '@/types';
 
 interface EnrichedProduct {
@@ -18,6 +19,7 @@ interface EnrichedProduct {
 
 export default function ProductDetailPage() {
   const params = useParams();
+  const router = useRouter();
   const productId = params?.id as string;
 
   const [product, setProduct] = useState<Product | null>(null);
@@ -27,6 +29,13 @@ export default function ProductDetailPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [selectedColor, setSelectedColor] = useState<string>('');
+
+  // 檢查是否超過結單日期
+  useEffect(() => {
+    if (isAfterDeadline()) {
+      router.replace('/closed');
+    }
+  }, [router]);
 
   // 載入商品詳情和相關商品
   useEffect(() => {

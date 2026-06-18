@@ -5,9 +5,10 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
-import { ProductGrid, FilterPanel, CategoryNav, SearchBar, ErrorBoundary } from '@/components';
+import { ProductGrid, FilterPanel, CategoryNav, SearchBar, ErrorBoundary, DeadlineGuard } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
 import { getCategoryLabel } from '@/lib/categoryTranslations';
+import { isAfterDeadline } from '@/lib/deadlineCheck';
 import type { Product, ImageMapping } from '@/types';
 
 function ProductsPageContent() {
@@ -21,6 +22,13 @@ function ProductsPageContent() {
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState(category);
   const [selectedMainCategory, setSelectedMainCategory] = useState(mainCategory);
+
+  // 檢查是否超過結單日期
+  useEffect(() => {
+    if (isAfterDeadline()) {
+      router.replace('/closed');
+    }
+  }, [router]);
 
   // 同步搜尋參數到狀態
   useEffect(() => {
