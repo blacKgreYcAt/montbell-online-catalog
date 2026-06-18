@@ -34303,7 +34303,9 @@
     ],
     "weight": "",
     "price": 14640,
-    "colors": [],
+    "colors": [
+      "RD"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 204
@@ -34326,7 +34328,9 @@
     ],
     "weight": "",
     "price": 12970,
-    "colors": [],
+    "colors": [
+      "OG"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 204
@@ -34349,7 +34353,10 @@
     ],
     "weight": "",
     "price": 10840,
-    "colors": [],
+    "colors": [
+      "BL",
+      "YL"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 205
@@ -34372,7 +34379,11 @@
     ],
     "weight": "",
     "price": 8730,
-    "colors": [],
+    "colors": [
+      "CN",
+      "GAR",
+      "KGN"
+    ],
     "season": "SS",
     "badge": null,
     "sampleColor": "CN",
@@ -34444,7 +34455,9 @@
     "sizes": [],
     "weight": "",
     "price": 10540,
-    "colors": [],
+    "colors": [
+      "OG"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 205
@@ -34464,7 +34477,9 @@
     "sizes": [],
     "weight": "",
     "price": 7180,
-    "colors": [],
+    "colors": [
+      "GAR"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 205
@@ -34484,7 +34499,9 @@
     "sizes": [],
     "weight": "",
     "price": 6300,
-    "colors": [],
+    "colors": [
+      "DTL"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 206
@@ -34504,7 +34521,9 @@
     "sizes": [],
     "weight": "",
     "price": 7030,
-    "colors": [],
+    "colors": [
+      "YGN"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 206
@@ -34524,7 +34543,9 @@
     "sizes": [],
     "weight": "",
     "price": 14060,
-    "colors": [],
+    "colors": [
+      "GAR"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 206
@@ -34544,7 +34565,9 @@
     "sizes": [],
     "weight": "",
     "price": 12590,
-    "colors": [],
+    "colors": [
+      "RAS"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 206
@@ -34564,7 +34587,9 @@
     "sizes": [],
     "weight": "",
     "price": 10540,
-    "colors": [],
+    "colors": [
+      "MST"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 206
@@ -34584,7 +34609,10 @@
     "sizes": [],
     "weight": "",
     "price": 8320,
-    "colors": [],
+    "colors": [
+      "OG",
+      "TQ"
+    ],
     "season": "SS",
     "badge": null,
     "pageNumber": 206
