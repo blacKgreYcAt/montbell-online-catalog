@@ -219,7 +219,18 @@
       "Bash(pkill -f \"next dev\")",
       "Bash(python3 -c \"import sys, json; data = json.load\\(sys.stdin\\); p = data['data']['products'][0]; print\\(f'Badge: {p.get\\(\\\\\"badge\\\\\", \\\\\"None\\\\\"\\)}'\\)\")",
       "Bash(tail -20 /tmp/dev_new.log 2>/dev/null || echo \"Log not available yet\")",
-      "Bash(cat /tmp/dev_new.log 2>/dev/null | tail -50 || echo \"Checking processes...\" *)"
+      "Bash(cat /tmp/dev_new.log 2>/dev/null | tail -50 || echo \"Checking processes...\" *)",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(rm -rf .next)",
+      "Bash(curl -s -m 5 \"http://localhost:3000/api/search?q=1128848&scope=public\")",
+      "Bash(tail -30 /tmp/dev_clean.log 2>/dev/null || echo \"Waiting for log...\")",
+      "Bash(curl -s \"http://localhost:3001/api/search?q=1128848&scope=public\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" \"http://localhost:3001/api/search?q=test\")",
+      "Bash(tee \"C:\\\\Users\\\\imaus\\\\Desktop\\\\api_test.json\")",
+      "Bash(taskkill /F /IM node.exe /T)",
+      "Bash(rm -rf .next node_modules/.cache)",
+      "Bash(npm run *)",
+      "Bash(curl -s \"http://localhost:3002/api/search?q=1128848&scope=public\")"
     ]
   }
 }

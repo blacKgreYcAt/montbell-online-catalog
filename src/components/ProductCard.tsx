@@ -48,9 +48,9 @@ export default function ProductCard({ product, imageId, hidePrice = false, baseP
             <div className={`absolute top-3 right-3 px-3 py-1 rounded-full text-xs font-bold text-white ${
               product.badge === '26FW'
                 ? 'bg-[#1a6fa0]'  // 26FW 新品用深藍
-                : product.badge === '新推購'
-                ? 'bg-[#d4644f]'  // 新推購用紅色
-                : 'bg-[#c39d6f]'  // 其他用金色
+                : product.badge === '27SS'
+                ? 'bg-[#1a6fa0]'  // 27SS 新品用深藍
+                : 'bg-[#d4644f]'  // 活動款用紅色
             }`}>
               {product.badge}
             </div>
