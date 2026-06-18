@@ -88,23 +88,40 @@ export default function ProductCard({ product, imageId, hidePrice = false, baseP
 
           {/* 顏色選項 */}
           {product.colors && product.colors.length > 0 && (
-            <div className="flex gap-2 pt-1">
-              {product.colors.slice(0, 4).map((color) => (
-                <div
-                  key={color}
-                  className="w-6 h-6 rounded-full border-2 border-[#004c6f] hover:border-[#c39d6f] transition-colors cursor-pointer"
-                  title={color}
-                  role="button"
-                  tabIndex={0}
-                  style={{
-                    backgroundColor: getColorCode(color),
-                  }}
-                />
-              ))}
-              {product.colors.length > 4 && (
-                <span className="text-xs text-gray-600 flex items-center font-semibold">
-                  +{product.colors.length - 4}
-                </span>
+            <div className="space-y-2 pt-1">
+              <div className="flex gap-2">
+                {product.colors.slice(0, 4).map((color) => (
+                  <div
+                    key={color}
+                    className="w-6 h-6 rounded-full border-2 border-[#004c6f] hover:border-[#c39d6f] transition-colors cursor-pointer"
+                    title={color}
+                    role="button"
+                    tabIndex={0}
+                    style={{
+                      backgroundColor: getColorCode(color),
+                    }}
+                  />
+                ))}
+                {product.colors.length > 4 && (
+                  <span className="text-xs text-gray-600 flex items-center font-semibold">
+                    +{product.colors.length - 4}
+                  </span>
+                )}
+              </div>
+
+              {/* 樣品顏色 */}
+              {product.sampleColor && (
+                <div className="flex items-center gap-2 text-xs">
+                  <span className="text-gray-600 font-semibold">樣品顏色:</span>
+                  <div
+                    className="w-5 h-5 rounded-full border-2 border-[#004c6f]"
+                    title={`樣品: ${product.sampleColor}`}
+                    style={{
+                      backgroundColor: getColorCode(product.sampleColor),
+                    }}
+                  />
+                  <span className="text-gray-700 font-semibold">{product.sampleColor}</span>
+                </div>
               )}
             </div>
           )}
