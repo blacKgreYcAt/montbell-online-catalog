@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useMemo, Suspense } from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { loadProductsBySeason } from '@/lib/products';
 import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
@@ -11,6 +11,7 @@ import { getCategoryLabel } from '@/lib/categoryTranslations';
 import type { Product, ImageMapping } from '@/types';
 
 function ProductsPageContent() {
+  const router = useRouter();
   const searchParams = useSearchParams();
   const category = searchParams.get('category') || '';
   const mainCategory = searchParams.get('main') || '';
@@ -67,6 +68,13 @@ function ProductsPageContent() {
   // 處理分類變更
   const handleCategoryChange = (newCategory: string) => {
     setSelectedCategory(newCategory);
+    const params = new URLSearchParams(searchParams);
+    if (newCategory) {
+      params.set('category', newCategory);
+    } else {
+      params.delete('category');
+    }
+    router.push(`?${params.toString()}`);
   };
 
   return (
