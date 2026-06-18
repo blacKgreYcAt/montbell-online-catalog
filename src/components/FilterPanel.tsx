@@ -25,8 +25,12 @@ export default function FilterPanel({
 
   const handleCategoryClick = useCallback(
     (category: string) => {
-      const newCategory = selectedCategory === category ? '' : category;
-      onCategoryChange?.(newCategory);
+      // 如果已選中該分類，則清除；否則選中該分類
+      if (selectedCategory === category) {
+        onCategoryChange?.('');
+      } else {
+        onCategoryChange?.(category);
+      }
     },
     [selectedCategory, onCategoryChange]
   );
