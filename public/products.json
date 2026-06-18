@@ -3365,7 +3365,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "TN",
     "pageNumber": 18
   },
@@ -3393,7 +3393,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 19
   },
@@ -3708,7 +3708,7 @@
       "KH"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "DGN",
     "pageNumber": 20
   },
@@ -3738,7 +3738,7 @@
       "KH"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "KH",
     "pageNumber": 21
   },
@@ -3767,7 +3767,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "RD",
     "pageNumber": 21
   },
@@ -3827,7 +3827,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "YL",
     "pageNumber": 21
   },
@@ -3855,7 +3855,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "KH",
     "pageNumber": 21
   },
@@ -3989,7 +3989,7 @@
       "GY"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "GY",
     "pageNumber": 22
   },
@@ -11254,7 +11254,7 @@
       "#3"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "#1",
     "pageNumber": 63
   },
@@ -11568,7 +11568,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 65
   },
@@ -12056,7 +12056,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "YL",
     "pageNumber": 68
   },
@@ -12398,7 +12398,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 70
   },
@@ -13141,7 +13141,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "pageNumber": 75
   },
   {
@@ -13169,7 +13169,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BGN",
     "pageNumber": 75
   },
@@ -13717,7 +13717,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 78
   },
@@ -14003,7 +14003,7 @@
       "PK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "PK",
     "pageNumber": 80
   },
@@ -14033,7 +14033,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "IV",
     "pageNumber": 80
   },
@@ -14063,7 +14063,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "NV",
     "pageNumber": 80
   },
@@ -14095,7 +14095,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "NV      WRD",
     "pageNumber": 80
   },
@@ -14125,7 +14125,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "LGY",
     "pageNumber": 80
   },
@@ -14156,7 +14156,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "IV",
     "pageNumber": 81
   },
@@ -14274,7 +14274,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "DGN",
     "pageNumber": 81
   },
@@ -16175,7 +16175,7 @@
       "DGN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "pageNumber": 91
   },
   {
@@ -16217,7 +16217,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "NV",
     "pageNumber": 91
   },
@@ -16255,7 +16255,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "pageNumber": 91
   },
   {
@@ -16732,7 +16732,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "DGN",
     "pageNumber": 93
   },
@@ -16770,7 +16770,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "PK",
     "pageNumber": 93
   },
@@ -16807,7 +16807,7 @@
       "BL"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BL",
     "pageNumber": 94
   },
@@ -16844,7 +16844,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "TN",
     "pageNumber": 94
   },
@@ -17723,7 +17723,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "GN",
     "pageNumber": 99
   },
@@ -18150,7 +18150,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 101
   },
@@ -18973,7 +18973,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BGN",
     "pageNumber": 106
   },
@@ -19003,7 +19003,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "TN",
     "pageNumber": 106
   },
@@ -19780,7 +19780,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BGY",
     "pageNumber": 111
   },
@@ -20363,7 +20363,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BGN",
     "pageNumber": 114
   },
@@ -20469,7 +20469,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "OG",
     "pageNumber": 114
   },
@@ -20502,7 +20502,7 @@
       "WT"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "WT",
     "pageNumber": 114
   },
@@ -20537,7 +20537,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "RD",
     "pageNumber": 115
   },
@@ -20570,7 +20570,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "LGY",
     "pageNumber": 115
   },
@@ -20598,7 +20598,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 115
   },
@@ -20627,7 +20627,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 115
   },
@@ -20657,7 +20657,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "LGY",
     "pageNumber": 115
   },
@@ -22727,7 +22727,7 @@
       "NV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 126
   },
@@ -22758,7 +22758,7 @@
       "TQ"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "PK",
     "pageNumber": 126
   },
@@ -22851,7 +22851,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 127
   },
@@ -22880,7 +22880,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 127
   },
@@ -23244,7 +23244,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "TN",
     "pageNumber": 129
   },
@@ -23279,7 +23279,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "DGN1",
     "pageNumber": 129
   },
@@ -23312,7 +23312,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "TN",
     "pageNumber": 129
   },
@@ -23341,7 +23341,7 @@
       "DGN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 130
   },
@@ -23371,7 +23371,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "NV",
     "pageNumber": 130
   },
@@ -23433,7 +23433,7 @@
       "TN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "TN",
     "pageNumber": 130
   },
@@ -23465,7 +23465,7 @@
       "BN"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BN",
     "pageNumber": 130
   },
@@ -23493,7 +23493,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "BK",
     "pageNumber": 130
   },
@@ -34182,7 +34182,7 @@
       "IV"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "DGY",
     "pageNumber": 203
   },
@@ -34208,7 +34208,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "OG",
     "pageNumber": 204
   },
@@ -34234,7 +34234,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "IV",
     "pageNumber": 204
   },
@@ -34258,7 +34258,7 @@
       "WRD"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "WRD",
     "pageNumber": 204
   },
@@ -34980,7 +34980,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": "26FW",
+    "badge": null,
     "sampleColor": "YL",
     "pageNumber": 207
   },
