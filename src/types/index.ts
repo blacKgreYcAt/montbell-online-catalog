@@ -18,6 +18,7 @@ export interface Product {
   weight?: string;
   colors?: string[];
   sizes?: string[];
+  sampleColor?: string;
   images?: {
     [color: string]: string;
   };
