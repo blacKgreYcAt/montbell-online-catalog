@@ -249,7 +249,24 @@
       "Bash(curl -s \"http://localhost:3007/api/search?q=1128848&scope=public\")",
       "Bash(curl -s \"http://localhost:3007/api/search?q=rain&scope=public\")",
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(f'英文搜尋\\(rain\\): {d[\\\\\"data\\\\\"][\\\\\"total\\\\\"]} 件'\\)\")",
-      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); p=d['data']['products'][0]; print\\(f'產品1128848: Badge={p.get\\(\\\\\"badge\\\\\"\\)}, Colors={p.get\\(\\\\\"colors\\\\\"\\)}, Sample={p.get\\(\\\\\"sampleColor\\\\\"\\)}, Page={p.get\\(\\\\\"pageNumber\\\\\"\\)}'\\)\")"
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); p=d['data']['products'][0]; print\\(f'產品1128848: Badge={p.get\\(\\\\\"badge\\\\\"\\)}, Colors={p.get\\(\\\\\"colors\\\\\"\\)}, Sample={p.get\\(\\\\\"sampleColor\\\\\"\\)}, Page={p.get\\(\\\\\"pageNumber\\\\\"\\)}'\\)\")",
+      "Bash(curl -s \"http://localhost:3007/api/search?q=&category=BAG&scope=public\")",
+      "Bash(curl -s \"http://localhost:3000/api/search?q=&category=BAG&scope=public\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(f' BAG 分類: {d[\\\\\"data\\\\\"][\\\\\"total\\\\\"]} 件'\\)\")",
+      "Bash(curl -s \"http://localhost:3009/api/search?q=1128848&scope=public\")",
+      "Bash(curl -s -w \"\\\\nHTTP Status: %{http_code}\\\\n\" \"http://localhost:3009/api/search?q=test\")",
+      "PowerShell(Get-Process node -ErrorAction SilentlyContinue | Select-Object ProcessName, Id, @{Name='Port'; Expression={'checking...'}} | Format-Table -AutoSize)",
+      "PowerShell(Start-Sleep -Seconds 8; $response = $null; try { $response = Invoke-RestMethod -Uri \"http://localhost:3000/api/search?q=1106823\" -TimeoutSec 5 } catch { \"API not yet ready\" }; if \\($response\\) { $product = $response.data.products[0]; if \\($product\\) { @{id=$product.id; model=$product.modelNumber; badge=$product.badge; pageNumber=$product.pageNumber; sampleColor=$product.sampleColor} | ConvertTo-Json } })",
+      "Bash(curl -s http://localhost:3000/products/p-1106823)",
+      "Bash(curl -s \"http://localhost:3000/products\")",
+      "Bash(curl -s \"http://localhost:3000/api/search?q=1128848\")",
+      "Bash(curl -s \"http://localhost:3000/api/products\")",
+      "Bash(awk '{print $NF}')",
+      "Bash(ls -la \"C:\\\\Users\\\\imaus\\\\Desktop\\\\20260602 MB 展示會素材\\\\27FW線上目錄用電繪圖\" 2>/dev/null | head -30)",
+      "Bash(node upload-vector-images-12.js)",
+      "Bash(gh deployment *)",
+      "Bash(Start-Sleep -Seconds 10)",
+      "Bash(Write-Output \"部署等待完成，继续验证...\")"
     ]
   }
 }

@@ -117,19 +117,21 @@ export default function ProductDetailPage() {
     );
   }
 
-  // 獲取選中顏色的圖片 (優先使用快取，然後 Montbell CDN)
+  // 獲取選中顏色的圖片 (優先使用 Cloudinary，次選 Montbell CDN)
   const currentColor = selectedColor || product?.colors?.[0] || '';
   let imageUrl = '/no-image.svg';
 
   if (currentColor) {
-    // 優先使用快取，提升響應速度
-    imageUrl = getImageUrlWithCache(product.modelNumber, currentColor);
-  } else if (product?.colors?.[0]) {
-    // 次選：Google Drive 備份
-    const imageKey = `k_${product.modelNumber}_${product.colors[0].toLowerCase().substring(0, 2)}`;
-    const imageId = imageMapping[imageKey];
-    if (imageId) {
-      imageUrl = getGoogleDriveImageUrl(imageId);
+    // 優先嘗試 Cloudinary imageMapping
+    const imageKey = `k_${product.modelNumber}_${currentColor.toLowerCase()}`;
+    const cloudinaryUrl = imageMapping[imageKey];
+
+    if (cloudinaryUrl && cloudinaryUrl.startsWith('http')) {
+      // Cloudinary URL 優先
+      imageUrl = cloudinaryUrl;
+    } else {
+      // 次選：Montbell CDN 快取
+      imageUrl = getImageUrlWithCache(product.modelNumber, currentColor);
     }
   }
   // 如果沒有顏色，直接使用 no-image.svg

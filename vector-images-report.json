@@ -1,0 +1,6551 @@
+{
+  "summary": {
+    "totalVectorImages": 795,
+    "shouldUse": 12,
+    "shouldSkip": 381,
+    "noVectorImages": 73
+  },
+  "shouldUse": [
+    {
+      "modelNumber": "1121826",
+      "productName": "DOWN HUGGER 800 #0",
+      "category": "SLEEPING BAG",
+      "price": 14640,
+      "vectorColors": [
+        "RD"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121827",
+      "productName": "DOWN HUGGER 800 #1",
+      "category": "SLEEPING BAG",
+      "price": 12970,
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121828",
+      "productName": "DOWN HUGGER 800 #2",
+      "category": "SLEEPING BAG",
+      "price": 10840,
+      "vectorColors": [
+        "BL",
+        "YL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121829",
+      "productName": "DOWN HUGGER 800 #3",
+      "category": "SLEEPING BAG",
+      "price": 8730,
+      "vectorColors": [
+        "CN",
+        "GAR",
+        "KGN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1121839",
+      "productName": "DOWN HUGGER 800 THERMAL SHEET",
+      "category": "SLEEPING BAG",
+      "price": 7030,
+      "vectorColors": [
+        "YGN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121840",
+      "productName": "DOWN HUGGER 800 WOMEN'S #0",
+      "category": "SLEEPING BAG",
+      "price": 14060,
+      "vectorColors": [
+        "GAR"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121841",
+      "productName": "DOWN HUGGER 800 WOMEN'S #1",
+      "category": "SLEEPING BAG",
+      "price": 12590,
+      "vectorColors": [
+        "RAS"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121842",
+      "productName": "DOWN HUGGER 800 WOMEN'S #2",
+      "category": "SLEEPING BAG",
+      "price": 10540,
+      "vectorColors": [
+        "MST"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121843",
+      "productName": "DOWN HUGGER 800 WOMEN'S #3",
+      "category": "SLEEPING BAG",
+      "price": 8320,
+      "vectorColors": [
+        "OG",
+        "TQ"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121845",
+      "productName": "DOWN HUGGER 800 HALF LENGTH #1",
+      "category": "SLEEPING BAG",
+      "price": 10540,
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121846",
+      "productName": "DOWN HUGGER 800 HALF LENGTH #3",
+      "category": "SLEEPING BAG",
+      "price": 7180,
+      "vectorColors": [
+        "GAR"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121847",
+      "productName": "DOWN HUGGER 800 HALF LENGTH #5",
+      "category": "SLEEPING BAG",
+      "price": 6300,
+      "vectorColors": [
+        "DTL"
+      ],
+      "vectorFileCount": 1
+    }
+  ],
+  "shouldSkip": [
+    {
+      "modelNumber": "1101493",
+      "productName": "PLASMA 1000 DOWN JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "LTSV",
+        "OG"
+      ],
+      "vectorColors": [
+        "BGN",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101529",
+      "productName": "PLASMA 1000 DOWN JACKET WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "DKNV",
+        "WT",
+        "YL"
+      ],
+      "vectorColors": [
+        "YL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101530",
+      "productName": "PLASMA 1000 DOWN VEST MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK"
+      ],
+      "vectorColors": [
+        "BGN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101539",
+      "productName": "U.L. THERMAWRAP JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "LGY",
+        "NV",
+        "OG24"
+      ],
+      "vectorColors": [
+        "LGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101578",
+      "productName": "PLASMA 1000 ALPINE DOWN PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "DKNV",
+        "WT",
+        "YL"
+      ],
+      "vectorColors": [
+        "WT",
+        "YL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101597",
+      "productName": "U.L. THERMAWRAP PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "LGY24",
+        "NV",
+        "YL"
+      ],
+      "vectorColors": [
+        "NV",
+        "YL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101598",
+      "productName": "U.L. THERMAWRAP JACKET WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "NV1",
+        "YL"
+      ],
+      "vectorColors": [
+        "YL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101599",
+      "productName": "U.L. THERMAWRAP VEST WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "LGY24",
+        "NV1"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101659",
+      "productName": "SUPERIOR DOWN PARKA MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "CN",
+        "GY",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGN",
+        "CN",
+        "GY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101660",
+      "productName": "SUPERIOR DOWN PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "IV",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "LV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101661",
+      "productName": "SUPERIOR DOWN JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "DGN",
+        "GY",
+        "OG"
+      ],
+      "vectorColors": [
+        "GY",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101662",
+      "productName": "SUPERIOR DOWN JACKET WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "IV",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "LV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101666",
+      "productName": "SUPERIOR DOWN ROUND NECK JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "BN",
+        "DGN",
+        "LGY",
+        "TN25"
+      ],
+      "vectorColors": [
+        "BN",
+        "LGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101673",
+      "productName": "NEIGE DOWN PARKA MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "BL",
+        "NV",
+        "TN",
+        "WRD"
+      ],
+      "vectorColors": [
+        "TN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101674",
+      "productName": "NEIGE DOWN PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "GY",
+        "LGY",
+        "RD"
+      ],
+      "vectorColors": [
+        "RD"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101684",
+      "productName": "SUPERIOR DOWN TRAVEL COAT WOMEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK",
+        "DNV",
+        "IV",
+        "KH"
+      ],
+      "vectorColors": [
+        "DKNV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101686",
+      "productName": "EX LIGHT THERMAWRAP PARKA MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "GN",
+        "LGN",
+        "YL"
+      ],
+      "vectorColors": [
+        "YL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101687",
+      "productName": "EX LIGHT THERMAWRAP PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN1",
+        "BK",
+        "RD"
+      ],
+      "vectorColors": [
+        "BK",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101688",
+      "productName": "EX LIGHT THERMAWRAP JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "LGN",
+        "PU",
+        "RD"
+      ],
+      "vectorColors": [
+        "PU",
+        "RD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101689",
+      "productName": "EX LIGHT THERMAWRAP JACKET WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN1",
+        "BK",
+        "RD"
+      ],
+      "vectorColors": [
+        "BK",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101691",
+      "productName": "EX LIGHT THERMAWRAP VEST WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101693",
+      "productName": "U.L. THERMAWRAP ROUND NECK VEST WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "GY",
+        "NV1"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101709",
+      "productName": "ALPINE DOWN PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "IV",
+        "NV",
+        "TQ"
+      ],
+      "vectorColors": [
+        "TQ"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101713",
+      "productName": "PERMAFROST LIGHT DOWN PARKA MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "DGN",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "RD"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101714",
+      "productName": "PERMAFROST LIGHT DOWN PARKA WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "CN",
+        "DBN",
+        "IV",
+        "NV"
+      ],
+      "vectorColors": [
+        "CN",
+        "IV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101727",
+      "productName": "EX LIGHT THERMAWRAP V-NECK JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "LGN"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101728",
+      "productName": "EX LIGHT THERMAWRAP ROUND NECK JACKET WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101729",
+      "productName": "NEIGE DOWN JACKET MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1101730",
+      "productName": "NEIGE DOWN JACKET WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "GY",
+        "LGY",
+        "RD"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY",
+        "LGY",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1101731",
+      "productName": "NEIGE DOWN VEST MEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "DGN",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGN",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101732",
+      "productName": "NEIGE DOWN VEST WOMEN'S",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "GY",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101733",
+      "productName": "SUPERIOR DOWN 3/4 SLEEVE T",
+      "category": "INSULATION",
+      "existingColors": [
+        "DGY",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "RD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101734",
+      "productName": "U.L. THERMAWRAP ROUND NECK 3/4 SLEEVE T",
+      "category": "INSULATION",
+      "existingColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101735",
+      "productName": "COLORADO PARKA MEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK",
+        "DGN1",
+        "IV",
+        "KH",
+        "WRD"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "KH",
+        "WRD"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1101736",
+      "productName": "COLORADO PARKA WOMEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "DGY",
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGY",
+        "NV",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101737",
+      "productName": "COLORADO VEST MEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK",
+        "DGN"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101738",
+      "productName": "COLORADO VEST WOMEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "NV",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101739",
+      "productName": "COLORADO COAT MEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101740",
+      "productName": "CORTINA DOWN HALF-LENGTH COAT WOMEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK",
+        "BN"
+      ],
+      "vectorColors": [
+        "BK",
+        "BN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101741",
+      "productName": "CORTINA DOWN COAT WOMEN'S",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101742",
+      "productName": "DOWN LINER COAT",
+      "category": "TRAVEL & COUNTRY",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1101745",
+      "productName": "COLORADO PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "DGN",
+        "DGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "DGN",
+        "DGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101746",
+      "productName": "COLORADO PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "PU"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "PU"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101747",
+      "productName": "TRAVEL PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "IV"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "IV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101748",
+      "productName": "TRAVEL PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "WRD"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "WRD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101749",
+      "productName": "HUSKY DOWN COAT KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101750",
+      "productName": "HUSKY DOWN COAT KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101751",
+      "productName": "REVERSIBLE PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "NV",
+        "NV1",
+        "RD"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1101752",
+      "productName": "REVERSIBLE PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "BL",
+        "PU",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "BL",
+        "PU",
+        "TN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1101753",
+      "productName": "THERMAWRAP WARM PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "TQ",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "TQ",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101754",
+      "productName": "THERMAWRAP WARM PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "GN",
+        "PK"
+      ],
+      "vectorColors": [
+        "BL",
+        "GN",
+        "PK"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101756",
+      "productName": "NEIGE PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LGY",
+        "LV",
+        "NV",
+        "WRD",
+        "YL"
+      ],
+      "vectorColors": [
+        "LGY",
+        "LV",
+        "NV",
+        "WRD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1101757",
+      "productName": "NEIGE PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LGN",
+        "LV",
+        "NV",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "LGN",
+        "LV",
+        "NV",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1101759",
+      "productName": "NEIGE VEST KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101760",
+      "productName": "NEIGE VEST KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101761",
+      "productName": "THERMAWRAP PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BGN",
+        "GN",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGN",
+        "GN",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101762",
+      "productName": "THERMAWRAP PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "NV",
+        "NV1"
+      ],
+      "vectorColors": [
+        "BL",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101764",
+      "productName": "THERMALAND HOODED VEST KID'S140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "IV",
+        "NV"
+      ],
+      "vectorColors": [
+        "IV",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101765",
+      "productName": "THERMALAND HOODED VEST KID'S100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "IV"
+      ],
+      "vectorColors": [
+        "BL",
+        "IV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1101768",
+      "productName": "THERMALAND PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "GN",
+        "LBL",
+        "NV"
+      ],
+      "vectorColors": [
+        "GN",
+        "LBL",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1101769",
+      "productName": "THERMALAND PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "GN",
+        "PK"
+      ],
+      "vectorColors": [
+        "BL",
+        "GN",
+        "PK"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102599",
+      "productName": "FALL LINE 3IN1 DOWN PARKA MEN'S",
+      "category": "ALPINE CLOTHING",
+      "existingColors": [
+        "DBN",
+        "DGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "DBN",
+        "DGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102600",
+      "productName": "FALL LINE 3IN1 DOWN PARKA WOMEN'S",
+      "category": "ALPINE CLOTHING",
+      "existingColors": [
+        "DBN",
+        "GY",
+        "LGY"
+      ],
+      "vectorColors": [
+        "DBN",
+        "GY",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102601",
+      "productName": "FALL LINE 3IN1 PARKA MEN'S",
+      "category": "ALPINE CLOTHING",
+      "existingColors": [
+        "BGN",
+        "GY",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGN",
+        "GY",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102602",
+      "productName": "FALL LINE 3IN1 PARKA WOMEN'S",
+      "category": "ALPINE CLOTHING",
+      "existingColors": [
+        "NV",
+        "RD",
+        "TQ"
+      ],
+      "vectorColors": [
+        "NV",
+        "RD",
+        "TQ"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102611",
+      "productName": "POWDER STEP PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "LBL",
+        "LV"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "LBL",
+        "LV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1102612",
+      "productName": "POWDER STEP PARKA KID'S 110-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "GN",
+        "IV",
+        "LBL"
+      ],
+      "vectorColors": [
+        "BL",
+        "GN",
+        "IV",
+        "LBL"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1102613",
+      "productName": "POWDER STEP PANTS KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102614",
+      "productName": "POWDER STEP PANTS KID'S 110-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1102615",
+      "productName": "POWDER LIGHT PARKA KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "IV",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1102616",
+      "productName": "POWDER LIGHT PARKA KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "BL",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "BL",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1102617",
+      "productName": "POWDER LIGHT PANTS KID'S 140-160",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "LGY",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1102618",
+      "productName": "POWDER LIGHT PANTS KID'S 100-130",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "LGY",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1103389",
+      "productName": "NATURE GUIDE VEST",
+      "category": "VEST",
+      "existingColors": [
+        "DGN",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGN",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105762",
+      "productName": "ALPINE THERMAL EASY-FIT PANTS KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "DTL"
+      ],
+      "vectorColors": [
+        "DTL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1105763",
+      "productName": "ALPINE THERMAL EASY-FIT PANTS KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "DTL"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1105809",
+      "productName": "O.D. PANTS W/ BELT LOOPS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "DGY",
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGY",
+        "NV",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105810",
+      "productName": "O.D. PANTS W/ BELT LOOPS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105811",
+      "productName": "O.D. THERMAL PANTS W/BELT LOOPS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "DBN",
+        "DGY",
+        "TN"
+      ],
+      "vectorColors": [
+        "DBN",
+        "DGY",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105812",
+      "productName": "O.D. THERMAL PANTS W/BELT LOOPS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105813",
+      "productName": "O.D. INSULATED PANTS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BK",
+        "DGN"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105814",
+      "productName": "O.D. INSULATED PANTS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BK",
+        "DBN",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "DBN",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105815",
+      "productName": "O.D. INSULATED PANTS W/ BELT LOOPS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "DGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "DGY",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105817",
+      "productName": "O.D. LINED PANTS W/ BELT LOOPS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "DGY",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGY",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105818",
+      "productName": "O.D. LINED PANTS W/ BELT LOOPS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "NV",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105819",
+      "productName": "GUIDE THERMAL PANTS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BGN",
+        "DGY",
+        "KH"
+      ],
+      "vectorColors": [
+        "BGN",
+        "DGY",
+        "KH"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105820",
+      "productName": "GUIDE THERMAL PANTS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "DGY",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGY",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105821",
+      "productName": "CLIFF THERMAL PANTS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BK",
+        "OG",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "OG",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105822",
+      "productName": "CLIFF THERMAL PANTS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105825",
+      "productName": "SUNNY SIDE THERMAL PANTS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BK",
+        "BL"
+      ],
+      "vectorColors": [
+        "BK",
+        "BL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105826",
+      "productName": "SUNNY SIDE THERMAL PANTS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "DGY",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGY",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1105827",
+      "productName": "SUNNY SIDE PANTS MEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "BL",
+        "DGN",
+        "TN"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGN",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105828",
+      "productName": "SUNNY SIDE PANTS WOMEN'S",
+      "category": "PANTS",
+      "existingColors": [
+        "NV",
+        "PK",
+        "TN"
+      ],
+      "vectorColors": [
+        "NV",
+        "PK",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1105830",
+      "productName": "LIGHT SHELL PANTS MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1105831",
+      "productName": "LIGHT SHELL PANTS WOMEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106581",
+      "productName": "CLIMAPLUS 200 JACKET WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "DBN",
+        "GY",
+        "OTML"
+      ],
+      "vectorColors": [
+        "DBN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106690",
+      "productName": "CLIMAAIR JACKET MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BGY",
+        "BK",
+        "DKNV",
+        "IV",
+        "OG",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGY",
+        "IV",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106691",
+      "productName": "CLIMAAIR JACKET WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "DKNV",
+        "GY",
+        "IV1",
+        "RD"
+      ],
+      "vectorColors": [
+        "RD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106692",
+      "productName": "CLIMAAIR VEST MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "DBN",
+        "IV"
+      ],
+      "vectorColors": [
+        "IV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106693",
+      "productName": "CLIMAAIR VEST WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "DKNV",
+        "GY",
+        "IV1"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106708",
+      "productName": "CLIMAPRO 200 HOODED JACKET MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK24",
+        "GY",
+        "MST",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "MST",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106709",
+      "productName": "CLIMAPRO 200 HOODED JACKET WOMEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK",
+        "DTL",
+        "LGY",
+        "LYL"
+      ],
+      "vectorColors": [
+        "DTL",
+        "LYL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106710",
+      "productName": "CLIMAPRO 200 JACKET MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "DGY",
+        "GAR",
+        "MST",
+        "NV"
+      ],
+      "vectorColors": [
+        "GAR",
+        "MST",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106711",
+      "productName": "CLIMAPRO 200 JACKET WOMEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK",
+        "DTL",
+        "LYL"
+      ],
+      "vectorColors": [
+        "DTL",
+        "LYL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106733",
+      "productName": "TRAIL ACTION HOODED JACKET MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "GN",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106734",
+      "productName": "TRAIL ACTION HOODED JACKET WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "LGY",
+        "NV",
+        "PU",
+        "RD"
+      ],
+      "vectorColors": [
+        "PU",
+        "RD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106753",
+      "productName": "CLIMAPLUS 100 LITE SWEATSHIRT MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "DGN",
+        "DNV",
+        "IV",
+        "OG",
+        "PU"
+      ],
+      "vectorColors": [
+        "DGN",
+        "DNV",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106792",
+      "productName": "CLIMAAIR REVERSIBLE JACKET MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "DBN",
+        "DTL"
+      ],
+      "vectorColors": [
+        "DTL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106793",
+      "productName": "CLIMAGRID HOODED JACKET MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "DTL",
+        "OG",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGN",
+        "DTL",
+        "OG",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1106794",
+      "productName": "CLIMAGRID HOODED JACKET WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "DGY",
+        "IV",
+        "OG"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106795",
+      "productName": "CLIMAGRID JACKET MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BGY",
+        "BK",
+        "DTL",
+        "GN1",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGY",
+        "DTL",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1106796",
+      "productName": "CLIMAGRID JACKET WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "OG"
+      ],
+      "vectorColors": [
+        "IV",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106817",
+      "productName": "LIGHT SHELL HOODED JACKET MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "DGN",
+        "TN",
+        "YL"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "DGN",
+        "TN",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1106818",
+      "productName": "LIGHT SHELL HOODED JACKET WOMEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BGN",
+        "LGY",
+        "NV",
+        "OG",
+        "TN"
+      ],
+      "vectorColors": [
+        "BGN",
+        "LGY",
+        "NV",
+        "OG",
+        "TN"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1106819",
+      "productName": "LIGHT SHELL OUTER JACKET MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "NV",
+        "RD",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "NV",
+        "RD",
+        "TN"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1106820",
+      "productName": "LIGHT SHELL OUTER JACKET WOMEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "LGY",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "LGY",
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106821",
+      "productName": "LIGHT SHELL JACKET MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "LGY",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "LGY",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1106822",
+      "productName": "LIGHT SHELL JACKET WOMEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "OG",
+        "WT"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "OG",
+        "WT"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1106823",
+      "productName": "LIGHT SHELL VEST MEN'S",
+      "category": "VEST",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "OG"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106824",
+      "productName": "LIGHT SHELL VEST WOMEN'S",
+      "category": "VEST",
+      "existingColors": [
+        "BK",
+        "WT"
+      ],
+      "vectorColors": [
+        "BK",
+        "WT"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106825",
+      "productName": "LIGHT SHELL T",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BK",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106826",
+      "productName": "LIGHT SHELL 3IN1 JACKET MEN'S",
+      "category": "SOFT SHELL",
+      "existingColors": [
+        "BGN",
+        "BK"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106828",
+      "productName": "THERMO-UP LONG SLEEVE T-SHIRT MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "GN",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "BK",
+        "GN",
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1106829",
+      "productName": "THERMO-UP LONG SLEEVE T-SHIRT WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "PK",
+        "TQ"
+      ],
+      "vectorColors": [
+        "BK",
+        "PK",
+        "TQ"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106830",
+      "productName": "THERMO-UP VEST MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106831",
+      "productName": "THERMO-UP VEST WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "PK",
+        "TQ"
+      ],
+      "vectorColors": [
+        "BK",
+        "PK",
+        "TQ"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106832",
+      "productName": "THERMO-UP CARDIGAN MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1106833",
+      "productName": "THERMO-UP CARDIGAN WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK",
+        "PK",
+        "TQ"
+      ],
+      "vectorColors": [
+        "BK",
+        "PK",
+        "TQ"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1106834",
+      "productName": "THERMO-UP TIGHTS MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1106835",
+      "productName": "THERMO-UP TIGHTS WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107655",
+      "productName": "SUPER MERINO WOOL MIDDLE WEIGHT ROUND NECK SHIRT WOMEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "IV"
+      ],
+      "vectorColors": [
+        "IV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107705",
+      "productName": "ZEO-LINE MIDDLE WEIGHT ROUND NECK SHIRT WOMEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "LV"
+      ],
+      "vectorColors": [
+        "DGN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107710",
+      "productName": "ZEO-LINE MIDDLE WEIGHT TIGHTS WOMEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "LV"
+      ],
+      "vectorColors": [
+        "DGN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107823",
+      "productName": "SUPER MERINO WOOL LIGHT WEIGHT TRUNKS MEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorColors": [
+        "NV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107826",
+      "productName": "ZEO-LINE LIGHT WEIGHT TRUNKS MEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "NV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107827",
+      "productName": "ZEO-LINE LIGHT WEIGHT FLYLESS TRUNKS MEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "NV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107829",
+      "productName": "ZEO-LINE LIGHT WEIGHT CLOSE-FIT TRUNKS MEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "GY"
+      ],
+      "vectorColors": [
+        "DGN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107833",
+      "productName": "SUPER MERINO WOOL EXPEDITION PLUS ROUND NECK SHIRT WOMEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "DGY"
+      ],
+      "vectorColors": [
+        "DGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1107868",
+      "productName": "ZEO-LINE COOL MESH SHORTS WOMEN'S",
+      "category": "BASE LAYER",
+      "existingColors": [
+        "BK",
+        "CPK"
+      ],
+      "vectorColors": [
+        "BK",
+        "CPK"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114332",
+      "productName": "WICKRON O.D. SHIRT MEN'S",
+      "category": "SHIRTS",
+      "existingColors": [
+        "BN",
+        "DGN",
+        "NV24",
+        "NV25",
+        "TN"
+      ],
+      "vectorColors": [
+        "BN",
+        "DGN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114440",
+      "productName": "MERINO WOOL PLUS ACTION ZIP NECK WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "HCH",
+        "LBL",
+        "NV"
+      ],
+      "vectorColors": [
+        "LBL",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114602",
+      "productName": "WICKRON O.D. SINGLE POCKET SHIRT WOMEN'S",
+      "category": "SHIRTS",
+      "existingColors": [
+        "LBL",
+        "LTN",
+        "MST",
+        "NV25",
+        "PU",
+        "WRD"
+      ],
+      "vectorColors": [
+        "LBL",
+        "LTN",
+        "MST"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1114606",
+      "productName": "MERINO WOOL PLUS LIGHT LONG SLEEVE T MEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BL",
+        "DGN",
+        "DGY",
+        "OG",
+        "PU",
+        "WRD1"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGN",
+        "OG",
+        "PU"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1114607",
+      "productName": "MERINO WOOL PLUS LIGHT LONG SLEEVE T WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BGN",
+        "DGY1",
+        "KH",
+        "NV1",
+        "PU"
+      ],
+      "vectorColors": [
+        "KH",
+        "PU"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114608",
+      "productName": "WICKRON ZEO THERMAL JACKET MEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "DGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114609",
+      "productName": "WICKRON ZEO THERMAL JACKET WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BGY",
+        "BK",
+        "IV"
+      ],
+      "vectorColors": [
+        "BGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114610",
+      "productName": "WICKRON ZEO THERMAL LONG SLEEVE ZIP SHIRT MEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "NV",
+        "OG1"
+      ],
+      "vectorColors": [
+        "BK",
+        "CN",
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1114611",
+      "productName": "WICKRON ZEO THERMAL LONG SLEEVE ZIP SHIRT WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "IV",
+        "LV"
+      ],
+      "vectorColors": [
+        "BK",
+        "LV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114672",
+      "productName": "MERINO WOOL PLUS LIGHT HOODIE MEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1114673",
+      "productName": "MERINO WOOL PLUS LIGHT HOODIE WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "LGY",
+        "WRD"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "LGY",
+        "WRD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1114822",
+      "productName": "CHAMEECE CARDIGAN KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "DGN",
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "DGN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114823",
+      "productName": "CHAMEECE CARDIGAN KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LGY",
+        "NV",
+        "YL"
+      ],
+      "vectorColors": [
+        "LGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114877",
+      "productName": "CHAMEECE REVERSIBLE JACKET MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK1",
+        "DGN1",
+        "NV1"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114878",
+      "productName": "CHAMEECE REVERSIBLE JACKET WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "KH",
+        "NV1",
+        "PU"
+      ],
+      "vectorColors": [
+        "KH",
+        "PU"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1114879",
+      "productName": "CHAMEECE REVERSIBLE VEST MEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "BK1",
+        "NV"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114880",
+      "productName": "CHAMEECE REVERSIBLE VEST WOMEN'S",
+      "category": "THERMAL",
+      "existingColors": [
+        "KH",
+        "NV1"
+      ],
+      "vectorColors": [
+        "KH"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1114889",
+      "productName": "RIPPLE KNIT LONG SHIRT WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "YL"
+      ],
+      "vectorColors": [
+        "DGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114890",
+      "productName": "RIPPLE KNIT PULLOVER WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "YL"
+      ],
+      "vectorColors": [
+        "DGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114891",
+      "productName": "RIPPLE KNIT CARDIGAN WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "YL"
+      ],
+      "vectorColors": [
+        "DGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1114973",
+      "productName": "O.D. SNAP BUTTON SHIRTS MEN'S",
+      "category": "SHIRTS",
+      "existingColors": [
+        "GN",
+        "IV",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "GN",
+        "IV",
+        "NV",
+        "OG",
+        "TN",
+        "YL"
+      ],
+      "vectorFileCount": 6
+    },
+    {
+      "modelNumber": "1118109",
+      "productName": "CHAMEECE CAP WITH EAR WARMER KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LBL",
+        "NV1",
+        "OG"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118112",
+      "productName": "CHAMEECE VOLCANO CAP KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LBL",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1118187",
+      "productName": "CABLE KNIT WORK CAP KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "DNV",
+        "GY1",
+        "IV"
+      ],
+      "vectorColors": [
+        "DNV",
+        "IV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118228",
+      "productName": "CHAMEECE PALM WARMER",
+      "category": "GLOVES",
+      "existingColors": [
+        "BL",
+        "BRC",
+        "GM-C",
+        "IV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BL",
+        "BRC"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1118422",
+      "productName": "MERINO WOOL TREKKING SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BNSD",
+        "CBL",
+        "GM",
+        "OG"
+      ],
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118424",
+      "productName": "MERINO WOOL WALKING SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "DKOV",
+        "IV",
+        "MST"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "MST"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118425",
+      "productName": "MERINO WOOL WALKING SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BL",
+        "DGN",
+        "DGY1",
+        "MST"
+      ],
+      "vectorColors": [
+        "BL",
+        "MST"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118428",
+      "productName": "MERINO WOOL TRAVEL SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "BL",
+        "CH",
+        "DTL"
+      ],
+      "vectorColors": [
+        "BK",
+        "BL",
+        "DT"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118429",
+      "productName": "MERINO WOOL TRAVEL SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DTL",
+        "IV",
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "DTL",
+        "IV",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1118432",
+      "productName": "MERINO WOOL TRAVEL ANKLE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "BL",
+        "CH",
+        "DTL"
+      ],
+      "vectorColors": [
+        "BK",
+        "BL",
+        "IV",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1118433",
+      "productName": "MERINO WOOL TRAVEL ANKLE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DTL",
+        "IV",
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "DTL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118534",
+      "productName": "MERINO WOOL WALKING SHORT SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BKH",
+        "DKOV",
+        "IV",
+        "MST"
+      ],
+      "vectorColors": [
+        "IV",
+        "MST"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1118535",
+      "productName": "MERINO WOOL WALKING SHORT SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BL",
+        "DGN",
+        "DGY1",
+        "MST"
+      ],
+      "vectorColors": [
+        "BL",
+        "MST"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118568",
+      "productName": "CABLE KNIT WATCH CAP KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "OG",
+        "PK"
+      ],
+      "vectorColors": [
+        "BL",
+        "OG",
+        "PK"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118581",
+      "productName": "CABLE KNIT WORK CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BL",
+        "DBN",
+        "DGY"
+      ],
+      "vectorColors": [
+        "BL",
+        "DBN",
+        "DGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118583",
+      "productName": "CABLE KNIT WATCH CAP #2",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGY",
+        "DNV",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DNV",
+        "TN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118614",
+      "productName": "MERINO WOOL TREKKING 5 TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "HCH",
+        "IND"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118615",
+      "productName": "MERINO WOOL TRAVEL 5 TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "GY",
+        "TN"
+      ],
+      "vectorColors": [
+        "GY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118616",
+      "productName": "MERINO WOOL TRAVEL 5 TOE ANKLE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DTL",
+        "HCH"
+      ],
+      "vectorColors": [
+        "DTL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118647",
+      "productName": "EAR WARMER KID'S ANIMAL",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "#4",
+        "#5",
+        "#6",
+        "#7",
+        "#8"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1118679",
+      "productName": "WATCH CAP #4",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "DKMA",
+        "HGY",
+        "LV",
+        "YGN"
+      ],
+      "vectorColors": [
+        "LV",
+        "YGN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1118680",
+      "productName": "LIGHT RIB KNIT WATCH CAP #2",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BGY",
+        "BK",
+        "EP",
+        "MBN",
+        "RDBR",
+        "YL"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BK",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1118725",
+      "productName": "POWDER GLOVES KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "BL",
+        "LV",
+        "YL24"
+      ],
+      "vectorColors": [
+        "LV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118726",
+      "productName": "POWDER MITTENS KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "BL",
+        "LV",
+        "YL24"
+      ],
+      "vectorColors": [
+        "LV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1118822",
+      "productName": "COMPACT EAR WARMER",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "GY",
+        "LGY",
+        "LYL",
+        "NV",
+        "OG1"
+      ],
+      "vectorColors": [
+        "LGY",
+        "LYL",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1118870",
+      "productName": "MERINO WOOL TRAVEL 5 TOE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "NV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119109",
+      "productName": "CHAMEECE BERET",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGY1",
+        "GY",
+        "OG"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119120",
+      "productName": "CHAMEECE ADJUSTABLE NECK GAITER",
+      "category": "SCARF AND NECK GAITER",
+      "existingColors": [
+        "BK",
+        "BL",
+        "CPK",
+        "DGY"
+      ],
+      "vectorColors": [
+        "CPK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119121",
+      "productName": "CHAMEECE NECK GAITER",
+      "category": "SCARF AND NECK GAITER",
+      "existingColors": [
+        "BK",
+        "BL",
+        "CPK",
+        "DGY",
+        "GY",
+        "IV1",
+        "OG"
+      ],
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119122",
+      "productName": "CHAMEECE SNAP NECK GAITER",
+      "category": "SCARF AND NECK GAITER",
+      "existingColors": [
+        "BK",
+        "GY",
+        "IV1"
+      ],
+      "vectorColors": [],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119130",
+      "productName": "CHAMEECE SNAP NECK GAITER KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK",
+        "BL",
+        "IV",
+        "LBL",
+        "OG"
+      ],
+      "vectorColors": [
+        "BL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119192",
+      "productName": "CORDUROY O.D. CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "KH",
+        "NV"
+      ],
+      "vectorColors": [
+        "KH",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119193",
+      "productName": "CORDUROY CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "IV",
+        "NV",
+        "YL"
+      ],
+      "vectorColors": [
+        "IV",
+        "NV",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119194",
+      "productName": "EXCELOFT FLIGHT CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119195",
+      "productName": "EXCELOFT THERMALAND CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119196",
+      "productName": "EXCELOFT WORK CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BGN",
+        "KH"
+      ],
+      "vectorColors": [
+        "BGN",
+        "KH"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119197",
+      "productName": "EXCELOFT QUILT HUNTING CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGN",
+        "TN"
+      ],
+      "vectorColors": [
+        "DGN",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119198",
+      "productName": "EXCELOFT HUNTING CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BN",
+        "GY"
+      ],
+      "vectorColors": [
+        "BN",
+        "GY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119199",
+      "productName": "CLEAR BRIM CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119200",
+      "productName": "CLEAR BRIM MESH CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119202",
+      "productName": "CLIMATWEED EAR WARMER CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGN",
+        "GY",
+        "KH"
+      ],
+      "vectorColors": [
+        "DGN",
+        "GY",
+        "KH"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119203",
+      "productName": "CLIMATWEED O.D. EAR WARMER CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "IV",
+        "KH",
+        "RD"
+      ],
+      "vectorColors": [
+        "IV",
+        "KH",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119204",
+      "productName": "CLIMATWEED HAT",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGN",
+        "IV",
+        "KH"
+      ],
+      "vectorColors": [
+        "DGN",
+        "IV",
+        "KH"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119205",
+      "productName": "MERINOWOOL JACQUARD WARMER CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119206",
+      "productName": "MERINOWOOL JACQUARD NECK GAITER",
+      "category": "SCARF AND NECK GAITER",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119207",
+      "productName": "MERINOWOOL JACQUARD NECK GAITER LONG",
+      "category": "SCARF AND NECK GAITER",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119208",
+      "productName": "SHEARLING O.D. CAP KID'S MONTA BEAR",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119209",
+      "productName": "EXCELOFT THERMALAND CAP KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "KH",
+        "TN"
+      ],
+      "vectorColors": [
+        "KH",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119211",
+      "productName": "L.W. SHORT SCARF",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "#1",
+        "#2",
+        "#3"
+      ],
+      "vectorColors": [
+        "EECE"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1119213",
+      "productName": "CLIMABARRIER THERMAL FINGERLESS GLOVES MEN'S",
+      "category": "GLOVES",
+      "existingColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119214",
+      "productName": "CLIMABARRIER THERMAL FINGERLESS GLOVES WOMEN'S",
+      "category": "GLOVES",
+      "existingColors": [
+        "IV",
+        "NV"
+      ],
+      "vectorColors": [
+        "IV",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119216",
+      "productName": "POWDER MITTENS KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BL",
+        "LV",
+        "YL"
+      ],
+      "vectorColors": [
+        "BL",
+        "LV",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119219",
+      "productName": "MERINO WOOL TREKKING SHORT SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BGN",
+        "BK",
+        "GY",
+        "IV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGN",
+        "BK",
+        "GY",
+        "IV",
+        "NV"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1119220",
+      "productName": "MERINO WOOL TREKKING SHORT SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "OG",
+        "TN"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "OG",
+        "TN",
+        "TQ"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1119221",
+      "productName": "WICKRON TREKKING SOCKS KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "LGY",
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "LGY",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119224",
+      "productName": "WICKRON TRAVEL SOCKS MONTA BEAR KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119226",
+      "productName": "MERINO WOOL TREKKING SOCKS KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "DGY",
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119231",
+      "productName": "MONTA BEAR CAP KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119245",
+      "productName": "WICKRON EXPEDITION SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "GY",
+        "NV"
+      ],
+      "vectorColors": [
+        "GY",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119246",
+      "productName": "WICKRON EXPEDITION SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "LGN",
+        "RAS"
+      ],
+      "vectorColors": [
+        "LGN",
+        "RAS"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119247",
+      "productName": "WICKRON EXPEDITION HIGH SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "GY"
+      ],
+      "vectorColors": [
+        "GY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1119249",
+      "productName": "WICKRON ALPINE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119250",
+      "productName": "WICKRON ALPINE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BN",
+        "DNV",
+        "TQ"
+      ],
+      "vectorColors": [
+        "BN",
+        "DNV",
+        "TQ"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119251",
+      "productName": "WICKRON ALPINE HIGH SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BL",
+        "DGY"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119252",
+      "productName": "WICKRON TREKKING SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "DGN",
+        "LTN",
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "LTN",
+        "NV",
+        "TN"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1119253",
+      "productName": "WICKRON TREKKING SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BGY",
+        "BK",
+        "BL",
+        "GN",
+        "LTN",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BK",
+        "GN",
+        "LTN",
+        "RD"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1119254",
+      "productName": "WICKRON TREKKING O-PILE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "DNV",
+        "LGN",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DNV",
+        "LGN",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1119255",
+      "productName": "WICKRON TREKKING O-PILE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "RD",
+        "TN",
+        "TQ"
+      ],
+      "vectorColors": [
+        "DGY",
+        "RD",
+        "TN",
+        "TQ"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1119256",
+      "productName": "WICKRON TREKKING SHORT SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "DGN",
+        "LTN",
+        "NV",
+        "TN"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "LTN",
+        "NV",
+        "TN"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1119257",
+      "productName": "WICKRON TREKKING SHORT SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BGY",
+        "BK",
+        "BL",
+        "GN",
+        "LTN",
+        "RD"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BK",
+        "GN",
+        "LTN",
+        "RD"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1119258",
+      "productName": "WICKRON TREKKING 5 TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119259",
+      "productName": "WICKRON TREKKING 5 TOE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BL",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BL",
+        "LGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119260",
+      "productName": "WICKRON TREKKING SPLIT TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119261",
+      "productName": "WICKRON WALKING SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "KGN",
+        "LTN",
+        "NV"
+      ],
+      "vectorColors": [
+        "DGY",
+        "KGN",
+        "LTN",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1119262",
+      "productName": "WICKRON WALKING SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BGY",
+        "CPK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGY",
+        "CPK",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119263",
+      "productName": "WICKRON WALKING SHORT SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "LGY",
+        "LTN",
+        "NV"
+      ],
+      "vectorColors": [
+        "DGY",
+        "LGY",
+        "LTN",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1119264",
+      "productName": "WICKRON WALKING SHORT SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BGY",
+        "CPK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGY",
+        "CPK",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119265",
+      "productName": "WICKRON WALKING 5 TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "LTN",
+        "YL"
+      ],
+      "vectorColors": [
+        "DGY",
+        "LTN",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119266",
+      "productName": "WICKRON WALKING 5 TOE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BGY",
+        "CPK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGY",
+        "CPK",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119267",
+      "productName": "WICKRON TRAVEL SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119268",
+      "productName": "WICKRON TRAVEL SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "LGY",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "LGY",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119269",
+      "productName": "WICKRON TRAVEL ANKLE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119270",
+      "productName": "WICKRON TRAVEL ANKLE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "LGY",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "LGY",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119271",
+      "productName": "WICKRON TRAVEL 5 TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119272",
+      "productName": "WICKRON TRAVEL 5 TOE SOCKS WOMEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "LGY",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "LGY",
+        "RD"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119273",
+      "productName": "WICKRON TRAVEL 5 TOE ANKLE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DNV",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1119274",
+      "productName": "WICKRON TRAVEL SPLIT TOE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1119275",
+      "productName": "WICKRON TRAVEL SPLIT TOE ANKLE SOCKS MEN'S",
+      "category": "SOCKS",
+      "existingColors": [
+        "BK",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121342",
+      "productName": "CLIMAAIR BLANKET S",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "DGY",
+        "KH"
+      ],
+      "vectorColors": [
+        "DGY",
+        "KH"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121343",
+      "productName": "CLIMAAIR BLANKET M",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "DGY",
+        "KH"
+      ],
+      "vectorColors": [
+        "DGY",
+        "KH"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121515",
+      "productName": "FEATHER BLANKET S",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "DGY",
+        "IV",
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1121516",
+      "productName": "FEATHER BLANKET M",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "NV",
+        "OG"
+      ],
+      "vectorColors": [
+        "DGY",
+        "IV",
+        "NV",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1121517",
+      "productName": "FEATHER BLANKET L",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "DGY",
+        "IV"
+      ],
+      "vectorColors": [
+        "DGY",
+        "IV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121518",
+      "productName": "L.W. CAMP LINER",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "NV",
+        "WRD"
+      ],
+      "vectorColors": [
+        "NV",
+        "WRD"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121520",
+      "productName": "WARM-UP LINER PLUS",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "YL"
+      ],
+      "vectorColors": [
+        "YL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121815",
+      "productName": "DRY SEAMLESS DOWN HUGGER 800 #1",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "RD"
+      ],
+      "vectorColors": [
+        "RD"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121816",
+      "productName": "DRY SEAMLESS DOWN HUGGER 800 #2",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "MGD"
+      ],
+      "vectorColors": [
+        "MGD"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121817",
+      "productName": "DRY SEAMLESS DOWN HUGGER 800 #3",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "DTL"
+      ],
+      "vectorColors": [
+        "DTL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121818",
+      "productName": "DRY SEAMLESS DOWN HUGGER 800 #5",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "BL"
+      ],
+      "vectorColors": [
+        "BL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121825",
+      "productName": "DOWN HUGGER 800 EXPEDITION",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "OG"
+      ],
+      "vectorColors": [
+        "OG"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1121830",
+      "productName": "DOWN HUGGER 800 #5",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "BRC",
+        "DTL"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DTL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1121844",
+      "productName": "DOWN HUGGER 800 WOMEN'S #5",
+      "category": "SLEEPING BAG",
+      "existingColors": [
+        "BGY"
+      ],
+      "vectorColors": [
+        "BGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1124582",
+      "productName": "ZIPPER PULL S",
+      "category": "ACCESSORIES",
+      "existingColors": [
+        "BK",
+        "FOG",
+        "GY",
+        "LEGN",
+        "PRBL",
+        "RD",
+        "SUF"
+      ],
+      "vectorColors": [
+        "GY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1124583",
+      "productName": "ZIPPER PULL M",
+      "category": "ACCESSORIES",
+      "existingColors": [
+        "BK",
+        "FOG",
+        "GY",
+        "LEGN",
+        "PRBL",
+        "RD",
+        "SUF"
+      ],
+      "vectorColors": [
+        "GY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1125130",
+      "productName": "CLIMAPRENE PLAIN SOCKS",
+      "category": "SHOWER CLIMBING",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1126225",
+      "productName": "TACKLE POUCH S",
+      "category": "FISHING",
+      "existingColors": [
+        "BRC",
+        "DGY"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1126226",
+      "productName": "TACKLE POUCH M",
+      "category": "FISHING",
+      "existingColors": [
+        "BRC",
+        "DGY"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128821",
+      "productName": "RAIN DANCER JACKET MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BGY",
+        "BL",
+        "DGN",
+        "LGY",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BL",
+        "DGN",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1128822",
+      "productName": "RAIN DANCER JACKET WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "LGY",
+        "RAS",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "LGY",
+        "RAS",
+        "YL"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1128825",
+      "productName": "RAIN HIKER PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "OG"
+      ],
+      "vectorColors": [
+        "BK",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128826",
+      "productName": "RAIN HIKER PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1128829",
+      "productName": "PACK WRAP RAIN COAT",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "CN",
+        "IV",
+        "YGN"
+      ],
+      "vectorColors": [
+        "BK",
+        "CN",
+        "IV",
+        "YGN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1128831",
+      "productName": "VERSALITE CRUSHABLE CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BL",
+        "DGY",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BL",
+        "DGY",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1128832",
+      "productName": "MEADOW PARASOL HAT",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "NV",
+        "YL"
+      ],
+      "vectorColors": [
+        "NV",
+        "YL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128833",
+      "productName": "MEADOW CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGY",
+        "NV",
+        "RD",
+        "TN",
+        "TQ"
+      ],
+      "vectorColors": [
+        "DGY",
+        "NV",
+        "RD",
+        "TN",
+        "TQ"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1128834",
+      "productName": "MEADOW WORK CAP",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BK",
+        "DTL",
+        "TN"
+      ],
+      "vectorColors": [
+        "DTL",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128835",
+      "productName": "MEADOW HAT",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "DGN",
+        "DGY",
+        "DTL",
+        "RD",
+        "TN",
+        "YL"
+      ],
+      "vectorColors": [
+        "DGY",
+        "DTL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128836",
+      "productName": "MEADOW LONG TAIL HAT",
+      "category": "CAP & HAT",
+      "existingColors": [
+        "BGY",
+        "DGY",
+        "TN"
+      ],
+      "vectorColors": [
+        "BGY",
+        "TN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128837",
+      "productName": "MEADOW CAP KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "DTL",
+        "TQ"
+      ],
+      "vectorColors": [
+        "DTL",
+        "TQ"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128839",
+      "productName": "MEADOW LONG TAIL HAT KID'S",
+      "category": "KIDS & BABY",
+      "existingColors": [
+        "DTL",
+        "YL"
+      ],
+      "vectorColors": [
+        "DTL",
+        "YL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128840",
+      "productName": "GORE-TEX RAIN PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128841",
+      "productName": "GORE-TEX RAIN PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "GY",
+        "NV"
+      ],
+      "vectorColors": [
+        "GY",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128842",
+      "productName": "GORE-TEX FULL-ZIP RAIN PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128843",
+      "productName": "GORE-TEX FULL-ZIP RAIN PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "DGY"
+      ],
+      "vectorColors": [
+        "DGY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1128844",
+      "productName": "SUPER DRY-TEC RAIN PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "GY",
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "BK",
+        "GY",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1128845",
+      "productName": "SUPER DRY-TEC RAIN PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "NV",
+        "TQ"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV",
+        "TQ"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1128846",
+      "productName": "SUPER DRY-TEC FULL-ZIP RAIN PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128847",
+      "productName": "SUPER DRY-TEC FULL-ZIP RAIN PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1128848",
+      "productName": "DRY-TEC RAIN PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1128849",
+      "productName": "DRY-TEC RAIN PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "GY",
+        "NV"
+      ],
+      "vectorColors": [
+        "GY",
+        "NV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1128850",
+      "productName": "DRY-TEC FULL-ZIP RAIN PANTS MEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1128851",
+      "productName": "DRY-TEC FULL-ZIP RAIN PANTS WOMEN'S",
+      "category": "ALLWEATHER",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1129832",
+      "productName": "SNAKE GUARD GAITER",
+      "category": "GAITER",
+      "existingColors": [
+        "NV"
+      ],
+      "vectorColors": [
+        "NV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1132321",
+      "productName": "FIELD UMBRERO",
+      "category": "FIELD WEAR",
+      "existingColors": [
+        "SV"
+      ],
+      "vectorColors": [
+        "SV"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1133571",
+      "productName": "ROLL TOP KNAPSACK 15",
+      "category": "BACKPACK",
+      "existingColors": [
+        "CN",
+        "LGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "CN",
+        "LGY",
+        "OG"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133575",
+      "productName": "FIRST PACK 15 WOMEN'S",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BGY",
+        "KBN",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGY",
+        "KBN",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133576",
+      "productName": "FIRST PACK 25 WOMEN'S",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BGY",
+        "KBN",
+        "NV"
+      ],
+      "vectorColors": [
+        "BGY",
+        "KBN",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133577",
+      "productName": "OWL PACK",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BK",
+        "KGN",
+        "NV"
+      ],
+      "vectorColors": [
+        "BK",
+        "KGN",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133579",
+      "productName": "POCKETABLE DAYPACK 10",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BK",
+        "KH",
+        "NV",
+        "WRD",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "KH",
+        "NV",
+        "WRD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133580",
+      "productName": "POCKETABLE LIGHT PACK 10",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "CN1",
+        "GN",
+        "KBN",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BRC",
+        "CN",
+        "DGN",
+        "GN",
+        "KBN",
+        "LGY"
+      ],
+      "vectorFileCount": 8
+    },
+    {
+      "modelNumber": "1133581",
+      "productName": "POCKETABLE LIGHT PACK 15",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BK",
+        "CN1",
+        "DGN",
+        "DNV",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "BGY",
+        "CN",
+        "DGN",
+        "DNV",
+        "LGY",
+        "MST",
+        "YL"
+      ],
+      "vectorFileCount": 8
+    },
+    {
+      "modelNumber": "1133582",
+      "productName": "POCKETABLE LIGHT PACK 20",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "DNV",
+        "KBN"
+      ],
+      "vectorColors": [
+        "BK",
+        "BRC",
+        "DNV",
+        "KBN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133583",
+      "productName": "V.B.P. BACK PANEL S",
+      "category": "BACKPACK",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1133585",
+      "productName": "POCKETABLE LIGHT TOTE SHOULDER BAG S",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "DNV",
+        "GN",
+        "YL"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BK",
+        "BRC",
+        "DGN",
+        "DNV",
+        "GN",
+        "MST",
+        "YL"
+      ],
+      "vectorFileCount": 8
+    },
+    {
+      "modelNumber": "1133586",
+      "productName": "POCKETABLE LIGHT TOTE SHOULDER BAG M",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "CN1",
+        "KBN",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "CN",
+        "KBN",
+        "LGY"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133587",
+      "productName": "POCKETABLE LIGHT SHOULDER BAG S",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "CN1",
+        "DNV",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "BRC",
+        "CN",
+        "DNV",
+        "MST",
+        "YL"
+      ],
+      "vectorFileCount": 7
+    },
+    {
+      "modelNumber": "1133588",
+      "productName": "POCKETABLE LIGHT SHOULDER BAG M",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "DGN",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "BRC",
+        "DGN",
+        "LGY"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133589",
+      "productName": "POCKETABLE LIGHT SHOULDER BAG L",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "DNV",
+        "KBN"
+      ],
+      "vectorColors": [
+        "BK",
+        "DNV",
+        "KBN"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133590",
+      "productName": "POCKETABLE LIGHT TOTE S",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "CN",
+        "DGN",
+        "DNV",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BRC",
+        "CN",
+        "DGN",
+        "DNV",
+        "LGY",
+        "MST"
+      ],
+      "vectorFileCount": 6
+    },
+    {
+      "modelNumber": "1133591",
+      "productName": "POCKETABLE LIGHT TOTE M",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "DNV",
+        "GN",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "CN",
+        "DGN",
+        "DNV",
+        "GN",
+        "LGY",
+        "MST",
+        "YL"
+      ],
+      "vectorFileCount": 8
+    },
+    {
+      "modelNumber": "1133592",
+      "productName": "POCKETABLE LIGHT TOTE L",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "KBN"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BK",
+        "BRC",
+        "KBN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133593",
+      "productName": "POCKETABLE LIGHT POUCH S",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "CN1",
+        "KBN",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "BRC",
+        "CN",
+        "KBN",
+        "LGY"
+      ],
+      "vectorFileCount": 6
+    },
+    {
+      "modelNumber": "1133594",
+      "productName": "POCKETABLE LIGHT POUCH M",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "BRC",
+        "DNV",
+        "GN"
+      ],
+      "vectorColors": [
+        "BGY",
+        "BK",
+        "BRC",
+        "DGN",
+        "DNV",
+        "GN"
+      ],
+      "vectorFileCount": 6
+    },
+    {
+      "modelNumber": "1133595",
+      "productName": "POCKETABLE LIGHT BANANA POUCH",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "CN1",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "CN",
+        "LGY",
+        "MST",
+        "YL"
+      ],
+      "vectorFileCount": 6
+    },
+    {
+      "modelNumber": "1133596",
+      "productName": "ATTACHABLE MOBILE DRY POUCH M",
+      "category": "BAG",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1133597",
+      "productName": "ATTACHABLE MOBILE DRY POUCH L",
+      "category": "BAG",
+      "existingColors": [
+        "BK"
+      ],
+      "vectorColors": [
+        "BK"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1133598",
+      "productName": "WALLET",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "IV",
+        "KGN",
+        "NV",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "KGN",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133599",
+      "productName": "SLIM WALLET",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "IV",
+        "KGN",
+        "NV",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "KGN",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133600",
+      "productName": "COIN WALLET",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "IV",
+        "KGN",
+        "NV",
+        "OG",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "KGN",
+        "OG",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133601",
+      "productName": "NAME CARD CASE",
+      "category": "BAG",
+      "existingColors": [
+        "BK",
+        "DGN",
+        "DNV"
+      ],
+      "vectorColors": [
+        "BK",
+        "DGN",
+        "DNV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133603",
+      "productName": "AQUAPEL STUFF BAG 0.5L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133604",
+      "productName": "AQUAPEL STUFF BAG 3L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133605",
+      "productName": "AQUAPEL STUFF BAG 5L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133606",
+      "productName": "AQUAPEL STUFF BAG 10L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133607",
+      "productName": "AQUAPEL STUFF BAG 15L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133608",
+      "productName": "AQUAPEL STUFF BAG 20L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "LGY",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133609",
+      "productName": "AQUAPEL STUFF BAG 30L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "LGY",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133610",
+      "productName": "AQUAPEL STUFF BAG 40L",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "LGY",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "LGY",
+        "YL"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1133614",
+      "productName": "WATERPROOF COMPRESSION STUFF BAG 10L",
+      "category": "BAG",
+      "existingColors": [
+        "DNV",
+        "LGY",
+        "OG",
+        "YGN"
+      ],
+      "vectorColors": [
+        "DNV",
+        "LGY",
+        "OG",
+        "YGN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133615",
+      "productName": "WATERPROOF COMPRESSION STUFF BAG 20L",
+      "category": "BAG",
+      "existingColors": [
+        "DNV",
+        "LGY",
+        "OG",
+        "YGN"
+      ],
+      "vectorColors": [
+        "DNV",
+        "LGY",
+        "OG",
+        "YGN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133616",
+      "productName": "WATERPROOF COMPRESSION STUFF BAG 30L",
+      "category": "BAG",
+      "existingColors": [
+        "DNV",
+        "LGY",
+        "OG",
+        "YGN"
+      ],
+      "vectorColors": [
+        "DNV",
+        "LGY",
+        "OG",
+        "YGN"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133617",
+      "productName": "ROLL-UP DRY SHOULDER BAG",
+      "category": "BAG",
+      "existingColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "CN",
+        "DGY",
+        "LGY",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 5
+    },
+    {
+      "modelNumber": "1133620",
+      "productName": "PET BOTTLE THERMO COVER 0.5L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133621",
+      "productName": "PET BOTTLE THERMO COVER 1.0L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133622",
+      "productName": "BOTTLE COVER S",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133623",
+      "productName": "BOTTLE COVER M",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133624",
+      "productName": "BOTTLE COVER L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1133625",
+      "productName": "BOTTLE COVER XL",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "LV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134403",
+      "productName": "THERMO MUG 200 MONTBELL LOGO",
+      "category": "COOKWARE",
+      "existingColors": [
+        "DGY",
+        "GN",
+        "IV",
+        "NV",
+        "RD",
+        "TQ"
+      ],
+      "vectorColors": [
+        "DGY",
+        "GN",
+        "IV",
+        "NV",
+        "RD",
+        "TQ"
+      ],
+      "vectorFileCount": 6
+    },
+    {
+      "modelNumber": "1134404",
+      "productName": "THERMO MUG 350 MONTBELL LOGO",
+      "category": "COOKWARE",
+      "existingColors": [
+        "DGY",
+        "GN",
+        "IV",
+        "NV"
+      ],
+      "vectorColors": [
+        "DGY",
+        "GN",
+        "IV",
+        "NV"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134405",
+      "productName": "THERMO TUMBLER 300 MB LOGO",
+      "category": "COOKWARE",
+      "existingColors": [
+        "IV",
+        "NV",
+        "RD",
+        "TQ"
+      ],
+      "vectorColors": [
+        "IV",
+        "NV",
+        "RD",
+        "TQ"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134406",
+      "productName": "THERMO TUMBLER 470 MB LOGO",
+      "category": "COOKWARE",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "NV",
+        "RD"
+      ],
+      "vectorColors": [
+        "DGY",
+        "IV",
+        "NV",
+        "RD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134408",
+      "productName": "STAINLESS STEEL THERMO TUMBLER 350",
+      "category": "COOKWARE",
+      "existingColors": [
+        "BK",
+        "IV",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "STNLS",
+        "TNLS"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134409",
+      "productName": "STAINLESS STEEL THERMO TUMBLER 470",
+      "category": "COOKWARE",
+      "existingColors": [
+        "BK",
+        "IV",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV",
+        "STNLS",
+        "TNLS"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134410",
+      "productName": "ZIPPER PULL L",
+      "category": "ACCESSORIES",
+      "existingColors": [
+        "BK",
+        "BL",
+        "GN",
+        "GY",
+        "OG",
+        "RD",
+        "YL"
+      ],
+      "vectorColors": [
+        "BK",
+        "BL",
+        "GN",
+        "GY",
+        "OG",
+        "RD",
+        "YL"
+      ],
+      "vectorFileCount": 7
+    },
+    {
+      "modelNumber": "1134436",
+      "productName": "HIGH-VOLUME WHISTLE",
+      "category": "ACCESSORIES",
+      "existingColors": [
+        "BK",
+        "OG"
+      ],
+      "vectorColors": [
+        "YL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1134441",
+      "productName": "COOLER BOX 2.5L",
+      "category": "COOKWARE",
+      "existingColors": [
+        "DNV",
+        "KGN",
+        "LGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "DNV",
+        "KGN",
+        "LGY",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134442",
+      "productName": "COOLER BOX 4.0L",
+      "category": "COOKWARE",
+      "existingColors": [
+        "DNV",
+        "KGN",
+        "LGY",
+        "OG"
+      ],
+      "vectorColors": [
+        "DNV",
+        "KGN",
+        "LGY",
+        "OG"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134451",
+      "productName": "O.D. COOKING PADDLE",
+      "category": "COOKWARE",
+      "existingColors": [
+        "GY"
+      ],
+      "vectorColors": [
+        "GY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1134452",
+      "productName": "O.D. LADLE",
+      "category": "COOKWARE",
+      "existingColors": [
+        "GY"
+      ],
+      "vectorColors": [
+        "GY"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1134462",
+      "productName": "TITANIUM ALPINE THERMO BOTTLE 0.35L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "TITAN"
+      ],
+      "vectorColors": [
+        "ITAN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1134463",
+      "productName": "TITANIUM ALPINE THERMO BOTTLE 0.9L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "TITAN"
+      ],
+      "vectorColors": [
+        "ITAN"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "1134464",
+      "productName": "ALPINE THERMO BOTTLE 0.35L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "NV",
+        "RD",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV",
+        "RD",
+        "TNLS"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134465",
+      "productName": "ALPINE THERMO BOTTLE 0.5L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "NV",
+        "RD",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "NV",
+        "RD",
+        "TNLS"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "1134466",
+      "productName": "ALPINE THERMO BOTTLE 0.75L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "RD",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "RD",
+        "TNLS"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1134467",
+      "productName": "ALPINE THERMO BOTTLE 0.9L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "RD",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "RD",
+        "TNLS"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1134468",
+      "productName": "ALPINE THERMO BOTTLE ACTIVE 0.35L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "DTL",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "DTL",
+        "TNLS"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1134469",
+      "productName": "ALPINE THERMO BOTTLE ACTIVE 0.5L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "DTL",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "DTL",
+        "TNLS"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1134470",
+      "productName": "ALPINE THERMO BOTTLE ACTIVE 0.75L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "TNLS"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1134471",
+      "productName": "ALPINE THERMO BOTTLE ACTIVE 0.9L",
+      "category": "BOTTLES",
+      "existingColors": [
+        "BK",
+        "STNLS"
+      ],
+      "vectorColors": [
+        "BK",
+        "TNLS"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1134475",
+      "productName": "GAS CANISTER SOCK 110",
+      "category": "STOVE",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1134476",
+      "productName": "GAS CANISTER SOCK 250",
+      "category": "STOVE",
+      "existingColors": [
+        "BRC",
+        "DGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "BRC",
+        "DGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1140281",
+      "productName": "T GRIP CAM LOCK",
+      "category": "POLES",
+      "existingColors": [
+        "BL",
+        "GN"
+      ],
+      "vectorColors": [
+        "BL",
+        "GN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1140283",
+      "productName": "T GRIP ANTI SHOCK",
+      "category": "POLES",
+      "existingColors": [
+        "GY",
+        "OG"
+      ],
+      "vectorColors": [
+        "GY",
+        "OG"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1140284",
+      "productName": "T GRIP ANTI SHOCK S",
+      "category": "POLES",
+      "existingColors": [
+        "BGY",
+        "LV"
+      ],
+      "vectorColors": [
+        "BGY",
+        "LV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1140285",
+      "productName": "TRAIL POLE CAM LOCK",
+      "category": "POLES",
+      "existingColors": [
+        "GN",
+        "GY",
+        "NV"
+      ],
+      "vectorColors": [
+        "GN",
+        "GY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "1140287",
+      "productName": "2-WAY CAM LOCK",
+      "category": "POLES",
+      "existingColors": [
+        "NV",
+        "YGN"
+      ],
+      "vectorColors": [
+        "NV",
+        "YGN"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "1140289",
+      "productName": "2-WAY GRIP CARBON POLE",
+      "category": "POLES",
+      "existingColors": [
+        "CARB",
+        "DTL"
+      ],
+      "vectorColors": [
+        "CARB",
+        "DTL"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "2104848",
+      "productName": "COTTON HOODED SWEATSHIRT",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "DGY",
+        "IV",
+        "LGY",
+        "PU"
+      ],
+      "vectorColors": [
+        "PU"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "2104849",
+      "productName": "COTTON FULL-ZIP HOODED SWEATSHIRT MEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "LGY",
+        "MST",
+        "NV",
+        "PU"
+      ],
+      "vectorColors": [
+        "MST",
+        "PU"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "2104850",
+      "productName": "COTTON FULL-ZIP HOODED SWEATSHIRT WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "IV",
+        "LBL"
+      ],
+      "vectorColors": [
+        "LBL"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "2104852",
+      "productName": "COTTON SWEATSHIRT #5",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BRC",
+        "DGY"
+      ],
+      "vectorColors": [
+        "BRC"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "2104854",
+      "productName": "COTTON SWEATSHIRT #7",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "LGY",
+        "PU"
+      ],
+      "vectorColors": [
+        "PU"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "2104855",
+      "productName": "COTTON SWEATSHIRT #4",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "MST"
+      ],
+      "vectorColors": [
+        "MST"
+      ],
+      "vectorFileCount": 1
+    },
+    {
+      "modelNumber": "2104900",
+      "productName": "COTTON LITE SWEAT ZIP HOODIE MEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "KH",
+        "LGY"
+      ],
+      "vectorColors": [
+        "BK",
+        "KH",
+        "LGY"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "2104901",
+      "productName": "COTTON LITE SWEAT ZIP HOODIE WOMEN'S",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "IV",
+        "LGY",
+        "NV"
+      ],
+      "vectorColors": [
+        "IV",
+        "LGY",
+        "NV"
+      ],
+      "vectorFileCount": 3
+    },
+    {
+      "modelNumber": "2104902",
+      "productName": "COTTON LITE SWEAT HOODIE",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BL",
+        "LGY",
+        "NV",
+        "WRD"
+      ],
+      "vectorColors": [
+        "BL",
+        "LGY",
+        "NV",
+        "WRD"
+      ],
+      "vectorFileCount": 4
+    },
+    {
+      "modelNumber": "2104903",
+      "productName": "COTTON SWEATSHIRT #8",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "DGN",
+        "IV"
+      ],
+      "vectorColors": [
+        "DGN",
+        "IV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "2104904",
+      "productName": "COTTON LITE PRINT SWEATSHIRT #1",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "KH",
+        "PK"
+      ],
+      "vectorColors": [
+        "KH",
+        "PK"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "2104905",
+      "productName": "COTTON LITE PRINT SWEATSHIRT #2",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "BK",
+        "IV"
+      ],
+      "vectorColors": [
+        "BK",
+        "IV"
+      ],
+      "vectorFileCount": 2
+    },
+    {
+      "modelNumber": "2104906",
+      "productName": "COTTON LITE PRINT SWEATSHIRT #3",
+      "category": "KNIT SHIRTS",
+      "existingColors": [
+        "NV",
+        "WRD"
+      ],
+      "vectorColors": [
+        "NV",
+        "WRD"
+      ],
+      "vectorFileCount": 2
+    }
+  ],
+  "noVectorImages": [
+    {
+      "modelNumber": "1108709",
+      "productName": "CAMOUFLAGE WATCH HAT",
+      "category": "CAP & HAT",
+      "price": 900
+    },
+    {
+      "modelNumber": "1118786",
+      "productName": "CAMOUFLAGE WATCH CAP",
+      "category": "CAP & HAT",
+      "price": 900
+    },
+    {
+      "modelNumber": "1122712",
+      "productName": "FOLDING FIRE PIT",
+      "category": "CAMPING",
+      "price": 6480
+    },
+    {
+      "modelNumber": "1122751",
+      "productName": "FOLDING FIRE PIT S",
+      "category": "CAMPING",
+      "price": 6900
+    },
+    {
+      "modelNumber": "1122769",
+      "productName": "COMPACT FIRE PIT",
+      "category": "CAMPING",
+      "price": 2880
+    },
+    {
+      "modelNumber": "1123654",
+      "productName": "GORE-TEX STUFF BAG 1L",
+      "category": "BAG",
+      "price": 620
+    },
+    {
+      "modelNumber": "1123655",
+      "productName": "GORE-TEX STUFF BAG 1.5L",
+      "category": "BAG",
+      "price": 640
+    },
+    {
+      "modelNumber": "1123656",
+      "productName": "GORE-TEX STUFF BAG 2L",
+      "category": "BAG",
+      "price": 680
+    },
+    {
+      "modelNumber": "1123657",
+      "productName": "GORE-TEX STUFF BAG 4L",
+      "category": "BAG",
+      "price": 700
+    },
+    {
+      "modelNumber": "1123658",
+      "productName": "GORE-TEX STUFF BAG 9L",
+      "category": "BAG",
+      "price": 900
+    },
+    {
+      "modelNumber": "1123659",
+      "productName": "GORE-TEX STUFF BAG 15L",
+      "category": "BAG",
+      "price": 1100
+    },
+    {
+      "modelNumber": "1123936",
+      "productName": "SHOULDER STRAP",
+      "category": "BOTTLES",
+      "price": 230
+    },
+    {
+      "modelNumber": "1124184",
+      "productName": "STAINLESS MIRROR",
+      "category": "ACCESSORIES",
+      "price": 690
+    },
+    {
+      "modelNumber": "1124248",
+      "productName": "REPAIR SHEET",
+      "category": "ACCESSORIES",
+      "price": 360
+    },
+    {
+      "modelNumber": "1124258",
+      "productName": "HANDY SCOOP",
+      "category": "ACCESSORIES",
+      "price": 550
+    },
+    {
+      "modelNumber": "1124306",
+      "productName": "EMERGENCY SHEET",
+      "category": "ACCESSORIES",
+      "price": 160
+    },
+    {
+      "modelNumber": "1124345",
+      "productName": "TITANIUM SPOON & FORK SET",
+      "category": "COOKWARE",
+      "price": 800
+    },
+    {
+      "modelNumber": "1124346",
+      "productName": "FEATHER SPORK",
+      "category": "COOKWARE",
+      "price": 480
+    },
+    {
+      "modelNumber": "1124424",
+      "productName": "MINI CLEAR BOTTLE 20ML",
+      "category": "BOTTLES",
+      "price": 100
+    },
+    {
+      "modelNumber": "1124425",
+      "productName": "MINI CLEAR BOTTLE 30ML",
+      "category": "BOTTLES",
+      "price": 120
+    },
+    {
+      "modelNumber": "1124426",
+      "productName": "MINI CLEAR BOTTLE 50ML",
+      "category": "BOTTLES",
+      "price": 140
+    },
+    {
+      "modelNumber": "1124493",
+      "productName": "STAINLESS THERMO MUG 310",
+      "category": "COOKWARE",
+      "price": 560
+    },
+    {
+      "modelNumber": "1124510",
+      "productName": "O.D. COMPACT DRIPPER 2",
+      "category": "COOKWARE",
+      "price": 720
+    },
+    {
+      "modelNumber": "1124512",
+      "productName": "TITANIUM BOWL DISH SET",
+      "category": "COOKWARE",
+      "price": 1780
+    },
+    {
+      "modelNumber": "1124538",
+      "productName": "O.D. COMPACT DRIPPER 4",
+      "category": "COOKWARE",
+      "price": 800
+    },
+    {
+      "modelNumber": "1124566",
+      "productName": "STAINLESS CUP 390",
+      "category": "COOKWARE",
+      "price": 360
+    },
+    {
+      "modelNumber": "1124597",
+      "productName": "ALPINE COOKER SQUARE 13",
+      "category": "COOKWARE",
+      "price": 1180
+    },
+    {
+      "modelNumber": "1124598",
+      "productName": "ALPINE COOKER SQUARE 12",
+      "category": "COOKWARE",
+      "price": 1100
+    },
+    {
+      "modelNumber": "1124599",
+      "productName": "ALPINE COOKER SQUARE 12+13 SET",
+      "category": "COOKWARE",
+      "price": 2000
+    },
+    {
+      "modelNumber": "1124616",
+      "productName": "COMPACT MULTI SHEET",
+      "category": "ACCESSORIES",
+      "price": 500
+    },
+    {
+      "modelNumber": "1124717",
+      "productName": "NOBASHI",
+      "category": "COOKWARE",
+      "price": 980
+    },
+    {
+      "modelNumber": "1124743",
+      "productName": "ALPINE THERMO BOTTLE SEAL",
+      "category": "BOTTLES",
+      "price": 80
+    },
+    {
+      "modelNumber": "1124789",
+      "productName": "STRAP MONTA BEAR #1",
+      "category": "ACCESSORIES",
+      "price": 290
+    },
+    {
+      "modelNumber": "1124799",
+      "productName": "ZIPPER PULL GLOW IN THE DARK",
+      "category": "ACCESSORIES",
+      "price": 220
+    },
+    {
+      "modelNumber": "1124806",
+      "productName": "REPAIR PATCH",
+      "category": "ACCESSORIES",
+      "price": 400
+    },
+    {
+      "modelNumber": "1124809",
+      "productName": "O.D. MAINTENANCE REPELLENT LIQUID SPRAY 200ML",
+      "category": "ACCESSORIES",
+      "price": 420
+    },
+    {
+      "modelNumber": "1124810",
+      "productName": "O.D. MAINTENANCE REPELLENT LIQUID SPRAY 300ML",
+      "category": "ACCESSORIES",
+      "price": 580
+    },
+    {
+      "modelNumber": "1124812",
+      "productName": "O.D. MAINTENANCE DEODORIZER",
+      "category": "ACCESSORIES",
+      "price": 880
+    },
+    {
+      "modelNumber": "1124900",
+      "productName": "ALPINE COOKER 14",
+      "category": "COOKWARE",
+      "price": 800
+    },
+    {
+      "modelNumber": "1124901",
+      "productName": "ALPINE COOKER 16",
+      "category": "COOKWARE",
+      "price": 920
+    },
+    {
+      "modelNumber": "1124902",
+      "productName": "ALPINE COOKER 18",
+      "category": "COOKWARE",
+      "price": 1140
+    },
+    {
+      "modelNumber": "1124903",
+      "productName": "ALPINE COOKER 20",
+      "category": "COOKWARE",
+      "price": 1350
+    },
+    {
+      "modelNumber": "1124904",
+      "productName": "ALPINE COOKER 9 DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 800
+    },
+    {
+      "modelNumber": "1124905",
+      "productName": "ALPINE COOKER 11 DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 880
+    },
+    {
+      "modelNumber": "1124906",
+      "productName": "ALPINE COOKER 13 DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 1060
+    },
+    {
+      "modelNumber": "1124907",
+      "productName": "ALPINE COOKER 11+13 SET DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 1680
+    },
+    {
+      "modelNumber": "1124911",
+      "productName": "ALPINE COOKER SOLO SET",
+      "category": "COOKWARE",
+      "price": 1460
+    },
+    {
+      "modelNumber": "1124915",
+      "productName": "TITANIUM SIERRA CUP 280",
+      "category": "COOKWARE",
+      "price": 760
+    },
+    {
+      "modelNumber": "1124916",
+      "productName": "TITANIUM SIERRA CUP 400",
+      "category": "COOKWARE",
+      "price": 840
+    },
+    {
+      "modelNumber": "1127163",
+      "productName": "RATION CONTAINER",
+      "category": "PADDLE SPORTS",
+      "price": 1400
+    },
+    {
+      "modelNumber": "1130614",
+      "productName": "CYCLING BELL MONTA BEAR",
+      "category": "CYCLING",
+      "price": 320
+    },
+    {
+      "modelNumber": "1133510",
+      "productName": "MONTA BEAR BACKPACK",
+      "category": "KIDS & BABY",
+      "price": 1850
+    },
+    {
+      "modelNumber": "1134130",
+      "productName": "MONTA BEAR 20CM",
+      "category": "ACCESSORIES",
+      "price": 1150
+    },
+    {
+      "modelNumber": "1134131",
+      "productName": "MONTA BEAR 30CM",
+      "category": "ACCESSORIES",
+      "price": 1800
+    },
+    {
+      "modelNumber": "1134134",
+      "productName": "O.D. MAINTENANCE WASH-IN WATER REPELLENT 300ML",
+      "category": "ACCESSORIES",
+      "price": 790
+    },
+    {
+      "modelNumber": "1134135",
+      "productName": "O.D. MAINTENANCE MULTIUSE CLEANER 300ML",
+      "category": "ACCESSORIES",
+      "price": 430
+    },
+    {
+      "modelNumber": "1134136",
+      "productName": "O.D. MAINTENANCE DOWN CLEANER 300ML",
+      "category": "ACCESSORIES",
+      "price": 470
+    },
+    {
+      "modelNumber": "1134250",
+      "productName": "ALPINE KETTLE 0.6L",
+      "category": "COOKWARE",
+      "price": 830
+    },
+    {
+      "modelNumber": "1134251",
+      "productName": "ALPINE KETTLE 0.9L",
+      "category": "COOKWARE",
+      "price": 940
+    },
+    {
+      "modelNumber": "1134299",
+      "productName": "O.D. MAINTENANCE SPRAY-ON WATER REPELLENT 170ML",
+      "category": "ACCESSORIES",
+      "price": 430
+    },
+    {
+      "modelNumber": "1134300",
+      "productName": "O.D. MAINTENANCE SPRAY-ON WATER REPELLENT 330ML",
+      "category": "ACCESSORIES",
+      "price": 500
+    },
+    {
+      "modelNumber": "1134305",
+      "productName": "DRY-TEC REPAIR PATCH SHEET",
+      "category": "ACCESSORIES",
+      "price": 240
+    },
+    {
+      "modelNumber": "1134345",
+      "productName": "ALPINE FRYING PAN 16 DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 980
+    },
+    {
+      "modelNumber": "1134346",
+      "productName": "ALPINE FRYING PAN 18 DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 1110
+    },
+    {
+      "modelNumber": "1134347",
+      "productName": "ALPINE FRYING PAN 20 DEEP SHAPE",
+      "category": "COOKWARE",
+      "price": 1200
+    },
+    {
+      "modelNumber": "1134348",
+      "productName": "ALPINE COOKER 14+16 PAN SET",
+      "category": "COOKWARE",
+      "price": 2590
+    },
+    {
+      "modelNumber": "1134349",
+      "productName": "ALPINE COOKER 16+18 PAN SET",
+      "category": "COOKWARE",
+      "price": 3070
+    },
+    {
+      "modelNumber": "1134350",
+      "productName": "ALPINE COOKER 18+20 PAN SET",
+      "category": "COOKWARE",
+      "price": 3550
+    },
+    {
+      "modelNumber": "1134351",
+      "productName": "TITANIUM CUP 300",
+      "category": "COOKWARE",
+      "price": 550
+    },
+    {
+      "modelNumber": "1134352",
+      "productName": "TITANIUM CUP 450",
+      "category": "COOKWARE",
+      "price": 800
+    },
+    {
+      "modelNumber": "1134353",
+      "productName": "TITANIUM THERMO CUP 300",
+      "category": "COOKWARE",
+      "price": 1390
+    },
+    {
+      "modelNumber": "1134354",
+      "productName": "TITANIUM THERMO CUP 450",
+      "category": "COOKWARE",
+      "price": 1560
+    },
+    {
+      "modelNumber": "1134378",
+      "productName": "TITANIUM CUP 650",
+      "category": "COOKWARE",
+      "price": 1300
+    }
+  ]
+}

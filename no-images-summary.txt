@@ -1,0 +1,16 @@
+沒有圖片的商品清單統計
+=====================
+
+總計: 85 個商品
+
+按分類統計:
+  COOKWARE: 35 個
+  ACCESSORIES: 19 個
+  SLEEPING BAG: 12 個
+  BAG: 6 個
+  BOTTLES: 5 個
+  CAMPING: 3 個
+  CAP & HAT: 2 個
+  PADDLE SPORTS: 1 個
+  CYCLING: 1 個
+  KIDS & BABY: 1 個

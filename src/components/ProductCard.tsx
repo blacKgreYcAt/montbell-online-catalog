@@ -16,14 +16,12 @@ interface ProductCardProps {
 export default function ProductCard({ product, imageId, hidePrice = false, basePath = '/products', useGoogleDrive = false }: ProductCardProps) {
   let imageUrl = '/no-image.svg';
 
-  // 內部版優先使用 Cloudinary/Google Drive，公開版優先使用 Montbell CDN
-  if (useGoogleDrive && imageId) {
-    // 如果是 URL（Cloudinary 或 Google Drive），直接使用；否則轉換為 Google Drive URL
-    imageUrl = imageId.startsWith('http') ? imageId : getGoogleDriveImageUrl(imageId);
+  // Cloudinary 優先於 Montbell CDN
+  if (imageId) {
+    // 如果是 URL（Cloudinary），直接使用
+    imageUrl = imageId.startsWith('http') ? imageId : (useGoogleDrive ? getGoogleDriveImageUrl(imageId) : generateMonbellImageUrl(product.modelNumber, product.colors?.[0] || 'BK'));
   } else if (product.colors && product.colors.length > 0) {
     imageUrl = generateMonbellImageUrl(product.modelNumber, product.colors[0]);
-  } else if (imageId) {
-    imageUrl = imageId.startsWith('http') ? imageId : getGoogleDriveImageUrl(imageId);
   }
 
   return (
