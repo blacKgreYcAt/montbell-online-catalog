@@ -46,6 +46,22 @@ export const categoryTranslations: Record<string, string> = {
   'FISHING': '釣魚用品',
   'AQUA SPORTS': '水上運動',
 
+  // 保暖衣物
+  'INSULATION': '保暖衣',
+  'THERMAL': '保暖層',
+
+  // 其他戶外活動
+  'ALPINE CLOTHING': '高山衣著',
+  'EYEWEAR': '眼鏡',
+  'EYE WEAR': '眼鏡',
+  'CLIMBING': '攀岩',
+  'SHOWER CLIMBING': '淋浴攀岩',
+  'PADDLE SPORTS': '槳類運動',
+  'CYCLING': '自行車',
+  'SNOW GEAR': '雪地裝備',
+  'TRAVEL & COUNTRY': '旅行與鄉村',
+  'STOVE': '爐具',
+
   // 特殊分類
   'KIDS & BABY': '兒童與嬰幼兒',
 };
