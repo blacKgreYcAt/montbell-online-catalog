@@ -7,7 +7,6 @@ import { loadImageMapping } from '@/lib/imageUtils';
 import { filterByCategory, filterByMainCategory, filterBySubCategory } from '@/lib/searchUtils';
 import { ProductGrid, FilterPanel, SearchBar, ErrorBoundary, DeadlineGuard } from '@/components';
 import { getMainCategoryByProductCategory } from '@/lib/categories';
-import { getCategoryLabel } from '@/lib/categoryTranslations';
 import { isAfterDeadline } from '@/lib/deadlineCheck';
 import type { Product, ImageMapping } from '@/types';
 
@@ -86,11 +85,11 @@ function ProductsPageContent() {
     <div className="space-y-8">
       {/* 頁面標題 */}
       <div>
-        <h1 className="text-4xl font-bold text-gray-900 mb-2">商品目錄</h1>
+        <h1 className="text-4xl font-bold text-gray-900 mb-2">Products</h1>
         <p className="text-lg text-gray-600">
           {selectedCategory
-            ? `${getCategoryLabel(selectedCategory)} - ${filteredProducts.length} 件商品`
-            : `全部商品 - ${products.length} 件`}
+            ? `${selectedCategory} - ${filteredProducts.length} items`
+            : `All Products - ${products.length} items`}
         </p>
       </div>
 
@@ -129,11 +128,11 @@ function ProductsPageContent() {
       {!loading && filteredProducts.length > 0 && (
         <div className="bg-[#f0f5ff] rounded-lg p-6 text-center border-2 border-[#7697B8]">
           <p className="text-gray-700">
-            顯示 <span className="font-bold text-[#004c6f]">{filteredProducts.length}</span> 件商品
+            Showing <span className="font-bold text-[#004c6f]">{filteredProducts.length}</span> items
             {selectedCategory && (
               <>
                 {' '}
-                / <span className="font-bold text-[#7697B8]">{getCategoryLabel(selectedCategory)}</span>
+                / <span className="font-bold text-[#7697B8]">{selectedCategory}</span>
               </>
             )}
           </p>

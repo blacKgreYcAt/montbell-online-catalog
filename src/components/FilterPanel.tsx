@@ -3,7 +3,6 @@
 import { useCallback, useMemo } from 'react';
 import { Product } from '@/types';
 import { getCategories } from '@/lib/searchUtils';
-import { getCategoryLabel } from '@/lib/categoryTranslations';
 
 interface FilterPanelProps {
   products: Product[];
@@ -39,7 +38,7 @@ export default function FilterPanel({
 
   return (
     <div className="bg-white rounded-2xl border-2 border-[#004c6f] p-6 shadow-md">
-      <h2 className="text-lg font-bold text-[#004c6f] mb-4">分類篩選</h2>
+      <h2 className="text-lg font-bold text-[#004c6f] mb-4">Categories</h2>
 
       {/* 全部分類 */}
       <button
@@ -50,8 +49,8 @@ export default function FilterPanel({
             : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
         }`}
       >
-        <div className="flex justify-between items-center">
-          <span>全部分類</span>
+        <div className="flex justify-between items-center w-full">
+          <span>All Categories</span>
           <span className="text-sm opacity-75">({totalProducts})</span>
         </div>
       </button>
@@ -69,7 +68,7 @@ export default function FilterPanel({
             }`}
           >
             <div className="flex justify-between items-center w-full">
-              <span className="font-medium text-sm">{getCategoryLabel(category)}</span>
+              <span className="font-medium text-sm">{category}</span>
               <span className={`text-sm ${
                 selectedCategory === category
                   ? 'opacity-75'
@@ -84,7 +83,7 @@ export default function FilterPanel({
 
       {/* 沒有分類提示 */}
       {categories.length === 0 && (
-        <p className="text-center text-gray-500 py-4">無可用分類</p>
+        <p className="text-center text-gray-500 py-4">No categories available</p>
       )}
 
       {/* 重置按鈕 */}
@@ -93,7 +92,7 @@ export default function FilterPanel({
           onClick={() => handleCategoryClick('')}
           className="w-full mt-4 px-4 py-2 border border-gray-300 rounded-lg text-gray-900 font-semibold hover:bg-gray-50 transition-colors"
         >
-          重置篩選
+          Clear Filter
         </button>
       )}
     </div>
