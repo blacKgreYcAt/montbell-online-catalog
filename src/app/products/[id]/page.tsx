@@ -219,14 +219,62 @@ export default function ProductDetailPage() {
             </span>
             {product.badge && (
               <span className={`inline-block px-3 py-1 rounded-full text-sm font-semibold text-white ${
-                product.badge.includes('27SS')
+                product.badge === '26FW'
                   ? 'bg-[#1a6fa0]'
-                  : 'bg-[#c39d6f]'
+                  : product.badge === '27SS'
+                  ? 'bg-[#1a6fa0]'
+                  : 'bg-[#d4644f]'
               }`}>
                 {product.badge}
               </span>
             )}
           </div>
+
+          {/* 顏色標籤 */}
+          {product.colors && product.colors.length > 0 && (
+            <div className="space-y-3">
+              <p className="text-sm text-gray-500 uppercase tracking-widest font-semibold">顏色</p>
+              <div className="flex gap-3 items-center flex-wrap">
+                {product.colors.slice(0, 8).map((color) => (
+                  <div
+                    key={color}
+                    className="flex items-center gap-2"
+                    title={color}
+                  >
+                    <div
+                      className="w-8 h-8 rounded-full border-2 border-[#004c6f] cursor-pointer"
+                      style={{
+                        backgroundColor: getColorCode(color),
+                      }}
+                    />
+                    <span className="text-sm font-medium text-gray-700">{color}</span>
+                  </div>
+                ))}
+                {product.colors.length > 8 && (
+                  <span className="text-sm text-gray-600 font-semibold">
+                    + {product.colors.length - 8} more
+                  </span>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* 樣品顏色 */}
+          {product.sampleColor && (
+            <div className="space-y-2 bg-blue-50 p-4 rounded-lg">
+              <p className="text-sm text-gray-500 uppercase tracking-widest font-semibold">樣品顏色</p>
+              <div className="flex items-center gap-3">
+                <div
+                  className="w-8 h-8 rounded-full border-2 border-[#004c6f]"
+                  title={`樣品: ${product.sampleColor}`}
+                  style={{
+                    backgroundColor: getColorCode(product.sampleColor),
+                  }}
+                />
+                <span className="text-base font-semibold text-gray-900">{product.sampleColor}</span>
+              </div>
+            </div>
+          )}
 
           {/* 描述 */}
           {product.description && (
@@ -362,4 +410,29 @@ export default function ProductDetailPage() {
       )}
     </div>
   );
+}
+
+function getColorCode(color: string): string {
+  const colorMap: Record<string, string> = {
+    'BK': '#000000',
+    'WH': '#f5f5f5',
+    'RD': '#ef4444',
+    'BL': '#3b82f6',
+    'GR': '#10b981',
+    'YE': '#fbbf24',
+    'PK': '#ec4899',
+    'BR': '#92400e',
+    'GY': '#6b7280',
+    'BE': '#d2b48c',
+    'NV': '#001f3f',
+    'DGY': '#4b5563',
+    'RBL': '#1e40af',
+    'GN': '#059669',
+    'OR': '#ea580c',
+    'TN': '#b45309',
+    'KH': '#c2b280',
+  };
+
+  const upperColor = color.toUpperCase();
+  return colorMap[upperColor] || colorMap[color] || '#e5e7eb';
 }
