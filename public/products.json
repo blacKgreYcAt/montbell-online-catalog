@@ -11,7 +11,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4040,
     "colors": [
@@ -32,7 +44,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3880,
     "colors": [
@@ -53,7 +78,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 2900,
     "colors": [
@@ -74,7 +111,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 2900,
     "colors": [
@@ -96,7 +146,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 7770,
     "colors": [
@@ -118,7 +180,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 7380,
     "colors": [
@@ -139,7 +214,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 6540,
     "colors": [
@@ -161,7 +248,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 6150,
     "colors": [
@@ -183,7 +283,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1330,
     "colors": [
@@ -206,7 +312,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4130,
     "colors": [
@@ -230,7 +342,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4480,
     "colors": [
@@ -254,7 +372,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 8600,
     "colors": [
@@ -277,7 +401,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 8600,
     "colors": [
@@ -300,7 +430,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 3040,
     "colors": [
@@ -322,7 +456,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 5020,
     "colors": [
@@ -348,7 +488,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4680,
     "colors": [
@@ -372,7 +518,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 3580,
     "colors": [
@@ -396,7 +548,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3270,
     "colors": [
@@ -420,7 +578,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -442,7 +612,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -463,7 +646,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 7680,
     "colors": [
@@ -488,7 +677,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7680,
     "colors": [
@@ -513,7 +708,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1600,
     "colors": [
@@ -535,7 +734,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7060,
     "colors": [
@@ -557,7 +761,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6660,
     "colors": [
@@ -580,7 +790,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7100,
     "colors": [
@@ -605,7 +824,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7100,
     "colors": [
@@ -630,7 +858,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 5440,
     "colors": [
@@ -652,7 +892,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 5160,
     "colors": [
@@ -673,7 +926,22 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4320,
     "colors": [
@@ -697,7 +965,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3990,
     "colors": [
@@ -720,7 +1001,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4940,
     "colors": [
@@ -742,7 +1035,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 4630,
     "colors": [
@@ -764,7 +1070,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4800,
     "colors": [
@@ -785,7 +1103,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 4800,
     "colors": [
@@ -806,7 +1137,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 9200,
     "colors": [
@@ -831,7 +1168,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 9200,
     "colors": [
@@ -856,7 +1199,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 4400,
     "colors": [
@@ -883,7 +1232,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4400,
     "colors": [
@@ -908,7 +1263,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 7200,
     "colors": [
@@ -932,7 +1293,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7200,
     "colors": [
@@ -956,7 +1323,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 2900,
     "colors": [
@@ -980,7 +1351,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6700,
     "colors": [
@@ -1003,7 +1379,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6700,
     "colors": [
@@ -1025,7 +1407,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 12660,
     "colors": [
@@ -1048,7 +1436,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 11000,
     "colors": [
@@ -1071,7 +1465,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 10800,
     "colors": [
@@ -1094,7 +1494,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 10180,
     "colors": [
@@ -1117,7 +1523,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 9860,
     "colors": [
@@ -1140,7 +1552,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 10080,
     "colors": [
@@ -1163,7 +1583,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3460,
     "colors": [
@@ -1185,7 +1610,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3380,
     "colors": [
@@ -1207,7 +1637,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4340,
     "colors": [
@@ -1228,7 +1663,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4130,
     "colors": [
@@ -1250,7 +1690,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 3680,
     "colors": [
@@ -1271,7 +1719,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 3400,
     "colors": [
@@ -1292,7 +1748,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2980,
     "colors": [
@@ -1315,7 +1776,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2980,
     "colors": [
@@ -1338,7 +1804,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 2840,
     "colors": [
@@ -1359,7 +1833,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 2880,
     "colors": [
@@ -1380,7 +1862,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1000,
     "colors": [
@@ -1402,7 +1889,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1300,
     "colors": [
@@ -1423,7 +1915,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1220,
     "colors": [
@@ -1445,7 +1942,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S-AB",
+      "S-CD",
+      "S-EF",
+      "M-AB",
+      "M-CD",
+      "M-EF",
+      "L-AB",
+      "L-CD",
+      "L-EF",
+      "XL-AB",
+      "XL-CD",
+      "XL-EF"
+    ],
     "weight": "",
     "price": 1620,
     "colors": [
@@ -1467,7 +1977,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -1489,7 +2004,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3000,
     "colors": [
@@ -1511,7 +2031,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2800,
     "colors": [
@@ -1532,7 +2057,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2600,
     "colors": [
@@ -1555,7 +2086,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2480,
     "colors": [
@@ -1577,7 +2113,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 2780,
     "colors": [
@@ -1599,7 +2143,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 2480,
     "colors": [
@@ -1620,7 +2172,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 830,
     "colors": [
@@ -1643,7 +2200,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -1664,7 +2226,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 610,
     "colors": [
@@ -1686,7 +2253,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -1708,7 +2280,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2180,
     "colors": [
@@ -1730,7 +2307,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2050,
     "colors": [
@@ -1751,7 +2333,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2040,
     "colors": [
@@ -1773,7 +2360,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1960,
     "colors": [
@@ -1795,7 +2387,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 1870,
     "colors": [
@@ -1816,7 +2416,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 1840,
     "colors": [
@@ -1837,7 +2445,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -1860,7 +2473,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -1882,7 +2500,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -1905,7 +2528,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -1928,7 +2556,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 720,
     "colors": [
@@ -1951,7 +2584,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 900,
     "colors": [
@@ -1974,7 +2612,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 860,
     "colors": [
@@ -1997,7 +2640,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1480,
     "colors": [
@@ -2020,7 +2668,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -2043,7 +2696,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1850,
     "colors": [
@@ -2066,7 +2724,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1770,
     "colors": [
@@ -2087,7 +2750,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1590,
     "colors": [
@@ -2111,7 +2780,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1550,
     "colors": [
@@ -2134,7 +2808,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 1550,
     "colors": [
@@ -2158,7 +2840,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S"
+    ],
     "weight": "",
     "price": 1480,
     "colors": [
@@ -2181,7 +2871,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1010,
     "colors": [
@@ -2203,7 +2896,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1730,
     "colors": [
@@ -2246,7 +2943,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1400,
     "colors": [
@@ -2269,7 +2969,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1280,
     "colors": [
@@ -2292,7 +2995,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1240,
     "colors": [
@@ -2315,7 +3021,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1160,
     "colors": [
@@ -2338,7 +3047,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 900,
     "colors": [],
@@ -2357,7 +3070,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 900,
     "colors": [],
@@ -2376,7 +3094,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 830,
     "colors": [
@@ -2399,7 +3120,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -2422,7 +3148,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1110,
     "colors": [
@@ -2444,7 +3174,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1020,
     "colors": [
@@ -2466,7 +3200,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -2490,7 +3227,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -2513,7 +3254,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1000,
     "colors": [
@@ -2537,7 +3283,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 960,
     "colors": [
@@ -2585,7 +3335,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -2609,7 +3363,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1110,
     "colors": [
@@ -2631,7 +3389,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1300,
     "colors": [
@@ -2653,7 +3415,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1060,
     "colors": [
@@ -2675,7 +3441,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1520,
     "colors": [
@@ -2697,7 +3467,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 950,
     "colors": [
@@ -2720,7 +3493,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1270,
     "colors": [
@@ -2743,7 +3521,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1080,
     "colors": [
@@ -2766,7 +3548,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -2792,7 +3577,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 950,
     "colors": [
@@ -2815,7 +3604,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 950,
     "colors": [
@@ -2837,7 +3630,9 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "#N/A"
+    ],
     "weight": "",
     "price": 1120,
     "colors": [
@@ -2907,7 +3702,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1880,
     "colors": [
@@ -2929,7 +3728,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1110,
     "colors": [
@@ -2951,7 +3754,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1270,
     "colors": [
@@ -2973,7 +3780,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1430,
     "colors": [
@@ -2995,7 +3806,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1110,
     "colors": [
@@ -3098,7 +3913,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1480,
     "colors": [
@@ -3121,7 +3940,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1240,
     "colors": [
@@ -3144,7 +3966,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3168,7 +3993,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3190,7 +4018,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3212,7 +4043,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3235,7 +4069,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 900,
     "colors": [
@@ -3261,7 +4098,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3283,7 +4123,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3305,7 +4148,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1110,
     "colors": [
@@ -3330,7 +4178,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1410,
     "colors": [
@@ -3356,7 +4209,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1460,
     "colors": [
@@ -3379,7 +4237,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1380,
     "colors": [
@@ -3402,7 +4265,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1170,
     "colors": [
@@ -3425,7 +4292,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 990,
     "colors": [
@@ -3448,7 +4318,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -3471,7 +4344,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1560,
     "colors": [
@@ -3492,7 +4369,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1040,
     "colors": [
@@ -3516,7 +4398,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1220,
     "colors": [
@@ -3539,7 +4425,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1400,
     "colors": [
@@ -3562,7 +4453,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -3585,7 +4481,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -3608,7 +4509,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1060,
     "colors": [
@@ -3631,7 +4536,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1400,
     "colors": [
@@ -3654,7 +4562,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1100,
     "colors": [
@@ -3677,7 +4588,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 960,
     "colors": [
@@ -3701,7 +4616,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -3724,7 +4644,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 900,
     "colors": [
@@ -3747,7 +4670,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3770,7 +4696,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 910,
     "colors": [
@@ -3793,7 +4722,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 950,
     "colors": [
@@ -3816,7 +4748,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1220,
     "colors": [
@@ -3840,7 +4777,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -3863,7 +4803,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -3885,7 +4829,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 860,
     "colors": [
@@ -3909,7 +4858,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 970,
     "colors": [
@@ -3932,7 +4885,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 860,
     "colors": [
@@ -3954,7 +4911,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1100,
     "colors": [
@@ -3978,7 +4940,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1220,
     "colors": [
@@ -4002,7 +4969,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 950,
     "colors": [
@@ -4026,7 +4997,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1110,
     "colors": [
@@ -4049,7 +5023,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1070,
     "colors": [
@@ -4072,7 +5049,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1020,
     "colors": [
@@ -4095,7 +5076,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -4116,7 +5101,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -4137,7 +5126,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -4158,7 +5151,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -4180,7 +5176,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -4202,7 +5201,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1360,
     "colors": [
@@ -4225,7 +5227,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 880,
     "colors": [
@@ -4248,7 +5253,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 960,
     "colors": [
@@ -4273,7 +5281,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1100,
     "colors": [
@@ -4296,7 +5307,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -4317,7 +5331,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -4338,7 +5355,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -4359,7 +5379,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1330,
     "colors": [
@@ -4383,7 +5408,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -4407,7 +5437,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1460,
     "colors": [
@@ -4430,7 +5463,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1100,
     "colors": [
@@ -4453,7 +5489,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1440,
     "colors": [
@@ -4477,7 +5517,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1750,
     "colors": [
@@ -4501,7 +5545,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1700,
     "colors": [
@@ -4524,7 +5572,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -4547,7 +5600,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1860,
     "colors": [
@@ -4569,7 +5627,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4930,
     "colors": [
@@ -4591,7 +5654,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 4930,
     "colors": [
@@ -4613,7 +5680,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7480,
     "colors": [
@@ -4634,7 +5706,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 7480,
     "colors": [
@@ -4655,7 +5731,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1900,
     "colors": [
@@ -4676,7 +5757,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1680,
     "colors": [
@@ -4697,7 +5782,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2880,
     "colors": [
@@ -4719,7 +5809,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 2880,
     "colors": [
@@ -4741,7 +5835,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 610,
     "colors": [
@@ -4765,7 +5864,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 610,
     "colors": [
@@ -4789,7 +5891,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 650,
     "colors": [
@@ -4815,7 +5923,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 650,
     "colors": [
@@ -4841,7 +5953,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 540,
     "colors": [
@@ -4866,7 +5981,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -4889,7 +6009,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -4912,7 +6036,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1080,
     "colors": [
@@ -4934,7 +6064,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -4956,7 +6091,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -4978,7 +6117,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -5000,7 +6144,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -5022,7 +6170,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 950,
     "colors": [
@@ -5044,7 +6198,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1340,
     "colors": [
@@ -5067,7 +6226,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1340,
     "colors": [
@@ -5090,7 +6253,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1300,
     "colors": [
@@ -5112,7 +6281,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -5134,7 +6308,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -5156,7 +6334,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 810,
     "colors": [
@@ -5181,7 +6365,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 800,
     "colors": [
@@ -5204,7 +6394,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 970,
     "colors": [
@@ -5226,7 +6421,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 970,
     "colors": [
@@ -5248,7 +6447,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1230,
     "colors": [
@@ -5271,7 +6475,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1230,
     "colors": [
@@ -5293,7 +6501,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2500,
     "colors": [
@@ -5316,7 +6530,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1360,
     "colors": [
@@ -5339,7 +6558,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1360,
     "colors": [
@@ -5362,7 +6585,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 720,
     "colors": [
@@ -5385,7 +6612,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -5407,7 +6639,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -5429,7 +6665,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1260,
     "colors": [
@@ -5451,7 +6692,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -5473,7 +6718,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 980,
     "colors": [
@@ -5496,7 +6746,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 980,
     "colors": [
@@ -5519,7 +6772,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1360,
     "colors": [
@@ -5541,7 +6799,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1360,
     "colors": [
@@ -5563,7 +6825,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1600,
     "colors": [
@@ -5585,7 +6852,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1600,
     "colors": [
@@ -5607,7 +6878,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1700,
     "colors": [
@@ -5631,7 +6907,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1700,
     "colors": [
@@ -5655,7 +6935,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1160,
     "colors": [
@@ -5677,7 +6961,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 9000,
     "colors": [
@@ -5700,7 +6989,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 8910,
     "colors": [
@@ -5722,7 +7017,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 7800,
     "colors": [
@@ -5745,7 +7046,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7600,
     "colors": [
@@ -5768,7 +7075,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4970,
     "colors": [
@@ -5793,7 +7108,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4860,
     "colors": [
@@ -5816,7 +7137,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 5400,
     "colors": [
@@ -5841,7 +7170,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 5300,
     "colors": [
@@ -5864,7 +7201,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4360,
     "colors": [
@@ -5887,7 +7230,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3780,
     "colors": [
@@ -5909,7 +7257,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3670,
     "colors": [
@@ -5931,7 +7285,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4550,
     "colors": [
@@ -5953,7 +7312,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 12800,
     "colors": [
@@ -5977,7 +7344,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 12400,
     "colors": [
@@ -6000,7 +7375,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 6660,
     "colors": [
@@ -6024,7 +7405,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5800,
     "colors": [
@@ -6048,7 +7435,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5580,
     "colors": [
@@ -6070,7 +7462,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5220,
     "colors": [
@@ -6092,7 +7490,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6640,
     "colors": [
@@ -6117,7 +7523,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6520,
     "colors": [
@@ -6141,7 +7555,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4880,
     "colors": [
@@ -6164,7 +7583,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4760,
     "colors": [
@@ -6187,7 +7612,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7760,
     "colors": [
@@ -6211,7 +7644,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7450,
     "colors": [
@@ -6235,7 +7676,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6860,
     "colors": [
@@ -6260,7 +7709,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6700,
     "colors": [
@@ -6284,7 +7741,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6330,
     "colors": [
@@ -6306,7 +7768,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6080,
     "colors": [
@@ -6329,7 +7797,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 8100,
     "colors": [
@@ -6352,7 +7828,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9500,
     "colors": [
@@ -6377,7 +7861,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9200,
     "colors": [
@@ -6401,7 +7893,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 14040,
     "colors": [
@@ -6424,7 +7924,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 13670,
     "colors": [
@@ -6447,7 +7953,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9140,
     "colors": [
@@ -6471,7 +7985,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9200,
     "colors": [
@@ -6494,7 +8016,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 7300,
     "colors": [
@@ -6516,7 +8044,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7130,
     "colors": [
@@ -6538,7 +8072,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6680,
     "colors": [
@@ -6560,7 +8099,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6360,
     "colors": [
@@ -6581,7 +8126,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5890,
     "colors": [
@@ -6603,7 +8154,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 5200,
     "colors": [
@@ -6628,7 +8188,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 5140,
     "colors": [
@@ -6652,7 +8220,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5220,
     "colors": [
@@ -6675,7 +8248,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5120,
     "colors": [
@@ -6698,7 +8277,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7160,
     "colors": [
@@ -6723,7 +8310,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6750,
     "colors": [
@@ -6747,7 +8342,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4300,
     "colors": [
@@ -6772,7 +8376,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4200,
     "colors": [
@@ -6797,7 +8409,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4180,
     "colors": [
@@ -6819,7 +8439,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4100,
     "colors": [
@@ -6842,7 +8470,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3500,
     "colors": [
@@ -6864,7 +8500,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3400,
     "colors": [
@@ -6887,7 +8531,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5400,
     "colors": [
@@ -6909,7 +8559,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 4140,
     "colors": [
@@ -6931,7 +8587,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4060,
     "colors": [
@@ -6953,7 +8617,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3820,
     "colors": [
@@ -6975,7 +8647,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 4800,
     "colors": [
@@ -6999,7 +8677,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4600,
     "colors": [
@@ -7022,7 +8705,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4250,
     "colors": [
@@ -7044,7 +8733,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 5950,
     "colors": [
@@ -7067,7 +8762,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5780,
     "colors": [
@@ -7090,7 +8790,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4610,
     "colors": [
@@ -7112,7 +8818,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3600,
     "colors": [
@@ -7134,7 +8845,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3490,
     "colors": [
@@ -7156,7 +8872,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3960,
     "colors": [
@@ -7178,7 +8900,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3400,
     "colors": [
@@ -7200,7 +8927,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3400,
     "colors": [
@@ -7222,7 +8954,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -7244,7 +8980,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -7266,7 +9007,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -7289,7 +9034,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2240,
     "colors": [
@@ -7380,7 +9130,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1330,
     "colors": [
@@ -7403,7 +9157,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1230,
     "colors": [
@@ -7426,7 +9186,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 560,
     "colors": [
@@ -7450,7 +9214,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1590,
     "colors": [
@@ -7473,7 +9241,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1340,
     "colors": [
@@ -7520,7 +9294,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1160,
     "colors": [
@@ -7542,7 +9320,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1080,
     "colors": [
@@ -7612,7 +9396,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1960,
     "colors": [
@@ -7636,7 +9424,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1700,
     "colors": [
@@ -7660,7 +9454,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2380,
     "colors": [
@@ -7683,7 +9481,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -7706,7 +9510,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1800,
     "colors": [
@@ -7730,7 +9538,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1510,
     "colors": [
@@ -7754,7 +9568,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 920,
     "colors": [
@@ -7777,7 +9595,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1910,
     "colors": [
@@ -7800,7 +9622,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1770,
     "colors": [
@@ -7823,7 +9651,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 1770,
     "colors": [
@@ -7845,7 +9677,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1690,
     "colors": [
@@ -7889,7 +9727,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3030,
     "colors": [
@@ -7912,7 +9754,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2670,
     "colors": [
@@ -7935,7 +9783,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -7957,7 +9809,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2240,
     "colors": [
@@ -7979,7 +9837,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 4450,
     "colors": [
@@ -8002,7 +9865,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 5410,
     "colors": [
@@ -8025,7 +9892,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 830,
     "colors": [
@@ -8048,7 +9919,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 830,
     "colors": [
@@ -8071,7 +9947,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -8093,7 +9973,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -8115,7 +10000,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -8137,7 +10026,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -8159,7 +10053,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -8181,7 +10079,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -8272,7 +10175,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2900,
     "colors": [
@@ -8295,7 +10202,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2530,
     "colors": [
@@ -8318,7 +10229,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2400,
     "colors": [
@@ -8339,7 +10254,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1570,
     "colors": [
@@ -8360,7 +10279,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3980,
     "colors": [
@@ -8383,7 +10307,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 4770,
     "colors": [
@@ -8429,7 +10357,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150"
+    ],
     "weight": "",
     "price": 1010,
     "colors": [
@@ -8451,7 +10382,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -8496,7 +10432,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2380,
     "colors": [
@@ -8519,7 +10459,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -8542,7 +10488,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -8563,7 +10513,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1230,
     "colors": [
@@ -8630,7 +10586,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2700,
     "colors": [
@@ -8655,7 +10615,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -8680,7 +10645,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2490,
     "colors": [
@@ -8704,7 +10673,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2310,
     "colors": [
@@ -8728,7 +10702,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140-R",
+      "150-R",
+      "160-R",
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2400,
     "colors": [
@@ -8751,7 +10732,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1960,
     "colors": [
@@ -8818,7 +10804,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "17-19",
+      "19-21",
+      "21-23",
+      "23-25"
+    ],
     "weight": "",
     "price": 430,
     "colors": [
@@ -8841,7 +10832,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "50-52",
+      "52-54"
+    ],
     "weight": "",
     "price": 830,
     "colors": [
@@ -8862,7 +10856,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3180,
     "colors": [
@@ -8887,7 +10886,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3660,
     "colors": [
@@ -8912,7 +10915,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2070,
     "colors": [
@@ -8934,7 +10942,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2390,
     "colors": [
@@ -8956,7 +10968,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2000,
     "colors": [
@@ -8978,7 +10994,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1750,
     "colors": [
@@ -9000,7 +11021,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -9021,7 +11046,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3550,
     "colors": [
@@ -9045,7 +11074,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3240,
     "colors": [
@@ -9069,7 +11102,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "2-3",
+      "4-6"
+    ],
     "weight": "",
     "price": 560,
     "colors": [
@@ -9092,7 +11128,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 1440,
     "colors": [
@@ -9116,7 +11156,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2550,
     "colors": [
@@ -9138,7 +11182,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2700,
     "colors": [
@@ -9160,7 +11208,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3500,
     "colors": [
@@ -9184,7 +11236,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3980,
     "colors": [
@@ -9208,7 +11264,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -9232,7 +11291,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "3-4",
+      "4-6"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -9255,7 +11317,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3020,
     "colors": [
@@ -9278,7 +11344,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3340,
     "colors": [
@@ -9301,7 +11371,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3820,
     "colors": [
@@ -9325,7 +11399,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 4450,
     "colors": [
@@ -9438,7 +11516,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3660,
     "colors": [
@@ -9462,7 +11545,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3980,
     "colors": [
@@ -9551,7 +11638,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 5400,
     "colors": [
@@ -9574,7 +11665,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2640,
     "colors": [
@@ -9596,7 +11692,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2770,
     "colors": [
@@ -9618,7 +11718,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3500,
     "colors": [
@@ -9641,7 +11746,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3330,
     "colors": [
@@ -9664,7 +11773,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -9686,7 +11799,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1770,
     "colors": [
@@ -9708,7 +11826,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2770,
     "colors": [
@@ -9731,7 +11854,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2960,
     "colors": [
@@ -9754,7 +11881,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -9777,7 +11908,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2240,
     "colors": [
@@ -9800,7 +11936,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2380,
     "colors": [
@@ -9822,7 +11962,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2090,
     "colors": [
@@ -9844,7 +11989,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2900,
     "colors": [
@@ -9867,7 +12017,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 3180,
     "colors": [
@@ -9890,7 +12044,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 980,
     "colors": [
@@ -9912,7 +12070,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2750,
     "colors": [
@@ -9936,7 +12098,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 2530,
     "colors": [
@@ -9960,7 +12127,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2600,
     "colors": [
@@ -9982,7 +12153,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1600,
     "colors": [
@@ -10004,7 +12180,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 880,
     "colors": [
@@ -10026,7 +12206,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -10049,7 +12233,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1730,
     "colors": [
@@ -10071,7 +12260,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150"
+    ],
     "weight": "",
     "price": 1260,
     "colors": [
@@ -10093,7 +12285,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 1080,
     "colors": [
@@ -10115,7 +12312,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 3660,
     "colors": [
@@ -10138,7 +12340,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 4140,
     "colors": [
@@ -10227,7 +12433,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10249,7 +12459,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10271,7 +12486,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10293,7 +12512,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10315,7 +12539,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10337,7 +12565,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10359,7 +12592,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10381,7 +12618,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10403,7 +12645,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10424,7 +12670,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10445,7 +12696,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10466,7 +12721,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10487,7 +12747,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10508,7 +12772,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -10529,7 +12798,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "140",
+      "150",
+      "160"
+    ],
     "weight": "",
     "price": 970,
     "colors": [
@@ -10552,7 +12825,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
     "weight": "",
     "price": 970,
     "colors": [
@@ -10575,7 +12853,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "17-19",
+      "19-21",
+      "21-23"
+    ],
     "weight": "",
     "price": 250,
     "colors": [
@@ -10596,7 +12878,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "17-19",
+      "19-21",
+      "21-23",
+      "23-25"
+    ],
     "weight": "",
     "price": 480,
     "colors": [
@@ -10619,7 +12906,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "4-6",
+      "7-9",
+      "10-12"
+    ],
     "weight": "",
     "price": 830,
     "colors": [
@@ -10641,7 +12932,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "135",
+      "150"
+    ],
     "weight": "",
     "price": 1260,
     "colors": [
@@ -10663,7 +12957,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "105",
+      "120"
+    ],
     "weight": "",
     "price": 1190,
     "colors": [
@@ -10685,7 +12982,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "135",
+      "150"
+    ],
     "weight": "",
     "price": 1140,
     "colors": [
@@ -10707,7 +13007,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "105",
+      "120"
+    ],
     "weight": "",
     "price": 1000,
     "colors": [
@@ -10729,7 +13032,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3020,
     "colors": [
@@ -10753,7 +13061,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2880,
     "colors": [
@@ -10776,7 +13090,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2770,
     "colors": [
@@ -10800,7 +13120,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1500,
     "colors": [
@@ -10822,7 +13148,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1500,
     "colors": [
@@ -10844,7 +13176,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1500,
     "colors": [
@@ -10866,7 +13204,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1560,
     "colors": [
@@ -10890,7 +13234,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2070,
     "colors": [
@@ -10913,7 +13262,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1970,
     "colors": [
@@ -10936,7 +13291,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -10958,7 +13319,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -10980,7 +13347,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -11002,7 +13375,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2200,
     "colors": [
@@ -11024,7 +13403,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3960,
     "colors": [
@@ -11048,7 +13432,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3820,
     "colors": [
@@ -11071,7 +13461,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3820,
     "colors": [
@@ -11095,7 +13490,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3530,
     "colors": [
@@ -11119,7 +13520,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3100,
     "colors": [
@@ -11145,7 +13551,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3160,
     "colors": [
@@ -11166,7 +13577,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3160,
     "colors": [
@@ -11187,7 +13603,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2960,
     "colors": [
@@ -11212,7 +13634,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3100,
     "colors": [
@@ -11233,7 +13661,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2960,
     "colors": [
@@ -11255,7 +13689,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3460,
     "colors": [
@@ -11278,7 +13718,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -11301,7 +13746,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2410,
     "colors": [
@@ -11323,7 +13774,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2650,
     "colors": [
@@ -11346,7 +13803,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2130,
     "colors": [
@@ -11369,7 +13832,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2250,
     "colors": [
@@ -11392,7 +13861,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2810,
     "colors": [
@@ -11416,7 +13891,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11438,7 +13920,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1190,
     "colors": [
@@ -11460,7 +13949,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11481,7 +13977,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11503,7 +14006,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11524,7 +14034,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11546,7 +14063,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11567,7 +14091,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1190,
     "colors": [
@@ -11589,7 +14121,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1100,
     "colors": [
@@ -11610,7 +14150,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -11632,7 +14180,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1190,
     "colors": [
@@ -11654,7 +14210,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1150,
     "colors": [
@@ -11679,7 +14241,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1160,
     "colors": [
@@ -11704,7 +14274,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1400,
     "colors": [
@@ -11728,7 +14305,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -11753,7 +14336,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1260,
     "colors": [
@@ -11777,7 +14365,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1700,
     "colors": [
@@ -11802,7 +14396,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1590,
     "colors": [
@@ -11826,7 +14425,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2590,
     "colors": [
@@ -11849,7 +14453,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -11872,7 +14482,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2410,
     "colors": [
@@ -11897,7 +14512,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2340,
     "colors": [
@@ -11946,7 +14567,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 5220,
     "colors": [
@@ -11968,7 +14601,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 4860,
     "colors": [
@@ -11990,7 +14636,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 3800,
     "colors": [
@@ -12013,7 +14672,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3600,
     "colors": [
@@ -12036,7 +14708,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 4200,
     "colors": [
@@ -12059,7 +14744,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3910,
     "colors": [
@@ -12082,7 +14780,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 3720,
     "colors": [
@@ -12105,7 +14822,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3640,
     "colors": [
@@ -12128,7 +14858,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4140,
     "colors": [
@@ -12151,7 +14900,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3850,
     "colors": [
@@ -12173,7 +14935,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 3080,
     "colors": [
@@ -12196,7 +14977,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 2980,
     "colors": [
@@ -12219,7 +15013,21 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 3780,
     "colors": [
@@ -12241,7 +15049,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3680,
     "colors": [
@@ -12263,7 +15084,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 5760,
     "colors": [
@@ -12285,7 +15118,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 5400,
     "colors": [
@@ -12307,7 +15153,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4380,
     "colors": [
@@ -12329,7 +15194,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 4200,
     "colors": [
@@ -12351,7 +15235,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 4270,
     "colors": [
@@ -12374,7 +15271,19 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 3500,
     "colors": [
@@ -12396,7 +15305,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3400,
     "colors": [
@@ -12418,7 +15340,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 3000,
     "colors": [
@@ -12441,7 +15382,21 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 2960,
     "colors": [
@@ -12464,7 +15419,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 2800,
     "colors": [
@@ -12486,7 +15454,22 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 2920,
     "colors": [
@@ -12509,7 +15492,21 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 4010,
     "colors": [
@@ -12532,7 +15529,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3790,
     "colors": [
@@ -12554,7 +15564,21 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 3540,
     "colors": [
@@ -12577,7 +15601,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3460,
     "colors": [
@@ -12624,7 +15661,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 980,
     "colors": [
@@ -12648,7 +15688,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 3180,
     "colors": [
@@ -12671,7 +15724,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3020,
     "colors": [
@@ -12694,7 +15760,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L"
+    ],
     "weight": "",
     "price": 4140,
     "colors": [
@@ -12716,7 +15795,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3980,
     "colors": [
@@ -12738,7 +15830,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3150,
     "colors": [
@@ -12760,7 +15857,26 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "L-SS",
+      "XL-SS",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "XXXLS",
+      "XS-L",
+      "S-L",
+      "M-L",
+      "L-L",
+      "XL-L"
+    ],
     "weight": "",
     "price": 3860,
     "colors": [
@@ -12783,7 +15899,20 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-S",
+      "L-S",
+      "XL-S",
+      "XXL-S",
+      "S-L",
+      "M-L",
+      "L-L"
+    ],
     "weight": "",
     "price": 3700,
     "colors": [
@@ -12805,7 +15934,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2630,
     "colors": [
@@ -12827,7 +15961,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2000,
     "colors": [
@@ -12849,7 +15989,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2310,
     "colors": [
@@ -13095,7 +16240,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 640,
     "colors": [
@@ -13143,7 +16291,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 900,
     "colors": [
@@ -13259,7 +16410,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1050,
     "colors": [
@@ -13282,7 +16437,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1210,
     "colors": [
@@ -13328,7 +16487,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 980,
     "colors": [
@@ -13350,7 +16513,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1160,
     "colors": [
@@ -13395,7 +16562,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 580,
     "colors": [
@@ -13419,7 +16589,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2990,
     "colors": [
@@ -13441,7 +16617,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2830,
     "colors": [
@@ -13465,7 +16647,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -13491,7 +16681,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2020,
     "colors": [
@@ -13515,7 +16713,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2230,
     "colors": [
@@ -13539,7 +16743,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2510,
     "colors": [
@@ -13561,7 +16771,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2280,
     "colors": [
@@ -13583,7 +16801,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -13612,7 +16838,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2020,
     "colors": [
@@ -13638,7 +16872,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -13661,7 +16901,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2020,
     "colors": [
@@ -13685,7 +16931,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -13710,7 +16964,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2200,
     "colors": [
@@ -13736,7 +16998,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5530,
     "colors": [
@@ -13759,7 +17026,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1400,
     "colors": [
@@ -13780,7 +17052,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 720,
     "colors": [
@@ -13802,7 +17078,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 500,
     "colors": [
@@ -13825,7 +17105,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 500,
     "colors": [
@@ -13848,7 +17131,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 650,
     "colors": [
@@ -13871,7 +17158,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 650,
     "colors": [
@@ -13894,7 +17184,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 500,
     "colors": [
@@ -13916,7 +17210,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 610,
     "colors": [
@@ -13938,7 +17236,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -13960,7 +17262,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 790,
     "colors": [
@@ -13982,7 +17288,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1080,
     "colors": [
@@ -14004,7 +17314,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -14028,7 +17343,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 940,
     "colors": [
@@ -14050,7 +17368,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1150,
     "colors": [
@@ -14072,7 +17394,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 1150,
     "colors": [
@@ -14118,7 +17443,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 720,
     "colors": [
@@ -14140,7 +17469,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 970,
     "colors": [
@@ -14162,7 +17495,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 680,
     "colors": [
@@ -14184,7 +17521,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -14206,7 +17547,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 490,
     "colors": [
@@ -14228,7 +17573,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 560,
     "colors": [
@@ -14251,7 +17600,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 560,
     "colors": [
@@ -14273,7 +17625,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 400,
     "colors": [
@@ -14297,7 +17653,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 460,
     "colors": [
@@ -14321,7 +17680,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 560,
     "colors": [
@@ -14345,7 +17709,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 560,
     "colors": [
@@ -14369,7 +17737,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -14392,7 +17764,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -14414,7 +17789,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 480,
     "colors": [
@@ -14439,7 +17819,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 480,
     "colors": [
@@ -14463,7 +17847,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 690,
     "colors": [
@@ -14488,7 +17877,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 690,
     "colors": [
@@ -14512,7 +17905,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 530,
     "colors": [
@@ -14536,7 +17933,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 530,
     "colors": [
@@ -14560,7 +17960,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 600,
     "colors": [
@@ -14584,7 +17989,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 600,
     "colors": [
@@ -14608,7 +18017,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 1340,
     "colors": [
@@ -14631,7 +18043,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 870,
     "colors": [
@@ -14653,7 +18069,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 700,
     "colors": [
@@ -14676,7 +18096,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 670,
     "colors": [
@@ -14699,7 +18122,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1000,
     "colors": [
@@ -14720,7 +18147,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 840,
     "colors": [
@@ -14742,7 +18173,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 760,
     "colors": [
@@ -14764,7 +18198,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 360,
     "colors": [
@@ -14787,7 +18225,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 480,
     "colors": [
@@ -14810,7 +18252,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 480,
     "colors": [
@@ -14833,7 +18278,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 310,
     "colors": [
@@ -14856,7 +18305,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 310,
     "colors": [
@@ -14879,7 +18331,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 340,
     "colors": [
@@ -14902,7 +18359,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 360,
     "colors": [
@@ -14925,7 +18386,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 340,
     "colors": [
@@ -14947,7 +18412,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 390,
     "colors": [
@@ -14969,7 +18438,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 630,
     "colors": [
@@ -14991,7 +18464,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 650,
     "colors": [
@@ -15013,7 +18489,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 450,
     "colors": [
@@ -15037,7 +18518,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 450,
     "colors": [
@@ -15061,7 +18545,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 390,
     "colors": [
@@ -15087,7 +18575,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 420,
     "colors": [
@@ -15113,7 +18606,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 460,
     "colors": [
@@ -15139,7 +18636,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 510,
     "colors": [
@@ -15161,7 +18662,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 590,
     "colors": [
@@ -15184,7 +18689,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 590,
     "colors": [
@@ -15207,7 +18715,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 340,
     "colors": [
@@ -15231,7 +18743,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M"
+    ],
     "weight": "",
     "price": 340,
     "colors": [
@@ -15254,7 +18769,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 380,
     "colors": [
@@ -15278,7 +18798,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 410,
     "colors": [
@@ -15301,7 +18825,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 390,
     "colors": [
@@ -15327,7 +18856,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 480,
     "colors": [
@@ -15349,7 +18882,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 450,
     "colors": [
@@ -15371,7 +18908,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6910,
     "colors": [
@@ -15394,7 +18939,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6660,
     "colors": [
@@ -15417,7 +18970,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 5040,
     "colors": [
@@ -15442,7 +19003,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4820,
     "colors": [
@@ -15466,7 +19035,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4680,
     "colors": [
@@ -15490,7 +19067,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4460,
     "colors": [
@@ -15513,7 +19096,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 3820,
     "colors": [
@@ -15535,7 +19125,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3090,
     "colors": [
@@ -15560,7 +19159,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2930,
     "colors": [
@@ -15585,7 +19192,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2830,
     "colors": [
@@ -15610,7 +19225,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2640,
     "colors": [
@@ -15634,7 +19256,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2800,
     "colors": [
@@ -15659,7 +19289,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2610,
     "colors": [
@@ -15682,7 +19320,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2390,
     "colors": [
@@ -15703,7 +19346,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2230,
     "colors": [
@@ -15724,7 +19373,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2610,
     "colors": [
@@ -15746,7 +19401,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1030,
     "colors": [
@@ -15770,7 +19429,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1660,
     "colors": [
@@ -15792,7 +19456,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1500,
     "colors": [
@@ -15817,7 +19486,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1950,
     "colors": [
@@ -15842,7 +19519,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2130,
     "colors": [
@@ -15869,7 +19554,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1950,
     "colors": [
@@ -15896,7 +19589,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1880,
     "colors": [
@@ -15917,7 +19615,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1660,
     "colors": [
@@ -15938,7 +19642,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1700,
     "colors": [
@@ -15962,7 +19672,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1520,
     "colors": [
@@ -15985,7 +19701,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4170,
     "colors": [
@@ -16008,7 +19729,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3860,
     "colors": [
@@ -16031,7 +19758,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3550,
     "colors": [
@@ -16053,7 +19785,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3240,
     "colors": [
@@ -16075,7 +19813,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1800,
     "colors": [
@@ -16098,7 +19841,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1620,
     "colors": [
@@ -16121,7 +19870,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3440,
     "colors": [
@@ -16147,7 +19905,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3200,
     "colors": [
@@ -16171,7 +19937,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4200,
     "colors": [
@@ -16194,7 +19965,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4030,
     "colors": [
@@ -16217,7 +19994,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 5500,
     "colors": [
@@ -16240,7 +20026,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 2700,
     "colors": [
@@ -16263,7 +20055,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2600,
     "colors": [
@@ -16286,7 +20086,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2250,
     "colors": [
@@ -16311,7 +20119,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -16335,7 +20151,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -16360,7 +20184,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2070,
     "colors": [
@@ -16383,7 +20215,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2480,
     "colors": [
@@ -16409,7 +20249,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2380,
     "colors": [
@@ -16435,7 +20283,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1970,
     "colors": [
@@ -16457,7 +20310,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1580,
     "colors": [
@@ -16482,7 +20341,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2500,
     "colors": [
@@ -16506,7 +20373,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2460,
     "colors": [
@@ -16529,7 +20402,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1800,
     "colors": [
@@ -16552,7 +20430,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1720,
     "colors": [
@@ -16574,7 +20458,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1230,
     "colors": [
@@ -16597,7 +20486,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2520,
     "colors": [
@@ -16620,7 +20514,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2420,
     "colors": [
@@ -16642,7 +20542,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 2200,
     "colors": [
@@ -16665,7 +20571,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2100,
     "colors": [
@@ -16687,7 +20601,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2770,
     "colors": [
@@ -16711,7 +20633,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2700,
     "colors": [
@@ -16734,7 +20662,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3900,
     "colors": [
@@ -16758,7 +20691,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3800,
     "colors": [
@@ -16780,7 +20719,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2440,
     "colors": [
@@ -16803,7 +20747,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2400,
     "colors": [
@@ -16825,7 +20775,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -16849,7 +20807,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3330,
     "colors": [
@@ -16873,7 +20836,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3240,
     "colors": [
@@ -16896,7 +20865,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3680,
     "colors": [
@@ -16920,7 +20897,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3500,
     "colors": [
@@ -16943,7 +20926,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 3680,
     "colors": [
@@ -16966,7 +20957,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 4200,
     "colors": [
@@ -16989,7 +20986,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4140,
     "colors": [
@@ -17012,7 +21017,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3500,
     "colors": [
@@ -17034,7 +21044,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2900,
     "colors": [
@@ -17056,7 +21072,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3360,
     "colors": [
@@ -17079,7 +21100,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3150,
     "colors": [
@@ -17102,7 +21129,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3540,
     "colors": [
@@ -17125,7 +21157,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3360,
     "colors": [
@@ -17148,7 +21186,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7400,
     "colors": [
@@ -17171,7 +21214,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6800,
     "colors": [
@@ -17193,7 +21241,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6650,
     "colors": [
@@ -17215,7 +21268,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6300,
     "colors": [
@@ -17237,7 +21295,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5950,
     "colors": [
@@ -17259,7 +21322,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2230,
     "colors": [
@@ -17281,7 +21349,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2160,
     "colors": [
@@ -17304,7 +21378,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1650,
     "colors": [
@@ -17328,7 +21408,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 1590,
     "colors": [
@@ -17351,7 +21439,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1810,
     "colors": [
@@ -17372,7 +21465,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1750,
     "colors": [
@@ -17393,7 +21492,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1620,
     "colors": [
@@ -17415,7 +21519,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1560,
     "colors": [
@@ -17438,7 +21548,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 3000,
     "colors": [
@@ -17462,7 +21578,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2800,
     "colors": [
@@ -17486,7 +21608,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2260,
     "colors": [
@@ -17508,7 +21635,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2180,
     "colors": [
@@ -17530,7 +21662,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 11880,
     "colors": [
@@ -17552,7 +21690,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 13680,
     "colors": [
@@ -17574,7 +21717,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 11520,
     "colors": [
@@ -17596,7 +21744,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 10800,
     "colors": [
@@ -17618,7 +21772,16 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 4200,
     "colors": [
@@ -17642,7 +21805,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 8370,
     "colors": [
@@ -17664,7 +21833,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7160,
     "colors": [
@@ -17689,7 +21866,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 6680,
     "colors": [
@@ -17712,7 +21897,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5850,
     "colors": [
@@ -17734,7 +21924,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 5410,
     "colors": [
@@ -17756,7 +21952,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 4000,
     "colors": [
@@ -17778,7 +21980,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9980,
     "colors": [
@@ -17800,7 +22010,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9550,
     "colors": [
@@ -17822,7 +22040,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 10500,
     "colors": [
@@ -17843,7 +22066,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7860,
     "colors": [
@@ -17866,7 +22094,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7860,
     "colors": [
@@ -17888,7 +22122,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 9440,
     "colors": [
@@ -17910,7 +22150,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 7480,
     "colors": [
@@ -17934,7 +22180,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 7200,
     "colors": [
@@ -17957,7 +22211,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 6540,
     "colors": [
@@ -17980,7 +22240,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 9000,
     "colors": [
@@ -18003,7 +22271,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2450,
     "colors": [
@@ -18026,7 +22302,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2290,
     "colors": [
@@ -18048,7 +22331,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 3400,
     "colors": [
@@ -18070,7 +22359,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS/S",
+      "M/L",
+      "XL2XL"
+    ],
     "weight": "",
     "price": 3770,
     "colors": [
@@ -18092,7 +22385,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 2350,
     "colors": [
@@ -18116,7 +22415,15 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "M-R",
+      "L-R"
+    ],
     "weight": "",
     "price": 2350,
     "colors": [
@@ -18139,7 +22446,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 2130,
     "colors": [
@@ -24988,7 +29301,13 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
     "weight": "",
     "price": 1620,
     "colors": [
@@ -25009,7 +29328,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 3200,
     "colors": [
@@ -25033,7 +29355,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 620,
     "colors": [
@@ -26199,7 +30525,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 440,
     "colors": [
@@ -26379,7 +30708,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1400,
     "colors": [
@@ -26406,7 +30742,14 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
     "weight": "",
     "price": 1180,
     "colors": [
@@ -26432,7 +30775,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1980,
     "colors": [
@@ -26455,7 +30802,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1800,
     "colors": [
@@ -26478,7 +30829,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1370,
     "colors": [
@@ -26502,7 +30857,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1680,
     "colors": [
@@ -26547,7 +30906,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 2220,
     "colors": [
@@ -26753,7 +31116,12 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 1200,
     "colors": [
@@ -27748,7 +32116,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 14640,
     "colors": [],
@@ -27767,7 +32138,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 12970,
     "colors": [],
@@ -27786,7 +32160,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 10840,
     "colors": [],
@@ -27805,7 +32182,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 8730,
     "colors": [],
@@ -27824,7 +32204,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 7240,
     "colors": [
@@ -27846,7 +32229,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 19040,
     "colors": [
@@ -28061,7 +32447,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 14640,
     "colors": [
@@ -28082,7 +32471,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 12970,
     "colors": [
@@ -28103,7 +32495,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 10840,
     "colors": [
@@ -28125,7 +32520,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "R/ZIP",
+      "L/ZIP"
+    ],
     "weight": "",
     "price": 8730,
     "colors": [
@@ -28401,7 +32799,10 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
     "weight": "",
     "price": 2770,
     "colors": [
@@ -28424,7 +32825,11 @@
     "featuresEn": "",
     "specifications": "",
     "specificationsEn": "",
-    "sizes": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
     "weight": "",
     "price": 2130,
     "colors": [
