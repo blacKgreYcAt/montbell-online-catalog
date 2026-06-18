@@ -130,7 +130,7 @@ export default function ProductCard({ product, imageId, hidePrice = false, baseP
           {product.price && !hidePrice && (
             <div className="pt-3 border-t border-gray-200">
               <p className="text-lg font-bold text-[#C00]">
-                NT${product.price.toLocaleString()}
+                {product.price}
               </p>
             </div>
           )}

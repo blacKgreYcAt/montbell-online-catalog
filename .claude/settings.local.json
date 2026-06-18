@@ -276,7 +276,14 @@
       "Bash(powershell -Command \"\\(Get-Content public/imageMapping.json -Encoding UTF8 | ConvertFrom-Json\\) | Measure-Object -Property Keys | Select-Object -ExpandProperty Count\")",
       "Bash(powershell -Command \"\\(\\\\\\(Get-Content public/imageMapping.json -Encoding UTF8 | ConvertFrom-Json\\\\\\) | Get-Member -MemberType NoteProperty\\).Count\")",
       "Bash(powershell -Command ' *)",
-      "mcp__visualize__read_me"
+      "mcp__visualize__read_me",
+      "Bash(node fix-duplicates.js)",
+      "Bash(gh api *)",
+      "Bash(python extract_prices.py)",
+      "Bash(python extract_prices_v2.py)",
+      "Bash(python extract_prices_f_column.py)",
+      "Bash(python update_internal_prices.py)",
+      "Bash(python update_all_internal_prices.py)"
     ]
   }
 }

@@ -146,7 +146,7 @@ function InternalProductsContent() {
             products={filteredProducts}
             imageMapping={imageMapping}
             loading={loading}
-            hidePrice={true}
+            hidePrice={false}
             basePath="/internal/products"
             useGoogleDrive={true}
             emptyMessage={
