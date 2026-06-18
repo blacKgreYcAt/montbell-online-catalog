@@ -51,15 +51,16 @@ function ProductsPageContent() {
 
   // 篩選商品 - 使用簡單的分類匹配
   const filteredProducts = useMemo(() => {
-    let results = products;
-
-    if (selectedCategory) {
-      results = results.filter((p) =>
-        p.category.toLowerCase() === selectedCategory.toLowerCase()
-      );
+    if (!selectedCategory) {
+      return products;
     }
 
-    return results;
+    // 只根據产品的 category 字段进行精确匹配（不区分大小写）
+    return products.filter((p) => {
+      const productCategory = p.category?.toLowerCase() || '';
+      const filterCategory = selectedCategory.toLowerCase();
+      return productCategory === filterCategory;
+    });
   }, [products, selectedCategory]);
 
   // 處理分類變更
