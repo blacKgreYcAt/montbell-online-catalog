@@ -197,6 +197,14 @@ export default function InternalProductDetailPage() {
             </span>
           </div>
 
+          {/* 價格 */}
+          {product.price && (
+            <div>
+              <p className="text-sm text-gray-500 uppercase tracking-widest">價格</p>
+              <p className="text-3xl font-bold text-[#004c6f]">{product.price}</p>
+            </div>
+          )}
+
           {/* 商品敘述 */}
           {product.description && (
             <div className="border-t border-gray-200 pt-4">
