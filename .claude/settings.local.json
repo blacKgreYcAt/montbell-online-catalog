@@ -235,7 +235,12 @@
       "Bash(curl -s \"http://localhost:3000/api/search?q=rain&scope=public\")",
       "Bash(python3 -c \"import sys, json; data = json.load\\(sys.stdin\\); print\\('搜尋「rain」: %d 件' % data['data']['total']\\)\")",
       "Bash(curl -s \"http://localhost:3004/api/search?q=rain&scope=public\")",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s \"http://localhost:3005/api/search?q=rain&scope=public\")",
+      "Bash(curl -s \"http://localhost:3005/api/search?q=1128848&scope=public\")",
+      "Bash(curl -s -m 2 \"http://localhost:3000/api/search?q=test\")",
+      "Bash(curl -s \"http://localhost:3006/api/search?q=1128848&scope=public\")",
+      "Bash(curl -s \"http://localhost:3006/api/search?q=&category=THERMAL&scope=public\")"
     ]
   }
 }

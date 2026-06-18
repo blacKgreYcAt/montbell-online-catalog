@@ -32,8 +32,8 @@ export const MONTBELL_CDN_CONFIG = {
 export const IMAGE_SOURCE_PRIORITY = ["montbell", "google_drive", "local"] as const;
 
 // 搜尋配置
-export const SEARCH_KEYS = ["modelNumber", "name", "category"];
-export const SEARCH_THRESHOLD = 0.1; // Fuse.js 相似度閾值 (更嚴格的匹配)
+export const SEARCH_KEYS = ["modelNumber", "name", "nameEn", "category", "description"];
+export const SEARCH_THRESHOLD = 0.3; // Fuse.js 相似度閾值 (支持中文模糊匹配)
 
 // 分頁配置
 export const ITEMS_PER_PAGE = 12;

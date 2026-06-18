@@ -49,25 +49,21 @@ function ProductsPageContent() {
     loadData();
   }, []);
 
-  // 篩選商品
+  // 篩選商品 - 使用簡單的分類匹配
   const filteredProducts = useMemo(() => {
     let results = products;
 
-    // 按主分類篩選
-    if (selectedMainCategory) {
-      results = filterByMainCategory(results, selectedMainCategory);
-    }
-    // 按子分類篩選
-    else if (selectedCategory) {
-      results = filterBySubCategory(results, selectedCategory);
+    if (selectedCategory) {
+      results = results.filter((p) =>
+        p.category.toLowerCase() === selectedCategory.toLowerCase()
+      );
     }
 
     return results;
-  }, [products, selectedCategory, selectedMainCategory]);
+  }, [products, selectedCategory]);
 
   // 處理分類變更
   const handleCategoryChange = (newCategory: string) => {
-    setSelectedCategory(newCategory);
     const params = new URLSearchParams(searchParams);
     if (newCategory) {
       params.set('category', newCategory);
