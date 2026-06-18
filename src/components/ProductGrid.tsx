@@ -47,13 +47,13 @@ export default function ProductGrid({
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
       {products.map((product) => {
-        // 獲取第一個顏色的圖片 ID
+        // 獲取第一個顏色的圖片 URL
         const firstColor = product.colors?.[0] || 'BK';
-        const colorCode = firstColor.toUpperCase();
+        const colorLower = firstColor.toLowerCase();
 
-        // 嘗試兩種圖片映射格式
-        const imageKey1 = `${product.modelNumber}_${colorCode}`; // 內部版格式
-        const imageKey2 = `k_${product.modelNumber}_${colorCode.toLowerCase()}`; // 公開版格式
+        // 優先嘗試公開版格式（Cloudinary），次選內部版格式
+        const imageKey1 = `k_${product.modelNumber}_${colorLower}`; // 公開版格式
+        const imageKey2 = `${product.modelNumber}_${firstColor.toUpperCase()}`; // 內部版格式
         const imageId = imageMapping[imageKey1] || imageMapping[imageKey2];
 
         return (

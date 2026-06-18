@@ -3,7 +3,7 @@
  * 在背景預加載商品的所有顏色圖片，提升點擊切換顏色時的響應速度
  */
 
-import { generateMonbellImageUrl } from './imageUtils';
+import { generateMonbellImageUrl, loadImageMapping } from './imageUtils';
 import {
   getCachedImageUrl,
   setCachedImageUrl,
@@ -36,6 +36,7 @@ function preloadSingleImage(imageUrl: string): Promise<boolean> {
 
 /**
  * 預加載商品的所有顏色圖片
+ * 優先加載 Cloudinary URLs，次選 Montbell CDN
  * 在背景加載，不影響頁面顯示
  */
 export async function preloadProductImages(
@@ -47,6 +48,9 @@ export async function preloadProductImages(
     return;
   }
 
+  // 載入 imageMapping（Cloudinary URLs）
+  const imageMapping = await loadImageMapping();
+
   // 並行預加載所有顏色的圖片
   const preloadPromises = colors.map(async (color) => {
     // 檢查快取
@@ -56,7 +60,14 @@ export async function preloadProductImages(
     }
 
     try {
-      const imageUrl = generateMonbellImageUrl(modelNumber, color);
+      // 優先嘗試 Cloudinary
+      const cloudinaryKey = `k_${modelNumber}_${color.toLowerCase()}`;
+      let imageUrl = imageMapping[cloudinaryKey];
+
+      // 次選：Montbell CDN
+      if (!imageUrl) {
+        imageUrl = generateMonbellImageUrl(modelNumber, color);
+      }
 
       // 預加載圖片
       const success = await preloadSingleImage(imageUrl);

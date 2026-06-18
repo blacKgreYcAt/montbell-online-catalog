@@ -266,7 +266,17 @@
       "Bash(node upload-vector-images-12.js)",
       "Bash(gh deployment *)",
       "Bash(Start-Sleep -Seconds 10)",
-      "Bash(Write-Output \"部署等待完成，继续验证...\")"
+      "Bash(Write-Output \"部署等待完成，继续验证...\")",
+      "Bash(ls -la \"C:\\\\Users\\\\imaus\\\\Desktop\\\\20260602 MB 展示會素材\\\\線上目錄用\" 2>/dev/null | head -30)",
+      "Bash([ -d \"$folderPath\" ])",
+      "Bash(grep -E '\\\\.\\(png|jpg|jpeg\\)$')",
+      "Bash(node batch-upload-vectors.js)",
+      "Bash(powershell -Command \"Get-Content public/products.json | ConvertFrom-Json | Measure-Object | Select-Object Count\")",
+      "Bash(powershell -Command \"\\(Get-Content public/products.json -Encoding UTF8 | ConvertFrom-Json\\).Count\")",
+      "Bash(powershell -Command \"\\(Get-Content public/imageMapping.json -Encoding UTF8 | ConvertFrom-Json\\) | Measure-Object -Property Keys | Select-Object -ExpandProperty Count\")",
+      "Bash(powershell -Command \"\\(\\\\\\(Get-Content public/imageMapping.json -Encoding UTF8 | ConvertFrom-Json\\\\\\) | Get-Member -MemberType NoteProperty\\).Count\")",
+      "Bash(powershell -Command ' *)",
+      "mcp__visualize__read_me"
     ]
   }
 }

@@ -97,7 +97,7 @@ export function searchProducts(
 }
 
 /**
- * 按分類篩選
+ * 按分類篩選（精確匹配）
  */
 export function filterByCategory(
   products: Product[],
@@ -105,7 +105,7 @@ export function filterByCategory(
 ): Product[] {
   if (!category) return products;
   return products.filter((p) =>
-    p.category.toLowerCase().includes(category.toLowerCase())
+    p.category.toLowerCase() === category.toLowerCase()
   );
 }
 
