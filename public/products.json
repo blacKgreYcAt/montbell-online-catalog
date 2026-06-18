@@ -60,7 +60,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1128849",
@@ -81,7 +81,7 @@
       "GY      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1128842",
@@ -312,7 +312,7 @@
       "BGY      BL      DGN      LGY      OG      YL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1128822",
@@ -333,7 +333,7 @@
       "BK      LGY      RAS      YL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1128776",
@@ -438,7 +438,7 @@
       "BK      DGN      NV      RD      YL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1128730",
@@ -459,7 +459,7 @@
       "IV      KH      PK      PU      TQ"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1128640",
@@ -963,7 +963,7 @@
       "DBN      DGY      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1102600",
@@ -984,7 +984,7 @@
       "DBN      GY      LGY"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1102601",
@@ -1068,7 +1068,7 @@
       "BK      GY"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107584",
@@ -1089,7 +1089,7 @@
       "BK      WRD"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107832",
@@ -1194,7 +1194,7 @@
       "BK      GY      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107170",
@@ -1215,7 +1215,7 @@
       "BK      GY      WRD"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107585",
@@ -1383,7 +1383,7 @@
       "BK      DKNV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107657",
@@ -1404,7 +1404,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107654",
@@ -1425,7 +1425,7 @@
       "BK      DKNV      LTSV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107655",
@@ -1446,7 +1446,7 @@
       "BK      IV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107659",
@@ -1551,7 +1551,7 @@
       "BK      CPK"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1107763",
@@ -1593,7 +1593,7 @@
       "BK      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107715",
@@ -1614,7 +1614,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107712",
@@ -1635,7 +1635,7 @@
       "BK      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107713",
@@ -1656,7 +1656,7 @@
       "BK      BL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107716",
@@ -1908,7 +1908,7 @@
       "BK      LGY      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107707",
@@ -1929,7 +1929,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107704",
@@ -1950,7 +1950,7 @@
       "BK      DGN      LGY      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107705",
@@ -1971,7 +1971,7 @@
       "BK      DGN      LV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1107709",
@@ -2261,7 +2261,7 @@
       "BK      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119200",
@@ -2282,7 +2282,7 @@
       "BK      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1118340",
@@ -2513,7 +2513,7 @@
       "DGN      GY      KH"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119204",
@@ -2534,7 +2534,7 @@
       "DGN      IV      KH"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119203",
@@ -2555,7 +2555,7 @@
       "IV      KH      RD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1118822",
@@ -2597,7 +2597,7 @@
       "IV      NV      YL"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119192",
@@ -2618,7 +2618,7 @@
       "KH      NV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2108212",
@@ -2723,7 +2723,7 @@
       "BN      GY"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119197",
@@ -3122,7 +3122,7 @@
       "BK      NV      YL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1128834",
@@ -3752,7 +3752,7 @@
       "BL      DGY      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-2108197",
@@ -5747,7 +5747,7 @@
       "BK      BL      NV      TN      WRD"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1101674",
@@ -5768,7 +5768,7 @@
       "BK      GY      LGY      RD"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1101731",
@@ -6083,7 +6083,7 @@
       "BGN      BK      DGN      GY      OG"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1101662",
@@ -6104,7 +6104,7 @@
       "BGN      IV      LV      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1101471",
@@ -6356,7 +6356,7 @@
       "BK      WRD"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1101664",
@@ -6377,7 +6377,7 @@
       "IV      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1101672",
@@ -7910,7 +7910,7 @@
       "#1      #2      #3"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1118402",
@@ -8078,7 +8078,7 @@
       "DTL      TQ"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1128839",
@@ -8141,7 +8141,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101757",
@@ -8498,7 +8498,7 @@
       "BL      LV      YL"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1102614",
@@ -8771,7 +8771,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1128749",
@@ -9317,7 +9317,7 @@
       "BGN      BK      WRD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101747",
@@ -9338,7 +9338,7 @@
       "BGN      BK      IV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1128802",
@@ -9758,7 +9758,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119221",
@@ -9779,7 +9779,7 @@
       "LGY      NV      RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1118632",
@@ -9968,7 +9968,7 @@
       "KH      PK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2104905",
@@ -9989,7 +9989,7 @@
       "BK      IV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2104906",
@@ -10010,7 +10010,7 @@
       "NV      WRD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2104902",
@@ -10031,7 +10031,7 @@
       "BL      LGY      NV      WRD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2104900",
@@ -10052,7 +10052,7 @@
       "BK      KH      LGY"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2104901",
@@ -10073,7 +10073,7 @@
       "IV      LGY      NV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-2104855",
@@ -10157,7 +10157,7 @@
       "DGN      IV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1114439",
@@ -11354,7 +11354,7 @@
       "BK      DGN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105815",
@@ -11375,7 +11375,7 @@
       "DGY      NV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105814",
@@ -11396,7 +11396,7 @@
       "BK      DBN      NV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105817",
@@ -11669,7 +11669,7 @@
       "BL      DGN      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105828",
@@ -11690,7 +11690,7 @@
       "NV      PK      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105825",
@@ -11711,7 +11711,7 @@
       "BK      BL"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105826",
@@ -11732,7 +11732,7 @@
       "DGY      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105625",
@@ -12383,7 +12383,7 @@
       "GN      IV      OG      YL"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1114547",
@@ -12656,7 +12656,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1118677",
@@ -13097,7 +13097,7 @@
       "DGY      GY      TN"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118870",
@@ -13118,7 +13118,7 @@
       "NV      TN"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118432",
@@ -13223,7 +13223,7 @@
       "BK      HCH      IND"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118619",
@@ -13244,7 +13244,7 @@
       "BNSD      CBL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1119219",
@@ -13265,7 +13265,7 @@
       "BGN      BK      GY      IV      NV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119220",
@@ -13286,7 +13286,7 @@
       "BL      DGY      OG      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1118421",
@@ -13307,7 +13307,7 @@
       "BG      BKH      HCH      IND      SLBL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118422",
@@ -13328,7 +13328,7 @@
       "BNSD      CBL      GM      OG"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118534",
@@ -13391,7 +13391,7 @@
       "BK      DKOV      IV      MST"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118425",
@@ -13412,7 +13412,7 @@
       "BL      DGN      DGY1      MST"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1118198",
@@ -13454,7 +13454,7 @@
       "BL      DGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119249",
@@ -13475,7 +13475,7 @@
       "BL      DGY      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119250",
@@ -13496,7 +13496,7 @@
       "BN      DNV      TQ"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119247",
@@ -13538,7 +13538,7 @@
       "GY      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119246",
@@ -13559,7 +13559,7 @@
       "LGN      RAS"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119273",
@@ -13601,7 +13601,7 @@
       "DGY      DNV      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119272",
@@ -13622,7 +13622,7 @@
       "DGY      LGY      RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119269",
@@ -13685,7 +13685,7 @@
       "DGY      DNV      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119268",
@@ -13706,7 +13706,7 @@
       "DGY      LGY      RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119275",
@@ -13748,7 +13748,7 @@
       "BK      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119258",
@@ -13769,7 +13769,7 @@
       "BK      GY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119259",
@@ -13790,7 +13790,7 @@
       "BL      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119254",
@@ -13811,7 +13811,7 @@
       "DGY      DNV      LGN      RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119255",
@@ -13832,7 +13832,7 @@
       "DGY      RD      TN      TQ"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119257",
@@ -13853,7 +13853,7 @@
       "BGY      BK      BL      GN      LTN      RD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1119252",
@@ -13874,7 +13874,7 @@
       "BK      BRC      DGN      LTN      NV      TN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119253",
@@ -13895,7 +13895,7 @@
       "BGY      BK      BL      GN      LTN      RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119260",
@@ -13916,7 +13916,7 @@
       "BK      GY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119265",
@@ -13937,7 +13937,7 @@
       "DGY      LTN      YL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119266",
@@ -13958,7 +13958,7 @@
       "BGY      CPK      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119263",
@@ -14021,7 +14021,7 @@
       "DGY      KGN      LTN      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119262",
@@ -14042,7 +14042,7 @@
       "BGY      CPK      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1119256",
@@ -14063,7 +14063,7 @@
       "BK      BRC      DGN      LTN      NV      TN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1118507",
@@ -14252,7 +14252,7 @@
       "BGN      BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106817",
@@ -14273,7 +14273,7 @@
       "BGN      BK      DGN      TN      YL"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106818",
@@ -14294,7 +14294,7 @@
       "BGN      LGY      NV      OG      TN"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106821",
@@ -14315,7 +14315,7 @@
       "BGN      BK      LGY      OG      YL"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106822",
@@ -14336,7 +14336,7 @@
       "BGN      BK      OG      WT"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106819",
@@ -14357,7 +14357,7 @@
       "BK      DGN      NV      RD      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106820",
@@ -14378,7 +14378,7 @@
       "LGY      NV      OG"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105830",
@@ -14399,7 +14399,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1105831",
@@ -14420,7 +14420,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106825",
@@ -14441,7 +14441,7 @@
       "BK      LGY"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1107294",
@@ -15155,7 +15155,7 @@
       "BK25      BLBK      IV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1106594",
@@ -15176,7 +15176,7 @@
       "DGY      YL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1106601",
@@ -15827,7 +15827,7 @@
       "BK      NV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106833",
@@ -15848,7 +15848,7 @@
       "BK      PK      TQ"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106828",
@@ -15869,7 +15869,7 @@
       "BK      GN      NV      OG"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106829",
@@ -15890,7 +15890,7 @@
       "BK      PK      TQ"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106834",
@@ -15911,7 +15911,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106835",
@@ -15932,7 +15932,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1106830",
@@ -15953,7 +15953,7 @@
       "BK      NV"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106831",
@@ -15974,7 +15974,7 @@
       "BK      PK      TQ"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106733",
@@ -15995,7 +15995,7 @@
       "BK      GN      NV      OG"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1106734",
@@ -16016,7 +16016,7 @@
       "LGY      NV      PU      RD"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1105540",
@@ -16184,7 +16184,7 @@
       "BK      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101735",
@@ -16205,7 +16205,7 @@
       "BK      DGN1      IV      KH      WRD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101736",
@@ -16226,7 +16226,7 @@
       "DGY      NV      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101737",
@@ -16247,7 +16247,7 @@
       "BK      DGN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101738",
@@ -16268,7 +16268,7 @@
       "NV      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1103304",
@@ -16310,7 +16310,7 @@
       "BK      TN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101740",
@@ -16331,7 +16331,7 @@
       "BK      BN"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101742",
@@ -16352,7 +16352,7 @@
       "BK"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1101547",
@@ -16520,7 +16520,7 @@
       "BGN      BK      OG"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1106824",
@@ -16541,7 +16541,7 @@
       "BK      WT"
     ],
     "season": "SS",
-    "badge": "促銷款\n26FW"
+    "badge": null
   },
   {
     "id": "p-1103333",
@@ -16583,7 +16583,7 @@
       "DGN      TN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1103253",
@@ -16646,7 +16646,7 @@
       "NV      TN"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1124942",
@@ -18351,7 +18351,7 @@
       "BK      DKMA      WT"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1133575",
@@ -18393,7 +18393,7 @@
       "BGY      KBN      NV"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1133545",
@@ -18603,7 +18603,7 @@
       "BK      CN1      DGN      DNV      LGY      YL"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1133582",
@@ -18624,7 +18624,7 @@
       "BK      BRC      DNV      KBN"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1133507",
@@ -18792,7 +18792,7 @@
       "BK      BL      DGN"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1133522",
@@ -19065,7 +19065,7 @@
       "BLBK      GM      ICWT"
     ],
     "season": "SS",
-    "badge": "促銷款"
+    "badge": null
   },
   {
     "id": "p-1133323",
@@ -20754,7 +20754,7 @@
       "BK      DGN      DNV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1133108",
@@ -20985,7 +20985,7 @@
       "BK      CN1      KBN      LGY"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1133585",
@@ -21006,7 +21006,7 @@
       "BK      BRC      DNV      GN      YL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1133348",
@@ -21741,7 +21741,7 @@
       "DNV      LGY      OG      YGN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1133615",
@@ -21762,7 +21762,7 @@
       "DNV      LGY      OG      YGN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1133616",
@@ -21783,7 +21783,7 @@
       "DNV      LGY      OG      YGN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1133372",
@@ -22426,7 +22426,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1134225",
@@ -22489,7 +22489,7 @@
       "CLER"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1134375",
@@ -22510,7 +22510,7 @@
       "PU"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1134376",
@@ -22531,7 +22531,7 @@
       "BGN"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1123936",
@@ -22571,7 +22571,7 @@
       "TITAN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1134164",
@@ -22634,7 +22634,7 @@
       "TITAN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1134272",
@@ -24757,7 +24757,7 @@
       "NV      YGN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1140289",
@@ -24778,7 +24778,7 @@
       "CARB      DTL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1140264",
@@ -25093,7 +25093,7 @@
       "BL      GN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1140268",
@@ -25156,7 +25156,7 @@
       "GN      GY      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1140258",
@@ -25261,7 +25261,7 @@
       "OVYL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121343",
@@ -25282,7 +25282,7 @@
       "DGY      KH"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121342",
@@ -25303,7 +25303,7 @@
       "DGY      KH"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121815",
@@ -25324,7 +25324,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121816",
@@ -25345,7 +25345,7 @@
       "MGD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121817",
@@ -25366,7 +25366,7 @@
       "DTL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121818",
@@ -25387,7 +25387,7 @@
       "BL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121517",
@@ -25408,7 +25408,7 @@
       "DGY      IV"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1121516",
@@ -25429,7 +25429,7 @@
       "DGY      IV      NV      OG"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1121515",
@@ -25450,7 +25450,7 @@
       "DGY      IV      NV      OG"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1121518",
@@ -25471,7 +25471,7 @@
       "NV      WRD"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1121440",
@@ -25511,7 +25511,7 @@
     "price": 14640,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121827",
@@ -25530,7 +25530,7 @@
     "price": 12970,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121828",
@@ -25549,7 +25549,7 @@
     "price": 10840,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121829",
@@ -25568,7 +25568,7 @@
     "price": 8730,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121830",
@@ -25589,7 +25589,7 @@
       "BRC      DTL"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121825",
@@ -25610,7 +25610,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121845",
@@ -25629,7 +25629,7 @@
     "price": 10540,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121846",
@@ -25648,7 +25648,7 @@
     "price": 7180,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121847",
@@ -25667,7 +25667,7 @@
     "price": 6300,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121839",
@@ -25686,7 +25686,7 @@
     "price": 7030,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121840",
@@ -25705,7 +25705,7 @@
     "price": 14060,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121841",
@@ -25724,7 +25724,7 @@
     "price": 12590,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121842",
@@ -25743,7 +25743,7 @@
     "price": 10540,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121843",
@@ -25762,7 +25762,7 @@
     "price": 8320,
     "colors": [],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121844",
@@ -25783,7 +25783,7 @@
       "BGY"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1121479",
@@ -25825,7 +25825,7 @@
       "RD"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121827",
@@ -25846,7 +25846,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121828",
@@ -25867,7 +25867,7 @@
       "BL      YL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121829",
@@ -25888,7 +25888,7 @@
       "CN      GAR      KGN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121845",
@@ -25909,7 +25909,7 @@
       "OG"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121846",
@@ -25930,7 +25930,7 @@
       "GAR"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121847",
@@ -25951,7 +25951,7 @@
       "DTL"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121839",
@@ -25972,7 +25972,7 @@
       "YGN"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121840",
@@ -25993,7 +25993,7 @@
       "GAR"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121841",
@@ -26014,7 +26014,7 @@
       "RAS"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121842",
@@ -26035,7 +26035,7 @@
       "MST"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121843",
@@ -26056,7 +26056,7 @@
       "OG      TQ"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1121482",
@@ -26119,7 +26119,7 @@
       "YL"
     ],
     "season": "SS",
-    "badge": "26FW"
+    "badge": null
   },
   {
     "id": "p-1129739",
@@ -26203,7 +26203,7 @@
       "BRC      DGY      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1134476",
@@ -26224,7 +26224,7 @@
       "BRC      DGY      NV"
     ],
     "season": "SS",
-    "badge": "27SS"
+    "badge": null
   },
   {
     "id": "p-1128696",
@@ -26434,7 +26434,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1128812",
@@ -26455,7 +26455,7 @@
       "LGY"
     ],
     "season": "SS",
-    "badge": "26SS"
+    "badge": null
   },
   {
     "id": "p-1128694",
