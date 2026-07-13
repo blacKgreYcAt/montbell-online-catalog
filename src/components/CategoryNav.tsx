@@ -37,6 +37,7 @@ export default function CategoryNav({
             {/* 全部 */}
             <Link
               href={basePath}
+              scroll={false}
               className={`px-4 py-2 rounded-lg font-medium transition-colors min-h-[44px] flex items-center active:opacity-75 ${
                 !selectedCategory
                   ? 'bg-[#7697B8] text-white'
@@ -51,6 +52,7 @@ export default function CategoryNav({
               <Link
                 key={main.id}
                 href={`${basePath}?main=${main.slug}`}
+                scroll={false}
                 className={`px-5 py-2 rounded-lg font-medium transition-colors whitespace-nowrap min-h-[44px] flex items-center active:opacity-75 ${
                   selectedCategory === main.slug
                     ? 'bg-[#7697B8] text-white'
@@ -82,6 +84,7 @@ export default function CategoryNav({
         {/* 全部商品 */}
         <Link
           href={basePath}
+          scroll={false}
           className={`w-full flex items-center px-4 py-3 rounded-lg transition-colors ${
             !selectedCategory
               ? 'bg-[#004c6f] text-white'
@@ -98,6 +101,7 @@ export default function CategoryNav({
             {mainCategory.subcategories.length === 0 ? (
               <Link
                 href={`${basePath}?main=${mainCategory.slug}`}
+                scroll={false}
                 className={`w-full flex items-center px-4 py-3 rounded-lg transition-colors ${
                   selectedCategory === mainCategory.slug
                     ? 'bg-[#004c6f] text-white'
@@ -140,6 +144,7 @@ export default function CategoryNav({
                       <Link
                         key={subCategory.id}
                         href={`${basePath}?category=${subCategory.id}`}
+                        scroll={false}
                         className={`block px-3 py-2 rounded transition-colors ${
                           selectedCategory === subCategory.id
                             ? 'bg-[#004c6f] text-white'
@@ -161,6 +166,7 @@ export default function CategoryNav({
       <div className="pt-4 border-t border-gray-200">
         <Link
           href={basePath}
+          scroll={false}
           className="w-full block text-center px-4 py-3 bg-white border-2 border-[#004c6f] text-[#004c6f] font-semibold rounded-lg hover:bg-[#f0f5ff] transition-colors"
         >
           查看全部商品
