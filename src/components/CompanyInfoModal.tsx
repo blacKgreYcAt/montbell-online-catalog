@@ -84,12 +84,14 @@ export default function CompanyInfoModal({
         {/* 按鈕 */}
         <div className="flex gap-3">
           <button
+            type="button"
             onClick={onCancel}
             className="flex-1 px-4 py-2 bg-gray-300 text-gray-900 rounded-lg font-semibold hover:bg-gray-400 transition-colors"
           >
             取消
           </button>
           <button
+            type="button"
             onClick={handleConfirm}
             className="flex-1 px-4 py-2 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-colors"
           >

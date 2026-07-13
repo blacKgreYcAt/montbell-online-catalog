@@ -222,18 +222,21 @@ ${itemList}
       {/* 操作按鈕 */}
       <div className="flex gap-4">
         <button
+          type="button"
           onClick={() => handleDownloadPDF()}
           className="flex-1 px-6 py-3 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-colors"
         >
           📥 下載 PDF
         </button>
         <button
+          type="button"
           onClick={handleSendEmail}
           className="flex-1 px-6 py-3 bg-blue-500 text-white rounded-lg font-semibold hover:bg-blue-600 transition-colors"
         >
           📧 用郵件發送
         </button>
         <button
+          type="button"
           onClick={handleClearAndReturn}
           className="flex-1 px-6 py-3 bg-gray-300 text-gray-900 rounded-lg font-semibold hover:bg-gray-400 transition-colors"
         >
