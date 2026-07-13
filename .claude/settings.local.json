@@ -290,7 +290,8 @@
       "Bash(git commit -m 'docs: Add comprehensive project documentation for future development *)",
       "Bash(git commit -m 'docs: Add new computer setup guide for quick environment restoration *)",
       "Bash(python3 create_templates.py)",
-      "Bash(git commit -m 'docs: Add Excel templates for data updates *)"
+      "Bash(git commit -m 'docs: Add Excel templates for data updates *)",
+      "Bash(npm install *)"
     ]
   }
 }

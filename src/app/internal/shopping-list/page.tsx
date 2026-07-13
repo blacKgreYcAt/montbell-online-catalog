@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import {
   getShoppingList,
   clearShoppingList,
@@ -11,6 +12,7 @@ import {
   saveCompanyInfo,
 } from '@/lib/shoppingList';
 import { ShoppingListItem } from '@/lib/shoppingList';
+import { loadInternalImageMapping, getGoogleDriveImageUrl } from '@/lib/imageUtils';
 import AddToShoppingListButton from '@/components/AddToShoppingListButton';
 import CompanyInfoModal from '@/components/CompanyInfoModal';
 
@@ -19,11 +21,21 @@ export default function ShoppingListPage() {
   const [items, setItems] = useState<ShoppingListItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [showModal, setShowModal] = useState(false);
+  const [imageMapping, setImageMapping] = useState<Record<string, string>>({});
 
   useEffect(() => {
-    const list = getShoppingList();
-    setItems(list);
-    setLoading(false);
+    const loadData = async () => {
+      const list = getShoppingList();
+      setItems(list);
+
+      // 加載圖片映射
+      const images = await loadInternalImageMapping();
+      setImageMapping(images);
+
+      setLoading(false);
+    };
+
+    loadData();
   }, []);
 
   const handleRemoveItem = (productId: string) => {
@@ -87,15 +99,31 @@ export default function ShoppingListPage() {
           {/* 商品列表 */}
           <div className="bg-white rounded-lg border border-gray-200 overflow-hidden">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
-              {items.map(item => (
-                <div
-                  key={item.id}
-                  className="border border-gray-200 rounded-lg p-4 hover:shadow-lg transition-shadow"
-                >
-                  {/* 商品圖片 */}
-                  <div className="bg-gray-100 rounded-lg h-40 mb-3 flex items-center justify-center">
-                    <span className="text-gray-400">圖片</span>
-                  </div>
+              {items.map(item => {
+                // 獲取商品的第一張圖片
+                const firstColor = item.colors?.[0] || 'BK';
+                const imageKey = `${item.modelNumber}_${firstColor}`;
+                const imageUrl = imageMapping[imageKey];
+
+                return (
+                  <div
+                    key={item.id}
+                    className="border border-gray-200 rounded-lg p-4 hover:shadow-lg transition-shadow"
+                  >
+                    {/* 商品圖片 */}
+                    <div className="bg-gray-100 rounded-lg h-40 mb-3 flex items-center justify-center relative overflow-hidden">
+                      {imageUrl ? (
+                        <Image
+                          src={imageUrl}
+                          alt={item.name}
+                          fill
+                          className="object-cover"
+                          sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        />
+                      ) : (
+                        <span className="text-gray-400">無圖片</span>
+                      )}
+                    </div>
 
                   {/* 商品信息 */}
                   <div className="space-y-2">
@@ -129,7 +157,8 @@ export default function ShoppingListPage() {
                     </button>
                   </div>
                 </div>
-              ))}
+                );
+              })}
             </div>
           </div>
 

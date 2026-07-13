@@ -3,12 +3,15 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
+import html2pdf from 'html2pdf.js';
 import {
   getShoppingList,
   getCompanyInfo,
   clearShoppingList,
   clearCompanyInfo,
 } from '@/lib/shoppingList';
+import { loadInternalImageMapping } from '@/lib/imageUtils';
 import { ShoppingListItem, CompanyInfo } from '@/lib/shoppingList';
 
 export default function PDFPreviewPage() {
@@ -16,33 +19,68 @@ export default function PDFPreviewPage() {
   const [items, setItems] = useState<ShoppingListItem[]>([]);
   const [companyInfo, setCompanyInfo] = useState<CompanyInfo | null>(null);
   const [loading, setLoading] = useState(true);
+  const [imageMapping, setImageMapping] = useState<Record<string, string>>({});
 
   useEffect(() => {
-    const list = getShoppingList();
-    const info = getCompanyInfo();
+    const loadData = async () => {
+      const list = getShoppingList();
+      const info = getCompanyInfo();
 
-    if (list.length === 0 || !info) {
-      router.push('/internal/shopping-list');
-      return;
-    }
+      if (list.length === 0 || !info) {
+        router.push('/internal/shopping-list');
+        return;
+      }
 
-    setItems(list);
-    setCompanyInfo(info);
-    setLoading(false);
+      setItems(list);
+      setCompanyInfo(info);
+
+      // 加載圖片映射
+      const images = await loadInternalImageMapping();
+      setImageMapping(images);
+
+      setLoading(false);
+    };
+
+    loadData();
   }, [router]);
 
   const handleDownloadPDF = () => {
-    // 這裡之後會實現 PDF 下載邏輯
-    alert('PDF 下載功能將於下一步實現');
+    const element = document.getElementById('pdf-content');
+    if (!element) return;
+
+    const opt = {
+      margin: 10,
+      filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
+      image: { type: 'jpeg', quality: 0.98 },
+      html2canvas: { scale: 2 },
+      jsPDF: { orientation: 'landscape', unit: 'mm', format: 'a4' }
+    };
+
+    html2pdf().set(opt).from(element).save();
   };
 
   const handleSendEmail = () => {
-    // 這裡之後會實現郵件發送邏輯
-    const subject = encodeURIComponent('Montbell 選擇清單');
-    const body = encodeURIComponent(
-      `親愛的客戶，\n\n請見附件 Montbell 選擇清單。\n\n公司名稱: ${companyInfo?.name}\n聯絡人: ${companyInfo?.contactPerson || '(未提供)'}\n電話: ${companyInfo?.phone || '(未提供)'}`
-    );
-    window.location.href = `mailto:?subject=${subject}&body=${body}`;
+    // 使用設備原生郵件應用發送
+    const itemList = items.map(item =>
+      `${item.modelNumber} - ${item.name}`
+    ).join('\n');
+
+    const body = `親愛的客戶，
+
+以下是 Montbell 選擇清單的商品清單：
+
+${itemList}
+
+--
+公司名稱: ${companyInfo?.name}
+聯絡人: ${companyInfo?.contactPerson || '(未提供)'}
+電話: ${companyInfo?.phone || '(未提供)'}
+製表日期: ${new Date().toLocaleDateString('zh-TW')}
+
+提示: 請先點擊「下載 PDF」按鈕以獲得完整的 PDF 檔案，然後手動附加到此郵件。`;
+
+    const subject = `Montbell 選擇清單 - ${companyInfo?.name}`;
+    window.location.href = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   };
 
   const handleClearAndReturn = () => {
@@ -114,7 +152,7 @@ export default function PDFPreviewPage() {
       </div>
 
       {/* PDF 預覽 - 模擬版面 */}
-      <div className="space-y-8">
+      <div className="space-y-8" id="pdf-content">
         {pages.map((pageItems, pageIndex) => (
           <div
             key={pageIndex}
@@ -134,14 +172,30 @@ export default function PDFPreviewPage() {
 
             {/* 商品網格 - 最多 6 個 */}
             <div className="grid grid-cols-3 gap-4 h-full">
-              {pageItems.map(item => (
+              {pageItems.map(item => {
+                // 獲取商品的第一張圖片
+                const firstColor = item.colors?.[0] || 'BK';
+                const imageKey = `${item.modelNumber}_${firstColor}`;
+                const imageUrl = imageMapping[imageKey];
+
+                return (
                 <div
                   key={item.id}
                   className="border border-gray-200 rounded-lg p-3 text-xs"
                 >
-                  {/* 圖片佔位符 */}
-                  <div className="bg-gray-100 rounded h-20 mb-2 flex items-center justify-center text-gray-400">
-                    圖
+                  {/* 圖片 */}
+                  <div className="bg-gray-100 rounded h-20 mb-2 flex items-center justify-center text-gray-400 relative overflow-hidden">
+                    {imageUrl ? (
+                      <Image
+                        src={imageUrl}
+                        alt={item.name}
+                        fill
+                        className="object-cover"
+                        sizes="100px"
+                      />
+                    ) : (
+                      <span>無圖</span>
+                    )}
                   </div>
 
                   {/* 信息 */}
@@ -157,7 +211,8 @@ export default function PDFPreviewPage() {
                     </p>
                   )}
                 </div>
-              ))}
+                );
+              })}
             </div>
           </div>
         ))}
