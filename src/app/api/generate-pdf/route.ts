@@ -1,14 +1,15 @@
 import { NextRequest, NextResponse } from 'next/server';
 import chromium from '@sparticuz/chromium';
 
-let puppeteer: any;
-
-// Try to load full puppeteer first (for local development)
-// Fall back to puppeteer-core (for Vercel)
-try {
-  puppeteer = require('puppeteer');
-} catch (e) {
-  puppeteer = require('puppeteer-core');
+// Dynamic import to support both local (puppeteer) and Vercel (puppeteer-core)
+async function getPuppeteer() {
+  try {
+    // For local development
+    return await import('puppeteer');
+  } catch (e) {
+    // For Vercel deployment
+    return await import('puppeteer-core');
+  }
 }
 
 export const runtime = 'nodejs';
@@ -27,6 +28,10 @@ export async function POST(request: NextRequest) {
     let browser;
 
     try {
+      // Get puppeteer module
+      const puppeteerModule = await getPuppeteer();
+      const puppeteer = puppeteerModule.default || puppeteerModule;
+
       // 本地開發：使用完整 puppeteer（包含 Chromium）
       // Vercel：使用 puppeteer-core + @sparticuz/chromium
       if (process.env.VERCEL) {
