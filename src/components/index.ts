@@ -12,3 +12,5 @@ export { default as SeasonIndicator } from './SeasonIndicator';
 export { default as OrderDeadlineModal } from './OrderDeadlineModal';
 export { default as ErrorBoundary } from './ErrorBoundary';
 export { default as DeadlineGuard } from './DeadlineGuard';
+export { default as AddToShoppingListButton } from './AddToShoppingListButton';
+export { default as CompanyInfoModal } from './CompanyInfoModal';

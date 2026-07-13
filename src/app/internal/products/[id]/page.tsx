@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { getInternalProductById, getInternalRelatedProducts } from '@/lib/products';
 import { loadInternalImageMapping, getGoogleDriveImageUrl } from '@/lib/imageUtils';
 import { isInternalAuthValid } from '@/lib/internalAuth';
-import { ProductGrid } from '@/components';
+import { ProductGrid, AddToShoppingListButton } from '@/components';
 import type { Product, ImageMapping } from '@/types';
 
 export default function InternalProductDetailPage() {
@@ -204,6 +204,11 @@ export default function InternalProductDetailPage() {
               <p className="text-3xl font-bold text-[#004c6f]">{product.price}</p>
             </div>
           )}
+
+          {/* 加入清單按鈕 */}
+          <div className="mt-6">
+            <AddToShoppingListButton product={product} />
+          </div>
 
           {/* 商品敘述 */}
           {product.description && (

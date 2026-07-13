@@ -283,7 +283,14 @@
       "Bash(python extract_prices_v2.py)",
       "Bash(python extract_prices_f_column.py)",
       "Bash(python update_internal_prices.py)",
-      "Bash(python update_all_internal_prices.py)"
+      "Bash(python update_all_internal_prices.py)",
+      "Skill(code-review)",
+      "Skill(code-review:*)",
+      "Bash(git commit -m 'fix: Extend deadline to 2026-07-09 17:00 for extended viewing *)",
+      "Bash(git commit -m 'docs: Add comprehensive project documentation for future development *)",
+      "Bash(git commit -m 'docs: Add new computer setup guide for quick environment restoration *)",
+      "Bash(python3 create_templates.py)",
+      "Bash(git commit -m 'docs: Add Excel templates for data updates *)"
     ]
   }
 }

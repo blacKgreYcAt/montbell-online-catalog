@@ -2,6 +2,7 @@
 
 import { useState, useEffect, Suspense } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { isInternalAuthValid } from '@/lib/internalAuth';
 import { loadInternalProducts } from '@/lib/products';
 import { loadInternalImageMapping } from '@/lib/imageUtils';
@@ -107,13 +108,21 @@ function InternalProductsContent() {
       </div>
 
       {/* 頁面標題 */}
-      <div>
-        <h1 className="text-4xl font-bold text-gray-900 mb-2">FW27 內部版商品</h1>
-        <p className="text-lg text-gray-600">
-          {selectedCategory
-            ? `${getCategoryLabel(selectedCategory)} - ${filteredProducts.length} 件商品`
-            : `全部商品 - ${products.length} 件`}
-        </p>
+      <div className="flex items-center justify-between">
+        <div>
+          <h1 className="text-4xl font-bold text-gray-900 mb-2">FW27 內部版商品</h1>
+          <p className="text-lg text-gray-600">
+            {selectedCategory
+              ? `${getCategoryLabel(selectedCategory)} - ${filteredProducts.length} 件商品`
+              : `全部商品 - ${products.length} 件`}
+          </p>
+        </div>
+        <Link
+          href="/internal/shopping-list"
+          className="px-6 py-3 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-colors whitespace-nowrap"
+        >
+          📋 查看清單
+        </Link>
       </div>
 
       {/* 搜尋欄 */}
