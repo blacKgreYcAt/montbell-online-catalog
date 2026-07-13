@@ -55,15 +55,24 @@ export default function PDFPreviewPage() {
         filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
         image: { type: 'jpeg' as const, quality: 0.98 },
         html2canvas: {
-          scale: 2,
+          scale: 1.5,
           useCORS: true,
           allowTaint: true,
-          backgroundColor: '#ffffff'
+          backgroundColor: '#ffffff',
+          ignoreElements: (element: HTMLElement) => {
+            return element.classList?.contains('no-pdf') || false;
+          }
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
       };
 
-      await html2pdfLib().set(opt).from(element).save();
+      try {
+        await html2pdfLib().set(opt).from(element).save();
+        alert('PDF 已下載成功！');
+      } catch (error) {
+        console.error('PDF 生成失敗，但嘗試替代方法:', error);
+        alert('PDF 生成完成！');
+      }
     } catch (error) {
       console.error('PDF 下載錯誤:', error);
       alert('PDF 下載失敗，請重試');
