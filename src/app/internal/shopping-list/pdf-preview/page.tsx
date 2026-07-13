@@ -62,44 +62,45 @@ export default function PDFPreviewPage() {
           logging: false,
           removeContainer: true,
           onclone: (clonedDocument: Document) => {
-            // 保留所有 CSS，但修復 style 標籤中的問題顏色函數
-            const styles = clonedDocument.querySelectorAll('style');
-            styles.forEach(style => {
-              if (style.textContent) {
-                // 保留 CSS，只替換不支持的顏色函數
-                let content = style.textContent;
-                // 替換 lab() 為 rgb(0, 0, 0)
-                content = content.replace(/lab\([^)]*\)/g, 'rgb(0, 0, 0)');
-                // 替換 oklch() 為 rgb(0, 0, 0)
-                content = content.replace(/oklch\([^)]*\)/g, 'rgb(0, 0, 0)');
-                // 替換 oklab() 為 rgb(0, 0, 0)
-                content = content.replace(/oklab\([^)]*\)/g, 'rgb(0, 0, 0)');
-                // 替換 color-mix() 為 rgb(0, 0, 0)
-                content = content.replace(/color-mix\([^)]*?\)[^;]*/g, 'rgb(0, 0, 0)');
-                style.textContent = content;
-              }
-            });
+            try {
+              // 移除所有 link 標籤（包含問題顏色的外部 CSS）
+              const links = clonedDocument.querySelectorAll('link');
+              links.forEach(link => link.remove());
 
-            // 強制設置所有元素的可見顏色，確保文本可見
-            const allElements = clonedDocument.querySelectorAll('*');
-            allElements.forEach((el) => {
-              const element = el as HTMLElement;
-              const computed = clonedDocument.defaultView?.getComputedStyle(element);
-              if (computed) {
-                const bgColor = computed.backgroundColor;
-                const textColor = computed.color;
+              // 修復 style 標籤中的問題顏色函數
+              const styles = clonedDocument.querySelectorAll('style');
+              console.log('Found style tags:', styles.length);
 
-                // 如果背景色是白色或透明，保持不變
-                // 如果文本顏色是透明或白色，強制改為黑色
-                if (textColor === 'rgba(0, 0, 0, 0)' || textColor === 'transparent' || !textColor) {
-                  element.style.color = '#000000';
+              styles.forEach(style => {
+                if (style.textContent) {
+                  let content = style.textContent;
+                  const originalLength = content.length;
+
+                  // 替換不支持的顏色函數
+                  content = content.replace(/lab\([^)]*\)/gi, '#000000');
+                  content = content.replace(/oklch\([^)]*\)/gi, '#000000');
+                  content = content.replace(/oklab\([^)]*\)/gi, '#000000');
+                  content = content.replace(/color-mix\([^)]*\)/gi, '#000000');
+
+                  if (originalLength !== content.length) {
+                    console.log('Fixed colors in style tag');
+                  }
+                  style.textContent = content;
                 }
-                // 確保文本顏色不是白色
-                if (textColor === 'rgb(255, 255, 255)' || textColor === 'white') {
-                  element.style.color = '#000000';
-                }
-              }
-            });
+              });
+
+              // 強制所有文本為黑色確保可見
+              const allElements = clonedDocument.querySelectorAll('*');
+              allElements.forEach((el) => {
+                const element = el as HTMLElement;
+                element.style.color = '#000000';
+                element.style.backgroundColor = element.style.backgroundColor || 'transparent';
+              });
+
+              console.log('PDF clone prepared successfully');
+            } catch (error) {
+              console.error('Error in onclone:', error);
+            }
           }
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
