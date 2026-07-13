@@ -47,17 +47,22 @@ export default function PDFPreviewPage() {
     const element = document.getElementById('pdf-content');
     if (!element) return;
 
-    const html2pdf = (await import('html2pdf.js')).default;
+    try {
+      const { default: html2pdfLib } = await import('html2pdf.js');
 
-    const opt = {
-      margin: 10,
-      filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
-      image: { type: 'jpeg' as const, quality: 0.98 },
-      html2canvas: { scale: 2 },
-      jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
-    };
+      const opt = {
+        margin: 10,
+        filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
+        image: { type: 'jpeg' as const, quality: 0.98 },
+        html2canvas: { scale: 2 },
+        jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
+      };
 
-    html2pdf().set(opt).from(element).save();
+      await html2pdfLib().set(opt).from(element).save();
+    } catch (error) {
+      console.error('PDF 下載錯誤:', error);
+      alert('PDF 下載失敗，請重試');
+    }
   };
 
   const handleSendEmail = () => {
