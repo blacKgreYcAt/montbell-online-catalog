@@ -293,7 +293,8 @@
       "Bash(git commit -m 'docs: Add Excel templates for data updates *)",
       "Bash(npm install *)",
       "Bash(npx next *)",
-      "Bash(git commit -m 'fix: Fix PDF download function import and error handling *)"
+      "Bash(git commit -m 'fix: Fix PDF download function import and error handling *)",
+      "Bash(git commit -m 'fix: Use useCallback in CompanyInfoModal handleConfirm *)"
     ]
   }
 }

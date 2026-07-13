@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useCallback } from 'react';
 import { CompanyInfo } from '@/lib/shoppingList';
 
 interface CompanyInfoModalProps {
@@ -17,7 +17,7 @@ export default function CompanyInfoModal({
   const [phone, setPhone] = useState('');
   const [error, setError] = useState('');
 
-  const handleConfirm = () => {
+  const handleConfirm = useCallback(() => {
     if (!companyName.trim()) {
       setError('請輸入公司名稱');
       return;
@@ -28,7 +28,7 @@ export default function CompanyInfoModal({
       contactPerson: contactPerson.trim() || undefined,
       phone: phone.trim() || undefined,
     });
-  };
+  }, [companyName, contactPerson, phone, onConfirm]);
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
