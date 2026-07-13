@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -12,8 +12,7 @@ import {
   saveCompanyInfo,
 } from '@/lib/shoppingList';
 import { ShoppingListItem } from '@/lib/shoppingList';
-import { loadInternalImageMapping, getGoogleDriveImageUrl } from '@/lib/imageUtils';
-import AddToShoppingListButton from '@/components/AddToShoppingListButton';
+import { loadInternalImageMapping } from '@/lib/imageUtils';
 import CompanyInfoModal from '@/components/CompanyInfoModal';
 
 export default function ShoppingListPage() {
@@ -38,23 +37,22 @@ export default function ShoppingListPage() {
     loadData();
   }, []);
 
-  const handleRemoveItem = (productId: string) => {
+  const handleRemoveItem = useCallback((productId: string) => {
     removeFromShoppingList(productId);
-    setItems(items.filter(item => item.id !== productId));
-  };
+    setItems(prev => prev.filter(item => item.id !== productId));
+  }, []);
 
-  const handleClearList = () => {
+  const handleClearList = useCallback(() => {
     if (confirm('確定要清空購物清單嗎？')) {
       clearShoppingList();
       setItems([]);
     }
-  };
+  }, []);
 
-  const handleGeneratePDF = (companyInfo: CompanyInfo) => {
+  const handleGeneratePDF = useCallback((companyInfo: CompanyInfo) => {
     saveCompanyInfo(companyInfo);
-    // 這裡之後會調用 PDF 生成函數
     router.push('/internal/shopping-list/pdf-preview');
-  };
+  }, [router]);
 
   if (loading) {
     return (
@@ -150,6 +148,7 @@ export default function ShoppingListPage() {
 
                     {/* 移除按鈕 */}
                     <button
+                      type="button"
                       onClick={() => handleRemoveItem(item.id)}
                       className="w-full mt-3 px-3 py-2 text-sm bg-red-100 text-red-600 rounded hover:bg-red-200 transition-colors"
                     >
@@ -165,12 +164,14 @@ export default function ShoppingListPage() {
           {/* 操作按鈕 */}
           <div className="flex gap-4">
             <button
+              type="button"
               onClick={() => setShowModal(true)}
               className="flex-1 px-6 py-3 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-colors"
             >
               📊 生成 PDF
             </button>
             <button
+              type="button"
               onClick={handleClearList}
               className="flex-1 px-6 py-3 bg-gray-300 text-gray-900 rounded-lg font-semibold hover:bg-gray-400 transition-colors"
             >
