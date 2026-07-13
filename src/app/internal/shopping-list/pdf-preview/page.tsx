@@ -62,24 +62,17 @@ export default function PDFPreviewPage() {
           logging: false,
           removeContainer: true,
           onclone: (clonedDocument: Document) => {
-            // 移除所有 style 標籤以避免 CSS 解析錯誤
+            // 移除或修復包含不支持的顏色函數的 CSS
             const styles = clonedDocument.querySelectorAll('style');
-            styles.forEach(style => style.remove());
-
-            // 移除所有 link 標籤（CSS檔案）
-            const links = clonedDocument.querySelectorAll('link[rel="stylesheet"]');
-            links.forEach(link => link.remove());
-
-            // 簡化所有元素的樣式
-            const allElements = clonedDocument.querySelectorAll('*');
-            allElements.forEach(el => {
-              const element = el as HTMLElement;
-              // 保留基本佈局但移除複雜的顏色
-              element.style.color = '#000000';
-              element.style.backgroundColor = '';
-              element.style.borderColor = '#cccccc';
-              if (element.style.borderWidth) {
-                element.style.borderWidth = '1px';
+            styles.forEach(style => {
+              if (style.textContent) {
+                // 替換 lab() 顏色函數為基本黑色
+                let content = style.textContent
+                  .replace(/lab\([^)]*\)/g, '#000000')
+                  .replace(/oklch\([^)]*\)/g, '#000000')
+                  .replace(/oklab\([^)]*\)/g, '#000000')
+                  .replace(/color-mix\([^)]*\)/g, '#000000');
+                style.textContent = content;
               }
             });
           }
