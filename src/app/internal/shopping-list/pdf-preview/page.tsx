@@ -54,7 +54,12 @@ export default function PDFPreviewPage() {
         margin: 10,
         filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
         image: { type: 'jpeg' as const, quality: 0.98 },
-        html2canvas: { scale: 2 },
+        html2canvas: {
+          scale: 2,
+          useCORS: true,
+          allowTaint: true,
+          backgroundColor: '#ffffff'
+        },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
       };
 
