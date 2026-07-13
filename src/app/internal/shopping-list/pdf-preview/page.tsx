@@ -62,34 +62,44 @@ export default function PDFPreviewPage() {
           logging: false,
           removeContainer: true,
           onclone: (clonedDocument: Document) => {
-            // 移除所有 link 標籤（外部 CSS）
-            const links = clonedDocument.querySelectorAll('link[rel="stylesheet"]');
-            links.forEach(link => link.remove());
-
-            // 移除所有 style 標籤中包含不支持顏色函數的內容
+            // 保留所有 CSS，但修復 style 標籤中的問題顏色函數
             const styles = clonedDocument.querySelectorAll('style');
             styles.forEach(style => {
-              if (style.textContent && (style.textContent.includes('lab(') || style.textContent.includes('oklch') || style.textContent.includes('color-mix'))) {
-                style.remove();
+              if (style.textContent) {
+                // 保留 CSS，只替換不支持的顏色函數
+                let content = style.textContent;
+                // 替換 lab() 為 rgb(0, 0, 0)
+                content = content.replace(/lab\([^)]*\)/g, 'rgb(0, 0, 0)');
+                // 替換 oklch() 為 rgb(0, 0, 0)
+                content = content.replace(/oklch\([^)]*\)/g, 'rgb(0, 0, 0)');
+                // 替換 oklab() 為 rgb(0, 0, 0)
+                content = content.replace(/oklab\([^)]*\)/g, 'rgb(0, 0, 0)');
+                // 替換 color-mix() 為 rgb(0, 0, 0)
+                content = content.replace(/color-mix\([^)]*?\)[^;]*/g, 'rgb(0, 0, 0)');
+                style.textContent = content;
               }
             });
 
-            // 注入基本 CSS 以保持佈局
-            const basicStyle = clonedDocument.createElement('style');
-            basicStyle.textContent = `
-              * { margin: 0; padding: 0; box-sizing: border-box; }
-              body { font-family: Arial, sans-serif; color: #000; background: #fff; }
-              .grid { display: grid; gap: 1rem; }
-              .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
-              .border { border: 1px solid #ccc; }
-              .rounded { border-radius: 0.5rem; }
-              .p-4 { padding: 1rem; }
-              .h-20 { height: 5rem; }
-              .bg-gray-100 { background: #f3f4f6; }
-              img { max-width: 100%; height: auto; }
-              .line-clamp-2 { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-            `;
-            clonedDocument.head.appendChild(basicStyle);
+            // 強制設置所有元素的可見顏色，確保文本可見
+            const allElements = clonedDocument.querySelectorAll('*');
+            allElements.forEach((el) => {
+              const element = el as HTMLElement;
+              const computed = clonedDocument.defaultView?.getComputedStyle(element);
+              if (computed) {
+                const bgColor = computed.backgroundColor;
+                const textColor = computed.color;
+
+                // 如果背景色是白色或透明，保持不變
+                // 如果文本顏色是透明或白色，強制改為黑色
+                if (textColor === 'rgba(0, 0, 0, 0)' || textColor === 'transparent' || !textColor) {
+                  element.style.color = '#000000';
+                }
+                // 確保文本顏色不是白色
+                if (textColor === 'rgb(255, 255, 255)' || textColor === 'white') {
+                  element.style.color = '#000000';
+                }
+              }
+            });
           }
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
