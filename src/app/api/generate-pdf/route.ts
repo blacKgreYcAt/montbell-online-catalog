@@ -1,6 +1,15 @@
 import { NextRequest, NextResponse } from 'next/server';
-import puppeteer from 'puppeteer-core';
 import chromium from '@sparticuz/chromium';
+
+let puppeteer: any;
+
+// Try to load full puppeteer first (for local development)
+// Fall back to puppeteer-core (for Vercel)
+try {
+  puppeteer = require('puppeteer');
+} catch (e) {
+  puppeteer = require('puppeteer-core');
+}
 
 export const runtime = 'nodejs';
 
@@ -18,15 +27,23 @@ export async function POST(request: NextRequest) {
     let browser;
 
     try {
-      // 使用 @sparticuz/chromium 在本地和 Vercel 都能工作
-      const executablePath = await chromium.executablePath();
-
-      browser = await puppeteer.launch({
-        args: chromium.args,
-        defaultViewport: chromium.defaultViewport,
-        executablePath: executablePath || undefined,
-        headless: chromium.headless,
-      });
+      // 本地開發：使用完整 puppeteer（包含 Chromium）
+      // Vercel：使用 puppeteer-core + @sparticuz/chromium
+      if (process.env.VERCEL) {
+        const executablePath = await chromium.executablePath();
+        browser = await puppeteer.launch({
+          args: chromium.args,
+          defaultViewport: chromium.defaultViewport,
+          executablePath: executablePath,
+          headless: chromium.headless,
+        });
+      } else {
+        // 本地開發：讓 puppeteer 自動找到已安裝的 Chromium
+        browser = await puppeteer.launch({
+          headless: true,
+          args: ['--no-sandbox'],
+        });
+      }
 
       const page = await browser.newPage();
 
