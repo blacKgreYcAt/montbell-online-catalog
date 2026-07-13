@@ -58,23 +58,25 @@ export default function PDFPreviewPage() {
           scale: 1.5,
           useCORS: true,
           allowTaint: true,
-          backgroundColor: '#ffffff',
-          ignoreElements: (element: HTMLElement) => {
-            return element.classList?.contains('no-pdf') || false;
-          }
+          backgroundColor: '#ffffff'
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
       };
 
-      try {
-        await html2pdfLib().set(opt).from(element).save();
-        alert('PDF 已下載成功！');
-      } catch (error) {
-        console.error('PDF 生成失敗，但嘗試替代方法:', error);
-        alert('PDF 生成完成！');
-      }
+      // html2pdf 返回一個 promise chain
+      html2pdfLib()
+        .set(opt)
+        .from(element)
+        .save()
+        .then(() => {
+          console.log('PDF 下載開始');
+        })
+        .catch((error: Error) => {
+          console.error('PDF 生成錯誤:', error);
+          alert('PDF 生成失敗：' + error.message);
+        });
     } catch (error) {
-      console.error('PDF 下載錯誤:', error);
+      console.error('PDF 導入錯誤:', error);
       alert('PDF 下載失敗，請重試');
     }
   };
