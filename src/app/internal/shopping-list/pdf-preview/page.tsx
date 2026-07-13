@@ -53,12 +53,36 @@ export default function PDFPreviewPage() {
       const opt = {
         margin: 10,
         filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
-        image: { type: 'jpeg' as const, quality: 0.98 },
+        image: { type: 'jpeg' as const, quality: 0.95 },
         html2canvas: {
-          scale: 1.5,
+          scale: 1.2,
           useCORS: true,
           allowTaint: true,
-          backgroundColor: '#ffffff'
+          backgroundColor: '#ffffff',
+          logging: false,
+          removeContainer: true,
+          onclone: (clonedDocument: Document) => {
+            // 移除所有 style 標籤以避免 CSS 解析錯誤
+            const styles = clonedDocument.querySelectorAll('style');
+            styles.forEach(style => style.remove());
+
+            // 移除所有 link 標籤（CSS檔案）
+            const links = clonedDocument.querySelectorAll('link[rel="stylesheet"]');
+            links.forEach(link => link.remove());
+
+            // 簡化所有元素的樣式
+            const allElements = clonedDocument.querySelectorAll('*');
+            allElements.forEach(el => {
+              const element = el as HTMLElement;
+              // 保留基本佈局但移除複雜的顏色
+              element.style.color = '#000000';
+              element.style.backgroundColor = '';
+              element.style.borderColor = '#cccccc';
+              if (element.style.borderWidth) {
+                element.style.borderWidth = '1px';
+              }
+            });
+          }
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
       };
@@ -69,11 +93,19 @@ export default function PDFPreviewPage() {
         .from(element)
         .save()
         .then(() => {
-          console.log('PDF 下載開始');
+          console.log('PDF 下載成功');
+          alert('PDF 已下載完成！');
         })
         .catch((error: Error) => {
-          console.error('PDF 生成錯誤:', error);
-          alert('PDF 生成失敗：' + error.message);
+          console.error('PDF 生成錯誤，但仍嘗試下載:', error);
+          // 即使出錯也嘗試保存
+          html2pdfLib()
+            .set(opt)
+            .from(element)
+            .save()
+            .catch(() => {
+              alert('PDF 生成失敗，請稍後重試');
+            });
         });
     } catch (error) {
       console.error('PDF 導入錯誤:', error);
