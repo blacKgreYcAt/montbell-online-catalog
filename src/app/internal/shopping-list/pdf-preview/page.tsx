@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import html2pdf from 'html2pdf.js';
 import {
   getShoppingList,
   getCompanyInfo,
@@ -44,9 +43,11 @@ export default function PDFPreviewPage() {
     loadData();
   }, [router]);
 
-  const handleDownloadPDF = () => {
+  const handleDownloadPDF = async () => {
     const element = document.getElementById('pdf-content');
     if (!element) return;
+
+    const html2pdf = (await import('html2pdf.js')).default;
 
     const opt = {
       margin: 10,
@@ -221,7 +222,7 @@ ${itemList}
       {/* 操作按鈕 */}
       <div className="flex gap-4">
         <button
-          onClick={handleDownloadPDF}
+          onClick={() => handleDownloadPDF()}
           className="flex-1 px-6 py-3 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-colors"
         >
           📥 下載 PDF
