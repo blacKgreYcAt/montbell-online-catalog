@@ -18,21 +18,15 @@ export async function POST(request: NextRequest) {
     let browser;
 
     try {
-      if (process.env.VERCEL) {
-        // Vercel 環境：使用輕量級 Chromium
-        browser = await puppeteer.launch({
-          args: chromium.args,
-          defaultViewport: chromium.defaultViewport,
-          executablePath: await chromium.executablePath(),
-          headless: chromium.headless,
-        });
-      } else {
-        // 本地開發環境
-        browser = await puppeteer.launch({
-          headless: true,
-          args: ['--no-sandbox', '--disable-setuid-sandbox'],
-        });
-      }
+      // 使用 @sparticuz/chromium 在本地和 Vercel 都能工作
+      const executablePath = await chromium.executablePath();
+
+      browser = await puppeteer.launch({
+        args: chromium.args,
+        defaultViewport: chromium.defaultViewport,
+        executablePath: executablePath || undefined,
+        headless: chromium.headless,
+      });
 
       const page = await browser.newPage();
 
