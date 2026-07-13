@@ -50,6 +50,72 @@ export default function PDFPreviewPage() {
     try {
       const { default: html2pdfLib } = await import('html2pdf.js');
 
+      // 克隆元素並預處理
+      const clonedElement = element.cloneNode(true) as HTMLElement;
+
+      // 創建臨時容器
+      const tempContainer = document.createElement('div');
+      tempContainer.appendChild(clonedElement);
+      document.body.appendChild(tempContainer);
+
+      // 移除克隆中的所有 style 和 link 標籤
+      const styles = tempContainer.querySelectorAll('style, link');
+      styles.forEach(style => style.remove());
+
+      // 添加簡單的 CSS 以保持基本佈局和可見性
+      const simpleStyle = document.createElement('style');
+      simpleStyle.textContent = `
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        body, div, p, span, h1, h2, h3, h4, h5, h6 {
+          color: #000000 !important;
+          background-color: transparent !important;
+        }
+        .grid {
+          display: grid;
+          gap: 1rem;
+        }
+        .grid-cols-3 {
+          grid-template-columns: repeat(3, 1fr);
+        }
+        .border {
+          border: 1px solid #cccccc;
+        }
+        .rounded {
+          border-radius: 0.5rem;
+        }
+        .p-3, .p-4, .p-8 {
+          padding: 1rem;
+        }
+        .h-20 {
+          height: 5rem;
+        }
+        .bg-gray-100 {
+          background-color: #f3f4f6 !important;
+        }
+        .bg-white {
+          background-color: #ffffff !important;
+        }
+        img {
+          max-width: 100%;
+          height: auto;
+          display: block;
+        }
+        .line-clamp-2 {
+          overflow: hidden;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
+        .border-b-2 {
+          border-bottom: 2px solid #cccccc;
+        }
+      `;
+      tempContainer.insertBefore(simpleStyle, tempContainer.firstChild);
+
       const opt = {
         margin: 10,
         filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
@@ -60,48 +126,7 @@ export default function PDFPreviewPage() {
           allowTaint: true,
           backgroundColor: '#ffffff',
           logging: false,
-          removeContainer: true,
-          onclone: (clonedDocument: Document) => {
-            try {
-              // 移除所有 link 標籤（包含問題顏色的外部 CSS）
-              const links = clonedDocument.querySelectorAll('link');
-              links.forEach(link => link.remove());
-
-              // 修復 style 標籤中的問題顏色函數
-              const styles = clonedDocument.querySelectorAll('style');
-              console.log('Found style tags:', styles.length);
-
-              styles.forEach(style => {
-                if (style.textContent) {
-                  let content = style.textContent;
-                  const originalLength = content.length;
-
-                  // 替換不支持的顏色函數
-                  content = content.replace(/lab\([^)]*\)/gi, '#000000');
-                  content = content.replace(/oklch\([^)]*\)/gi, '#000000');
-                  content = content.replace(/oklab\([^)]*\)/gi, '#000000');
-                  content = content.replace(/color-mix\([^)]*\)/gi, '#000000');
-
-                  if (originalLength !== content.length) {
-                    console.log('Fixed colors in style tag');
-                  }
-                  style.textContent = content;
-                }
-              });
-
-              // 強制所有文本為黑色確保可見
-              const allElements = clonedDocument.querySelectorAll('*');
-              allElements.forEach((el) => {
-                const element = el as HTMLElement;
-                element.style.color = '#000000';
-                element.style.backgroundColor = element.style.backgroundColor || 'transparent';
-              });
-
-              console.log('PDF clone prepared successfully');
-            } catch (error) {
-              console.error('Error in onclone:', error);
-            }
-          }
+          removeContainer: false
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
       };
@@ -109,22 +134,21 @@ export default function PDFPreviewPage() {
       // html2pdf 返回一個 promise chain
       html2pdfLib()
         .set(opt)
-        .from(element)
+        .from(clonedElement)
         .save()
         .then(() => {
           console.log('PDF 下載成功');
+          // 清理臨時容器
+          document.body.removeChild(tempContainer);
           alert('PDF 已下載完成！');
         })
         .catch((error: Error) => {
-          console.error('PDF 生成錯誤，但仍嘗試下載:', error);
-          // 即使出錯也嘗試保存
-          html2pdfLib()
-            .set(opt)
-            .from(element)
-            .save()
-            .catch(() => {
-              alert('PDF 生成失敗，請稍後重試');
-            });
+          console.error('PDF 生成錯誤:', error);
+          // 清理臨時容器
+          if (tempContainer.parentNode) {
+            document.body.removeChild(tempContainer);
+          }
+          alert('PDF 生成失敗：' + error.message);
         });
     } catch (error) {
       console.error('PDF 導入錯誤:', error);
