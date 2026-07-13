@@ -297,7 +297,8 @@
       "Bash(git commit -m 'fix: Use useCallback in CompanyInfoModal handleConfirm *)",
       "Bash(git commit -m 'fix: Add html2canvas configuration for better CSS compatibility *)",
       "Bash(git commit -m 'fix: Improve PDF generation with better error handling *)",
-      "Bash(git commit -m 'fix: Fix PDF download to properly trigger browser download dialog *)"
+      "Bash(git commit -m 'fix: Fix PDF download to properly trigger browser download dialog *)",
+      "Bash(npm list *)"
     ]
   }
 }

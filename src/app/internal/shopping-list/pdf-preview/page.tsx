@@ -48,71 +48,51 @@ export default function PDFPreviewPage() {
     if (!element) return;
 
     try {
-      const { default: html2pdfLib } = await import('html2pdf.js');
+      console.log('開始生成 PDF...');
 
-      // 克隆並強制應用安全的內聯樣式
-      const clonedElement = element.cloneNode(true) as HTMLElement;
-      const tempContainer = document.createElement('div');
-      tempContainer.style.position = 'fixed';
-      tempContainer.style.left = '-9999px';
-      tempContainer.appendChild(clonedElement);
-      document.body.appendChild(tempContainer);
+      // 獲取 HTML 內容
+      const htmlContent = element.outerHTML;
+      const filename = `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}`;
 
-      // 移除所有 style 和 link 標籤以避免 CSS 解析錯誤
-      const styles = tempContainer.querySelectorAll('style, link, script');
-      styles.forEach(el => el.remove());
-
-      // 應用內聯樣式到所有元素，覆蓋計算樣式
-      const allElements = tempContainer.querySelectorAll('*');
-      allElements.forEach(el => {
-        const elem = el as HTMLElement;
-        const computed = window.getComputedStyle(el);
-
-        // 設置基本的可見樣式
-        elem.style.display = computed.display;
-        elem.style.width = computed.width;
-        elem.style.height = computed.height;
-        elem.style.padding = computed.padding;
-        elem.style.margin = computed.margin;
-        elem.style.border = computed.border;
-        elem.style.color = '#000000';
-        elem.style.backgroundColor = 'transparent';
-        elem.style.fontSize = computed.fontSize;
-        elem.style.fontWeight = computed.fontWeight;
+      // 發送到伺服器 API
+      const response = await fetch('/api/generate-pdf', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          htmlContent,
+          filename,
+        }),
       });
 
-      const opt = {
-        margin: 10,
-        filename: `Montbell_${companyInfo?.name || 'ShoppingList'}_${new Date().toISOString().split('T')[0]}.pdf`,
-        image: { type: 'jpeg' as const, quality: 0.95 },
-        html2canvas: {
-          scale: 1.2,
-          useCORS: true,
-          allowTaint: true,
-          backgroundColor: '#ffffff',
-          logging: false
-        },
-        jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
-      };
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(error.error || 'PDF 生成失敗');
+      }
 
-      // html2pdf 返回一個 promise chain
-      html2pdfLib()
-        .set(opt)
-        .from(clonedElement)
-        .save()
-        .then(() => {
-          console.log('PDF 下載成功');
-          if (tempContainer.parentNode) document.body.removeChild(tempContainer);
-          alert('PDF 已下載完成！');
-        })
-        .catch((error: Error) => {
-          console.error('PDF 生成錯誤:', error);
-          if (tempContainer.parentNode) document.body.removeChild(tempContainer);
-          alert('PDF 生成失敗，請檢查內容');
-        });
+      console.log('PDF 生成成功，準備下載...');
+
+      // 獲取 PDF Blob
+      const blob = await response.blob();
+
+      // 觸發下載
+      const url = window.URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `${filename}.pdf`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+
+      console.log('PDF 下載完成');
+      alert('PDF 已下載完成！');
     } catch (error) {
-      console.error('PDF 導入錯誤:', error);
-      alert('PDF 下載失敗，請重試');
+      console.error('PDF 下載失敗:', error);
+      alert(
+        `PDF 下載失敗：${error instanceof Error ? error.message : '未知錯誤'}`
+      );
     }
   };
 
