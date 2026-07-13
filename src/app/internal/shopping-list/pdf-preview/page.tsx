@@ -50,71 +50,36 @@ export default function PDFPreviewPage() {
     try {
       const { default: html2pdfLib } = await import('html2pdf.js');
 
-      // 克隆元素並預處理
+      // 克隆並強制應用安全的內聯樣式
       const clonedElement = element.cloneNode(true) as HTMLElement;
-
-      // 創建臨時容器
       const tempContainer = document.createElement('div');
+      tempContainer.style.position = 'fixed';
+      tempContainer.style.left = '-9999px';
       tempContainer.appendChild(clonedElement);
       document.body.appendChild(tempContainer);
 
-      // 移除克隆中的所有 style 和 link 標籤
-      const styles = tempContainer.querySelectorAll('style, link');
-      styles.forEach(style => style.remove());
+      // 移除所有 style 和 link 標籤以避免 CSS 解析錯誤
+      const styles = tempContainer.querySelectorAll('style, link, script');
+      styles.forEach(el => el.remove());
 
-      // 添加簡單的 CSS 以保持基本佈局和可見性
-      const simpleStyle = document.createElement('style');
-      simpleStyle.textContent = `
-        * {
-          margin: 0;
-          padding: 0;
-          box-sizing: border-box;
-        }
-        body, div, p, span, h1, h2, h3, h4, h5, h6 {
-          color: #000000 !important;
-          background-color: transparent !important;
-        }
-        .grid {
-          display: grid;
-          gap: 1rem;
-        }
-        .grid-cols-3 {
-          grid-template-columns: repeat(3, 1fr);
-        }
-        .border {
-          border: 1px solid #cccccc;
-        }
-        .rounded {
-          border-radius: 0.5rem;
-        }
-        .p-3, .p-4, .p-8 {
-          padding: 1rem;
-        }
-        .h-20 {
-          height: 5rem;
-        }
-        .bg-gray-100 {
-          background-color: #f3f4f6 !important;
-        }
-        .bg-white {
-          background-color: #ffffff !important;
-        }
-        img {
-          max-width: 100%;
-          height: auto;
-          display: block;
-        }
-        .line-clamp-2 {
-          overflow: hidden;
-          display: -webkit-box;
-          -webkit-line-clamp: 2;
-          -webkit-box-orient: vertical;
-        }
-        .border-b-2 {
-          border-bottom: 2px solid #cccccc;
-        }
-      `;
-      tempContainer.insertBefore(simpleStyle, tempContainer.firstChild);
+      // 應用內聯樣式到所有元素，覆蓋計算樣式
+      const allElements = tempContainer.querySelectorAll('*');
+      allElements.forEach(el => {
+        const elem = el as HTMLElement;
+        const computed = window.getComputedStyle(el);
+
+        // 設置基本的可見樣式
+        elem.style.display = computed.display;
+        elem.style.width = computed.width;
+        elem.style.height = computed.height;
+        elem.style.padding = computed.padding;
+        elem.style.margin = computed.margin;
+        elem.style.border = computed.border;
+        elem.style.color = '#000000';
+        elem.style.backgroundColor = 'transparent';
+        elem.style.fontSize = computed.fontSize;
+        elem.style.fontWeight = computed.fontWeight;
+      });
 
       const opt = {
         margin: 10,
@@ -125,8 +90,7 @@ export default function PDFPreviewPage() {
           useCORS: true,
           allowTaint: true,
           backgroundColor: '#ffffff',
-          logging: false,
-          removeContainer: false
+          logging: false
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
       };
@@ -138,17 +102,13 @@ export default function PDFPreviewPage() {
         .save()
         .then(() => {
           console.log('PDF 下載成功');
-          // 清理臨時容器
-          document.body.removeChild(tempContainer);
+          if (tempContainer.parentNode) document.body.removeChild(tempContainer);
           alert('PDF 已下載完成！');
         })
         .catch((error: Error) => {
           console.error('PDF 生成錯誤:', error);
-          // 清理臨時容器
-          if (tempContainer.parentNode) {
-            document.body.removeChild(tempContainer);
-          }
-          alert('PDF 生成失敗：' + error.message);
+          if (tempContainer.parentNode) document.body.removeChild(tempContainer);
+          alert('PDF 生成失敗，請檢查內容');
         });
     } catch (error) {
       console.error('PDF 導入錯誤:', error);
