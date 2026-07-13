@@ -62,19 +62,34 @@ export default function PDFPreviewPage() {
           logging: false,
           removeContainer: true,
           onclone: (clonedDocument: Document) => {
-            // 移除或修復包含不支持的顏色函數的 CSS
+            // 移除所有 link 標籤（外部 CSS）
+            const links = clonedDocument.querySelectorAll('link[rel="stylesheet"]');
+            links.forEach(link => link.remove());
+
+            // 移除所有 style 標籤中包含不支持顏色函數的內容
             const styles = clonedDocument.querySelectorAll('style');
             styles.forEach(style => {
-              if (style.textContent) {
-                // 替換 lab() 顏色函數為基本黑色
-                let content = style.textContent
-                  .replace(/lab\([^)]*\)/g, '#000000')
-                  .replace(/oklch\([^)]*\)/g, '#000000')
-                  .replace(/oklab\([^)]*\)/g, '#000000')
-                  .replace(/color-mix\([^)]*\)/g, '#000000');
-                style.textContent = content;
+              if (style.textContent && (style.textContent.includes('lab(') || style.textContent.includes('oklch') || style.textContent.includes('color-mix'))) {
+                style.remove();
               }
             });
+
+            // 注入基本 CSS 以保持佈局
+            const basicStyle = clonedDocument.createElement('style');
+            basicStyle.textContent = `
+              * { margin: 0; padding: 0; box-sizing: border-box; }
+              body { font-family: Arial, sans-serif; color: #000; background: #fff; }
+              .grid { display: grid; gap: 1rem; }
+              .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+              .border { border: 1px solid #ccc; }
+              .rounded { border-radius: 0.5rem; }
+              .p-4 { padding: 1rem; }
+              .h-20 { height: 5rem; }
+              .bg-gray-100 { background: #f3f4f6; }
+              img { max-width: 100%; height: auto; }
+              .line-clamp-2 { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+            `;
+            clonedDocument.head.appendChild(basicStyle);
           }
         },
         jsPDF: { orientation: 'landscape' as const, unit: 'mm' as const, format: 'a4' }
