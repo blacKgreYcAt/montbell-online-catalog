@@ -227,7 +227,7 @@ ${itemList}
                         src={imageUrl}
                         alt={item.name}
                         fill
-                        className="object-cover"
+                        className="object-contain"
                         sizes="100px"
                       />
                     ) : (

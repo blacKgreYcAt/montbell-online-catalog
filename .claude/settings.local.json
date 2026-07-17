@@ -298,7 +298,27 @@
       "Bash(git commit -m 'fix: Add html2canvas configuration for better CSS compatibility *)",
       "Bash(git commit -m 'fix: Improve PDF generation with better error handling *)",
       "Bash(git commit -m 'fix: Fix PDF download to properly trigger browser download dialog *)",
-      "Bash(npm list *)"
+      "Bash(npm list *)",
+      "Bash(curl -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{\"htmlContent\":\"<p>Test</p>\",\"filename\":\"test\"}')",
+      "Bash(curl -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{\"htmlContent\":\"<h1>測試</h1><p>PDF 生成測試</p>\",\"filename\":\"test\"}')",
+      "Bash(timeout 30 curl -s -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{\"htmlContent\":\"<h1>測試</h1>\",\"filename\":\"test\"}')",
+      "Bash(timeout 40 curl -s -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{ *)",
+      "Bash(node /c/Users/imaus/AppData/Local/Temp/claude/montbell-ppt-generator.js)",
+      "Bash(node montbell-ppt-generator.js)",
+      "Bash(python /c/Users/imaus/AppData/Local/Temp/claude/create_ppt.py)",
+      "Bash(cp /tmp/Montbell_progress.pptx \"/c/Users/imaus/Downloads/Montbell_進度報告.pptx\")",
+      "Read(//c/Users/imaus/Downloads/**)",
+      "Bash(find ~ -name \"*Montbell*progress*\" -type f 2>/dev/null || ls -la *.pptx 2>/dev/null || echo \"Checking current dir...\" && pwd)",
+      "Bash(python /c/Users/imaus/AppData/Local/Temp/claude/create_simple_ppt.py)",
+      "mcp__claude-in-chrome__tabs_context_mcp",
+      "mcp__claude-in-chrome__browser_batch",
+      "Bash(curl -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{ *)",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{ *)",
+      "Bash(pdftotext /tmp/montbell-test.pdf -)",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{\"htmlContent\": \"\"}' -w '\\\\nHTTP Status: %{http_code}\\\\n')",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{\"htmlContent\": \"<html><body>Test</body></html>\"}' -w '\\\\nHTTP Status: %{http_code}\\\\n' -I)",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate-pdf -H 'Content-Type: application/json' -d '{\"htmlContent\": \"<html><body>Test without filename</body></html>\"}' -o /tmp/default-filename.pdf -w '\\\\nHTTP Status: %{http_code}\\\\nContent-Type: %{content_type}\\\\n')",
+      "Bash(pdftotext /tmp/image-scaling-test.pdf -)"
     ]
   }
 }
